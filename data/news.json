@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:22:59Z",
+  "updated": "2026-10-10T21:47:54Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "471813b73f2a",
+      "title": "2 Fixed Income Solutions for Navigating Bond Instability",
+      "source": "ETF Database",
+      "date": "2026-10-09T20:38:28Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE1sT2taWUJXMDF4bnFWZ1drM2VHdElSSVBlOUhkNjVHMDEwN3czV0xQUXBOcFNHZjV1a0lwcUhHOXk3VjRTTGVhMXRXYk02bTl4R3RLN2U5RXVvaHNuc3JTdF9RSGJ6OFN3VFl4ZUh4Q2ZUM3ZPYlBmaEdhclNzbU96YXpDa182S1ZCUWVn?oc=5",
+      "isNew": false
+    },
     {
       "id": "4af4f1fb19cb",
       "title": "SageSure Makes Strategic Investment in Leading Insurance-Linked Securities Fund Manager Pillar Capital Management",
@@ -295,16 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSVYwbXBOcXcxR1NobG8wU09CNjFSaFZEOGhnQW9YS0dhSHRjMmZCSHNfdnJIdHhuLUh2M0dmMFMySTM2bTYzQjZ2V3FleXdFdnUydXU0bjBpaGxRZG9DYlhLYjVYeVpNcGF6aGhLU1VEQlFQVUx4Nm1wMU9FTnBsd296YVdURWRFWVE4TDhLMVdaa0VybWxUUU1XbTZmLUJwWVp4TjgzaFlLbWhtZzZ1OTZYckhqQXUxQVBBSm54MlVWOGM4cl9EejJXemZlU08yN1E4M3pOX01BQQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "3b80b3a9e1b4",
-      "title": "Insurance Lenders Embrace Risk In CRE Loans",
-      "source": "Bisnow",
-      "date": "2026-10-04T20:32:08Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3FxbmgwaE5kc2c0Y0Fhb0dUaHpUSWN2ZmR5LU5QOHJIM3p4SWZRNlhwMFdSVC1YamxBemxpcW5JZC1LN0dhWUhCZEdxTWdpb2NTQS1qLXdZSUs5QnQ2dmdjVW1FSUMySTlyaDNwMDFBaTNwUU5qdTF2TDZxVm53M25jT092UTN1RHA2SnlJd0ZtWjRTZVMyVTZiQ2RQa09wSUVkdC1TVzdFZEV6VHJUQ3E4Zk5mUHpT?oc=5",
       "isNew": false
     }
   ]

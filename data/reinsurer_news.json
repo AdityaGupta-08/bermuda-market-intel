@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:23:02Z",
+  "updated": "2026-10-10T21:47:58Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
@@ -125,12 +125,12 @@
       ]
     },
     {
-      "id": "d5e388dfd066",
-      "title": "Reinsurance Group of America, Incorporated $RGA Shares Sold by Douglas Lane & Associates LLC",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnI1UVRLQWdOV1otQUJ4dnR3VVJMUXczQzNGaF9LQmQ5NTJUYjk5djY1WlhCYURucGFmRi1wVGhnSzhKRlRNOXUwRmpRNTZ5RllEeC0ySnNvM2hubGt3ekVRR0twVm5Ra3Z0RkxOeEFhckY5V3d4cXNHNHM5Zk55RWVsR2tLZFYzNjdIY3JETVNpZDZEQlNfVEFDRkdhWjNYV21mYm1naWJaRVFYdGhrQ1dQcWRVWTFRb1hySUlEcmNZY0t3ekJxUHRBekdBZnZYNlc0RWIzM3FTa24wWDdNZ2F1OA?oc=5",
-      "source": "MarketBeat",
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-09T17:23:22Z",
+      "date": "2026-10-09T21:09:51Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -142,19 +142,19 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
       "source": "Yahoo Finance Australia",
       "feed": "Google News: RGA",
-      "date": "2026-10-09T17:17:43Z",
+      "date": "2026-10-09T20:54:02Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
+      "id": "d5e388dfd066",
+      "title": "Reinsurance Group of America, Incorporated $RGA Shares Sold by Douglas Lane & Associates LLC",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnI1UVRLQWdOV1otQUJ4dnR3VVJMUXczQzNGaF9LQmQ5NTJUYjk5djY1WlhCYURucGFmRi1wVGhnSzhKRlRNOXUwRmpRNTZ5RllEeC0ySnNvM2hubGt3ekVRR0twVm5Ra3Z0RkxOeEFhckY5V3d4cXNHNHM5Zk55RWVsR2tLZFYzNjdIY3JETVNpZDZEQlNfVEFDRkdhWjNYV21mYm1naWJaRVFYdGhrQ1dQcWRVWTFRb1hySUlEcmNZY0t3ekJxUHRBekdBZnZYNlc0RWIzM3FTa24wWDdNZ2F1OA?oc=5",
+      "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-10-09T16:14:18Z",
+      "date": "2026-10-09T17:23:22Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -305,18 +305,6 @@
       ]
     },
     {
-      "id": "5f29c68ac747",
-      "title": "Reinsurance Group of America: Medical And Rate Tailwinds Carry Further Upside (Upgrade)",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUR4aHF3YUF2QnFrQXBEVTl2WEFGRnB2OXkyWU12bXBaYUozSUtMM3I2aTZaRnZsci12ZXhkY0dTbTVJM1lubG9SbDBVSnl6LU9JUmtsd3VvVXVpNGcwVktJc2drSVRqcVF5Q2VOcXQyQmR6TWx5VkdsOGRrS2EtM29iSmpzNEk3dmZtSHZqc3V2YlJLTWhYU19XNkZ6ZjFVdFFXZUd6Z1NOTzBwbzZqQ2FQdHM2SUtiWlREYUJfdGp4SFk?oc=5",
-      "source": "Seeking Alpha",
-      "feed": "Google News: RGA",
-      "date": "2026-10-03T03:38:48Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "79f7286605e7",
       "title": "Reinsurance Group of America (RGA) Stock Looks Close to Fair Value",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcTNWWTFKME5FZEVHckpKZWplWERVUVdoa0V4cmpFXzVmWXl3Z09UYVZ4YUxIZVdEcWlFXy11cXJ0VXJIbms3b1hiYTZ1ekh3bGR1YnAxcnZ3ZzJXUmFPd0g2Tmltb0xoMWdDMTc4QU0wNXdyZVVxcEJMQ3dkM2tnLUZoUk8ybDVRbHBBTkJmbEhmY1JUR3dvOG9Tc3o5QkpBeWpVMnc1b1hBMHZoRGFXYTR6ZlhfcWY1NTgxR2hENDNzN0ZYaFRObkJCZXlZWm1tOWczWk90N1RlSlJzb3fSAeMBQVVfeXFMTlBxakpkVHZwWUp2REFaMTFyX0FtOElrZXFMYXoxMEdqSmozaGM0c2MxSlMtem45a3JSd20ycWNHdTBzQUo5VVg0aF9QbWpLeEFCblVHVGt6RERWY3Q4X1NKdDZZa1ZNNjNMclNqbnE3dHVlRHhoQmxraXJLdzZlNDlwSktIUW1xaExnT3JFT2dfejFfRWxmelF6RjM0ZHZhRXpBaENtRlBFaXB2ejduNnIyR21rN2tJbWtiUXBVTUVkaWxfZGdJUmxyU3kwQlp2VENpUmwwMEpiSEtKLXhmbmJQZEE?oc=5",
@@ -398,6 +386,18 @@
       "summary": "",
       "companies": [
         "Fortitude Re"
+      ]
+    },
+    {
+      "id": "5f29c68ac747",
+      "title": "Reinsurance Group of America: Medical And Rate Tailwinds Carry Further Upside (Upgrade)",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUR4aHF3YUF2QnFrQXBEVTl2WEFGRnB2OXkyWU12bXBaYUozSUtMM3I2aTZaRnZsci12ZXhkY0dTbTVJM1lubG9SbDBVSnl6LU9JUmtsd3VvVXVpNGcwVktJc2drSVRqcVF5Q2VOcXQyQmR6TWx5VkdsOGRrS2EtM29iSmpzNEk3dmZtSHZqc3V2YlJLTWhYU19XNkZ6ZjFVdFFXZUd6Z1NOTzBwbzZqQ2FQdHM2SUtiWlREYUJfdGp4SFk?oc=5",
+      "source": "Seeking Alpha",
+      "feed": "Google News: RGA",
+      "date": "2026-10-02T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {

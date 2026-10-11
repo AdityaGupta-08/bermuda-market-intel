@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:53:36Z",
+  "updated": "2026-10-11T19:36:03Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "9e22a9cb2646",
+      "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
+      "source": "WSJ",
+      "date": "2026-10-11T09:30:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3JyY05BTFdaaUVtQlJmc1A2RG56ZUNseXNLblJmVG5xTmZaOHNxUnhxbGJROUVacWx0SkFGT2NiaXU3dEUzOEVKdVNXWU5FejVYQnNRT2tab09QWDd3Y1NJWEFRbG5BVlEwQnNYWUR2cFVlLWJEUENHTzkxRjVNQUhYem0?oc=5",
+      "isNew": false
+    },
     {
       "id": "471813b73f2a",
       "title": "2 Fixed Income Solutions for Navigating Bond Instability",
@@ -295,16 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1ZuQm9YVmIzUFBhNzJUV2lBQkdyemNDM0ZCN2RPMnRsa1pkaUNsSWVXTHpNVWlQZU5YQTBSdWdtWGQ3Ry1HUDRDRExkUmg3ckxqbXFnOGdiR010a19KTC16d1Q3TDBGbVRrX25HVHVQOU5XVnhOV2VjNGFrN2lJY05nc0o?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "1cad0fc61f48",
-      "title": "Regulators Say Private Equity Firm Loaded Atlantic Coast With Private Credit",
-      "source": "Forbes",
-      "date": "2026-10-04T20:38:06Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSVYwbXBOcXcxR1NobG8wU09CNjFSaFZEOGhnQW9YS0dhSHRjMmZCSHNfdnJIdHhuLUh2M0dmMFMySTM2bTYzQjZ2V3FleXdFdnUydXU0bjBpaGxRZG9DYlhLYjVYeVpNcGF6aGhLU1VEQlFQVUx4Nm1wMU9FTnBsd296YVdURWRFWVE4TDhLMVdaa0VybWxUUU1XbTZmLUJwWVp4TjgzaFlLbWhtZzZ1OTZYckhqQXUxQVBBSm54MlVWOGM4cl9EejJXemZlU08yN1E4M3pOX01BQQ?oc=5",
       "isNew": false
     }
   ]

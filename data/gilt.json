@@ -20,10 +20,10 @@
     4.95,
     5.0,
     5.23,
-    5.42,
-    5.665,
+    5.45,
+    5.68,
     5.91,
-    5.94
+    5.95
   ],
   "prior_yields": [
     4.57,
@@ -42,10 +42,10 @@
     4.913,
     4.953,
     5.163,
-    5.396,
+    5.403,
     null,
     5.881,
-    5.921
+    5.931
   ],
   "prior_1m_date": "",
   "prior_3m_yields": [
@@ -66,10 +66,10 @@
     3.978,
     4.119,
     4.268,
-    4.671,
+    4.678,
     null,
     5.368,
-    5.479
+    5.489
   ],
   "year_ago_date": "",
   "derived": {
@@ -84,5 +84,5 @@
   "cached": [],
   "held": {},
   "note": "Official BoE daily archive first; then market scrapes; then local history / cache.",
-  "_fetched": "2026-10-11T12:51:41.107341Z"
+  "_fetched": "2026-10-11T19:33:54.187058Z"
 }

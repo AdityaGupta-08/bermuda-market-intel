@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T21:47:58Z",
+  "updated": "2026-10-11T05:50:02Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -130,7 +130,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
       "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-09T21:09:51Z",
+      "date": "2026-10-10T05:44:31Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -329,18 +329,6 @@
       ]
     },
     {
-      "id": "ddfba5477534",
-      "title": "Will Reinsurance Group (RGA) Beat Estimates Again in Its Next Earnings Report?",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUVIUGR4cXpLZEkwa3FKZlR0a293clBKVjhFREozWXp4NmR3RGRMVTFodUFNWDdEUnd2Z0RNTm1fOVUwdnN2NXVBX1k4RVFvWi1pNG5WWkpKMnBXcGVtYkZ3RzZHQ2JSR0ZoaFlwb2NpV1JaRUZBN0tIVHpJX3lvNU1YSnk4U1pKaFkzc1RWNW9paWJkSzJaS0Z0T0FmekVBRVFB?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-02T15:10:04Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "1bf7d91dd1ba",
       "title": "Fortitude Re parent acquires Dayforward annuity insurtech platform",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZVeElENk94UGE3RlhnbC11N1ZqUVAzZy1objVFZWpqdlo3WndnVWd0bkY3Z3dBdGxkNVFnUml2T3E4OXdhMTU3R3c0T3kyNWpDUmRrb3RHOHNQNURqb0lLT09XQS1EUkVUcTFISlNvdzc3NzZJU3pZQjNiMVFQZW9B?oc=5",
@@ -386,6 +374,18 @@
       "summary": "",
       "companies": [
         "Fortitude Re"
+      ]
+    },
+    {
+      "id": "ddfba5477534",
+      "title": "Will Reinsurance Group (RGA) Beat Estimates Again in Its Next Earnings Report?",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUVIUGR4cXpLZEkwa3FKZlR0a293clBKVjhFREozWXp4NmR3RGRMVTFodUFNWDdEUnd2Z0RNTm1fOVUwdnN2NXVBX1k4RVFvWi1pNG5WWkpKMnBXcGVtYkZ3RzZHQ2JSR0ZoaFlwb2NpV1JaRUZBN0tIVHpJX3lvNU1YSnk4U1pKaFkzc1RWNW9paWJkSzJaS0Z0T0FmekVBRVFB?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-10-02T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {

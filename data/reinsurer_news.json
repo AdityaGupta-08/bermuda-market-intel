@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T05:50:02Z",
+  "updated": "2026-10-11T12:53:39Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 21,
+      "count": 22,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
@@ -113,12 +113,12 @@
   ],
   "items": [
     {
-      "id": "4ba3313daf33",
-      "title": "Is Earnings Beat Streak Altering The Investment Case For RGA Stock?",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjNBUHBvTjJxUXB2QlE4Si1FRk8zb19jXzVGSmdiNGVRaDlEaGZOdUd1NUJCUENSV1R5Zzk2bnRuUWczXzlpRElBbFc0TkkwNVMwaXNLUFJCMVVLY1NTZnhPQTlZVUhnNWhaMHQxMms2b0pwQ1diSXpLbnRZb3h3NjZoeng3UXEtZFdqbG1ieDdMOUN0aGpSVW9Ia09CcjJpOHFoSDlwWGZ1NW1OSGV0STJWVXpsUHRpdGEyTDNzSE00SVlvbDdnd0hrMTU1WU9RZWxldjVFbDBFcS1mWWfSAeMBQVVfeXFMTXpweVRKWGIyMWRaYkllUGJGQllBX01kWGFRLU9PRzQxbUtkZW9PTnZ4bFBhelZjUDlERnRvMFJQa3NzZ29LVjhlYm05V21WVEJPX0JlQng4VmdvSF9xMUNPQ0ttQ2RRMjJxbjNTczdueWY1LTh3V25BbW5yV01VbTduRTl0MUlUVzRmZ0lQZ2RtV2RrVXE5TmRHZTNMS2pyd2Q0bEpkN1U2MkduSURTbDMwLU1xQk94UDBJdXhjOURrOTMweHdRRWtOOUZnUmNzNXJwTkd0TERmbjFWOGhuZWtuUXM?oc=5",
+      "id": "2e29ba6aaaa7",
+      "title": "Reinsurance Group Of America Could Be 8% Undervalued After Four Straight Earnings Beats",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVG5rN2RUQmV5ZmYtaUVuRVhlU01KREEwQ0dBZG5KRU9EV1NyQTRYV1hIZEhZMVlUdlBRQWFYY0tNV3hZaFhrYklrQkdITUZwZkF4cU9aZVJJdmZsUGR1VGFBblVpN2h1blBhdlR6WTVLYmhzcDdmWXBLeUExYTlJZnp6ZHJ0cmh6NE91dXFkM3VyaUpDbk9GNWZYRjU0WS1QNWx0Q0NmelZoSWZveWhfSkFYbkVtekRpRmZBZWZDTHBqbEZaUjRscmJnSk1jM0lIeDlMRDl5NDV4Tlk3U0HSAeMBQVVfeXFMTzYwQWo4alVoVE9ScFZPUEtKaW5FeUk5OGF6RmRCSnZtSUl1T2NBWVRfUHdoYk1kWUJHamV1V2NHYWtpMFlSM3pNR2h4QWFGSkhhc0c5ZnVvVV9XSHhOWi1zUWdDV25fM1RLLWdtdjN4eE1CZjFsRERtUE55RzlyNU5sSDVEeExlUHFHRWRaYVp3U3ZLSzV0TFFOQlZoTHhWbDFfMnFGdFRwZDNicXh1eXEybTJTSU9hT3AxRmQyRjZNeHN3dFh1UE9ZXzFPMzBCQ01VU3dWQUhWcU8wazFJbE45bVk?oc=5",
       "source": "Simply Wall Street",
       "feed": "Google News: RGA",
-      "date": "2026-10-10T10:59:04Z",
+      "date": "2026-10-11T12:33:25Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -130,7 +130,19 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
       "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-10T05:44:31Z",
+      "date": "2026-10-10T11:57:58Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "4ba3313daf33",
+      "title": "Is Earnings Beat Streak Altering The Investment Case For RGA Stock?",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjNBUHBvTjJxUXB2QlE4Si1FRk8zb19jXzVGSmdiNGVRaDlEaGZOdUd1NUJCUENSV1R5Zzk2bnRuUWczXzlpRElBbFc0TkkwNVMwaXNLUFJCMVVLY1NTZnhPQTlZVUhnNWhaMHQxMms2b0pwQ1diSXpLbnRZb3h3NjZoeng3UXEtZFdqbG1ieDdMOUN0aGpSVW9Ia09CcjJpOHFoSDlwWGZ1NW1OSGV0STJWVXpsUHRpdGEyTDNzSE00SVlvbDdnd0hrMTU1WU9RZWxldjVFbDBFcS1mWWfSAeMBQVVfeXFMTXpweVRKWGIyMWRaYkllUGJGQllBX01kWGFRLU9PRzQxbUtkZW9PTnZ4bFBhelZjUDlERnRvMFJQa3NzZ29LVjhlYm05V21WVEJPX0JlQng4VmdvSF9xMUNPQ0ttQ2RRMjJxbjNTczdueWY1LTh3V25BbW5yV01VbTduRTl0MUlUVzRmZ0lQZ2RtV2RrVXE5TmRHZTNMS2pyd2Q0bEpkN1U2MkduSURTbDMwLU1xQk94UDBJdXhjOURrOTMweHdRRWtOOUZnUmNzNXJwTkd0TERmbjFWOGhuZWtuUXM?oc=5",
+      "source": "Simply Wall Street",
+      "feed": "Google News: RGA",
+      "date": "2026-10-10T10:59:04Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -530,6 +542,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "7622ca42c2b8",
+      "title": "Why Sagicor Financial Co. Ltd. (SFC) Saw a Big Gap Between Net Income and Core Earnings",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1pfVm9PYjFiSFdXVWxkM3I4U2F5YnVjUGNKNUZ0S24wV3o1bVZkWERycnhEMFIzYTFzbGZhSFVFbjJmbWMxQlRfTEJWTmhYTmxMMDh0anBYNDY1dXdGeFV5cy0tTi1TRjgzM1c5UmhDWFNEZmVrdU0tVmFFRDRVWlZkRDgxS1pNMmFFM2FMVUwydWdvUjVCV2daZHZnMGM2V0c5dm1USlVSZ3FaZmJIVXBvbklJRWpUbzE3Uw?oc=5",
+      "source": "kalkine.ca",
+      "feed": "Google News: Sagicor",
+      "date": "2026-09-28T15:25:00Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
       ]
     },
     {

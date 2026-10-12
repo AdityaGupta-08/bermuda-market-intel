@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:36:03Z",
+  "updated": "2026-10-12T00:35:01Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "c7f0f8be1345",
+      "title": "ILS NYC 2027 - Insurance linked securities conference in New York from Artemis",
+      "source": "Artemis.bm",
+      "date": "2026-10-11T19:24:43Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jR3pRRTYtY3hYUWJsQ1hPbXM2NzE5QUFod2V4RUx2N1JOblFLTlFmWTZYSjZ0V01Fd3BfWmhwcDJZemo5cVdQOVZoNkY?oc=5",
+      "isNew": false
+    },
     {
       "id": "9e22a9cb2646",
       "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
@@ -295,16 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wbjgyYzRxNVIwa3kxNlZSTjVaYzUzckdrRGxnMUx4dzR2eFpCaDYyRmdRNkVYZVZpMmNfaFV6cE5OZXdER0JmTVlsNV9fY01YaXZDWkM1Ums1VzNENzBCN2FIbTY?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "6c330dfb4732",
-      "title": "The Changing Story Behind Higher Bond Yields",
-      "source": "Capital Economics",
-      "date": "2026-10-05T11:49:16Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1ZuQm9YVmIzUFBhNzJUV2lBQkdyemNDM0ZCN2RPMnRsa1pkaUNsSWVXTHpNVWlQZU5YQTBSdWdtWGQ3Ry1HUDRDRExkUmg3ckxqbXFnOGdiR010a19KTC16d1Q3TDBGbVRrX25HVHVQOU5XVnhOV2VjNGFrN2lJY05nc0o?oc=5",
       "isNew": false
     }
   ]

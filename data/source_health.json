@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T00:35:05.956203Z",
+  "updated": "2026-10-12T10:53:43.635336Z",
   "summary": {
     "active": 17,
     "fallback": 0,
@@ -9,8 +9,8 @@
     {
       "source": "Artemis.bm",
       "feeds": "Bermuda reinsurer news monitor",
-      "last_attempt": "2026-10-12T00:35:05.952095Z",
-      "last_success": "2026-10-12T00:35:05.952095Z",
+      "last_attempt": "2026-10-12T10:53:43.631222Z",
+      "last_success": "2026-10-12T10:53:43.631222Z",
       "fallback": null,
       "note": "10 items",
       "status": "active"
@@ -18,7 +18,7 @@
     {
       "source": "Bank of England",
       "feeds": "GBP gilt curve",
-      "last_attempt": "2026-10-12T00:33:01.442249Z",
+      "last_attempt": "2026-10-12T10:51:11.069150Z",
       "last_success": null,
       "fallback": "Investing/TE scrape",
       "note": null,
@@ -27,8 +27,8 @@
     {
       "source": "BIS (CPI)",
       "feeds": "JP / UK / IN inflation fallback",
-      "last_attempt": "2026-10-12T00:34:33.326088Z",
-      "last_success": "2026-10-12T00:34:33.326088Z",
+      "last_attempt": "2026-10-12T10:53:06.120173Z",
+      "last_success": "2026-10-12T10:53:06.120173Z",
       "fallback": null,
       "note": null,
       "status": "active"
@@ -36,7 +36,7 @@
     {
       "source": "BMA",
       "feeds": "EBS discount rates",
-      "last_attempt": "2026-10-12T00:34:21.435902Z",
+      "last_attempt": "2026-10-12T10:52:52.001785Z",
       "last_success": "2026-08-04T19:58:15.923077Z",
       "fallback": null,
       "note": "latest quarter 2026-03-31; expected 2026-06-30",
@@ -45,8 +45,8 @@
     {
       "source": "BMA updates",
       "feeds": "BMA regulatory publications",
-      "last_attempt": "2026-10-12T00:35:03.420412Z",
-      "last_success": "2026-10-12T00:35:03.420412Z",
+      "last_attempt": "2026-10-12T10:53:40.184023Z",
+      "last_success": "2026-10-12T10:53:40.184023Z",
       "fallback": null,
       "note": "25 items",
       "status": "active"
@@ -54,8 +54,8 @@
     {
       "source": "Cayman updates",
       "feeds": "Cayman regulatory publications",
-      "last_attempt": "2026-10-12T00:35:04.099935Z",
-      "last_success": "2026-10-12T00:35:04.099935Z",
+      "last_attempt": "2026-10-12T10:53:41.106876Z",
+      "last_success": "2026-10-12T10:53:41.106876Z",
       "fallback": null,
       "note": "15 items",
       "status": "active"
@@ -63,8 +63,8 @@
     {
       "source": "ECB SDW",
       "feeds": "EUR AAA govt curve",
-      "last_attempt": "2026-10-12T00:33:15.032621Z",
-      "last_success": "2026-10-12T00:33:15.032621Z",
+      "last_attempt": "2026-10-12T10:51:30.584565Z",
+      "last_success": "2026-10-12T10:51:30.584565Z",
       "fallback": null,
       "note": null,
       "status": "active"
@@ -72,7 +72,7 @@
     {
       "source": "FBIL",
       "feeds": "India G-Sec curve",
-      "last_attempt": "2026-10-12T00:33:15.969576Z",
+      "last_attempt": "2026-10-12T10:51:31.823894Z",
       "last_success": null,
       "fallback": "Investing/TE/FRED",
       "note": null,
@@ -81,8 +81,8 @@
     {
       "source": "FiscalData Treasury",
       "feeds": "USA WAM (MSPD)",
-      "last_attempt": "2026-10-12T00:34:55.970253Z",
-      "last_success": "2026-10-12T00:34:55.970253Z",
+      "last_attempt": "2026-10-12T10:53:29.667430Z",
+      "last_success": "2026-10-12T10:53:29.667430Z",
       "fallback": null,
       "note": null,
       "status": "active"
@@ -90,8 +90,8 @@
     {
       "source": "FRED",
       "feeds": "rates / spreads / FX reference data; credit spreads (ICE BofA OAS)",
-      "last_attempt": "2026-10-12T00:34:51.218347Z",
-      "last_success": "2026-10-12T00:34:51.218347Z",
+      "last_attempt": "2026-10-12T10:53:24.936644Z",
+      "last_success": "2026-10-12T10:53:24.936644Z",
       "fallback": null,
       "note": "9/9 series returned data; credit status=ok",
       "status": "active"
@@ -99,8 +99,8 @@
     {
       "source": "Google News (market)",
       "feeds": "market & insurance news feed",
-      "last_attempt": "2026-10-12T00:35:01.661280Z",
-      "last_success": "2026-10-12T00:35:01.661280Z",
+      "last_attempt": "2026-10-12T10:53:37.486963Z",
+      "last_success": "2026-10-12T10:53:37.486963Z",
       "fallback": null,
       "note": "4/4 topic feeds returned data",
       "status": "active"
@@ -108,16 +108,16 @@
     {
       "source": "Google News (reinsurers)",
       "feeds": "Bermuda reinsurer news monitor",
-      "last_attempt": "2026-10-12T00:35:05.952104Z",
-      "last_success": "2026-10-12T00:35:05.952104Z",
+      "last_attempt": "2026-10-12T10:53:43.631230Z",
+      "last_success": "2026-10-12T10:53:43.631230Z",
       "fallback": null,
-      "note": "68 items",
+      "note": "66 items",
       "status": "active"
     },
     {
       "source": "Investing.com",
       "feeds": "yield scrapes",
-      "last_attempt": "2026-10-12T00:33:16.132506Z",
+      "last_attempt": "2026-10-12T10:51:32.122662Z",
       "last_success": "2026-07-04T22:14:31.652579Z",
       "fallback": null,
       "note": null,
@@ -126,8 +126,8 @@
     {
       "source": "MOF Japan",
       "feeds": "JGB curve",
-      "last_attempt": "2026-10-12T00:32:57.580948Z",
-      "last_success": "2026-10-12T00:32:57.580948Z",
+      "last_attempt": "2026-10-12T10:51:07.975283Z",
+      "last_success": "2026-10-12T10:51:07.975283Z",
       "fallback": null,
       "note": null,
       "status": "active"
@@ -135,7 +135,7 @@
     {
       "source": "MOF Japan (WAM)",
       "feeds": "JGB weighted avg maturity",
-      "last_attempt": "2026-10-12T00:34:58.389669Z",
+      "last_attempt": "2026-10-12T10:53:32.666977Z",
       "last_success": null,
       "fallback": "cache",
       "note": null,
@@ -144,8 +144,8 @@
     {
       "source": "NAIC updates",
       "feeds": "NAIC regulatory publications",
-      "last_attempt": "2026-10-12T00:35:02.713267Z",
-      "last_success": "2026-10-12T00:35:02.713267Z",
+      "last_attempt": "2026-10-12T10:53:39.001527Z",
+      "last_success": "2026-10-12T10:53:39.001527Z",
       "fallback": null,
       "note": "25 items",
       "status": "active"
@@ -153,7 +153,7 @@
     {
       "source": "NSE",
       "feeds": "USD/INR forwards",
-      "last_attempt": "2026-10-12T00:34:28.024401Z",
+      "last_attempt": "2026-10-12T10:52:59.940474Z",
       "last_success": null,
       "fallback": "Investing forwards / Yahoo futures",
       "note": null,
@@ -162,8 +162,8 @@
     {
       "source": "NY Fed",
       "feeds": "SOFR rates",
-      "last_attempt": "2026-10-12T00:33:26.725350Z",
-      "last_success": "2026-10-12T00:33:26.725350Z",
+      "last_attempt": "2026-10-12T10:51:41.903182Z",
+      "last_success": "2026-10-12T10:51:41.903182Z",
       "fallback": null,
       "note": null,
       "status": "active"
@@ -171,8 +171,8 @@
     {
       "source": "OECD (CPI)",
       "feeds": "JP / UK / IN inflation",
-      "last_attempt": "2026-10-12T00:34:33.999141Z",
-      "last_success": "2026-10-12T00:34:33.999141Z",
+      "last_attempt": "2026-10-12T10:53:07.139134Z",
+      "last_success": "2026-10-12T10:53:07.139134Z",
       "fallback": null,
       "note": null,
       "status": "active"
@@ -180,7 +180,7 @@
     {
       "source": "OECD (WAM)",
       "feeds": "Germany weighted avg maturity (EUR proxy)",
-      "last_attempt": "2026-10-12T00:34:58.389686Z",
+      "last_attempt": "2026-10-12T10:53:32.666988Z",
       "last_success": null,
       "fallback": "cache",
       "note": null,
@@ -189,8 +189,8 @@
     {
       "source": "Reinsurance News",
       "feeds": "Bermuda reinsurer news monitor",
-      "last_attempt": "2026-10-12T00:35:05.952107Z",
-      "last_success": "2026-10-12T00:35:05.952107Z",
+      "last_attempt": "2026-10-12T10:53:43.631232Z",
+      "last_success": "2026-10-12T10:53:43.631232Z",
       "fallback": null,
       "note": "10 items",
       "status": "active"
@@ -198,7 +198,7 @@
     {
       "source": "Stan The Annuity Man",
       "feeds": "MYGA new-money spreads by rating",
-      "last_attempt": "2026-10-12T00:34:43.375898Z",
+      "last_attempt": "2026-10-12T10:53:17.193823Z",
       "last_success": "2026-07-28T09:08:21.222144Z",
       "fallback": "cache",
       "note": "no quotes parsed \u2014 page shape changed or content is client-rendered",
@@ -207,8 +207,8 @@
     {
       "source": "TradingEconomics",
       "feeds": "bond yield tables; Gold spot",
-      "last_attempt": "2026-10-12T00:34:21.723988Z",
-      "last_success": "2026-10-12T00:34:21.723988Z",
+      "last_attempt": "2026-10-12T10:52:52.550638Z",
+      "last_success": "2026-10-12T10:52:52.550638Z",
       "fallback": null,
       "note": null,
       "status": "active"
@@ -216,7 +216,7 @@
     {
       "source": "UK DMO (WAM)",
       "feeds": "gilt weighted avg maturity",
-      "last_attempt": "2026-10-12T00:34:58.389682Z",
+      "last_attempt": "2026-10-12T10:53:32.666986Z",
       "last_success": null,
       "fallback": "cache",
       "note": null,
@@ -225,8 +225,8 @@
     {
       "source": "US Treasury",
       "feeds": "UST curve",
-      "last_attempt": "2026-10-12T00:32:56.303471Z",
-      "last_success": "2026-10-12T00:32:56.303471Z",
+      "last_attempt": "2026-10-12T10:51:06.501958Z",
+      "last_success": "2026-10-12T10:51:06.501958Z",
       "fallback": null,
       "note": null,
       "status": "active"
@@ -234,8 +234,8 @@
     {
       "source": "Yahoo Finance",
       "feeds": "futures / spot prices",
-      "last_attempt": "2026-10-12T00:34:27.061869Z",
-      "last_success": "2026-10-12T00:34:26.111184Z",
+      "last_attempt": "2026-10-12T10:52:59.335608Z",
+      "last_success": "2026-10-12T10:52:57.898033Z",
       "fallback": null,
       "note": null,
       "status": "active"

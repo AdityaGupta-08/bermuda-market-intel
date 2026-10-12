@@ -1,18 +1,17 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 38 items
-Generated Mon 12 Oct 2026, 07:53 ADT
+Bermuda life & annuity watchlist — last 14 days — 31 items
+Generated Mon 12 Oct 2026, 18:19 ADT
 
 ## Feed status
 
 - ✅ **Artemis.bm** — 10 items
-- ✅ **Google News (16 of 16 companies)** — 66 items
+- ✅ **Google News (16 of 16 companies)** — 62 items
 - ✅ **Reinsurance News** — 10 items
 
 ## Athene
 
 - **2026-10-06** — Stock Titan — [Athene Hldg (ATH) Stock Price, News & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5)
-- **2026-09-28** — Royal Gazette | Bermuda — [Five students awarded full scholarships from Athene](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVdkclEwZHItSTVwb2VXVjNwQzZ1R2xWSlZXSWYtWTg5RWFJNnZIWTZoWmVQOU0yOERJNEU3SlVJTEJKMzVlNnJhV3VpV0lNczJ5Ylp2SmNDdElPdlZ0X29IZThDNWg2YkctYXhqdERfRHJfSzhON0VwOHlvel9iVDBSTTE4S1B2N24taXI3bjVxRkFSRFVnblk3OHBVOFNLQlVqN01Yckp3RzNPLXJBSldiZkVFMVRYVlRj?oc=5)
 
 ## Global Atlantic
 
@@ -29,14 +28,9 @@ Generated Mon 12 Oct 2026, 07:53 ADT
 - **2026-10-02** — Beinsure — [Fortitude Re parent acquires Dayforward annuity insurtech platform](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZVeElENk94UGE3RlhnbC11N1ZqUVAzZy1objVFZWpqdlo3WndnVWd0bkY3Z3dBdGxkNVFnUml2T3E4OXdhMTU3R3c0T3kyNWpDUmRrb3RHOHNQNURqb0lLT09XQS1EUkVUcTFISlNvdzc3NzZJU3pZQjNiMVFQZW9B?oc=5)
 - **2026-10-02** — Beinsure — [Fortitude Re parent acquires insurtech Dayforward annuity technology platform](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZVeElENk94UGE3RlhnbC11N1ZqUVAzZy1objVFZWpqdlo3WndnVWd0bkY3Z3dBdGxkNVFnUml2T3E4OXdhMTU3R3c0T3kyNWpDUmRrb3RHOHNQNURqb0lLT09XQS1EUkVUcTFISlNvdzc3NzZJU3pZQjNiMVFQZW9B?oc=5)
 - **2026-10-02** — Bermuda Re — [Fortitude Re expands insurtech capabilities with Dayforward buy, Fortitude Life launch](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVY0aU4tNWJ5LWlGV2E4SGlIY0ZCWEJET1dueG9XMGQzUHcxNHRVcW05WmdoN0lUcnZIRkpwU3FaMHd1V2xySzR6WXRTenRnUjNfTWFHSmMycUVfallwOHVkS2VXYVVnT200dnp2d095MnA1TzJ5bE02d2pLa1JOLVBRaGpSellYR2RvMkM1ZWxoWXoxX3lTOUhrRXVQUm8zeUM3aG00SkppYjhQZ0c2ZlBpckZ6elZhdEtYcnlQRUNqSVZjQmhv?oc=5)
+- **2026-09-29** — Bernews — [Fortitude Re Acquires Dayforward Assets](https://news.google.com/rss/articles/CBMid0FVX3lxTE1TamE1c0IySGlLTTd5dkdSZklERExTdDUzX2hyQVpueXlGLVVqeFBOd2wwSDhNQ0t6dTFqOGlid1JiRVVTTEJsYl83TWp6MUFtUXFhcGxIUUhwanRGZUNXdmhjeDVydXJFNDZwOV9mUmExYWRVd2l3?oc=5)
 - **2026-09-29** — Insurance Business — [Fortitude Re buys Dayforward to build its own annuity origination platform](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUzVjdjV1cTl2ajRJMjNxTmRjaTVJSV8weXJjRHQ3NmVOVHFUM0ZrUlExSFlEUFZZV3VfbFNOdUpzclBrZ0wyNXg5NzgzZXFISzc3cm9LdU1LXzI3YWpLQVdFSkFrTXl5d1J3b0xHWmc3TjgwRTdfM1o4d1ZwTncwYmRlZlpFWlluaWFteHFCSTBJQUh5dE4xcU0tV1d2UWJldUh0WEdZeHRNbTA0T203RjMwd0doakRZODNSYnZHSjN4b25ZcW80a2ZPcktieGswVDZmOVM5YjExOHJwRlZVV1dJYjRqSmV6ZkE?oc=5)
 - **2026-09-29** — Insurance Business — [Fortitude Re acquires insurtech to build its own annuity pipeline](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTBGeGF4VlhtRWhJbDZZWEZXYXVVT2REcmVqNENCcExQRlR5SFdkNFQ4WFFJeGNieC1HU2s4TjhMN0x3M0Z4OVRuYlBUWDVUWmxENGVVRnJ5T3RBUXpsWXhvRk4yVm1PeFBWbGY1djI5YzU3anJCb1N2NDY2TVNkc2lpZGROTDRMOHMwbm02NUx1ejlPWnRkLXB5cnQxLTJibVBWd0s3T3lMTFRTUW1UcklyVzRlYmxoTzBmR3hhM0RiN0dPNWkzMmtzQW9PY0w1QVlWa3VtbU5wVmlIN0E?oc=5)
-- **2026-09-28** — Royal Gazette | Bermuda — [Fortitude Re acquires insurtech Dayforward](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMF83bmU2Z280OXdIcDY0a0c1eERxTmU5S3dwd1JaUU9lTk9kV002bng2NzFPUnpDOGozNTBQVHpXOUpIUkZpN3B3S3R4YXE3dzJuNXVpZ3U1bDVWSVA3UklDOXNjWnNjaTVaQWtjRld6cm5jQXcwdUlJUlRXQmFKMWZSQmh5eE9RcjNZOHhCMzlOcjZSQnIxVzczQkstWDY0WTVlM0JWQWpHWmZZbmh3?oc=5)
-- **2026-09-28** — Intelligent Insurer — [Fortitude Re expands insurtech capabilities with annuity platform buy](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjgtV1pJSEVkVm1jUXVEbEhWODg4bV84MlB0a1BnWFZqbEN0bHc2dFZkdkxPRWQzMEhieWhrTXVkeWJwU01sZnlWWHNoeVhwZ3oxLURVVGJZTmN0OFgzUFo3N3hpcnZVUmdTVHdnbzFqbl9ZVjdQUTZySDU5TUozTlltS3FISjJpWDJUelVRS1F3bENRQVIyXzh5NmZTOWI1SDdlWkRlWQ?oc=5)
-- **2026-09-28** — Reinsurance News — [Fortitude Re advances long-term strategy with Dayforward acquisition](https://www.reinsurancene.ws/fortitude-re-advances-long-term-strategy-with-dayforward-acquisition/)
-  - Fortitude Re, formed by FGH Parent, L.P. and its subsidiaries, has acquired nearly all the assets of Dayforward, a digitally native insurance technology company, through a newly formed entity that will be renamed Fortitude Life. The transaction includes Dayforward’s technology platform, distribution agreements, intellectual property, licensed insurance agency and its team, but excludes the firm’s 
-- **2026-09-28** — Coverager — [Fortitude Re acquires Dayforward](https://news.google.com/rss/articles/CBMiZkFVX3lxTE96U2NFQm9GM0VHOUdtSkd2Nm94MEliM2RGZXdMVHRCRW9NOXh1aTU3Ulk5eVV5WWlxay10RmJmYzBwMWR1ZVNuZC05Y1FfTFMyakluM0dBcmhZSUVwR2lhVW82dmZDUQ?oc=5)
-- **2026-09-28** — Dealroom — [Fortitude Re buys Dayforward to power annuity push](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHdkSzd1YUNZT09KUWlQWWtVLUs5OWxnVXBCNEY2Z3ZJcWxhaTVfNVpZUGhYUDdXY2Z6THpXVElHNUpfZGtmTmg3cUJQb2g5emcydExZTWR5ZjNFRUVPVGpXb0xTQi0xTzRma0luNVM4TVBtWnh0aEJVdzJEVndPR2hNTzNYQ0F1MEo3NA?oc=5)
 
 ## Prismic Re
 
@@ -55,13 +49,13 @@ Generated Mon 12 Oct 2026, 07:53 ADT
 ## Venerable
 
 - **2026-10-06** — Beinsure — [Venerable Annuity platform to add $4.5 bn of Guardian assets](https://news.google.com/rss/articles/CBMijwFBVV95cUxPT09Nem9QcGxaQ1o1Y19WMkpNaFVxWGhhZXFiMmJRVUo3YmJZM09XNEZ0SEtTWUstdWUwWXBCWTYzYVZUWWNHdUhiMmJPMnNPNXkwNFpoUXY1YmtiNTAwZXQtTzVYaVVDbWdiVDcyeHVPRV9pS2NwaFFUa0JSd1lCVm5YRTV2YU5XTHA2TXJ5cw?oc=5)
-- **2026-09-28** — Vanguard Law Magazine — [Kristina Magolis – Venerable Investment Advisers](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVFGY3NBZjFOT1FScXJCTTVWQUQ4MkQ2aW5SblJPWDFYSVBOSnpSbjlnX1FnZ1l1V2dRY0tWcFV0RTlXd2VyTEN1eFJhQWVENFBQdW1ZTllWOVNIemlRVVg1ZEc3a0g5WWllbjg1UFl0T19zcEs1MEd3QU9TOEVhRUMtU0NCTmY0bzZibDFRR0d2bkR1eXc?oc=5)
 
 ## RGA
 
+- **2026-10-12** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Given New $292.00 Price Target at Wells Fargo & Company](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFBDSjdNemtxWmg3Z0tjamxmUk04X21UTU0xZVNYbHVhdGlVbHk3R1FkVlhQeWRHQ0ppMXAyOTgtNTJqa3g3bkxIWmJ0UmhVOTFiZUMwSWU5NEI0R21wb3JlTGk0bjcxWlNFUXYtZDNJQUQ5MHJOUXV1MkFxaWhlNWdrZExBdm9uSUJSZ0kzREJfNHF0WWJCM0NNSDRnbEdycEZOaVRGVURQRnU3QWJQdzJUbjhQQkhncXFqVHVCZ0lrNEJ1NzRfZ2JzLXNDbXBSWGRPNnViU3N6bnNoZ3hDYVZaYU56QQ?oc=5)
 - **2026-10-11** — Simply Wall Street — [Reinsurance Group Of America Could Be 8% Undervalued After Four Straight Earnings Beats](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVG5rN2RUQmV5ZmYtaUVuRVhlU01KREEwQ0dBZG5KRU9EV1NyQTRYV1hIZEhZMVlUdlBRQWFYY0tNV3hZaFhrYklrQkdITUZwZkF4cU9aZVJJdmZsUGR1VGFBblVpN2h1blBhdlR6WTVLYmhzcDdmWXBLeUExYTlJZnp6ZHJ0cmh6NE91dXFkM3VyaUpDbk9GNWZYRjU0WS1QNWx0Q0NmelZoSWZveWhfSkFYbkVtekRpRmZBZWZDTHBqbEZaUjRscmJnSk1jM0lIeDlMRDl5NDV4Tlk3U0HSAeMBQVVfeXFMTzYwQWo4alVoVE9ScFZPUEtKaW5FeUk5OGF6RmRCSnZtSUl1T2NBWVRfUHdoYk1kWUJHamV1V2NHYWtpMFlSM3pNR2h4QWFGSkhhc0c5ZnVvVV9XSHhOWi1zUWdDV25fM1RLLWdtdjN4eE1CZjFsRERtUE55RzlyNU5sSDVEeExlUHFHRWRaYVp3U3ZLSzV0TFFOQlZoTHhWbDFfMnFGdFRwZDNicXh1eXEybTJTSU9hT3AxRmQyRjZNeHN3dFh1UE9ZXzFPMzBCQ01VU3dWQUhWcU8wazFJbE45bVk?oc=5)
-- **2026-10-10** — Simply Wall Street — [Is Earnings Beat Streak Altering The Investment Case For RGA Stock?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjNBUHBvTjJxUXB2QlE4Si1FRk8zb19jXzVGSmdiNGVRaDlEaGZOdUd1NUJCUENSV1R5Zzk2bnRuUWczXzlpRElBbFc0TkkwNVMwaXNLUFJCMVVLY1NTZnhPQTlZVUhnNWhaMHQxMms2b0pwQ1diSXpLbnRZb3h3NjZoeng3UXEtZFdqbG1ieDdMOUN0aGpSVW9Ia09CcjJpOHFoSDlwWGZ1NW1OSGV0STJWVXpsUHRpdGEyTDNzSE00SVlvbDdnd0hrMTU1WU9RZWxldjVFbDBFcS1mWWfSAeMBQVVfeXFMTXpweVRKWGIyMWRaYkllUGJGQllBX01kWGFRLU9PRzQxbUtkZW9PTnZ4bFBhelZjUDlERnRvMFJQa3NzZ29LVjhlYm05V21WVEJPX0JlQng4VmdvSF9xMUNPQ0ttQ2RRMjJxbjNTczdueWY1LTh3V25BbW5yV01VbTduRTl0MUlUVzRmZ0lQZ2RtV2RrVXE5TmRHZTNMS2pyd2Q0bEpkN1U2MkduSURTbDMwLU1xQk94UDBJdXhjOURrOTMweHdRRWtOOUZnUmNzNXJwTkd0TERmbjFWOGhuZWtuUXM?oc=5)
 - **2026-10-10** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
+- **2026-10-10** — Simply Wall Street — [Is Earnings Beat Streak Altering The Investment Case For RGA Stock?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjNBUHBvTjJxUXB2QlE4Si1FRk8zb19jXzVGSmdiNGVRaDlEaGZOdUd1NUJCUENSV1R5Zzk2bnRuUWczXzlpRElBbFc0TkkwNVMwaXNLUFJCMVVLY1NTZnhPQTlZVUhnNWhaMHQxMms2b0pwQ1diSXpLbnRZb3h3NjZoeng3UXEtZFdqbG1ieDdMOUN0aGpSVW9Ia09CcjJpOHFoSDlwWGZ1NW1OSGV0STJWVXpsUHRpdGEyTDNzSE00SVlvbDdnd0hrMTU1WU9RZWxldjVFbDBFcS1mWWfSAeMBQVVfeXFMTXpweVRKWGIyMWRaYkllUGJGQllBX01kWGFRLU9PRzQxbUtkZW9PTnZ4bFBhelZjUDlERnRvMFJQa3NzZ29LVjhlYm05V21WVEJPX0JlQng4VmdvSF9xMUNPQ0ttQ2RRMjJxbjNTczdueWY1LTh3V25BbW5yV01VbTduRTl0MUlUVzRmZ0lQZ2RtV2RrVXE5TmRHZTNMS2pyd2Q0bEpkN1U2MkduSURTbDMwLU1xQk94UDBJdXhjOURrOTMweHdRRWtOOUZnUmNzNXJwTkd0TERmbjFWOGhuZWtuUXM?oc=5)
 - **2026-10-09** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
 - **2026-10-09** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Sold by Douglas Lane & Associates LLC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnI1UVRLQWdOV1otQUJ4dnR3VVJMUXczQzNGaF9LQmQ5NTJUYjk5djY1WlhCYURucGFmRi1wVGhnSzhKRlRNOXUwRmpRNTZ5RllEeC0ySnNvM2hubGt3ekVRR0twVm5Ra3Z0RkxOeEFhckY5V3d4cXNHNHM5Zk55RWVsR2tLZFYzNjdIY3JETVNpZDZEQlNfVEFDRkdhWjNYV21mYm1naWJaRVFYdGhrQ1dQcWRVWTFRb1hySUlEcmNZY0t3ekJxUHRBekdBZnZYNlc0RWIzM3FTa24wWDdNZ2F1OA?oc=5)
 - **2026-10-09** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Hit a 52 Week High, Can the Run Continue?](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUVka25wRlNRWkcyYWF4N1FJWTRWT0FTaG4yTGV1elA3ZjI1Y3NJcGhYOThpRFhHNTlscXNUMm5CMGJmNXc0bXNGWlZPOGh0RVd4cjl6SHFZcFVoRUp6d0FHOXo1MUY4YXRBeDVsaDY4WW5Lc2VsTHFwd3VtaW13ZDdPaFB0MVBJbi1iUS11bnAycUpQelE?oc=5)
@@ -70,13 +64,8 @@ Generated Mon 12 Oct 2026, 07:53 ADT
 - **2026-10-08** — Business Wire — [Reinsurance Group of America Announces Third Quarter Earnings Release Date, Webcast](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWxQRHVEY2xMZGtCemFHSk9LMmM4ZHdEcjh0cEliVHEwT2RtYm5qeEJMSFVhZnc2WGZ5bkhGVzJKVW1NM2owZGs0a2xoVjBxdEQtcjNLX3g1V0tjTWp5SE4zWXVFZW90cTZSVFQ4TWFUQ2NOZVlOdTdQQ1FYWUlqNktuNUhfc0pPRDZzSEEzdW5vOGpFUnVHOFF2Z29tYS0wMFliNDVJSVNHRnIwVkNKYmRiMmpRSy1sV2x6aTVvb1J6OHo5N1MwSDFjVzZvRUxnTXR1Nm9n?oc=5)
 - **2026-10-08** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Sets New 1-Year High - Here's Why](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUs5TF9ObG9wcUFjQ3BUQms5UW82cmJMODk0clR3ZUxpbUdYekhVd2xUeE4wZWtnaXhndi1GTzBhQlNkN3BJODI1RXozSHYzOUd0ZkNJekxCbzNBSHRTYWJZUGh0a0NTYkZjeGxIa2lzQ0xSc2FlV0dlNlpzVXVPWjdsejh1QnFoMXVnT3VqYjF4T05ZRmFIN2pKbHZOZzQxbWhiN25tMDNpeXVhb1pRNnBIRkg5bThULVZkVUVWNmR3NDJOd2hr?oc=5)
 - **2026-10-04** — www.dars.gov.et — [Reinsurance Group of America (RGA) Edges Higher as Shares Test Upper Range - Fibonacci Entry Signals](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVNxQUtHeEJEcERpUjlWZDlLZFFkUVJGcERQa1B6dXc4VHpHUXRDSjRsUnNfSVV3Z3Q2RFR6d1ZZWUtWSl9mZDRidmhBMk1sdjFONkZ5WXlTXzZ6LXUtYzFmZUQ0V19EUnYtOUV3MDhfWVdkWEpnZVpKZkRKNnFGaDVpaUcwZDJya1lubVFYaEJ5SlVXVkpPeWt6SVZjNy1RM0E3U0lyc2c1MU5XMkJ1R0otZTJhejQ?oc=5)
-- **2026-10-03** — Pluang — [Reinsurance Group of America upgraded to buy af...](https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1d4V1A1RnJCeUdHZEFELXFpSVRsZGRpR1Z3M3pnR09VY3NBdXRWY3oyV2VrdWl5b0ZJbFdhUmZWQW0zajRqaHFDVHVOVjR1LVI5SHNxUnNiRHpXTG1vNGpSd0lZbC1kbEdQdmliTmdNMlFjd1ZycXJia0hZYWNGOEllWm5PYTMtcUJYelp3N19QZw?oc=5)
 
-## Sagicor
-
-- **2026-09-28** — kalkine.ca — [Why Sagicor Financial Co. Ltd. (SFC) Saw a Big Gap Between Net Income and Core Earnings](https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1pfVm9PYjFiSFdXVWxkM3I4U2F5YnVjUGNKNUZ0S24wV3o1bVZkWERycnhEMFIzYTFzbGZhSFVFbjJmbWMxQlRfTEJWTmhYTmxMMDh0anBYNDY1dXdGeFV5cy0tTi1TRjgzM1c5UmhDWFNEZmVrdU0tVmFFRDRVWlZkRDgxS1pNMmFFM2FMVUwydWdvUjVCV2daZHZnMGM2V0c5dm1USlVSZ3FaZmJIVXBvbklJRWpUbzE3Uw?oc=5)
-
-_No news in the window: Resolution Re, Monument Re, Somerset Re, Martello Re, Aspida, Kuvare, Catalina_
+_No news in the window: Resolution Re, Monument Re, Somerset Re, Martello Re, Aspida, Kuvare, Sagicor, Catalina_
 
 ---
 

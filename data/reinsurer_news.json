@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:53:41Z",
+  "updated": "2026-10-12T21:19:08Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "Google News: Monument Re",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 22,
+      "count": 23,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 6,
+      "count": 4,
       "error": null
     },
     {
@@ -113,6 +113,18 @@
   ],
   "items": [
     {
+      "id": "6dced9ddd384",
+      "title": "Reinsurance Group of America (NYSE:RGA) Given New $292.00 Price Target at Wells Fargo & Company",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFBDSjdNemtxWmg3Z0tjamxmUk04X21UTU0xZVNYbHVhdGlVbHk3R1FkVlhQeWRHQ0ppMXAyOTgtNTJqa3g3bkxIWmJ0UmhVOTFiZUMwSWU5NEI0R21wb3JlTGk0bjcxWlNFUXYtZDNJQUQ5MHJOUXV1MkFxaWhlNWdrZExBdm9uSUJSZ0kzREJfNHF0WWJCM0NNSDRnbEdycEZOaVRGVURQRnU3QWJQdzJUbjhQQkhncXFqVHVCZ0lrNEJ1NzRfZ2JzLXNDbXBSWGRPNnViU3N6bnNoZ3hDYVZaYU56QQ?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-12T15:25:27Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "2e29ba6aaaa7",
       "title": "Reinsurance Group Of America Could Be 8% Undervalued After Four Straight Earnings Beats",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVG5rN2RUQmV5ZmYtaUVuRVhlU01KREEwQ0dBZG5KRU9EV1NyQTRYV1hIZEhZMVlUdlBRQWFYY0tNV3hZaFhrYklrQkdITUZwZkF4cU9aZVJJdmZsUGR1VGFBblVpN2h1blBhdlR6WTVLYmhzcDdmWXBLeUExYTlJZnp6ZHJ0cmh6NE91dXFkM3VyaUpDbk9GNWZYRjU0WS1QNWx0Q0NmelZoSWZveWhfSkFYbkVtekRpRmZBZWZDTHBqbEZaUjRscmJnSk1jM0lIeDlMRDl5NDV4Tlk3U0HSAeMBQVVfeXFMTzYwQWo4alVoVE9ScFZPUEtKaW5FeUk5OGF6RmRCSnZtSUl1T2NBWVRfUHdoYk1kWUJHamV1V2NHYWtpMFlSM3pNR2h4QWFGSkhhc0c5ZnVvVV9XSHhOWi1zUWdDV25fM1RLLWdtdjN4eE1CZjFsRERtUE55RzlyNU5sSDVEeExlUHFHRWRaYVp3U3ZLSzV0TFFOQlZoTHhWbDFfMnFGdFRwZDNicXh1eXEybTJTSU9hT3AxRmQyRjZNeHN3dFh1UE9ZXzFPMzBCQ01VU3dWQUhWcU8wazFJbE45bVk?oc=5",
@@ -125,24 +137,24 @@
       ]
     },
     {
-      "id": "4ba3313daf33",
-      "title": "Is Earnings Beat Streak Altering The Investment Case For RGA Stock?",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjNBUHBvTjJxUXB2QlE4Si1FRk8zb19jXzVGSmdiNGVRaDlEaGZOdUd1NUJCUENSV1R5Zzk2bnRuUWczXzlpRElBbFc0TkkwNVMwaXNLUFJCMVVLY1NTZnhPQTlZVUhnNWhaMHQxMms2b0pwQ1diSXpLbnRZb3h3NjZoeng3UXEtZFdqbG1ieDdMOUN0aGpSVW9Ia09CcjJpOHFoSDlwWGZ1NW1OSGV0STJWVXpsUHRpdGEyTDNzSE00SVlvbDdnd0hrMTU1WU9RZWxldjVFbDBFcS1mWWfSAeMBQVVfeXFMTXpweVRKWGIyMWRaYkllUGJGQllBX01kWGFRLU9PRzQxbUtkZW9PTnZ4bFBhelZjUDlERnRvMFJQa3NzZ29LVjhlYm05V21WVEJPX0JlQng4VmdvSF9xMUNPQ0ttQ2RRMjJxbjNTczdueWY1LTh3V25BbW5yV01VbTduRTl0MUlUVzRmZ0lQZ2RtV2RrVXE5TmRHZTNMS2pyd2Q0bEpkN1U2MkduSURTbDMwLU1xQk94UDBJdXhjOURrOTMweHdRRWtOOUZnUmNzNXJwTkd0TERmbjFWOGhuZWtuUXM?oc=5",
-      "source": "Simply Wall Street",
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-10T10:59:04Z",
+      "date": "2026-10-10T18:54:41Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
+      "id": "4ba3313daf33",
+      "title": "Is Earnings Beat Streak Altering The Investment Case For RGA Stock?",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjNBUHBvTjJxUXB2QlE4Si1FRk8zb19jXzVGSmdiNGVRaDlEaGZOdUd1NUJCUENSV1R5Zzk2bnRuUWczXzlpRElBbFc0TkkwNVMwaXNLUFJCMVVLY1NTZnhPQTlZVUhnNWhaMHQxMms2b0pwQ1diSXpLbnRZb3h3NjZoeng3UXEtZFdqbG1ieDdMOUN0aGpSVW9Ia09CcjJpOHFoSDlwWGZ1NW1OSGV0STJWVXpsUHRpdGEyTDNzSE00SVlvbDdnd0hrMTU1WU9RZWxldjVFbDBFcS1mWWfSAeMBQVVfeXFMTXpweVRKWGIyMWRaYkllUGJGQllBX01kWGFRLU9PRzQxbUtkZW9PTnZ4bFBhelZjUDlERnRvMFJQa3NzZ29LVjhlYm05V21WVEJPX0JlQng4VmdvSF9xMUNPQ0ttQ2RRMjJxbjNTczdueWY1LTh3V25BbW5yV01VbTduRTl0MUlUVzRmZ0lQZ2RtV2RrVXE5TmRHZTNMS2pyd2Q0bEpkN1U2MkduSURTbDMwLU1xQk94UDBJdXhjOURrOTMweHdRRWtOOUZnUmNzNXJwTkd0TERmbjFWOGhuZWtuUXM?oc=5",
+      "source": "Simply Wall Street",
       "feed": "Google News: RGA",
-      "date": "2026-10-10T09:36:52Z",
+      "date": "2026-10-10T10:59:04Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -506,6 +518,18 @@
       "summary": "",
       "companies": [
         "Global Atlantic"
+      ]
+    },
+    {
+      "id": "842c68ef08fe",
+      "title": "Fortitude Re Acquires Dayforward Assets",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TamE1c0IySGlLTTd5dkdSZklERExTdDUzX2hyQVpueXlGLVVqeFBOd2wwSDhNQ0t6dTFqOGlid1JiRVVTTEJsYl83TWp6MUFtUXFhcGxIUUhwanRGZUNXdmhjeDVydXJFNDZwOV9mUmExYWRVd2l3?oc=5",
+      "source": "Bernews",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-09-29T10:11:50Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
       ]
     },
     {

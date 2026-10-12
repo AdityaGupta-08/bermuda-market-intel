@@ -43,8 +43,10 @@ jobs:
 
       - run: npm ci
 
-      - name: Annuity engine tests
-        run: node scripts/test_annuity_moneyness.mjs
+      - name: Annuity engine and ticker tape tests
+        run: |
+          node scripts/test_annuity_moneyness.mjs
+          node scripts/test_ticker_tape.mjs
 
       - name: Build
         run: npm run build

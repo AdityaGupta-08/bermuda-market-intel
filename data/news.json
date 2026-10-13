@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T16:59:19Z",
+  "updated": "2026-10-13T22:47:53Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,10 +8,20 @@
   ],
   "items": [
     {
+      "id": "e5d2eff30d43",
+      "title": "New England Asset Management Named Insurance Asset Management Firm of the Year by Insurance Insider US",
+      "source": "Business Wire",
+      "date": "2026-10-13T17:07:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd1VSbWpCY0VqMGVSUHhPTVBlcjFGUldLTno5OHFZWUFtTmJ5azZaMlVDV2V3TUJyX2JxLW4xNHY3Qk5wa1F2cE90cV9tWjJzZ0t0MEl4QTZIWk1nalo0YmhaN1Z2QV9HMm5hOEYtUGk4dEdLeEVrcFl3QzhFRUItTk9aY3VlYy1TVW5wanlGQk5lZkVwUWxBcGFKZFFxUVY3X3FkcnJ2WnBtVzR2S1Nxa1c2NjVjbGFjZEcwazVreE9JVFdjY3loVEIxWnE5VGlZdld4Nm9RQ1J0TXBLRWpsT05GU1BkRXNqSW9BM3J0eVc?oc=5",
+      "isNew": false
+    },
+    {
       "id": "ff07402fdd19",
       "title": "Moody\u2019s: life insurers increasingly rely on RNFs",
       "source": "Alternative Credit Investor",
-      "date": "2026-10-13T14:13:36Z",
+      "date": "2026-10-13T17:01:57Z",
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOW9FbXphYUQ4U2xpeEhKQm93cmtMeTJJVTFtbW1LcE5obzAzS0NNdG9rTThodjZqSWVyMENWaklxVjdsSU5idFNMaTQ1VDJKYlNyMVdKem5TYnBMNUNGaU1qR1ltVE9LU3VlU05ZS1Fqci1QbTNPNDhBZU4xRjIwdTVBVThFbTIxd2VoYmhZaTRtWmpXYThlSHJCOVE?oc=5",
@@ -23,6 +33,16 @@
       "source": "Pensions & Investments",
       "date": "2026-10-13T13:00:00Z",
       "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "2effb79e9d97",
+      "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
+      "source": "Pensions & Investments",
+      "date": "2026-10-13T13:00:00Z",
+      "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "isNew": false
@@ -258,6 +278,16 @@
       "isNew": false
     },
     {
+      "id": "80ea05be83e9",
+      "title": "10 of the Best Wealth Management Firms: Well-Known Fiduciary Investment Companies to Consider",
+      "source": "WSJ",
+      "date": "2026-10-08T07:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm1FXzF6ZHlObFJPRU9BV0ZObm80ejVBT3pfTTZlR1pHMUg1a1RORi1UcURrbkZkdG1jbDROS2ltOHpDYVlXN3lfLTlTNEh0Z3l1UThwMm05R3NFUUlZLUdTNFpDQUJtWk55aWlEUEFnNHFPLWJsVjNvTk40YVhZN01Jd0hzcm5jRTJSSkpyUC10VlA1TERB?oc=5",
+      "isNew": false
+    },
+    {
       "id": "3f75e2ed9dbb",
       "title": "2026 Hong Kong Allocator Outlook",
       "source": "Markets Group",
@@ -275,36 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUdGcFpGREdTSHdVUUZSWkROSENvWDAxa250RWdLb014ay1tcFB0VEF6Unp4RHBSSnp2OHlXQzVFQ3pKXzVtODlkX0JqTHRnMEVGZ0RIWXNPcGhJdzdobnVHQnFudGhOVzZ3YjVUU2xNcVo0U1ZWcGoyaTd2WlAzQXRpbGV3NjQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d80001bf288c",
-      "title": "Huntington Bank expands captive insurance banking capabilities",
-      "source": "Captive Insurance Times",
-      "date": "2026-10-06T20:13:46Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVjlXbUYxb3dlWWRxekdnWDlMSUJ6MWg2clRmNy0zZHloR1pSa1VjeU9iclBEaGw2c0dEeXF0REdUaFV5TkRod1NPLTlzaC1fcFVSbkx1YXU4WE5TRG9OWHUwTVphRkNGVDctb3BFNlRWR0RHMFlkMnh2SWhjYXpscWFucVdscHVpaU5zOXZ1UUMtWlNhVjdMNkxVZXNZMmh6ZHJVTXBYSGVaOEFUMEgxWTJFbW9YeUI4VlF6TTVvWS1UWlQwV3ZkOXFqMHJHaXpXTkU3alI5a1AwZGxsNTZjbGt6b3h1dw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "fd63b981c741",
-      "title": "Tradeweb Government Bond Update \u2013 September 2026",
-      "source": "Tradeweb",
-      "date": "2026-10-06T18:58:31Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONE8tT0RpNG1wVTVFRFphaHlMSjhsaUJVLWpsTnZJR2c5M29aWEx6WWhkZnVvZ2hGREpWSll0c1d3TVFaUUhtTzlIVXR2OEV4OG9aMVEtaEZOSVhqMkJOMk9pT01TVXRpWnRwMjhCMUtaQTdPZmZyVmQ2clFhX3Z1UUdIZkYtWG9wRFEydE9KcGlocUlhRUtXVUV2c0FCeEZHUVNKZnllTFc2TUlLeUE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4e0cb993cae7",
-      "title": "Global Bond Yields Turn Lower",
-      "source": "WSJ",
-      "date": "2026-10-06T18:52:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpfSFJVQXNZSERFMG4yaFVObVdNdkZZay1Td0VpbE14enhKd1g2dW5NNldSWU5VR3FFWHFHRXowZmlmSjNya256OUVMOXVFbFVpRGstSlNWbVpaX2NESWF1QUYyTXBfWldfZVhlcUFxN2NSZG16MW42RkhxOUthMFhzYXFUV2hibENLazMyX19pTVNydXNkMExveWxsWktCQUtFZGcyQWJZcmZNb3RtTkQ3M3lKTkpxcXc?oc=5",
       "isNew": false
     }
   ]

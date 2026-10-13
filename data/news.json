@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T06:49:33Z",
+  "updated": "2026-10-13T16:59:19Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,6 +8,26 @@
   ],
   "items": [
     {
+      "id": "ff07402fdd19",
+      "title": "Moody\u2019s: life insurers increasingly rely on RNFs",
+      "source": "Alternative Credit Investor",
+      "date": "2026-10-13T14:13:36Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOW9FbXphYUQ4U2xpeEhKQm93cmtMeTJJVTFtbW1LcE5obzAzS0NNdG9rTThodjZqSWVyMENWaklxVjdsSU5idFNMaTQ1VDJKYlNyMVdKem5TYnBMNUNGaU1qR1ltVE9LU3VlU05ZS1Fqci1QbTNPNDhBZU4xRjIwdTVBVThFbTIxd2VoYmhZaTRtWmpXYThlSHJCOVE?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "2dfb0f81be8d",
+      "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
+      "source": "Pensions & Investments",
+      "date": "2026-10-13T13:00:00Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
+      "isNew": false
+    },
+    {
       "id": "812ccd5c2b2d",
       "title": "Insurance Regulators Tighten Reinsurance Capital, ILS and Risk Transfer Rules",
       "source": "Beinsure",
@@ -15,6 +35,16 @@
       "topic": "Structured Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wSHNjUlZOUzh4eDFqajFON3BXRkM0NWpEWHBkdk5aV0xKdXVhQ25idnNhMlByR19UeWx1Vy1QS0dHYWtuWnVMd2ZTWE1POHU4eUhtXzM4aTZfRG0wclZ1bGtJNW5PMTNWOW1PckFSa0ZFdjVxRVZkb1lB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "fa0dc5dbb5a2",
+      "title": "Why U.S. Borrowing Costs Keep Climbing Despite Treasury\u2019s Efforts",
+      "source": "Council on Foreign Relations",
+      "date": "2026-10-12T16:54:10Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNS1RajNzSWN1YnRqbW1WTWNSaUJJczRvV3JDMFFZNElEOW5RT2l4c1NhcEZwSmtSd3RYajlVV3dFUFNaZzlsaC1uUlBWNXIwdF9zUGZqZXVyN3B3NVZ4RGh1b2JMWXhvSkpES2F2dldheGc2S2xCaXFCMjRZTldKWUduZ2lqUDlzcXgwNk1mbXlDbHdFekJ3?oc=5",
       "isNew": false
     },
     {
@@ -55,6 +85,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3JyY05BTFdaaUVtQlJmc1A2RG56ZUNseXNLblJmVG5xTmZaOHNxUnhxbGJROUVacWx0SkFGT2NiaXU3dEUzOEVKdVNXWU5FejVYQnNRT2tab09QWDd3Y1NJWEFRbG5BVlEwQnNYWUR2cFVlLWJEUENHTzkxRjVNQUhYem0?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "b9e8e5f3b036",
+      "title": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript",
+      "source": "Fortune",
+      "date": "2026-10-10T23:21:13Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
       "isNew": false
     },
     {
@@ -108,6 +148,16 @@
       "isNew": false
     },
     {
+      "id": "62edf94e5f18",
+      "title": "Insurance Syndicates at Lloyd's",
+      "source": "Barclays Investment Bank",
+      "date": "2026-10-09T07:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQkJ0V2NGMmQtek5RR1I1OV9qOXFzcGpZWHlkU0FEdThFMEs3aFBYd0F0MFRjQlBTS3N0YVlZUU5WdWdQLWNwbmpudG5GOFJ5Y0ZsR1hScVFKVzBoYUVfZHlBYlNmbkNQSHFoQ1dRcjRvYkRQRTExWDNyT011Qnh4U1E3UEwzdElleTFJLVRrQmdxWC1mSVZ0YS1fMTBUTmRlRmZHdE1qRm9tYVBGbGJSZ1ZZZFFERTIxRG1DdkVfeE9KWHZBc243b212WGVGSUtvSXZybA?oc=5",
+      "isNew": false
+    },
+    {
       "id": "8f72ab6c9ba8",
       "title": "Aegon creates commingled fund for insured credit strategy",
       "source": "9fin",
@@ -135,6 +185,16 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelFoREFpenVyLXlLd0c0ZG1ZVU8zSF9SVkpEdmpNLXE5N3J5V043dVVOVVlINGlpdlQ2dEVRbzlQRUJTcU0yV2VpM3Jsd0I0SjhsTElzQ2pKOW9qMC1YcFZBeE1tNlItYWUtV2lsUnBieFpxRVRHbENMbjNPTlFNcjNqR29CUzNQR0pUTmxLMDBKdzdoeVNOLW9XSlBIUjlPdEFMNmZVNXNodlh2OUt3?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "348b65b283f0",
+      "title": "AI Debt Is Flowing Into Assets Insurance Regulators Struggle To Track",
+      "source": "Forbes",
+      "date": "2026-10-08T15:25:34Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdHlBSGFLU3NTbG9hOTZWX3NfN0I4RURKX2xnVU5vQXhHR1o0TGo4dnYxcWtNVWFSMVdDZ1RLUVZlNkhlMFJubnR0ZW0wSzBxb3pLTjBEUU9MS2N4eWdqTXp3aGpYT2RzWjlOTEFpQTRnbWtYVDRycS1pSzFyRTd3QmZSaHZtV01yMTRwdm14UENJdTBjcFZ5eHhUVHlsZU03TFdNSVFKRHExc3ExZG1ycW9oWDRWQm9Wemw0Y0RoNXg?oc=5",
       "isNew": false
     },
     {
@@ -245,66 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpfSFJVQXNZSERFMG4yaFVObVdNdkZZay1Td0VpbE14enhKd1g2dW5NNldSWU5VR3FFWHFHRXowZmlmSjNya256OUVMOXVFbFVpRGstSlNWbVpaX2NESWF1QUYyTXBfWldfZVhlcUFxN2NSZG16MW42RkhxOUthMFhzYXFUV2hibENLazMyX19pTVNydXNkMExveWxsWktCQUtFZGcyQWJZcmZNb3RtTkQ3M3lKTkpxcXc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "dd954c197829",
-      "title": "EIOPA flags private credit, reinsurance risks at private equity-backed insurers",
-      "source": "Investment & Pensions Europe",
-      "date": "2026-10-06T16:14:37Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONExjVFU3c0IzN0tfZkk0anpyLVJ4N0N4cTZKNkx4YWlGbW5SZmVHRkM2eHJNS1NYaC1FVFZidHV4Um9xcU4tR082SU1oQno4VWZNZ2Z4Q0F1Q19vbDhPWERFblkxVUl4cWhaQUFWdzBKd1JEZjFGOUtfaVdNRnljV1lZSjF1UGdEZWlmblNjaE5OVTlMcnNoUTNZaU9QUnpXUlE5UDB5OHdDMVRmS3lHaG9fWWZrbVlpTm9BOQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4963fe451d1d",
-      "title": "Scotia Wealth Management\u00ae launches Scotia Global Intelligence\u2122, expanding its offering for Ultra-High-Net-Worth clients",
-      "source": "scotiabank.investorroom.com",
-      "date": "2026-10-06T15:36:49Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbXBxOXFUcXRJYmNjZUhjLVFlYWZVZDZ0TkNCX0ZJTFhpQnVvQkJkUUFKd3ppYmFUcE5obHJOZ2VidGwyVnVZZXNXMml2MUJlZS1IUTBiNkR4SGpTSkJJNm1IMVBod0gydTNiLVEyUThocXVlUUFpS2VvQlA2ejFfZVAzNUhRc05jd0JsOEFRODdVSW5KUGswN3h4Q0hDQ2ozNjRCMGljZmZxSGk0MWVqRTczcEVwQkR1b216UlpYVjZjVF9PdDI0T0tlR09ESDFxOE4zZEtEREgxQUMxenRwN1pQaWttWjhsUWZLSmVNYkxDTXMxc01pZ05jTndpalU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "7c4d8ec574e7",
-      "title": "Shifting dynamics: private credit versus banks",
-      "source": "Financier Worldwide",
-      "date": "2026-10-06T15:15:38Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONDJuWGRRLUh1MTlzSkI5OHJTcUZ4eFFFdlVHa1loLUR3T1lFR0lSUmp6MWN1dmFnZUFuYmpnMjZHa0FldzMza1JfaVVwWkZVZjk0UXM4WW1uenZRYUtEaUVlQUlkc2ROdE5mNXZOMWhCdl9URzB2T1FWUkZwSWJFYW0xbjNBSHM?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "cb6941b4bcfe",
-      "title": "'Indiscriminate' bond markets could compel the Bank of Canada to hike rates this year, says KPMG",
-      "source": "Financial Post",
-      "date": "2026-10-06T04:59:52Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmdzc1E2b0RQUV9fOTAxMEJubXItblhieGJ3cUhTN09MRk9QVjdPYTlzaVRTSFlmRWl6VVNITHM0enhfbzdEcUlUaGZRbGNrS0FkWE1YUEM5Y1VTcGVIZ0x6X2NEUlRmWWVPcEp4d3poaGdLbjRMcmtjUDV4MDJHYU1WWQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c3cc205e0200",
-      "title": "Aviva Investors buys infra CLO in private debt expansion",
-      "source": "Alternative Credit Investor",
-      "date": "2026-10-06T01:42:39Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWppRHdBTXZ4NldsRk9LMzktUkZsc05jLUZsTWZrTW5XellLWi1ac3ExQkg1dHlEdzVDMDF0T2JVVW9QTklvUGEyVVZSQ2RjN3I4aTNmdW1GcG9SdGNZakZMRkdtazNwVHR1MmY1ZzR0Y25QRGE2TUVzZFhicnNhV1ZVdVR2M0ljSmNNVnRJRXZxU3NYaFEzWVNBWkNxdV9MZjhn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "fccf4736d838",
-      "title": "Insurance and Private Capital: The Next Phase of Convergence",
-      "source": "The National Law Review",
-      "date": "2026-10-05T22:04:18Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZk9heHlFZmh5MkF5dmNSX2dob3VFdExEaTYzNEhRQ2FlZHY3R2dpOEFwZkJBSkt3Uy01M3ZzQ2x4cVVXeXdWRXNhcHVxTHdNbXlKM3F4dVRMYUZrZzU2WnlVUVBNV013ZDdxMU45aEFpT1dSLXkxelRFOEJHMUtPMU1LSG1WNTZyVzhmbFZn0gGTAUFVX3lxTE1GbDc2Y3V3MFZ2R1VnLTRFc1VHeldCbXVCNDhEdVJSN01oZUZhajk0SmxENFUxVU5PN0N2b1pNT0RlXzlvY0ZSNFBUYThyNjRUX0FyT29Vd084Y2o5M1pVU2t6eDg1VW56Nmo3TUNzU29YNmlEeEZVTGRWYkpoVW9kdHBxSW8wZ09JQWkxUHBtb1FtYw?oc=5",
       "isNew": false
     }
   ]

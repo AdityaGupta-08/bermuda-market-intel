@@ -1,13 +1,13 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 32 items
-Generated Tue 13 Oct 2026, 03:49 ADT
+Bermuda life & annuity watchlist — last 14 days — 28 items
+Generated Tue 13 Oct 2026, 13:59 ADT
 
 ## Feed status
 
-- ✅ **Artemis.bm** — 10 items
-- ✅ **Google News (16 of 16 companies)** — 59 items
-- ✅ **Reinsurance News** — 10 items
+- ✅ **Google News (16 of 16 companies)** — 57 items
+- ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
+- ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
 
@@ -17,7 +17,6 @@ Generated Tue 13 Oct 2026, 03:49 ADT
 
 - **2026-10-05** — InsuranceNewsNet — [Global Atlantic names Dan Farrelly head of IMO and IBD channels](https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2NvYjZTbEo5NURrVDVBQlJuY0RpeEtWUU9sWDNBZndGemFra2MtaTB0bURPZWF5VUpVcUVEYy02R1REVUZtRGRpbWJhQnFwNFMwNWhoQURFNzgwb3E2anduVFJkVTBEWTZwT2NwTG5pc0NIZGFsaFVYenhlek1jWERkLW5wQTFCSmMtRVdzcGdkZlc2Vm9qbFlwSFBoeUhHV2dvZ25R?oc=5)
 - **2026-09-30** — Family Wealth Report — [Who's Moving Where In Wealth Management? – Kestra, Mesirow, Global Atlantic, KKR](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbjNuZXJUWXZ6NWFYS1lFSHU0Ui1YSGRhLWxnM3E3dFg5QlUwSVFxc2k1ZGlvejRYRzFMaUR0NUhTNjRRUDBsLTFFMk5kV0dYY0lxTnZlUUdQQzlXV0ZLdy1RaFAyeVRqUjFfRUFkTF92RU5EcVVIMjNnSXViZU1OMnA0N1FrTmhCa0x3WERfaXF0VmxJOUdFSVE3S1djekpCOWRDUmJjWTFWYlFZZmxieVhtNzcyRFEySjJlSWVqSGIwd2FPTzEyYVBRNHphX0ZhOUc5REZTVGNTVmpLeW80Qk5lOXpTYUhsdjVF?oc=5)
-- **2026-09-29** — Reinsurance News — [Global Atlantic appoints Dan Farrelly as Head of IMO and IBD Channels](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkdpaWgxd2J2dkd3d2xkZFExOVRTMVV5ZVNDZDRmQjBaSjdhY2p4c19fdEk5Nko1aXFNTWVXcFJ0WG9jd0xaVVhVbFNfVmpONHBfaDBJdHVhX0xzWXNQSnNHNENobk1kaHRmV2hrODBCZTItc1RFSkFhQl9ISTNLb2ZhTzNtNThWbE1mN2Y0ZFlhM2tKTU96eUdPWXFQNWJJ?oc=5)
 
 ## Wilton Re
 
@@ -28,9 +27,6 @@ Generated Tue 13 Oct 2026, 03:49 ADT
 - **2026-10-02** — Beinsure — [Fortitude Re parent acquires Dayforward annuity insurtech platform](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZVeElENk94UGE3RlhnbC11N1ZqUVAzZy1objVFZWpqdlo3WndnVWd0bkY3Z3dBdGxkNVFnUml2T3E4OXdhMTU3R3c0T3kyNWpDUmRrb3RHOHNQNURqb0lLT09XQS1EUkVUcTFISlNvdzc3NzZJU3pZQjNiMVFQZW9B?oc=5)
 - **2026-10-02** — Beinsure — [Fortitude Re parent acquires insurtech Dayforward annuity technology platform](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZVeElENk94UGE3RlhnbC11N1ZqUVAzZy1objVFZWpqdlo3WndnVWd0bkY3Z3dBdGxkNVFnUml2T3E4OXdhMTU3R3c0T3kyNWpDUmRrb3RHOHNQNURqb0lLT09XQS1EUkVUcTFISlNvdzc3NzZJU3pZQjNiMVFQZW9B?oc=5)
 - **2026-10-02** — Bermuda Re — [Fortitude Re expands insurtech capabilities with Dayforward buy, Fortitude Life launch](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVY0aU4tNWJ5LWlGV2E4SGlIY0ZCWEJET1dueG9XMGQzUHcxNHRVcW05WmdoN0lUcnZIRkpwU3FaMHd1V2xySzR6WXRTenRnUjNfTWFHSmMycUVfallwOHVkS2VXYVVnT200dnp2d095MnA1TzJ5bE02d2pLa1JOLVBRaGpSellYR2RvMkM1ZWxoWXoxX3lTOUhrRXVQUm8zeUM3aG00SkppYjhQZ0c2ZlBpckZ6elZhdEtYcnlQRUNqSVZjQmhv?oc=5)
-- **2026-09-29** — Bernews — [Fortitude Re Acquires Dayforward Assets](https://news.google.com/rss/articles/CBMid0FVX3lxTE1TamE1c0IySGlLTTd5dkdSZklERExTdDUzX2hyQVpueXlGLVVqeFBOd2wwSDhNQ0t6dTFqOGlid1JiRVVTTEJsYl83TWp6MUFtUXFhcGxIUUhwanRGZUNXdmhjeDVydXJFNDZwOV9mUmExYWRVd2l3?oc=5)
-- **2026-09-29** — Insurance Business — [Fortitude Re buys Dayforward to build its own annuity origination platform](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUzVjdjV1cTl2ajRJMjNxTmRjaTVJSV8weXJjRHQ3NmVOVHFUM0ZrUlExSFlEUFZZV3VfbFNOdUpzclBrZ0wyNXg5NzgzZXFISzc3cm9LdU1LXzI3YWpLQVdFSkFrTXl5d1J3b0xHWmc3TjgwRTdfM1o4d1ZwTncwYmRlZlpFWlluaWFteHFCSTBJQUh5dE4xcU0tV1d2UWJldUh0WEdZeHRNbTA0T203RjMwd0doakRZODNSYnZHSjN4b25ZcW80a2ZPcktieGswVDZmOVM5YjExOHJwRlZVV1dJYjRqSmV6ZkE?oc=5)
-- **2026-09-29** — Insurance Business — [Fortitude Re acquires insurtech to build its own annuity pipeline](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTBGeGF4VlhtRWhJbDZZWEZXYXVVT2REcmVqNENCcExQRlR5SFdkNFQ4WFFJeGNieC1HU2s4TjhMN0x3M0Z4OVRuYlBUWDVUWmxENGVVRnJ5T3RBUXpsWXhvRk4yVm1PeFBWbGY1djI5YzU3anJCb1N2NDY2TVNkc2lpZGROTDRMOHMwbm02NUx1ejlPWnRkLXB5cnQxLTJibVBWd0s3T3lMTFRTUW1UcklyVzRlYmxoTzBmR3hhM0RiN0dPNWkzMmtzQW9PY0w1QVlWa3VtbU5wVmlIN0E?oc=5)
 
 ## Prismic Re
 
@@ -39,8 +35,8 @@ Generated Tue 13 Oct 2026, 03:49 ADT
 
 ## Talcott
 
-- **2026-10-12** — Traders Union — [Talcott ratings affirmed as Fitch keeps outlook stable](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTRMT0dEUE1xY3dNYXRTS1NJUE9yZUFNdnVSTDZkSGE5VFQwUGJYRUFYMFNBLU9KLWRvcExIa3l2d2Z3WkNvd012STdLaXJHWWhxSjRRNEpvcFpxR3ZtWWR4eUw2U2dEYkM4aEdTdlM1Uk9KbzZVWmJVTzdsSE9MMERQOTZDdW1UZmVRdEpoRFNFOVZjRkUxQXhndw?oc=5)
 - **2026-10-12** — Stocktwits — [LNC Stock Pops On Report Of Lincoln National’s Potential $5B Reinsurance Deal With Talcott](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5)
+- **2026-10-12** — Traders Union — [Talcott ratings affirmed as Fitch keeps outlook stable](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTRMT0dEUE1xY3dNYXRTS1NJUE9yZUFNdnVSTDZkSGE5VFQwUGJYRUFYMFNBLU9KLWRvcExIa3l2d2Z3WkNvd012STdLaXJHWWhxSjRRNEpvcFpxR3ZtWWR4eUw2U2dEYkM4aEdTdlM1Uk9KbzZVWmJVTzdsSE9MMERQOTZDdW1UZmVRdEpoRFNFOVZjRkUxQXhndw?oc=5)
 - **2026-10-06** — Beinsure — [Lincoln Financial closes $6.3 bn Talcott reinsurance transaction](https://news.google.com/rss/articles/CBMilAFBVV95cUxPazg4R3pTQzBVTzh4QnhxdUpvRFZSX2JxYk5la1FlWXB2Z0xWa0E1OE5uVldBLVNFYlhCcUxNaDdxSzlQYmRJSFNVTmNFblBoS3M2eVN0dlZBTnZxTHlaNXNtcnQ1V044NFRoZnRCYUdPSmxucUFDeWpzSGphekZ4a3RQWmFib2hIUWtiVWVYZU9fb1lO?oc=5)
 - **2026-10-02** — Royal Gazette | Bermuda — [Talcott closes $6.3bn Lincoln Financial deal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTJKR2ZYLWdrZElGM2xoMmswUk5CWmhHSmk4WklCaVZwQ1ZQNGxwWWJIc0xlMkpqMVBIYUtvNWhiRk85M1REMU1PdU9tY2JHZF9NWkRRd0lBUTJ0MGJYaEpaX0dJaVU1eHdCY19BUGY5bzI1dG1IZDg0RU14ZHFqV3FZSUl3NjZZWl8zVkNBWW5KY3FqaGVJRFNYUUVMVGN6cFZVVDlMZzdnaGxpQlZSaQ?oc=5)
 - **2026-10-02** — Reinsurance News — [Lincoln closes $6.3bn reinsurance transaction with Talcott](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdU03OWtNbVVla1BZaDlYOTRfbjdkTEpNV2FkMEN5VUFoWHN4SE9oUVd2dFZ4Y25VUXZoTDZaTlh5QkpHN3FfYVp3YWR3T0RVTnYwODByT2k3QlZETW0wa0syQTdkR1dRREhGbjJCM0hkWExzOEtsTUQ2YVB1aXRVcURZVGM3QkVFZDV3U3VsekY?oc=5)

@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-13T06:49:35Z",
+  "updated": "2026-10-13T16:59:22Z",
   "lookback_days": 14,
   "feeds": [
     {
       "name": "Artemis.bm",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "name": "Google News: Aspida",
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 5,
       "error": null
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "Google News: Monument Re",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 21,
+      "count": 20,
       "error": null
     },
     {
@@ -101,17 +101,29 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "Reinsurance News",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     }
   ],
   "items": [
+    {
+      "id": "2f66c80f38d4",
+      "title": "LNC Stock Pops On Report Of Lincoln National\u2019s Potential $5B Reinsurance Deal With Talcott",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5",
+      "source": "Stocktwits",
+      "feed": "Google News: Talcott",
+      "date": "2026-10-13T02:59:09Z",
+      "summary": "",
+      "companies": [
+        "Talcott"
+      ]
+    },
     {
       "id": "f7284a2ac9d6",
       "title": "Talcott ratings affirmed as Fitch keeps outlook stable",
@@ -119,18 +131,6 @@
       "source": "Traders Union",
       "feed": "Google News: Talcott",
       "date": "2026-10-12T20:18:39Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
-      ]
-    },
-    {
-      "id": "2f66c80f38d4",
-      "title": "LNC Stock Pops On Report Of Lincoln National\u2019s Potential $5B Reinsurance Deal With Talcott",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5",
-      "source": "Stocktwits",
-      "feed": "Google News: Talcott",
-      "date": "2026-10-12T18:10:04Z",
       "summary": "",
       "companies": [
         "Talcott"

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T11:56:33Z",
+  "updated": "2026-10-14T17:13:23Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "f1de125d0e6b",
+      "title": "Are Investors Undervaluing Reinsurance Group of America (RGA) Right Now?",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW82WWhlYTQwckpSOFFkajNpc0tFVDk1SzY1cDlNZFJMdm5Xc01FNFZrMDRQRm9wOFJJanExVWV4bUlEX3VTZzE0NmRPdlJqZDlWYU03OXpJdDNjMXhVdGoxc2trODJIOUdsQWVtOXRqbTZrVGtPdjFyZHFTMmtfYnFpZHQydVFjTGdlbDkteEh0S1RmSzIwc2ZhWHJ6M2FHbGtOenhSWS14bDNibXAtZXFRTQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-10-14T12:40:02Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "2f7280eca5f3",
       "title": "Talcott seeks to renew bid for US life insurer Brighthouse",
@@ -1022,18 +1034,6 @@
       "summary": "",
       "companies": [
         "Sagicor"
-      ]
-    },
-    {
-      "id": "f1de125d0e6b",
-      "title": "Are Investors Undervaluing Reinsurance Group of America (RGA) Right Now?",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2toSjhRdkd1b0dLcmJmUkxhNHdkb0dkMFRhY0VHeG96WXFvSlFSTFpfdUtuN3B0M3VCM2xydUU1emlSRGt0WUR0aUJ0cDRtTFhuODNvNjY4Q04wYjNGaDhmRmhfU3EtN0haRnZiX2tWNWkxOE45REdOUDV4U3pxQVhLazJ5UWI4Tk9TSTR1WE5ERS0tRFBWX2tfME1tQzRkUGlab21Rb1M2cDl1cm4yNFRUZw?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-09-11T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {

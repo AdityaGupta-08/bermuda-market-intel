@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 28 items
-Generated Wed 14 Oct 2026, 08:56 ADT
+Generated Wed 14 Oct 2026, 14:13 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 58 items
+- ✅ **Google News (16 of 16 companies)** — 59 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -46,6 +46,7 @@ Generated Wed 14 Oct 2026, 08:56 ADT
 
 ## RGA
 
+- **2026-10-14** — Yahoo Finance — [Are Investors Undervaluing Reinsurance Group of America (RGA) Right Now?](https://news.google.com/rss/articles/CBMiswFBVV95cUxObW82WWhlYTQwckpSOFFkajNpc0tFVDk1SzY1cDlNZFJMdm5Xc01FNFZrMDRQRm9wOFJJanExVWV4bUlEX3VTZzE0NmRPdlJqZDlWYU03OXpJdDNjMXhVdGoxc2trODJIOUdsQWVtOXRqbTZrVGtPdjFyZHFTMmtfYnFpZHQydVFjTGdlbDkteEh0S1RmSzIwc2ZhWHJ6M2FHbGtOenhSWS14bDNibXAtZXFRTQ?oc=5)
 - **2026-10-14** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Hits New 1-Year High - What's Next?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjN4b0pFSFg3T1lab2haUU1IQUl3clJiSzAyaFB0TXNCdC1tRndEZ0NnNGJsTC16QlNTcFdYeVRFX0szTFczU0xMa0VUSjRjV281Z09JOU9YemUwZXRvOVV1Y2pxVWRoYWFrdm5FZXdzOHUwS1Q3WnlBbV9uWklaMHhkLTN4YnVXUndVbHBrcFFMRjlERWNfYWE1aWxlTWFmYk5wYkRyZF9ZTS1VNnlqQWhOSVlHUVA2eTJQQkhRaFpteU5FVFpvXw?oc=5)
 - **2026-10-13** — The Globe and Mail — [Wells Fargo Reaffirms Their Buy Rating on Reinsurance Group (RGA)](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW45TjZHa0pCY2l2TUJfZ1NGaTNKTlkwYmtYb0xkUXhpNkdscmNrUlFGMFFRR1lXMFcyaF9EOGwzWnhiMUVyLVVNVzhJZ2tEbm5za0RIWkdDaTBtRDg4WURMSV9Dem91REpaM1B1VFJCcERUUk9GdXJVOXp1MWdGOUdJVXg5YjJ1bmF2ZHlocDBqZENxdHJzczhEWHpjRlRCNEhra3FZdnB0a2NYTDNSZG96Njk3enBGM28tRmhwbkkzcjY2SldlSUVIWTFOcmlURVJtSHg2bkdpeTBHQVZfNmh0aw?oc=5)
 - **2026-10-12** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Given New $292.00 Price Target at Wells Fargo & Company](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFBDSjdNemtxWmg3Z0tjamxmUk04X21UTU0xZVNYbHVhdGlVbHk3R1FkVlhQeWRHQ0ppMXAyOTgtNTJqa3g3bkxIWmJ0UmhVOTFiZUMwSWU5NEI0R21wb3JlTGk0bjcxWlNFUXYtZDNJQUQ5MHJOUXV1MkFxaWhlNWdrZExBdm9uSUJSZ0kzREJfNHF0WWJCM0NNSDRnbEdycEZOaVRGVURQRnU3QWJQdzJUbjhQQkhncXFqVHVCZ0lrNEJ1NzRfZ2JzLXNDbXBSWGRPNnViU3N6bnNoZ3hDYVZaYU56QQ?oc=5)
@@ -57,7 +58,6 @@ Generated Wed 14 Oct 2026, 08:56 ADT
 - **2026-10-09** — Yahoo Finance — [Reinsurance Group of America, Incorporated (RGA) Hit a 52 Week High, Can the Run Continue?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjVuZGVKSnhudndIcWNObUh6RXVzUFBhaVRYQWlLZFpkWmNOMVUwbzZnN3dZODIwNmdTMWlXN3h2ZkNrUk1lMV8yWnFWQTFFTlRPd1ljLVJRRHhJUVh2OXVhYS1mUFBQU3BianFHckFOdC1KZUVSWXl1b3lfaGRCUlM5QUpqaEUyWFFCR0xKZEdFaUhrV2ttNG1PemlSbHVOUlFBRW5weGRuUGM?oc=5)
 - **2026-10-09** — MarketBeat — [Reinsurance Group of America (RGA) Stock Price, News & Analysis $RGA](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRd19Scl9UZ2dsdkpPSTVZMjN1TTlKUmdoQVN6R3BFcGlCTFMwZF9XbDZjVlBNQ0RIRHIyQVZybk9DNzJiZzIyaDBpVVNuR3NDOXVGdHlB?oc=5)
 - **2026-10-08** — Business Wire — [Reinsurance Group of America Announces Third Quarter Earnings Release Date, Webcast](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWxQRHVEY2xMZGtCemFHSk9LMmM4ZHdEcjh0cEliVHEwT2RtYm5qeEJMSFVhZnc2WGZ5bkhGVzJKVW1NM2owZGs0a2xoVjBxdEQtcjNLX3g1V0tjTWp5SE4zWXVFZW90cTZSVFQ4TWFUQ2NOZVlOdTdQQ1FYWUlqNktuNUhfc0pPRDZzSEEzdW5vOGpFUnVHOFF2Z29tYS0wMFliNDVJSVNHRnIwVkNKYmRiMmpRSy1sV2x6aTVvb1J6OHo5N1MwSDFjVzZvRUxnTXR1Nm9n?oc=5)
-- **2026-10-08** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Sets New 1-Year High - Here's Why](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUs5TF9ObG9wcUFjQ3BUQms5UW82cmJMODk0clR3ZUxpbUdYekhVd2xUeE4wZWtnaXhndi1GTzBhQlNkN3BJODI1RXozSHYzOUd0ZkNJekxCbzNBSHRTYWJZUGh0a0NTYkZjeGxIa2lzQ0xSc2FlV0dlNlpzVXVPWjdsejh1QnFoMXVnT3VqYjF4T05ZRmFIN2pKbHZOZzQxbWhiN25tMDNpeXVhb1pRNnBIRkg5bThULVZkVUVWNmR3NDJOd2hr?oc=5)
 
 _No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Aspida, Kuvare, Sagicor, Catalina_
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T11:56:29Z",
+  "updated": "2026-10-14T17:13:20Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,23 +8,63 @@
   ],
   "items": [
     {
-      "id": "6a4ab355f8ee",
-      "title": "Beyond asset gathering: Why institutional investors should look at speciality insurance",
-      "source": "Alternative Credit Investor",
-      "date": "2026-10-14T09:43:43Z",
+      "id": "38a82d7c8ce7",
+      "title": "Private Equity\u2019s Growing Role in U.S. Life Insurance",
+      "source": "The American Action Forum",
+      "date": "2026-10-14T15:14:02Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczU0S0hCNmdzUkNpMFNOdF85cGtaekRqOExEdHZVbko3SUFIeVp3RmVaT2NsNzAzZlZSVWlkaW5CQTIzQ2QxcF9XNFg2OG5oMFJVNzRYV2VCaDVMQ3lUVWV2Vl8zUnJSaHk0RWY3Uk8yTTNnZmNZYWpRSXlucDdwaGNBM1luOEp1QW55bkRLRE51RHdneHVTOXZvVQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "4f74c174df63",
+      "title": "Private Equity\u2019s Growing Role in U.S. Life Insurance",
+      "source": "The American Action Forum",
+      "date": "2026-10-14T15:14:02Z",
       "topic": "Insurance AM",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUXBMbk9OandNR3R6Mmo1Y2ZZY2F2MXI5aWNoOVhQZEJfRHRtdV9fdG8tckdadVR6aC1oWmQ5VkRNRENDWk5kNElYcVVDUWVfT0VIRE9OdTJvSXE1eV8yZk5Yc1h2dzM5TFJYeDNzakRLYlFwWlpHeEJFZnNNbVp0NDJ4LWFIOU1QaFhNcFRDRUg4RkxUTUlxaEY3VnE2dm1aNklvOFAwWjdieks1OXpnbnZOSWNBajBWaDhhX3RJVEpJa0NaYy1vdjhtdDNpdldT?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczU0S0hCNmdzUkNpMFNOdF85cGtaekRqOExEdHZVbko3SUFIeVp3RmVaT2NsNzAzZlZSVWlkaW5CQTIzQ2QxcF9XNFg2OG5oMFJVNzRYV2VCaDVMQ3lUVWV2Vl8zUnJSaHk0RWY3Uk8yTTNnZmNZYWpRSXlucDdwaGNBM1luOEp1QW55bkRLRE51RHdneHVTOXZvVQ?oc=5",
       "isNew": false
     },
     {
       "id": "5d58e4acaad6",
       "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
       "source": "WSJ",
-      "date": "2026-10-14T05:53:13Z",
+      "date": "2026-10-14T14:36:12Z",
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmlZQ2ZqUDhpS2pheVNOZTBWSUhPMGNNbWJIcEVkdDRJUFpEOHhTUmY3OWN2R095YUR5ZXIyUXN5RWw2MzA2OVgzeXNlTThTRVh1WTJZLVRoREl6T3g4UlVUN3JMLWFKRmpBZzFqMEtWVDdGb2FrdGlfR2QwZ0ItQ3NXRVVBb1RGOWZjVDZpTmpabnpqeTFXbWpnN1ZkSmoxRDQ0dVZMQQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "13620961942f",
+      "title": "New York Life Investment Management Expands Insurance Solutions Capabilities",
+      "source": "FinancialContent",
+      "date": "2026-10-14T13:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ0MzLWpCWlI1bjA1Z0hkaWpFaWxjZzFRN25WLUNWQ2pvenlFVkwzYWU5U2hXQldUX0hIVTdnUDdoNUh2MW9HY3dEbnNkVXA2ZzBaOUZuOGpJVWo1T0pqaG00MW1Ya0VXQkZzTXQzV3RQRlQtcHNOSEFWcUJ2ZGlLZ2xlRHMtekp2ampTR2tTVmtXdlQwa3NHYUpmQzVlajdvUXI0aTBKWk9PZmlLUnRjT3htbE4xcUgwVWp5b1NMczlpdTdyYzl0VFpxVFdjX3c0VWc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "6a4ab355f8ee",
+      "title": "Beyond asset gathering: Why institutional investors should look at speciality insurance",
+      "source": "Alternative Credit Investor",
+      "date": "2026-10-14T12:33:06Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUXBMbk9OandNR3R6Mmo1Y2ZZY2F2MXI5aWNoOVhQZEJfRHRtdV9fdG8tckdadVR6aC1oWmQ5VkRNRENDWk5kNElYcVVDUWVfT0VIRE9OdTJvSXE1eV8yZk5Yc1h2dzM5TFJYeDNzakRLYlFwWlpHeEJFZnNNbVp0NDJ4LWFIOU1QaFhNcFRDRUg4RkxUTUlxaEY3VnE2dm1aNklvOFAwWjdieks1OXpnbnZOSWNBajBWaDhhX3RJVEpJa0NaYy1vdjhtdDNpdldT?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "918aea258ca2",
+      "title": "Rising bond yields, softer labour data buy central banks time",
+      "source": "RBC",
+      "date": "2026-10-14T00:40:57Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0twUTJIZHRYeTMtRXBKU3JKWExlVkFhMDM4QjJTOWhETmtVYlNOdmVQOUVtd0M5VzdYOFdJVVM2UXFaSVl6TWhzSDJMRkhGTnFuMUF3RFZrR1dXTFpzWDJya2Ruc1VKWTZYbDdJc3JuRUYxUUVIMmljSWx3NldzRk1LV1hORTMwejkyLVM0YkFXS0F2aGJjVzV3c19vYldJdGJPXzI0VG1DRmJBQU1sTWdEMHZHbTI0LXBUM3FBdGowQlkxZ05LRkN3cmFScWoxZVU0WkE3RzloS0tR?oc=5",
       "isNew": false
     },
     {
@@ -258,53 +298,13 @@
       "isNew": false
     },
     {
-      "id": "5e31c8cd4c06",
-      "title": "What Can the ECB Do About Rising French Bond Yields?",
-      "source": "Morningstar",
-      "date": "2026-10-08T09:53:14Z",
+      "id": "73c7bd937b07",
+      "title": "France Is Veering Toward a Potential Debt Crisis, a Warning to the World",
+      "source": "The New York Times",
+      "date": "2026-10-08T12:44:55Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGZlQk5LbmtfdVhxYnEtZ0lFRUJXYXNScnJoZXl2QTFia01PWTlUM05IejVWZ0g0QXhNQlNCTVhDSTVIMGZLQ1pJNlEyT3N0V0d6ZjVlZVU4WW1KQU11cEFQbmtwb0llb2JuOEtwY3M0OWZ2blRfR19hdUdVaXZmUWh4UVF6engyeHFTZTA2WWRmY1RE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ff7037130c36",
-      "title": "Turbulent bond markets threaten some countries more than others",
-      "source": "The Economist",
-      "date": "2026-10-08T09:18:47Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjFtakF0dVVSX04tTGE4NVZiUXZoYlRiNUtnMjJ4QlpWYVRHQVp1d3pwWUFPMThRczA2bC1yR0l3OTExWjRBbU14YU9wekZrLW5ucFNFajd1bEkzR2Zrci1lcmUxN295SzVnbFBzTHg2OURnTEh2ZlRCa0RRd1NMN3U0Q2YyYmRZUk9oXzZ0NVMyNi1CaVg4ZVo3bC0tRWJHNVdKcUp4NS1tUjBiMkE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "1340feb0a9b2",
-      "title": "The countries most threatened by turbulent bond markets",
-      "source": "The Economist",
-      "date": "2026-10-08T09:18:47Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemZPTlh5bERBWHdGTGRNXzNNeUhKb3J6NlpHcnctMExDSWgxRDlsQzM2NEZucXVPZmlkbmhHVS1lUUsyV3FwOElhVjltMmlGUWtsUndHVDhfbUhCWVR1YXhNbHVreHhZcHVyUmlIaGEwWEdYa21ROVV1aGRPSGJQZ0dVSlVMczZlcTVpVjFYQ0ZxVVJwREdpWkVwamV0T2oxVldv?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ec7d8df1914f",
-      "title": "India rate hike will not stem outflows, leaving central bank in a bind",
-      "source": "Reuters",
-      "date": "2026-10-08T07:38:10Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVBjWTFiR1RZdnhQNE5wYXN4RFlPcUp5UnlfaFJ5VG5EVV9zbVBfQmM0ZlNiYjBSN1NFbkhkOWdrUFRjX3c2bU94cjk1VzhnQzFZejZfeTFDZmFMQ05lSUIyZEJBYk80bWJhUGpTSDlCaXFfT3R0bGVBcktLeFVvdGh5SllEX3NGSFhNbm5VNVlWOFNRRlJ0VWJpMzFBb1hndkIxMGVMc2NNVFlpd0h1YWtB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "80ea05be83e9",
-      "title": "10 of the Best Wealth Management Firms: Well-Known Fiduciary Investment Companies to Consider",
-      "source": "WSJ",
-      "date": "2026-10-08T07:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm1FXzF6ZHlObFJPRU9BV0ZObm80ejVBT3pfTTZlR1pHMUg1a1RORi1UcURrbkZkdG1jbDROS2ltOHpDYVlXN3lfLTlTNEh0Z3l1UThwMm05R3NFUUlZLUdTNFpDQUJtWk55aWlEUEFnNHFPLWJsVjNvTk40YVhZN01Jd0hzcm5jRTJSSkpyUC10VlA1TERB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrV1c1dW9EZFlGZXVJME9HLS1NR3F2QXM1cG1Ec2ZaZGgwNWpRVDZST0oydVhzQ0s0RkhCU1BUM3hvVmYwSkRGUE5zd0ZqczQ1NEhYTUQwdzFIdXNhekhtUngzU205WnFKSzBNMFZ0SGdtNEJUbHc?oc=5",
       "isNew": false
     }
   ]

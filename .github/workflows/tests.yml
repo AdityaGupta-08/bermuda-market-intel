@@ -36,6 +36,7 @@ jobs:
         run: |
           python scripts/test_commodities.py
           python scripts/test_pipeline.py
+          python scripts/test_reinsurer_spreads.py
 
       - uses: actions/setup-node@v4
         with:
@@ -43,8 +44,11 @@ jobs:
 
       - run: npm ci
 
-      - name: Annuity engine tests
-        run: node scripts/test_annuity_moneyness.mjs
+      - name: Front-end module tests
+        run: |
+          node scripts/test_annuity_moneyness.mjs
+          node scripts/test_ticker_tape.mjs
+          node scripts/test_reinsurer_spreads_ui.mjs
 
       - name: Build
         run: npm run build

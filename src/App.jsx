@@ -7,10 +7,12 @@ import {
   Shield, Newspaper, BarChart3, ChevronRight, ExternalLink,
   Clock, RefreshCw, Activity, DollarSign, Percent, ArrowUpRight,
   ArrowDownRight, Minus, AlertTriangle, Loader, Landmark, TrendingUp, Gem,
-  Copy, Check, Layers, Gauge
+  Copy, Check, Layers, Gauge, Building2
 } from "lucide-react";
 import structuresHtml from "./reinsurance_structures.html?raw";
+import TickerTape from "./TickerTape.jsx";
 import AnnuityMoneynessSection, { AnnuityMoneynessTile } from "./AnnuityMoneyness.jsx";
+import ReinsurerSpreadsSection from "./ReinsurerSpreads.jsx";
 
 const PLATFORM_NAME = "GENESIS";
 const TOOL_NAME = "GENESIS // CORE";
@@ -1424,10 +1426,11 @@ const PAGES = [
   { id: "sofr", label: "SOFR", icon: TrendingUp },
   { id: "credit", label: "Credit Spreads", icon: Percent },
   { id: "cds", label: "CDS Spreads", icon: BarChart3 },
+  { id: "pe_reinsurers", label: "PE Reinsurers", icon: Building2 },
   { id: "news", label: "News", icon: Newspaper }, { id: "bma", label: "Regulatory", icon: Shield },
   { id: "structures", label: "RI Structures", icon: Layers },
 ];
-const FILES = { ust: "ust.json", jgb: "jgb.json", gilt: "gilt.json", eiopa: "eur.json", india: "india.json", credit: "credit.json", cds: "cds.json", sofr: "sofr.json", bma_rates: "bma_rates.json", commodities: "commodities.json", debt_maturity: "debt_maturity.json", news: "news.json", regulatory: "regulatory.json", inflation: "inflation.json", myga: "myga_spreads.json" };
+const FILES = { ust: "ust.json", jgb: "jgb.json", gilt: "gilt.json", eiopa: "eur.json", india: "india.json", credit: "credit.json", cds: "cds.json", sofr: "sofr.json", bma_rates: "bma_rates.json", commodities: "commodities.json", debt_maturity: "debt_maturity.json", news: "news.json", regulatory: "regulatory.json", inflation: "inflation.json", myga: "myga_spreads.json", reinsurer_spreads: "reinsurer_spreads.json" };
 
 // ── Source health (data/source_health.json written by the pipeline) ──
 const HEALTH_COLORS = { active: "#4ade80", fallback: "#fbbf24", stagnant: "#f87171" };
@@ -1527,6 +1530,7 @@ export default function App() {
       case "sofr": return <SofrSection data={data.sofr} loading={ls.sofr} error={errs.sofr} />;
       case "credit": return <CreditSection data={data.credit} loading={ls.credit} error={errs.credit} />;
       case "cds": return <CDSSection data={data.cds} loading={ls.cds} error={errs.cds} />;
+      case "pe_reinsurers": return <ReinsurerSpreadsSection data={data.reinsurer_spreads} loading={ls.reinsurer_spreads} />;
       case "news": return <NewsSection data={data.news} loading={ls.news} error={errs.news} />;
       case "bma": return <RegulatorySection data={data.regulatory} loading={ls.regulatory} error={errs.regulatory} />;
       case "structures": return <StructuresSection />;
@@ -1631,6 +1635,7 @@ export default function App() {
           <span style={{ color: "#60a5fa", fontFamily: "monospace", fontWeight: 700, fontSize: 14 }}>{clock}</span>
         </div>
       </div>
+      <TickerTape data={data} onNavigate={setPage} />
       <div style={{ flex: 1, overflow: "auto", padding: 20 }}>{renderPage()}</div>
       <div style={{ height: 28, padding: "0 22px", borderTop: "1px solid #1a1d23", background: "#0a0c12", display: "flex", alignItems: "center", justifyContent: "space-between", fontSize: 11, color: "#475569", flexShrink: 0 }}>
         <div style={{ display: "flex", gap: 16 }}>{ust10y != null && <span>UST 10Y: {fmtY(ust10y)}</span>}{jgb10y != null && <span>JGB 10Y: {fmtY(jgb10y)}</span>}{gilt10y != null && <span>Gilt 10Y: {fmtY(gilt10y)}</span>}{india10y != null && <span>India 10Y: {fmtY(india10y)}</span>}{sofrRate != null && <span>SOFR: {sofrRate.toFixed(2)}%</span>}{igS != null && <span>IG: {igS}bp</span>}{hyS != null && <span>HY: {hyS}bp</span>}{data.cds?.sovereign?.us_5y?.spread != null && <span>US CDS: {data.cds.sovereign.us_5y.spread}bp{data.cds.sovereign.us_5y.source === "cache" ? " (cached)" : ""}</span>}{data.commodities?.usdinr?.spot != null && <span>USD/INR: {data.commodities.usdinr.spot.toFixed(4)}</span>}</div>

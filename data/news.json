@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:05:17Z",
+  "updated": "2026-10-14T21:46:35Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "5e30bf497cd4",
+      "title": "New York Life Investment Management Names Rupal Shah As Head Of Insurance Solutions",
+      "source": "Pulse 2.0",
+      "date": "2026-10-14T20:03:04Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEFCZlpHTEdNNkMyazlRT200OWt4N01OX2dFUWN0UHBibkh1eTVaUFk3MTdianBBVWhlbmlNZHAxZGJkVC1KX1J4dmVVZVBZUElQOUtQXzE0X01wUmYtRlFRUllYbzRDOWx4S0RNb2xOX2lBdmtTaU5XRjBiQzVXMnpRampYRERHSDBzTFhyUloyUmtwZW82VDd3eWwyUUtjNklUdkNn?oc=5",
+      "isNew": false
+    },
     {
       "id": "ec191a769464",
       "title": "New York Life Investment Management Appoints Rupal Shah Head of Insurance Solutions",
@@ -295,16 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelFoREFpenVyLXlLd0c0ZG1ZVU8zSF9SVkpEdmpNLXE5N3J5V043dVVOVVlINGlpdlQ2dEVRbzlQRUJTcU0yV2VpM3Jsd0I0SjhsTElzQ2pKOW9qMC1YcFZBeE1tNlItYWUtV2lsUnBieFpxRVRHbENMbjNPTlFNcjNqR29CUzNQR0pUTmxLMDBKdzdoeVNOLW9XSlBIUjlPdEFMNmZVNXNodlh2OUt3?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "348b65b283f0",
-      "title": "AI Debt Is Flowing Into Assets Insurance Regulators Struggle To Track",
-      "source": "Forbes",
-      "date": "2026-10-08T15:25:34Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdHlBSGFLU3NTbG9hOTZWX3NfN0I4RURKX2xnVU5vQXhHR1o0TGo4dnYxcWtNVWFSMVdDZ1RLUVZlNkhlMFJubnR0ZW0wSzBxb3pLTjBEUU9MS2N4eWdqTXp3aGpYT2RzWjlOTEFpQTRnbWtYVDRycS1pSzFyRTd3QmZSaHZtV01yMTRwdm14UENJdTBjcFZ5eHhUVHlsZU03TFdNSVFKRHExc3ExZG1ycW9oWDRWQm9Wemw0Y0RoNXg?oc=5",
       "isNew": false
     }
   ]

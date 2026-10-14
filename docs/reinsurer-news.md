@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 28 items
-Generated Wed 14 Oct 2026, 14:13 ADT
+Generated Wed 14 Oct 2026, 14:34 ADT
 
 ## Feed status
 
@@ -38,7 +38,7 @@ Generated Wed 14 Oct 2026, 14:13 ADT
 - **2026-10-02** — Reinsurance News — [Lincoln closes $6.3bn reinsurance transaction with Talcott](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdU03OWtNbVVla1BZaDlYOTRfbjdkTEpNV2FkMEN5VUFoWHN4SE9oUVd2dFZ4Y25VUXZoTDZaTlh5QkpHN3FfYVp3YWR3T0RVTnYwODByT2k3QlZETW0wa0syQTdkR1dRREhGbjJCM0hkWExzOEtsTUQ2YVB1aXRVcURZVGM3QkVFZDV3U3VsekY?oc=5)
 - **2026-10-02** — Royal Gazette | Bermuda — [Talcott closes $6.3bn Lincoln Financial deal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTJKR2ZYLWdrZElGM2xoMmswUk5CWmhHSmk4WklCaVZwQ1ZQNGxwWWJIc0xlMkpqMVBIYUtvNWhiRk85M1REMU1PdU9tY2JHZF9NWkRRd0lBUTJ0MGJYaEpaX0dJaVU1eHdCY19BUGY5bzI1dG1IZDg0RU14ZHFqV3FZSUl3NjZZWl8zVkNBWW5KY3FqaGVJRFNYUUVMVGN6cFZVVDlMZzdnaGxpQlZSaQ?oc=5)
 - **2026-10-01** — Yahoo Finance — [Lincoln National Reports Closing of $6.3 Billion Reinsurance Transaction With Talcott](https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXZEa3g5UWxMbWdsU1JHdklJbl9obXJoRk56QkNXbHZNaXdIZmhhcExMSW5velk1UjRvMTl6RGlMTnZsUGdtTnBuRVdvX2ZTM0g5TEhSbHp5YTFWeWxDS0ZwdTBESk5GNXNfUndhYnEyZWdoLW1yTHd4WE16MWEycUdFN18tZ1FrSTdaNVFBb1VNeXVZdVhYaWVtUEN6cllH?oc=5)
-- **2026-10-01** — Yahoo Finance — [Lincoln Financial Closes $6.3 Billion Reinsurance Transaction with Talcott](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUl0cW5SX2VndmFNV01qOC1GdjA3M3hKc0lCZWxjMXg1X2pkTGt5TDhVMWcwSUFmWFliRk93U29LaFlnMU1YQ18za0czSnQyQmw2ckN1amVzeFQ3R3BWTVF0RmdTZmxucXQ3SE93QWtGcDB0QlZQQ2hIRGduQ25pNXg1Rm5URGNNdjFzbmZBZVRzM3hZMlJWdA?oc=5)
+- **2026-10-01** — Business Wire — [Lincoln Financial Closes $6.3 Billion Reinsurance Transaction with Talcott](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTduSjdDbGM0TlBraGUyTjl0Y0hWODNGWEZ0YTV0VERaX0xNWm85cVVmeXdxWFlXeWRHOXBtT1hjbHpnSW9SWGlNLTVsSE1GMkMtSWw0dmE5QVppNXBKdjFYS2E1Y0tXLTJ5djdvUEVmU3U4UUhsYmVuTXo5SW1zTlQ3ZXFvY3BIbk9KZkszQmFLcU5sU3B1SWt5bjlqb1lFV0tIVnh3akVvaHpaRGo5ZjNNTHdBZGtCVFhjSTRMcEJlZEp4NTFOc3VKaklXUQ?oc=5)
 
 ## Venerable
 

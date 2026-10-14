@@ -1,0 +1,129 @@
+{
+  "updated": "2026-10-14T17:34:49.995853Z",
+  "quarters": 12,
+  "parser_version": 1,
+  "companies": [
+    {
+      "key": "athene",
+      "name": "Athene",
+      "owner": "Apollo",
+      "cik": 1527469,
+      "source": "Athene quarterly financial supplement (Form 8-K exhibit)",
+      "definition": "SRE: pre-tax operating earnings of the retirement business excluding market volatility and non-operating items, net of financing costs. Net investment spread: SRE divided by average net invested assets, annualized.",
+      "metrics": {
+        "earnings": {
+          "label": "Spread related earnings (SRE)",
+          "unit": "usd_m",
+          "points": []
+        },
+        "spread": {
+          "label": "Net investment spread",
+          "unit": "pct",
+          "points": []
+        }
+      },
+      "status": "error",
+      "note": "RuntimeError: SEC refused the request (403) \u2014 set the SEC_USER_AGENT secret to 'Name contact@example.com': https://data.sec.gov/submissions/CIK0001527469.json",
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1527469",
+      "_state": {
+        "processed": {},
+        "points": {}
+      }
+    },
+    {
+      "key": "global_atlantic",
+      "name": "Global Atlantic",
+      "owner": "KKR",
+      "cik": 1404912,
+      "source": "KKR quarterly earnings release, Insurance segment (Form 8-K exhibit)",
+      "definition": "KKR's Insurance segment (Global Atlantic) operating earnings: net investment income less net cost of insurance and G&A, after tax and noncontrolling interests. KKR does not disclose a spread percentage.",
+      "metrics": {
+        "earnings": {
+          "label": "Insurance operating earnings",
+          "unit": "usd_m",
+          "points": []
+        }
+      },
+      "status": "error",
+      "note": "RuntimeError: SEC refused the request (403) \u2014 set the SEC_USER_AGENT secret to 'Name contact@example.com': https://data.sec.gov/submissions/CIK0001404912.json",
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1404912",
+      "_state": {
+        "processed": {},
+        "points": {}
+      }
+    },
+    {
+      "key": "brookfield_ws",
+      "name": "Brookfield Wealth Solutions",
+      "owner": "Brookfield",
+      "cik": 1837429,
+      "source": "Brookfield Wealth Solutions quarterly results (Form 6-K exhibit)",
+      "definition": "Brookfield's distributable operating earnings across its annuity (incl. American Equity), P&C and life businesses. Not a spread-only measure; no consistent spread percentage is disclosed.",
+      "metrics": {
+        "earnings": {
+          "label": "Distributable operating earnings (DOE)",
+          "unit": "usd_m",
+          "points": []
+        }
+      },
+      "status": "error",
+      "note": "RuntimeError: SEC refused the request (403) \u2014 set the SEC_USER_AGENT secret to 'Name contact@example.com': https://data.sec.gov/submissions/CIK0001837429.json",
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1837429",
+      "_state": {
+        "processed": {},
+        "points": {}
+      }
+    }
+  ],
+  "not_covered": [
+    {
+      "name": "Prismic Re",
+      "detail": "Private Bermuda reinsurer launched by Prudential Financial (20%) and Warburg Pincus (15%). Prudential accounts for its stake under the equity method and discloses related-party reinsurance balances, but no Prismic earnings or spread."
+    },
+    {
+      "name": "Fortitude Re",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Wilton Re",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Resolution Re",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Talcott",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Venerable",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Aspida",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Kuvare",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Somerset Re",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Martello Re",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Monument Re",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    },
+    {
+      "name": "Catalina",
+      "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
+    }
+  ],
+  "note": "Company-defined non-GAAP measures; not comparable across companies. Each value links to the SEC filing it was read from; where a later filing restated a quarter, the newest figure is shown."
+}

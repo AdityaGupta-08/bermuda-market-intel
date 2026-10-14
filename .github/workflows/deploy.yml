@@ -53,6 +53,13 @@ jobs:
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
 
+      - name: Fetch PE reinsurer spread disclosures (SEC EDGAR)
+        run: python scripts/fetch_reinsurer_spreads.py
+        continue-on-error: true
+        timeout-minutes: 5
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+
       - name: Fetch news & regulatory updates
         run: python scripts/fetch_news.py
         continue-on-error: true

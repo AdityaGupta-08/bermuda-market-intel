@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:34:54Z",
+  "updated": "2026-10-14T19:05:17Z",
   "naic": [
     {
       "id": "701877cdf43f",
@@ -254,6 +254,16 @@
   ],
   "bma": [
     {
+      "id": "e8c6fa480189",
+      "title": "Bermuda investment funds - Summer 2026 update",
+      "date": "2026-10-14",
+      "cat": "Investment",
+      "summary": "",
+      "source": "JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXZXbE1FbTl5ZzR5ZVA3TURPelZGYTRmZEE3ODZZbXFmVWFZcU9qZGxCbGxzLTNmTUVzMkh6VEJPRll6b0dza2EyaWFZbmQ5SE8xOWVHeUtQVzJfRW9JQ1VoeGtZamxmUnM5QlI3YVB1U085VlQ3bkpMdlE0c19uSlNsempHdw?oc=5",
+      "isNew": true
+    },
+    {
       "id": "1a0eb2700578",
       "title": "BMA sets out first phase of commercial insurer resolution regime",
       "date": "2026-09-24",
@@ -491,16 +501,6 @@
       "summary": "",
       "source": "Captive International",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbENnbmtsM0pnWjdtZWFkeXNXVUVTQ2x4N1Z0SlI4YmJhRTFtdUpRWDBEWTBkcnp5WEJGejBLdkZJWmxYQk9oTWMxM09FblYzQXo5eG1BNWg4V2hNdk5SaXd5MUxHVWF3b1pwQnBBWDN1c1BPa3VVeXN5eW5mUkRqdTJoMA?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "0d992566e74b",
-      "title": "BMA launches consultation on use of stablecoins",
-      "date": "2026-07-21",
-      "cat": "General",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHZNOGJEMWdLZTRNYjl3V1RYTmotWmdRVHV5aHpiOWxHNXdMZkEyOGRHb1RNUVB4T1pES2ZoSmczUGtHM2dwQ3hqVnV4LUw2T0pLR3NZOGtVSVNqdDdIWlNCeUhXQTVtOFF2VTdVVjlyMlk4VGZMR0JCOHlnNWJGQzR4S1pTWGJTYmhZWktVYnRKbkZBdDd4SEFKWWF5bUVQd3p2S0xFTXFMTkJXRENOZWFDMlVjUQ?oc=5",
       "isNew": false
     }
   ],

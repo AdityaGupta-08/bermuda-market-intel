@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:34:54Z",
+  "updated": "2026-10-14T19:05:17Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "ec191a769464",
+      "title": "New York Life Investment Management Appoints Rupal Shah Head of Insurance Solutions",
+      "source": "citybiz",
+      "date": "2026-10-14T18:58:14Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTNLT0tqb21za25vaDRvbURZQUg5WVFBQWV1MTk4MEhYY085dFEwa1VzdHdNRkJnUzdMTjZWUUpFcGEyWVdCVWxkZTZxYmp1V3NPV2owWEtGRTR3X3NzMkVNTDFxYWVGdkFzdkdySHNaMjdRRjZpS1hRS1FCZHFKaEtOMmxsRDZfbUgybE9JdS1YM25VVHBrN041VThhTkt2NEU1eEVhcHFEWGRleWhRcU5EVXhyWWVfX2VocU5Iaw?oc=5",
+      "isNew": false
+    },
     {
       "id": "38a82d7c8ce7",
       "title": "Private Equity\u2019s Growing Role in U.S. Life Insurance",
@@ -295,16 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdHlBSGFLU3NTbG9hOTZWX3NfN0I4RURKX2xnVU5vQXhHR1o0TGo4dnYxcWtNVWFSMVdDZ1RLUVZlNkhlMFJubnR0ZW0wSzBxb3pLTjBEUU9MS2N4eWdqTXp3aGpYT2RzWjlOTEFpQTRnbWtYVDRycS1pSzFyRTd3QmZSaHZtV01yMTRwdm14UENJdTBjcFZ5eHhUVHlsZU03TFdNSVFKRHExc3ExZG1ycW9oWDRWQm9Wemw0Y0RoNXg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "64982ffa0cae",
-      "title": "When Asset Managers and Insurance Companies Become Entangled",
-      "source": "www.lifehealth.com",
-      "date": "2026-10-08T15:14:18Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFNnY0lmREVTWDA4RDJCRmQ4RHBOUjh1S2tYbTh6eE1VLTU2a2tOaWJpOFloRjd6anQ0Z2FWRm83X19SZ205dlFmNndIQWFQc3JvUS1IV183QnU4WjhsaGhzWExMOVFTblN5LU5udnp4d2VKcFdXV1MzYjVpTTFJT0I2d25IMkNDTWhGWWxwREhTUQ?oc=5",
       "isNew": false
     }
   ]

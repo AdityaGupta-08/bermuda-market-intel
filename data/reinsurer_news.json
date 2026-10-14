@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T22:47:56Z",
+  "updated": "2026-10-14T04:57:14Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 21,
+      "count": 20,
       "error": null
     },
     {
@@ -129,7 +129,7 @@
       "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "source": "Pensions & Investments",
-      "feed": "Google News: Athene",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-10-13T13:00:00Z",
       "summary": "",
       "companies": [
@@ -199,10 +199,10 @@
     {
       "id": "9e0a35ca35eb",
       "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVVZXVmxhZ254QmlxZldRZzBKVUdwejdOUDl4cGNJM0ZhV3RmZm96cDVkbzVGRmRSaFhSUVJlNkFKMS01R1cxdXhFd3kzOHdL?oc=5",
-      "source": "Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0bUVidjhaNWJ5R1BPVG92MEItV015SGVya0h2RHJ4NHJET2lNZWpXSFlqU1VqWldiSnRPTVFneXloc3RMcmpCS3VaNVVTWnU3?oc=5",
+      "source": "Yahoo Finance Singapore",
       "feed": "Google News: RGA",
-      "date": "2026-10-10T03:30:12Z",
+      "date": "2026-10-10T07:02:23Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -235,8 +235,8 @@
     {
       "id": "c75a8736568d",
       "title": "Reinsurance Group of America, Incorporated (RGA) Hit a 52 Week High, Can the Run Continue?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUVka25wRlNRWkcyYWF4N1FJWTRWT0FTaG4yTGV1elA3ZjI1Y3NJcGhYOThpRFhHNTlscXNUMm5CMGJmNXc0bXNGWlZPOGh0RVd4cjl6SHFZcFVoRUp6d0FHOXo1MUY4YXRBeDVsaDY4WW5Lc2VsTHFwd3VtaW13ZDdPaFB0MVBJbi1iUS11bnAycUpQelE?oc=5",
-      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjVuZGVKSnhudndIcWNObUh6RXVzUFBhaVRYQWlLZFpkWmNOMVUwbzZnN3dZODIwNmdTMWlXN3h2ZkNrUk1lMV8yWnFWQTFFTlRPd1ljLVJRRHhJUVh2OXVhYS1mUFBQU3BianFHckFOdC1KZUVSWXl1b3lfaGRCUlM5QUpqaEUyWFFCR0xKZEdFaUhrV2ttNG1PemlSbHVOUlFBRW5weGRuUGM?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-10-09T12:15:02Z",
       "summary": "",

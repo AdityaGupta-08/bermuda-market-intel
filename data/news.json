@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T04:57:11Z",
+  "updated": "2026-10-14T11:56:29Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,26 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "6a4ab355f8ee",
+      "title": "Beyond asset gathering: Why institutional investors should look at speciality insurance",
+      "source": "Alternative Credit Investor",
+      "date": "2026-10-14T09:43:43Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUXBMbk9OandNR3R6Mmo1Y2ZZY2F2MXI5aWNoOVhQZEJfRHRtdV9fdG8tckdadVR6aC1oWmQ5VkRNRENDWk5kNElYcVVDUWVfT0VIRE9OdTJvSXE1eV8yZk5Yc1h2dzM5TFJYeDNzakRLYlFwWlpHeEJFZnNNbVp0NDJ4LWFIOU1QaFhNcFRDRUg4RkxUTUlxaEY3VnE2dm1aNklvOFAwWjdieks1OXpnbnZOSWNBajBWaDhhX3RJVEpJa0NaYy1vdjhtdDNpdldT?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "5d58e4acaad6",
+      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
+      "source": "WSJ",
+      "date": "2026-10-14T05:53:13Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmlZQ2ZqUDhpS2pheVNOZTBWSUhPMGNNbWJIcEVkdDRJUFpEOHhTUmY3OWN2R095YUR5ZXIyUXN5RWw2MzA2OVgzeXNlTThTRVh1WTJZLVRoREl6T3g4UlVUN3JMLWFKRmpBZzFqMEtWVDdGb2FrdGlfR2QwZ0ItQ3NXRVVBb1RGOWZjVDZpTmpabnpqeTFXbWpnN1ZkSmoxRDQ0dVZMQQ?oc=5",
+      "isNew": false
+    },
     {
       "id": "e5d2eff30d43",
       "title": "New England Asset Management Named Insurance Asset Management Firm of the Year by Insurance Insider US",
@@ -78,6 +98,16 @@
       "isNew": false
     },
     {
+      "id": "5fa5b8339d3d",
+      "title": "The Sleepy Insurance Product That Came to Power Private Credit\u2019s Ascent",
+      "source": "WSJ",
+      "date": "2026-10-12T07:00:00Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjZXdnJsZlhmRnZ0SHBZay0tVndSaUJ1cHIyVWVrdF9fcFhhZ2ZfWmFtWGN4TUtjNXVDTG5sRHFzVmRrekdMTTE2S3lFTHQwSkprcnN3QVZ0bjFwVDNLMjQ5QzBLSmpVeTlhS0ZpdG5qMmRVcFV1Vk1Ua3pvNTVhT25SN2E4MGwwVUhEQ3drR2lqcHM5OEpBY0pzd2Q1SEE4aXpQdHdNQUhqNVU?oc=5",
+      "isNew": false
+    },
+    {
       "id": "9f3c6e4ffccb",
       "title": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
       "source": "Bloomberg.com",
@@ -135,16 +165,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUt0SUFsMHluT3laV3ZZV3NFRWtLanA2UHFhS3FqR0tZV1Y0MjVaQkxxS2N5VHBzTk5WaGxEWWg5bFRRMm9qY3ZWc1lKeDBOSkZEdHRUVDg0RmpCRi14QlhCSUdvREVUSW5FQmV1VFphQkx5SGtIZFpISm1hRGtHVWdUNExiaWc3SEhDS09ieTJlczhkZ1E0ZE1iZGN6cFAtLVdnTkI3c29RZ3l5?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "5d58e4acaad6",
-      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
-      "source": "WSJ",
-      "date": "2026-10-09T15:58:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmlZQ2ZqUDhpS2pheVNOZTBWSUhPMGNNbWJIcEVkdDRJUFpEOHhTUmY3OWN2R095YUR5ZXIyUXN5RWw2MzA2OVgzeXNlTThTRVh1WTJZLVRoREl6T3g4UlVUN3JMLWFKRmpBZzFqMEtWVDdGb2FrdGlfR2QwZ0ItQ3NXRVVBb1RGOWZjVDZpTmpabnpqeTFXbWpnN1ZkSmoxRDQ0dVZMQQ?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm1FXzF6ZHlObFJPRU9BV0ZObm80ejVBT3pfTTZlR1pHMUg1a1RORi1UcURrbkZkdG1jbDROS2ltOHpDYVlXN3lfLTlTNEh0Z3l1UThwMm05R3NFUUlZLUdTNFpDQUJtWk55aWlEUEFnNHFPLWJsVjNvTk40YVhZN01Jd0hzcm5jRTJSSkpyUC10VlA1TERB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "3f75e2ed9dbb",
-      "title": "2026 Hong Kong Allocator Outlook",
-      "source": "Markets Group",
-      "date": "2026-10-07T20:27:05Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEV3Vi1rT0tiUDR0UFRKNENIcVd0OUlaRkxiVkZBSjFKWno2SjZLc3MxdkJiTlNzYmNmSzc2dU9PQ09NMHBCbXRSYU5jUWFOemtURTVKb0JZSTR5LUxpN0tsOGgxNXQwVTI5UW9VeDcyU2RrdFgwV3V5WWJOU2FrSXFQYmZXeWEy?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8d5198426498",
-      "title": "Long bonds light a short fuse",
-      "source": "RBC Wealth Management",
-      "date": "2026-10-06T20:29:44Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUdGcFpGREdTSHdVUUZSWkROSENvWDAxa250RWdLb014ay1tcFB0VEF6Unp4RHBSSnp2OHlXQzVFQ3pKXzVtODlkX0JqTHRnMEVGZ0RIWXNPcGhJdzdobnVHQnFudGhOVzZ3YjVUU2xNcVo0U1ZWcGoyaTd2WlAzQXRpbGV3NjQ?oc=5",
       "isNew": false
     }
   ]

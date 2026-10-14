@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T04:57:14Z",
+  "updated": "2026-10-14T11:56:33Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 20,
+      "count": 21,
       "error": null
     },
     {
@@ -112,6 +112,30 @@
     }
   ],
   "items": [
+    {
+      "id": "2f7280eca5f3",
+      "title": "Talcott seeks to renew bid for US life insurer Brighthouse",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlJPRkpTSEVrR0lHWEhRYWJGWDRFVXpBa1hQV29lOHAwd1YyQzAxQU5lLUpJSnZ3OE93VzE2Z2VDU3dadm9JX3NHeEpaNnBlMTNMVkdBcGI5dzdUbkVwb1NlS2FIQ0tUVEF4cnUxRHFaM3V1dzIxSG9IbXZONFR0bHg0TEZRTzM1Uy1wdGR3b2VmZUM0Z3VrNGNnR25qSkZnc3JkeFZFRVdQaHcwRUV6RUVWQS15U3ZpVS1rZ3hlNDFiTXFn?oc=5",
+      "source": "Royal Gazette | Bermuda",
+      "feed": "Google News: Talcott",
+      "date": "2026-10-14T11:00:00Z",
+      "summary": "",
+      "companies": [
+        "Talcott"
+      ]
+    },
+    {
+      "id": "cc8ba650400c",
+      "title": "Reinsurance Group of America (NYSE:RGA) Hits New 1-Year High - What's Next?",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjN4b0pFSFg3T1lab2haUU1IQUl3clJiSzAyaFB0TXNCdC1tRndEZ0NnNGJsTC16QlNTcFdYeVRFX0szTFczU0xMa0VUSjRjV281Z09JOU9YemUwZXRvOVV1Y2pxVWRoYWFrdm5FZXdzOHUwS1Q3WnlBbV9uWklaMHhkLTN4YnVXUndVbHBrcFFMRjlERWNfYWE1aWxlTWFmYk5wYkRyZF9ZTS1VNnlqQWhOSVlHUVA2eTJQQkhRaFpteU5FVFpvXw?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-14T09:08:51Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "07e895c423c3",
       "title": "Wells Fargo Reaffirms Their Buy Rating on Reinsurance Group (RGA)",
@@ -245,18 +269,6 @@
       ]
     },
     {
-      "id": "1afa5ded1043",
-      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0JzVnhDeDIwYTA0U25SSjQ4TGhNaEhFSVdRSW9ZU1lTQXh6Z2FhcWszUFBVQ0QwcHVMZWxLTVRqMXZvMkt5OXIwN1ZoQVZwYkc5R2RURXhvQ19GbmIweVUzT0R3RUdOemFIZWU2VERLYlprUVJmYnJYQXp2ZmRaZE0yQzRUaTl4cDJLOGd3WHNwOFU?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-10-09T09:32:40Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "afbea86eda49",
       "title": "Reinsurance Group of America (RGA) Stock Price, News & Analysis $RGA",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRd19Scl9UZ2dsdkpPSTVZMjN1TTlKUmdoQVN6R3BFcGlCTFMwZF9XbDZjVlBNQ0RIRHIyQVZybk9DNzJiZzIyaDBpVVNuR3NDOXVGdHlB?oc=5",
@@ -287,6 +299,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-08T19:17:35Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "1afa5ded1043",
+      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTNiQm1GZlNQSmFPdVNQNXhtaUd0NFBuVjltN1F6Y21vbjBXM1Q2TUV2S3BETVFUT2trWUhwbG9yalFBXzdmbTlma3lVM3BLU2w4YjJzTjZDSWlFVmRHR1J6TDJnRGREWVdiTEo5U0dlOE83ajRxakFRMExYd2FvS3E2V3RFREdPclh3MEw2SQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-10-07T22:23:01Z",
       "summary": "",
       "companies": [
         "RGA"

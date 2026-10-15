@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:38:30.716836Z",
+  "updated": "2026-10-15T21:25:34.321570Z",
   "quarters": 12,
   "parser_version": 1,
   "companies": [
@@ -627,7 +627,13 @@
           "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2025/q4/2025-q4-bws-press-release.pdf": 1,
           "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2025/q3/2025-q3-bws-press-release.pdf": 1,
           "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2025/q2/2025-q2-bws-press-release.pdf": 1,
-          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2025/q1/2025-q1-bws-press-release.pdf": 1
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2025/q1/2025-q1-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2024/q4/2024-q4-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2024/q3/2024-q3-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2024/q2/2024-q2-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2024/q1/2024-q1-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2023/q4/2023-q4-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2023/q3/2023-q3-bws-press-release.pdf": 1
         }
       }
     }

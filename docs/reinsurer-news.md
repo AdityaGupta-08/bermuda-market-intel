@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 27 items
-Generated Thu 15 Oct 2026, 16:38 ADT
+Bermuda life & annuity watchlist — last 14 days — 26 items
+Generated Thu 15 Oct 2026, 18:25 ADT
 
 ## Feed status
 
@@ -37,7 +37,6 @@ Generated Thu 15 Oct 2026, 16:38 ADT
 - **2026-10-06** — Beinsure — [Lincoln Financial closes $6.3 bn Talcott reinsurance transaction](https://news.google.com/rss/articles/CBMilAFBVV95cUxPazg4R3pTQzBVTzh4QnhxdUpvRFZSX2JxYk5la1FlWXB2Z0xWa0E1OE5uVldBLVNFYlhCcUxNaDdxSzlQYmRJSFNVTmNFblBoS3M2eVN0dlZBTnZxTHlaNXNtcnQ1V044NFRoZnRCYUdPSmxucUFDeWpzSGphekZ4a3RQWmFib2hIUWtiVWVYZU9fb1lO?oc=5)
 - **2026-10-02** — Reinsurance News — [Lincoln closes $6.3bn reinsurance transaction with Talcott](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdU03OWtNbVVla1BZaDlYOTRfbjdkTEpNV2FkMEN5VUFoWHN4SE9oUVd2dFZ4Y25VUXZoTDZaTlh5QkpHN3FfYVp3YWR3T0RVTnYwODByT2k3QlZETW0wa0syQTdkR1dRREhGbjJCM0hkWExzOEtsTUQ2YVB1aXRVcURZVGM3QkVFZDV3U3VsekY?oc=5)
 - **2026-10-02** — Royal Gazette | Bermuda — [Talcott closes $6.3bn Lincoln Financial deal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTJKR2ZYLWdrZElGM2xoMmswUk5CWmhHSmk4WklCaVZwQ1ZQNGxwWWJIc0xlMkpqMVBIYUtvNWhiRk85M1REMU1PdU9tY2JHZF9NWkRRd0lBUTJ0MGJYaEpaX0dJaVU1eHdCY19BUGY5bzI1dG1IZDg0RU14ZHFqV3FZSUl3NjZZWl8zVkNBWW5KY3FqaGVJRFNYUUVMVGN6cFZVVDlMZzdnaGxpQlZSaQ?oc=5)
-- **2026-10-01** — www.marketscreener.com — [Lincoln Financial Closes $6.3 Billion Reinsurance Transaction with Talcott](https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWpxOXR5dF9IZDRHWXBWeFZ0ck5ZM3hLbF9FZTRNWU1oOGg0VDBRTWRtU1F6RlFCY3FIZGpjZ3kyRTNNMS02cnNMZHM4S2xjT0hfbE5FOUptSmIyN1YwVUJMUnFPZGl2N1NGTjFYNmFEZGNJbmwyZ1RKazg2WWYtU3ZadGxMNlI1VEFuckxkQ01xdEQ0eEdzLXY1emJYNWZvWGx5Z1gtaHdhRkdYSGV2RjhqTTNpSzJwZGhJYVQ3UDhfcm5p?oc=5)
 
 ## Venerable
 

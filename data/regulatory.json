@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:38:35Z",
+  "updated": "2026-10-15T21:25:37Z",
   "naic": [
     {
       "id": "cb21fa3406cc",
@@ -505,6 +505,16 @@
     }
   ],
   "cayman": [
+    {
+      "id": "f76375888f43",
+      "title": "New CIMA AML Rule and Sanctions Rule: what regulated funds need to consider",
+      "date": "2026-10-15",
+      "cat": "General",
+      "summary": "",
+      "source": "JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUFaeEdfal9ScWxTZFRsT21BT1V5M196WWIyb1owa2o3aWFWdWhEOF9lLW11VzJ6QUxjWlZXaWV4eEQxXzBMcjZkelgwXzBQN0VSRFBYWXo3cUQ0dmJBSWlWLUFhcW0wdUR3VE1TVTJENXl5dVdqajB3VDN1UWlQMjl0RVU4QQ?oc=5",
+      "isNew": true
+    },
     {
       "id": "dc304d4b5e76",
       "title": "CIMA removals hit record high in 2026",

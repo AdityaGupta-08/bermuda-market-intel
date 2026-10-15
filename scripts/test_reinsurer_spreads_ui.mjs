@@ -115,5 +115,34 @@ check("one cell per metric, missing shown as dash", eq(rows[8].values.map(v => v
 check("restated cell shows the original", rows.find(r => r.quarter === "2025Q1").values[0].revisedFrom === "$816m", "—", "$816m");
 check("row links the newest filing for that quarter", rows[0].filed === "2026-08-06" && rows[0].url === "u/2026Q2", rows[0], "2026-08-06");
 
+console.log("\nfallback sources");
+const fbData = {
+  companies: [{
+    key: "brookfield_ws", name: "BWS", owner: "Brookfield", status: "ok", note: "RuntimeError: SEC refused the request (403)",
+    fallback_source: "BWS results release (bnt.brookfield.com)", fallback_note: null,
+    metrics: { earnings: { label: "DOE", unit: "usd_m", points: [
+      pt("2026Q1", 438, { filed: "2026-05-08", form: "6-K" }),
+      pt("2026Q2", 488, { filed: "2026-10-15", form: "BWS results release", source: "release", url: "r/q2" }),
+    ] } },
+  }, { key: "global_atlantic", name: "GA", owner: "KKR", status: "ok", note: null, fallback_source: null,
+       fallback_note: "KKR doesn't post call transcripts on its own site.",
+       metrics: { earnings: { label: "E", unit: "usd_m", points: [pt("2026Q2", 288, { source: "sec" })] } } }],
+};
+const fv = buildReinsurerView(fbData);
+const [fb, kkr] = fv.companies;
+const fm = fb.metrics[0];
+check("series carries each point's source", fm.series[11].source === "release" && fm.series[10].source === "sec" && fm.series[0].source === null,
+  fm.series.slice(-2).map(x => x.source), ["sec", "release"]);
+check("fallback quarters listed", eq(fm.fallbackQuarters, ["2026Q2"]), fm.fallbackQuarters, ["2026Q2"]);
+check("latest figure may come from the release", fm.latest.quarter === "2026Q2" && fm.latest.source === "release", fm.latest, "release");
+check("'latest filing' link only points at SEC filings", fb.latestFiling.quarter === "2026Q1", fb.latestFiling, "2026Q1 6-K");
+check("message explains the fallback, with the SEC error", fb.usesFallback && /couldn't be read/.test(fb.message) && fb.message.includes("403")
+  && fb.message.includes("results release"), fb.message, "fallback message");
+check("fallback source and KKR's note passed through", fb.fallbackSource.startsWith("BWS results release") && kkr.fallbackNote.includes("transcripts")
+  && !kkr.usesFallback && kkr.message === null, [fb.fallbackSource, kkr.fallbackNote], "passed through");
+const frows = tableRows(fb);
+check("table names the source of each row", frows[0].sourceText === "results release (read 2026-10-15)" && frows[1].sourceText === "6-K 2026-05-08",
+  frows.map(r => r.sourceText), ["results release (read 2026-10-15)", "6-K 2026-05-08"]);
+
 console.log(`\n${pass} passed, ${fail} failed\n`);
 process.exit(fail ? 1 : 0);

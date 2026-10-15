@@ -1,2 +1,3 @@
 openpyxl
 tzdata; platform_system == "Windows"
+pypdf>=4.3

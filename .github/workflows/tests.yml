@@ -37,6 +37,7 @@ jobs:
           python scripts/test_commodities.py
           python scripts/test_pipeline.py
           python scripts/test_reinsurer_spreads.py
+          python scripts/test_earnings_materials.py
 
       - uses: actions/setup-node@v4
         with:

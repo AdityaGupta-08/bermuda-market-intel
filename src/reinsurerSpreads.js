@@ -6,6 +6,15 @@
 
 export const QUARTERS_SHOWN = 12;
 
+// Where a figure came from. SEC filings are the primary source; the others
+// fill quarters a filing couldn't supply and are replaced once it is read.
+export const SOURCE_TEXT = {
+  sec: "SEC filing",
+  call: "earnings call transcript",
+  release: "results release",
+};
+const sourceOf = p => (p ? p.source || "sec" : null);
+
 const QRE = /^(\d{4})Q([1-4])$/;
 const isNum = v => typeof v === "number" && Number.isFinite(v);
 
@@ -64,11 +73,13 @@ export function summarizeMetric(metric, axis) {
       quarter: q, label: quarterLabel(q), value: byQ[q] ? byQ[q].value : null,
       filed: byQ[q]?.filed ?? null, form: byQ[q]?.form ?? null, url: byQ[q]?.url ?? null,
       revisedFrom: isNum(byQ[q]?.revised_from) ? byQ[q].revised_from : null,
+      source: sourceOf(byQ[q]),
     })),
     latest,
     qoq: change(latest, back(1), unit),
     yoy: change(latest, back(4), unit),
     restated: quarters.filter(q => isNum(byQ[q].revised_from) && axis.includes(q)),
+    fallbackQuarters: quarters.filter(q => sourceOf(byQ[q]) !== "sec" && axis.includes(q)),
     count: quarters.filter(q => axis.includes(q)).length,
   };
 }
@@ -136,6 +147,9 @@ export function tableRows(company) {
         revisedFrom: c.revisedFrom == null ? null : formatValue(c.revisedFrom, company.metrics[k].unit),
       })),
       filed: src?.filed ?? null, form: src?.form ?? null, url: src?.url ?? null,
+      source: src?.source ?? null,
+      sourceText: !src ? null : src.source === "sec" ? `${src.form} ${src.filed}`
+        : `${SOURCE_TEXT[src.source] || "company document"} (read ${src.filed})`,
     });
   }
   return rows;
@@ -174,17 +188,25 @@ export function buildReinsurerView(data) {
       const metrics = Object.entries(c.metrics || {}).map(([key, m]) => ({
         key, label: m.label || key, unit: m.unit, ...summarizeMetric(m, axis),
       }));
-      const latestFiling = metrics.flatMap(m => m.series).filter(p => p.filed)
+      const latestFiling = metrics.flatMap(m => m.series).filter(p => p.filed && p.source === "sec")
         .sort((a, b) => (a.filed < b.filed ? 1 : -1))[0] || null;
       const hasData = metrics.some(m => m.latest);
+      const usesFallback = metrics.some(m => m.fallbackQuarters.length > 0);
+      const fallbackKinds = [...new Set(metrics.flatMap(m => m.series).filter(p => p.source && p.source !== "sec")
+        .map(p => SOURCE_TEXT[p.source] || "company document"))];
+      let message = null;
+      if (!hasData) message = [STATUS_TEXT[c.status === "error" ? "error" : "no_data"], c.note].filter(Boolean).join(" ");
+      else if (c.note && usesFallback)
+        message = `SEC filings couldn't be read at the last refresh (${c.note}). Quarters without a filing are filled from the ${fallbackKinds.join(" / ")} and marked as such.`;
+      else if (c.note) message = `Last refresh failed (${c.note}); showing figures collected earlier.`;
       return {
         key: c.key, name: c.name, owner: c.owner, source: c.source, definition: c.definition,
-        edgarUrl: c.edgar_url, metrics, latestFiling, hasData,
+        edgarUrl: c.edgar_url, metrics, latestFiling, hasData, usesFallback, fallbackKinds,
+        fallbackSource: c.fallback_source || null, fallbackNote: c.fallback_note || null,
         status: hasData ? "ok" : c.status === "error" ? "error" : "no_data",
         // A failed run keeps the cached figures; say so instead of hiding it.
         stale: hasData && !!c.note,
-        message: hasData ? (c.note ? `Last refresh failed (${c.note}); showing figures collected earlier.` : null)
-          : [STATUS_TEXT[c.status === "error" ? "error" : "no_data"], c.note].filter(Boolean).join(" "),
+        message,
       };
     }),
   };

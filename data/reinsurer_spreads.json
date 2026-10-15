@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:04:02.593830Z",
+  "updated": "2026-10-15T19:38:30.716836Z",
   "quarters": 12,
   "parser_version": 1,
   "companies": [
@@ -195,6 +195,8 @@
       "status": "ok",
       "note": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1527469",
+      "fallback_source": "Apollo earnings call transcript (ir.apollo.com)",
+      "fallback_note": null,
       "_state": {
         "processed": {
           "0001527469-26-000073": 1,
@@ -477,7 +479,8 @@
               "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746923000074/athq32023financialsuppleme.htm"
             }
           }
-        }
+        },
+        "fallback_seen": {}
       }
     },
     {
@@ -497,6 +500,8 @@
       "status": "no_data",
       "note": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1404912",
+      "fallback_source": null,
+      "fallback_note": "KKR doesn't post call transcripts on its own site, and third-party transcript sites are paywalled or bar automated reading, so these figures come from SEC filings only.",
       "_state": {
         "processed": {
           "0001404912-26-000022": 1,
@@ -514,7 +519,8 @@
           "0001404912-23-000017": 1,
           "0001404912-23-000011": 1
         },
-        "points": {}
+        "points": {},
+        "fallback_seen": {}
       }
     },
     {
@@ -534,6 +540,8 @@
       "status": "no_data",
       "note": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1837429",
+      "fallback_source": "BWS results release (bnt.brookfield.com)",
+      "fallback_note": null,
       "_state": {
         "processed": {
           "0001837429-26-000018": 1,
@@ -612,7 +620,15 @@
           "0001171843-23-003175": 1,
           "0001171843-23-002031": 1
         },
-        "points": {}
+        "points": {},
+        "fallback_seen": {
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2026/q2/2026-q2-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2026/q1/2026-q1-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2025/q4/2025-q4-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2025/q3/2025-q3-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2025/q2/2025-q2-bws-press-release.pdf": 1,
+          "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2025/q1/2025-q1-bws-press-release.pdf": 1
+        }
       }
     }
   ],
@@ -666,5 +682,5 @@
       "detail": "Privately held; no spread or operating-earnings measure published in SEC filings."
     }
   ],
-  "note": "Company-defined non-GAAP measures; not comparable across companies. Each value links to the SEC filing it was read from; where a later filing restated a quarter, the newest figure is shown."
+  "note": "Company-defined non-GAAP measures; not comparable across companies. Each value links to the document it was read from: the SEC filing, or, where that couldn't be read, the company's earnings call transcript or results release (marked as such, and replaced once the filing is read). Where a later filing restated a quarter, the newest figure is shown."
 }

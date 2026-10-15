@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:04:05Z",
+  "updated": "2026-10-15T19:38:35Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "4dc7911088c0",
+      "title": "Private credit faces deployment squeeze as fundraising hits record",
+      "source": "Yahoo Finance",
+      "date": "2026-10-15T18:33:33Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkVzMExYd0NWcXRrS1pJV1JadERiWDBPRGM5eHBYZTdyWkt5VXhOYm1QdUhSelg3TmVrRmMtTlA2bmVwSzUyLWxvV01ETTJHS0oyWGRKMXZLUXE3ZHQyN1BDM0Zxc0d0bkFHeEZTX1g2UDdlZTFzcEtoc2lJX2FoTzJ2Z09sLTBaV2V1dU5lRnlIZkdoWVZLaFQ2ZG9tTzQtQ0pTbU5IVQ?oc=5",
+      "isNew": false
+    },
     {
       "id": "f1268ce64722",
       "title": "Will the ECB Raise Interest Rates Again? What to Expect in 2026 and 2027",
@@ -94,7 +104,7 @@
       "date": "2026-10-14T07:00:00Z",
       "topic": "Structured Credit",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONm5Lc1JqY3h2dkxuek9IQnpYU3luYlJfeTRRLWkxWE1TclpZLWtvMHZZQ0VSaTh2YW5BUHlGY01TZW0yZDBXLXJaNWUtRW12aVdqaFVWZDNQVk5lREhkSF9WUTFrT1N4SS1jYVJ3MFkyV3puSC1sTVIzYkVNMGJfd1Y4bVZjRENncTFQNnJtS3JWQ1J6d2o3TTZLV3lmRkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVVBVdUplS3pyWkFMUnlSczRjSFBtLWV5b2RxS0VEd0dtRDZxWU5ibFNuUUNmRnpsVXJQSFJQVHl0MzA0eU93aG5uSmpoTUE1MTF3Q3ZmWGFwV2JsaHlNSU9kOG5HZUhIdEdkZUF5TzgxMlM4ZWotamgzU1RuVnJXa21EUTZ3UW5lcXI3cHRnLTNVZzNjN05aUjBoencyNG8?oc=5",
       "isNew": false
     },
     {
@@ -295,16 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU09zbGxQTTdYMHZEQkY0YlhCZllvTjVpUXF2RDhTWThLNF9rcVFxXzJaT0gzN3dlNzJWRjExQWhfdWNwY2l6WG5MRzEtNWs0MV9IeXBqZjVOd2pja2NZMnpNUHVaLUpuajR3cmUzRFZYXzdXcDNiaDBoOHViZm5ndHhxeFBsWllURllCNkszOE1Db1drdUloMC1ZWlZaVEdYNXc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "62edf94e5f18",
-      "title": "Insurance Syndicates at Lloyd's",
-      "source": "Barclays Investment Bank",
-      "date": "2026-10-09T07:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQkJ0V2NGMmQtek5RR1I1OV9qOXFzcGpZWHlkU0FEdThFMEs3aFBYd0F0MFRjQlBTS3N0YVlZUU5WdWdQLWNwbmpudG5GOFJ5Y0ZsR1hScVFKVzBoYUVfZHlBYlNmbkNQSHFoQ1dRcjRvYkRQRTExWDNyT011Qnh4U1E3UEwzdElleTFJLVRrQmdxWC1mSVZ0YS1fMTBUTmRlRmZHdE1qRm9tYVBGbGJSZ1ZZZFFERTIxRG1DdkVfeE9KWHZBc243b212WGVGSUtvSXZybA?oc=5",
       "isNew": false
     }
   ]

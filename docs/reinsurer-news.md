@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 28 items
-Generated Wed 14 Oct 2026, 18:46 ADT
+Generated Thu 15 Oct 2026, 01:44 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 60 items
+- ✅ **Google News (16 of 16 companies)** — 58 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -38,7 +38,7 @@ Generated Wed 14 Oct 2026, 18:46 ADT
 - **2026-10-02** — Reinsurance News — [Lincoln closes $6.3bn reinsurance transaction with Talcott](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdU03OWtNbVVla1BZaDlYOTRfbjdkTEpNV2FkMEN5VUFoWHN4SE9oUVd2dFZ4Y25VUXZoTDZaTlh5QkpHN3FfYVp3YWR3T0RVTnYwODByT2k3QlZETW0wa0syQTdkR1dRREhGbjJCM0hkWExzOEtsTUQ2YVB1aXRVcURZVGM3QkVFZDV3U3VsekY?oc=5)
 - **2026-10-02** — Royal Gazette | Bermuda — [Talcott closes $6.3bn Lincoln Financial deal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTJKR2ZYLWdrZElGM2xoMmswUk5CWmhHSmk4WklCaVZwQ1ZQNGxwWWJIc0xlMkpqMVBIYUtvNWhiRk85M1REMU1PdU9tY2JHZF9NWkRRd0lBUTJ0MGJYaEpaX0dJaVU1eHdCY19BUGY5bzI1dG1IZDg0RU14ZHFqV3FZSUl3NjZZWl8zVkNBWW5KY3FqaGVJRFNYUUVMVGN6cFZVVDlMZzdnaGxpQlZSaQ?oc=5)
 - **2026-10-01** — Yahoo Finance — [Lincoln National Reports Closing of $6.3 Billion Reinsurance Transaction With Talcott](https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXZEa3g5UWxMbWdsU1JHdklJbl9obXJoRk56QkNXbHZNaXdIZmhhcExMSW5velk1UjRvMTl6RGlMTnZsUGdtTnBuRVdvX2ZTM0g5TEhSbHp5YTFWeWxDS0ZwdTBESk5GNXNfUndhYnEyZWdoLW1yTHd4WE16MWEycUdFN18tZ1FrSTdaNVFBb1VNeXVZdVhYaWVtUEN6cllH?oc=5)
-- **2026-10-01** — Business Wire — [Lincoln Financial Closes $6.3 Billion Reinsurance Transaction with Talcott](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTduSjdDbGM0TlBraGUyTjl0Y0hWODNGWEZ0YTV0VERaX0xNWm85cVVmeXdxWFlXeWRHOXBtT1hjbHpnSW9SWGlNLTVsSE1GMkMtSWw0dmE5QVppNXBKdjFYS2E1Y0tXLTJ5djdvUEVmU3U4UUhsYmVuTXo5SW1zTlQ3ZXFvY3BIbk9KZkszQmFLcU5sU3B1SWt5bjlqb1lFV0tIVnh3akVvaHpaRGo5ZjNNTHdBZGtCVFhjSTRMcEJlZEp4NTFOc3VKaklXUQ?oc=5)
+- **2026-10-01** — Yahoo Finance — [Lincoln Financial Closes $6.3 Billion Reinsurance Transaction with Talcott](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUl0cW5SX2VndmFNV01qOC1GdjA3M3hKc0lCZWxjMXg1X2pkTGt5TDhVMWcwSUFmWFliRk93U29LaFlnMU1YQ18za0czSnQyQmw2ckN1amVzeFQ3R3BWTVF0RmdTZmxucXQ3SE93QWtGcDB0QlZQQ2hIRGduQ25pNXg1Rm5URGNNdjFzbmZBZVRzM3hZMlJWdA?oc=5)
 
 ## Venerable
 
@@ -46,6 +46,7 @@ Generated Wed 14 Oct 2026, 18:46 ADT
 
 ## RGA
 
+- **2026-10-14** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHNtT1RXSE5CZGtUYVBzZ09xVDFtdFVFQk1TMGtaUXBYNWdBeE5WdU1YU20tNzk5YktxRmtFVk1TQ0FTd1duRDFlREtxYXRuRVVVUWtOd1YydTZ6RTlMMkl5a3ZMR2cwTEsxS2hDYVdrcTVxR0tKSlJqbUQtNU9YbDZjRjR1N05GT1NoR1JLQQ?oc=5)
 - **2026-10-14** — Yahoo Finance — [Are Investors Undervaluing Reinsurance Group of America (RGA) Right Now?](https://news.google.com/rss/articles/CBMiswFBVV95cUxObW82WWhlYTQwckpSOFFkajNpc0tFVDk1SzY1cDlNZFJMdm5Xc01FNFZrMDRQRm9wOFJJanExVWV4bUlEX3VTZzE0NmRPdlJqZDlWYU03OXpJdDNjMXhVdGoxc2trODJIOUdsQWVtOXRqbTZrVGtPdjFyZHFTMmtfYnFpZHQydVFjTGdlbDkteEh0S1RmSzIwc2ZhWHJ6M2FHbGtOenhSWS14bDNibXAtZXFRTQ?oc=5)
 - **2026-10-14** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Hits New 1-Year High - What's Next?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjN4b0pFSFg3T1lab2haUU1IQUl3clJiSzAyaFB0TXNCdC1tRndEZ0NnNGJsTC16QlNTcFdYeVRFX0szTFczU0xMa0VUSjRjV281Z09JOU9YemUwZXRvOVV1Y2pxVWRoYWFrdm5FZXdzOHUwS1Q3WnlBbV9uWklaMHhkLTN4YnVXUndVbHBrcFFMRjlERWNfYWE1aWxlTWFmYk5wYkRyZF9ZTS1VNnlqQWhOSVlHUVA2eTJQQkhRaFpteU5FVFpvXw?oc=5)
 - **2026-10-13** — The Globe and Mail — [Wells Fargo Reaffirms Their Buy Rating on Reinsurance Group (RGA)](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW45TjZHa0pCY2l2TUJfZ1NGaTNKTlkwYmtYb0xkUXhpNkdscmNrUlFGMFFRR1lXMFcyaF9EOGwzWnhiMUVyLVVNVzhJZ2tEbm5za0RIWkdDaTBtRDg4WURMSV9Dem91REpaM1B1VFJCcERUUk9GdXJVOXp1MWdGOUdJVXg5YjJ1bmF2ZHlocDBqZENxdHJzczhEWHpjRlRCNEhra3FZdnB0a2NYTDNSZG96Njk3enBGM28tRmhwbkkzcjY2SldlSUVIWTFOcmlURVJtSHg2bkdpeTBHQVZfNmh0aw?oc=5)
@@ -57,7 +58,6 @@ Generated Wed 14 Oct 2026, 18:46 ADT
 - **2026-10-09** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Sold by Douglas Lane & Associates LLC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnI1UVRLQWdOV1otQUJ4dnR3VVJMUXczQzNGaF9LQmQ5NTJUYjk5djY1WlhCYURucGFmRi1wVGhnSzhKRlRNOXUwRmpRNTZ5RllEeC0ySnNvM2hubGt3ekVRR0twVm5Ra3Z0RkxOeEFhckY5V3d4cXNHNHM5Zk55RWVsR2tLZFYzNjdIY3JETVNpZDZEQlNfVEFDRkdhWjNYV21mYm1naWJaRVFYdGhrQ1dQcWRVWTFRb1hySUlEcmNZY0t3ekJxUHRBekdBZnZYNlc0RWIzM3FTa24wWDdNZ2F1OA?oc=5)
 - **2026-10-09** — Yahoo Finance — [Reinsurance Group of America, Incorporated (RGA) Hit a 52 Week High, Can the Run Continue?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjVuZGVKSnhudndIcWNObUh6RXVzUFBhaVRYQWlLZFpkWmNOMVUwbzZnN3dZODIwNmdTMWlXN3h2ZkNrUk1lMV8yWnFWQTFFTlRPd1ljLVJRRHhJUVh2OXVhYS1mUFBQU3BianFHckFOdC1KZUVSWXl1b3lfaGRCUlM5QUpqaEUyWFFCR0xKZEdFaUhrV2ttNG1PemlSbHVOUlFBRW5weGRuUGM?oc=5)
 - **2026-10-09** — MarketBeat — [Reinsurance Group of America (RGA) Stock Price, News & Analysis $RGA](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRd19Scl9UZ2dsdkpPSTVZMjN1TTlKUmdoQVN6R3BFcGlCTFMwZF9XbDZjVlBNQ0RIRHIyQVZybk9DNzJiZzIyaDBpVVNuR3NDOXVGdHlB?oc=5)
-- **2026-10-08** — Business Wire — [Reinsurance Group of America Announces Third Quarter Earnings Release Date, Webcast](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWxQRHVEY2xMZGtCemFHSk9LMmM4ZHdEcjh0cEliVHEwT2RtYm5qeEJMSFVhZnc2WGZ5bkhGVzJKVW1NM2owZGs0a2xoVjBxdEQtcjNLX3g1V0tjTWp5SE4zWXVFZW90cTZSVFQ4TWFUQ2NOZVlOdTdQQ1FYWUlqNktuNUhfc0pPRDZzSEEzdW5vOGpFUnVHOFF2Z29tYS0wMFliNDVJSVNHRnIwVkNKYmRiMmpRSy1sV2x6aTVvb1J6OHo5N1MwSDFjVzZvRUxnTXR1Nm9n?oc=5)
 
 _No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Aspida, Kuvare, Sagicor, Catalina_
 

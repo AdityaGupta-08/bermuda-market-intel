@@ -26,6 +26,14 @@ is kept as a restatement. Processed filings are remembered, so a routine
 run makes one request per company. When a filing mentions a metric but no
 value can be read, the run logs the row and headers it saw.
 
+Fallback: quarters the SEC filings didn't supply (EDGAR unreachable, or a
+table the parser can't read) are filled from the company's own earnings
+materials: Apollo's earnings-call transcript (ir.apollo.com) for Athene and
+the results release on Brookfield's site for BWS. Those figures are read
+from prose (scripts/earnings_materials.py), marked with their source, and
+replaced as soon as the SEC filing for that quarter is read. KKR posts no
+transcripts of its own, so Global Atlantic has no fallback.
+
 Run: python scripts/fetch_reinsurer_spreads.py
 """
 import html as htmllib
@@ -42,7 +50,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from fetchlib import record_source, flush_source_health  # noqa: E402
+from fetchlib import HDR, record_source, flush_source_health  # noqa: E402
+import earnings_materials as em  # noqa: E402
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("reinsurer_spreads")
@@ -56,6 +65,9 @@ PARSER_VERSION = 1             # bump to re-read every filing after a parser cha
 REQUEST_GAP = 0.15             # SEC asks for <= 10 requests/second
 MAX_FILINGS_PER_RUN = 40       # per company; the first backfill finishes over a few runs
 TIME_BUDGET = 180              # seconds per run; unread filings wait for the next run
+RESULTS_LAG_DAYS = 50          # a quarter's results are expected this long after quarter end
+MAX_FALLBACK_DOCS = 6          # transcripts/releases opened per company per run
+FALLBACK_RETRY_DAYS = 14       # a missing fallback document is retried after this long
 
 # SEC requires a User-Agent identifying the requester. Set the SEC_USER_AGENT
 # secret to "Name contact@example.com" to use your own.
@@ -70,9 +82,19 @@ COMPANIES = [
         "source": "Athene quarterly financial supplement (Form 8-K exhibit)",
         "metrics": {
             "earnings": {"label": "Spread related earnings (SRE)", "unit": "usd_m", "bounds": (100, 5000),
-                         "rows": [r"^spread related earnings$"]},
+                         "rows": [r"^spread related earnings$"],
+                         "prose": [r"spread[- ]related earnings", r"\bSRE\b"]},
             "spread": {"label": "Net investment spread", "unit": "pct", "bounds": (0.2, 5.0),
-                       "rows": [r"^net investment spread$"]},
+                       "rows": [r"^net investment spread$"],
+                       "prose": [r"net investment spread", r"\bnet spread\b"]},
+        },
+        # Apollo posts each call's transcript PDF on its IR site, linked from
+        # the home page (latest quarter) and from each earnings event page.
+        "fallback": {
+            "kind": "call", "label": "Apollo earnings call transcript (ir.apollo.com)",
+            "index": ["https://ir.apollo.com/", "https://ir.apollo.com/news-events/events"],
+            "follow": r"/news-events/events/detail/\d{8}-[^\"']*(earnings|quarter|[1-4]q)",
+            "doc": r"transcript[^\"']*\.pdf",
         },
         "definition": ("SRE: pre-tax operating earnings of the retirement business excluding market "
                        "volatility and non-operating items, net of financing costs. Net investment "
@@ -86,6 +108,9 @@ COMPANIES = [
             "earnings": {"label": "Insurance operating earnings", "unit": "usd_m", "bounds": (30, 3000),
                          "rows": [r"^insurance (segment )?operating earnings$", r"^operating earnings - insurance$"]},
         },
+        "fallback": None,
+        "fallback_note": ("KKR doesn't post call transcripts on its own site, and third-party transcript "
+                          "sites are paywalled or bar automated reading, so these figures come from SEC filings only."),
         "definition": ("KKR's Insurance segment (Global Atlantic) operating earnings: net investment income "
                        "less net cost of insurance and G&A, after tax and noncontrolling interests. "
                        "KKR does not disclose a spread percentage."),
@@ -96,7 +121,14 @@ COMPANIES = [
         "source": "Brookfield Wealth Solutions quarterly results (Form 6-K exhibit)",
         "metrics": {
             "earnings": {"label": "Distributable operating earnings (DOE)", "unit": "usd_m", "bounds": (20, 5000),
-                         "rows": [r"^distributable operating earnings$", r"^doe$"]},
+                         "rows": [r"^distributable operating earnings$", r"^doe$"],
+                         "prose": [r"distributable operating earnings", r"\bDOE\b"]},
+        },
+        # BWS holds no call of its own; its results release sits at a fixed path per quarter.
+        "fallback": {
+            "kind": "release", "label": "BWS results release (bnt.brookfield.com)",
+            "template": ("https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/"
+                         "{year}/q{q}/{year}-q{q}-bws-press-release.pdf"),
         },
         "definition": ("Brookfield's distributable operating earnings across its annuity (incl. American "
                        "Equity), P&C and life businesses. Not a spread-only measure; no consistent spread "
@@ -136,6 +168,19 @@ def sec_get(url, timeout=30):
 
 def sec_json(url):
     return json.loads(sec_get(url))
+
+
+def web_get(url, timeout=30):
+    """Bytes from a company website, or None when the page doesn't exist (404/410)."""
+    time.sleep(REQUEST_GAP)
+    req = urllib.request.Request(url, headers=HDR)
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read()
+    except urllib.error.HTTPError as e:
+        if e.code in (404, 410):
+            return None
+        raise
 
 
 # ── HTML tables ───────────────────────────────────────────────────────────────
@@ -389,12 +434,16 @@ def mentions_metric(html, company):
 
 
 def merge_points(store, metric, quarter, value, filing, url):
-    """Newest filing wins for a quarter; a changed figure records what it replaced."""
+    """Newest filing wins for a quarter; a changed figure records what it replaced.
+    An SEC figure always replaces a fallback (call/release) figure, silently:
+    that is not a restatement, just the better source arriving."""
     pts = store.setdefault(metric, {})
     prev = pts.get(quarter)
+    if prev and prev.get("source", "sec") != "sec":
+        prev = None
     if prev and prev["filed"] > filing["filed"]:
         return
-    point = {"value": value, "filed": filing["filed"], "form": filing["form"], "url": url}
+    point = {"value": value, "filed": filing["filed"], "form": filing["form"], "url": url, "source": "sec"}
     if prev and abs(prev["value"] - value) > 1e-9:
         point["revised_from"] = prev["value"]
     elif prev and prev.get("revised_from") is not None:
@@ -444,6 +493,131 @@ def update_company(company, state, since, deadline=None):
     return f"{done} filing(s) read, {len(pending) - done} left for later runs"
 
 
+# ── Fallback: earnings-call transcripts and results releases ──────────────────
+
+def expected_quarters(today=None, n=QUARTERS_SHOWN):
+    """The last n quarters whose results should be public by `today`."""
+    today = today or date.today()
+    y, q, out = today.year, (today.month - 1) // 3 + 1, []
+    while len(out) < n:
+        q -= 1
+        if q == 0:
+            y, q = y - 1, 4
+        quarter_end = date(y + (q == 4), (3 * q) % 12 + 1, 1) - timedelta(days=1)
+        if quarter_end + timedelta(days=RESULTS_LAG_DAYS) <= today:
+            out.append(f"{y}Q{q}")
+    return out
+
+
+def _prose_metrics(company):
+    return {k: s for k, s in company["metrics"].items() if s.get("prose")}
+
+
+def wanted_quarters(company, points, today=None):
+    """Expected quarters (newest first) missing at least one prose-readable metric."""
+    keys = list(_prose_metrics(company))
+    return [q for q in expected_quarters(today) if any(q not in points.get(k, {}) for k in keys)]
+
+
+def _fresh(seen, url, today):
+    mark = seen.get(url)
+    if mark is None:
+        return True
+    if isinstance(mark, str) and mark.startswith("missing:"):
+        return (today - date.fromisoformat(mark[8:])).days >= FALLBACK_RETRY_DAYS
+    return mark != PARSER_VERSION
+
+
+def fallback_documents(company, state, wanted, today=None):
+    """[(url, quarter or None)] documents worth opening for the wanted quarters, newest first."""
+    fb, today = company["fallback"], today or date.today()
+    seen = state.setdefault("fallback_seen", {})
+    if "template" in fb:
+        urls = [(fb["template"].format(year=q[:4], q=q[-1]), q) for q in wanted]
+        return [(u, q) for u, q in urls if _fresh(seen, u, today)]
+    links, opened = [], set()
+    for page in fb["index"]:
+        body = web_get(page)
+        if body is None:
+            continue
+        html = body.decode("utf-8", errors="replace")
+        links += em.discover_links(html, page, fb["doc"])
+        for event in em.discover_links(html, page, fb["follow"]) if fb.get("follow") else []:
+            q = em.quarter_from_name(event.rsplit("/", 1)[-1])
+            if (q and q not in wanted) or event in opened or len(opened) >= MAX_FALLBACK_DOCS:
+                continue
+            opened.add(event)
+            ev = web_get(event)
+            if ev is not None:
+                links += em.discover_links(ev.decode("utf-8", errors="replace"), event, fb["doc"])
+    out, seen_urls = [], set()
+    for url in links:
+        q = em.quarter_from_name(url.rsplit("/", 1)[-1])
+        if url in seen_urls or (q and q not in wanted) or not _fresh(seen, url, today):
+            continue
+        seen_urls.add(url)
+        out.append((url, q))
+    rank = {q: i for i, q in enumerate(wanted)}
+    return sorted(out, key=lambda d: rank.get(d[1], len(rank)))
+
+
+def read_fallback_document(company, url, quarter_hint):
+    """(quarter, found, notes) from one transcript/release, or None if it doesn't exist."""
+    data = web_get(url, timeout=60)
+    if data is None:
+        return None
+    text = em.pdf_text(data) if data[:5] == b"%PDF-" else em.html_text(data.decode("utf-8", errors="replace"))
+    from_text = em.quarter_from_text(em.normalise(text))
+    quarter = quarter_hint or from_text
+    if not quarter:
+        return quarter, {}, {"*": "no quarter named in the document"}
+    if quarter_hint and from_text and from_text != quarter_hint:
+        return quarter, {}, {"*": f"file name says {quarter_hint}, text says {from_text}"}
+    found, notes = em.extract_prose_metrics(text, quarter, _prose_metrics(company))
+    return quarter, found, notes
+
+
+def merge_fallback(store, metric, quarter, value, kind, label, url, read_on):
+    """A fallback figure only fills a gap: it never replaces an SEC figure."""
+    pts = store.setdefault(metric, {})
+    prev = pts.get(quarter)
+    if prev and (prev.get("source", "sec") == "sec" or prev["filed"] > read_on):
+        return False
+    pts[quarter] = {"value": value, "filed": read_on, "form": label, "url": url, "source": kind}
+    return True
+
+
+def update_fallback(company, state, deadline=None, today=None):
+    """Fill quarters the SEC filings didn't supply from the company's own earnings materials."""
+    fb = company.get("fallback")
+    if not fb:
+        return
+    today = today or date.today()
+    points = state.setdefault("points", {})
+    wanted = wanted_quarters(company, points, today)
+    if not wanted:
+        return
+    seen = state.setdefault("fallback_seen", {})
+    docs = fallback_documents(company, state, wanted, today)
+    log.info(f"  {company['name']}: {len(wanted)} quarter(s) without SEC figures; "
+             f"{len(docs)} {fb['kind']} document(s) to try")
+    for url, hint in docs[:MAX_FALLBACK_DOCS]:
+        if deadline is not None and time.monotonic() > deadline:
+            log.info(f"  {company['name']}: time budget used; fallback documents left for the next run")
+            break
+        res = read_fallback_document(company, url, hint)
+        if res is None:
+            seen[url] = f"missing:{today.isoformat()}"
+            continue
+        seen[url] = PARSER_VERSION
+        quarter, found, notes = res
+        for metric, value in found.items():
+            merge_fallback(points, metric, quarter, value, fb["kind"], fb["label"], url, today.isoformat())
+        log.info(f"    {quarter} {url.rsplit('/', 1)[-1]}: "
+                 + (", ".join(f"{k} {v}" for k, v in found.items()) or "nothing read")
+                 + (f" ({'; '.join(f'{k}: {v}' for k, v in notes.items())})" if notes else ""))
+
+
 def trim(points, keep=QUARTERS_KEPT):
     for metric, by_q in points.items():
         for q in sorted(by_q)[:-keep]:
@@ -466,7 +640,10 @@ def build_output(states, errors):
             "status": "ok" if has else ("error" if c["key"] in errors else "no_data"),
             "note": errors.get(c["key"]),
             "edgar_url": f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={c['cik']}",
-            "_state": {"processed": st.get("processed", {}), "points": pts},
+            "fallback_source": (c.get("fallback") or {}).get("label"),
+            "fallback_note": c.get("fallback_note"),
+            "_state": {"processed": st.get("processed", {}), "points": pts,
+                       "fallback_seen": st.get("fallback_seen", {})},
         })
     return {
         "updated": datetime.utcnow().isoformat() + "Z",
@@ -475,7 +652,9 @@ def build_output(states, errors):
         "companies": companies,
         "not_covered": NOT_COVERED,
         "note": ("Company-defined non-GAAP measures; not comparable across companies. "
-                 "Each value links to the SEC filing it was read from; where a later filing "
+                 "Each value links to the document it was read from: the SEC filing, or, where "
+                 "that couldn't be read, the company's earnings call transcript or results release "
+                 "(marked as such, and replaced once the filing is read). Where a later filing "
                  "restated a quarter, the newest figure is shown."),
     }
 
@@ -497,10 +676,14 @@ def main():
         st = states.setdefault(c["key"], {})
         try:
             update_company(c, st, since, deadline)
-            trim(st.get("points", {}))
         except Exception as e:
             errors[c["key"]] = f"{type(e).__name__}: {e}"
             log.warning(f"  {c['name']}: {errors[c['key']]}")
+        try:
+            update_fallback(c, st, deadline)
+        except Exception as e:
+            log.warning(f"  {c['name']} fallback: {type(e).__name__}: {e}")
+        trim(st.get("points", {}))
     out = build_output(states, errors)
     OUT.write_text(json.dumps(out, indent=2))
     ok = [c["name"] for c in out["companies"] if c["status"] == "ok"]

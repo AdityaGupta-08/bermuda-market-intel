@@ -1,12 +1,12 @@
 import { useMemo, useState } from "react";
 import {
-  BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
+  BarChart, Bar, Cell, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from "recharts";
 import {
   Building2, AlertTriangle, Loader, ExternalLink, Clock, Info, Table2, BarChart3,
 } from "lucide-react";
 import {
-  QUARTERS_SHOWN, buildReinsurerView, formatValue, formatAxisValue, formatChange, lineScale, quarterLabel, tableRows,
+  QUARTERS_SHOWN, SOURCE_TEXT, buildReinsurerView, formatValue, formatAxisValue, formatChange, lineScale, quarterLabel, tableRows,
 } from "./reinsurerSpreads.js";
 
 /* ═══════════════════════════════════════════════════════════════════
@@ -41,13 +41,25 @@ const PointTooltip = ({ active, payload, unit }) => {
       {p.value == null ? <div style={{ color: INK.muted }}>No figure for this quarter</div> : <>
         <div style={{ color: INK.primary, fontFamily: MONO, fontSize: 14, fontWeight: 600 }}>{formatValue(p.value, unit)}</div>
         {p.revisedFrom != null && <div style={{ color: INK.secondary, marginTop: 3 }}>Restated by a later filing; first reported as {formatValue(p.revisedFrom, unit)}</div>}
-        {p.filed && <div style={{ color: INK.muted, marginTop: 3 }}>{p.form} filed {p.filed}</div>}
+        {p.filed && p.source === "sec" && <div style={{ color: INK.muted, marginTop: 3 }}>{p.form} filed {p.filed}</div>}
+        {p.filed && p.source !== "sec" && (
+          <div style={{ color: INK.secondary, marginTop: 3 }}>From the {SOURCE_TEXT[p.source] || "company document"}, not an SEC filing (read {p.filed}); replaced once the filing is read</div>
+        )}
       </>}
     </div>
   );
 };
 
 const axisTick = { fill: INK.muted, fontSize: 10 };
+
+// SEC figures: solid dots. Call/release figures: hollow, so the source reads
+// without relying on colour.
+const FallbackAwareDot = ({ cx, cy, payload, index }) => {
+  if (cx == null || cy == null || payload?.value == null) return <g key={index} />;
+  const fallback = payload.source && payload.source !== "sec";
+  return <circle key={index} cx={cx} cy={cy} r={4} strokeWidth={2}
+    fill={fallback ? SURFACE : HUE} stroke={fallback ? HUE : SURFACE} />;
+};
 
 const MetricChart = ({ m }) => {
   const common = {
@@ -67,7 +79,7 @@ const MetricChart = ({ m }) => {
             domain={scale.domain} ticks={scale.ticks} interval={0} tickFormatter={v => formatAxisValue(v, m.unit)} />
           {tip({ stroke: INK.faint, strokeDasharray: "3 3" })}
           <Line dataKey="value" name={m.label} stroke={HUE} strokeWidth={2} connectNulls={false} isAnimationActive={false}
-            dot={{ r: 4, fill: HUE, stroke: SURFACE, strokeWidth: 2 }} activeDot={{ r: 6, fill: HUE, stroke: SURFACE, strokeWidth: 2 }} />
+            dot={FallbackAwareDot} activeDot={{ r: 6, fill: HUE, stroke: SURFACE, strokeWidth: 2 }} />
         </LineChart>
       ) : (
         <BarChart {...common} barCategoryGap="24%">
@@ -75,7 +87,11 @@ const MetricChart = ({ m }) => {
           <YAxis tick={axisTick} tickLine={false} axisLine={false} width={58}
             domain={[d => Math.min(0, d), "auto"]} tickFormatter={v => formatAxisValue(v, m.unit)} />
           {tip({ fill: "#ffffff08" })}
-          <Bar dataKey="value" name={m.label} fill={HUE} radius={[4, 4, 0, 0]} maxBarSize={28} isAnimationActive={false} />
+          <Bar dataKey="value" name={m.label} fill={HUE} radius={[4, 4, 0, 0]} maxBarSize={28} isAnimationActive={false}>
+            {m.series.map(d => (d.source && d.source !== "sec"
+              ? <Cell key={d.quarter} fill={HUE} fillOpacity={0.25} stroke={HUE} strokeWidth={1.5} strokeDasharray="4 2" />
+              : <Cell key={d.quarter} fill={HUE} />))}
+          </Bar>
         </BarChart>
       )}
     </ResponsiveContainer>
@@ -100,6 +116,11 @@ const MetricPanel = ({ m, view }) => (
       <div style={{ display: "flex", alignItems: "baseline", gap: 8, margin: "6px 0 4px" }}>
         <span style={{ fontSize: 24, fontWeight: 700, color: INK.primary, fontFamily: MONO }}>{formatValue(m.latest.value, m.unit)}</span>
         <span style={{ fontSize: 12, color: INK.muted }}>{quarterLabel(m.latest.quarter)}</span>
+        {m.latest.source && m.latest.source !== "sec" && (
+          <span style={{ fontSize: 11, color: INK.secondary, border: "1px dashed #475569", borderRadius: 4, padding: "0 5px" }}>
+            from {SOURCE_TEXT[m.latest.source] || "company document"}
+          </span>
+        )}
       </div>
       <div style={{ display: "flex", gap: 14, flexWrap: "wrap", fontSize: 12, marginBottom: 6 }}>
         <Change ch={m.qoq} unit={m.unit} label="QoQ" />
@@ -107,6 +128,12 @@ const MetricPanel = ({ m, view }) => (
       </div>
     </> : <div style={{ fontSize: 13, color: INK.muted, margin: "8px 0" }}>No figures read yet</div>}
     {view === "chart" && m.count > 0 && <MetricChart m={m} />}
+    {view === "chart" && m.fallbackQuarters.length > 0 && (
+      <div style={{ fontSize: 11, color: INK.muted, padding: "2px 4px 0" }}>
+        {m.unit === "pct" ? "Hollow points" : "Outlined bars"} ({m.fallbackQuarters.map(quarterLabel).join(", ")}) come from the
+        company&rsquo;s earnings call transcript or results release, not an SEC filing; they&rsquo;re replaced once the filing is read.
+      </div>
+    )}
     {view === "chart" && m.restated.length > 0 && (
       <div style={{ fontSize: 11, color: INK.muted, padding: "2px 4px 4px" }}>
         {m.restated.length === 1 ? `${quarterLabel(m.restated[0])} was` : `${m.restated.map(quarterLabel).join(", ")} were`} restated by a later filing; hover for the original figure.
@@ -126,7 +153,7 @@ const CompanyTable = ({ c }) => {
         <thead><tr>
           <th style={{ ...th, textAlign: "left" }}>Quarter</th>
           {c.metrics.map(m => <th key={m.key} style={th}>{m.label}</th>)}
-          <th style={{ ...th, textAlign: "left" }}>Source filing</th>
+          <th style={{ ...th, textAlign: "left" }}>Source</th>
         </tr></thead>
         <tbody>{rows.map(r => (
           <tr key={r.quarter}>
@@ -137,7 +164,7 @@ const CompanyTable = ({ c }) => {
               </td>
             ))}
             <td style={{ ...td, textAlign: "left", fontFamily: "inherit" }}>
-              {r.url ? <ExtLink href={r.url}>{r.form} {r.filed}</ExtLink> : <span style={{ color: INK.faint }}>—</span>}
+              {r.url ? <ExtLink href={r.url}>{r.sourceText}</ExtLink> : <span style={{ color: INK.faint }}>—</span>}
             </td>
           </tr>
         ))}</tbody>
@@ -175,7 +202,7 @@ const CompanyCard = ({ c }) => {
         <div style={{ display: "flex", gap: 8, alignItems: "flex-start", background: "#14120c", border: "1px solid #fbbf2433", borderRadius: 8,
           padding: "9px 12px", fontSize: 12, color: INK.secondary, marginBottom: 12, lineHeight: 1.5 }}>
           <AlertTriangle size={14} style={{ color: c.status === "error" ? "#f87171" : "#fbbf24", flexShrink: 0, marginTop: 1 }} />
-          <span><strong style={{ color: INK.primary }}>{c.status === "error" ? "Fetch failed" : c.stale ? "Stale" : "Awaiting data"}:</strong> {c.message}</span>
+          <span><strong style={{ color: INK.primary }}>{c.status === "error" ? "Fetch failed" : c.stale && c.usesFallback ? "SEC filings unavailable" : c.stale ? "Stale" : "Awaiting data"}:</strong> {c.message}</span>
         </div>
       )}
 
@@ -187,8 +214,10 @@ const CompanyCard = ({ c }) => {
 
       <div style={{ marginTop: 12, fontSize: 12, color: INK.secondary, lineHeight: 1.6 }}>
         <div>{c.definition}</div>
+        {c.fallbackNote && <div style={{ color: INK.muted, marginTop: 2 }}>{c.fallbackNote}</div>}
         <div style={{ display: "flex", gap: 14, flexWrap: "wrap", marginTop: 4, color: INK.muted }}>
           <span>Source: {c.source}</span>
+          {c.fallbackSource && <span>Fallback when a filing can&rsquo;t be read: {c.fallbackSource}</span>}
           {c.latestFiling?.url && <ExtLink href={c.latestFiling.url}>Latest filing ({c.latestFiling.form}, {c.latestFiling.filed})</ExtLink>}
           {c.edgarUrl && <ExtLink href={c.edgarUrl}>All filings on EDGAR</ExtLink>}
         </div>

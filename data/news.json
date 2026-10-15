@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T04:44:18Z",
+  "updated": "2026-10-15T11:33:04Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "f1268ce64722",
+      "title": "Will the ECB Raise Interest Rates Again? What to Expect in 2026 and 2027",
+      "source": "Morningstar",
+      "date": "2026-10-15T09:56:32Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0xNV0hzUFN3bnR4TlhLZlhxdWtJdWVPd3JqNnNfRERoaGotVGVCOEptd3J3R1dma0FKVUR2Vm1yZDczd2dBNXRjTHR3WE1SMVlseDIxV0ZvX0liRGlmVmttOGRvT1BiOVhOekd0RE04UmQzcE84X3VlcEZEYmJTbHlobi1xaHFmRTVBQWY1ckI5TmNqNDhNdTJWZ19GUHpQbE9idg?oc=5",
+      "isNew": false
+    },
     {
       "id": "5e30bf497cd4",
       "title": "New York Life Investment Management Names Rupal Shah As Head Of Insurance Solutions",
@@ -60,11 +70,11 @@
     {
       "id": "13620961942f",
       "title": "New York Life Investment Management Expands Insurance Solutions Capabilities",
-      "source": "FinancialContent",
+      "source": "Yahoo Finance",
       "date": "2026-10-14T13:00:00Z",
       "topic": "Insurance AM",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ0MzLWpCWlI1bjA1Z0hkaWpFaWxjZzFRN25WLUNWQ2pvenlFVkwzYWU5U2hXQldUX0hIVTdnUDdoNUh2MW9HY3dEbnNkVXA2ZzBaOUZuOGpJVWo1T0pqaG00MW1Ya0VXQkZzTXQzV3RQRlQtcHNOSEFWcUJ2ZGlLZ2xlRHMtekp2ampTR2tTVmtXdlQwa3NHYUpmQzVlajdvUXI0aTBKWk9PZmlLUnRjT3htbE4xcUgwVWp5b1NMczlpdTdyYzl0VFpxVFdjX3c0VWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1hvVFd5b3hWVndieUZYZkgyYWFKTnJLOHRJOEJfR1djWUxlLUVoektXSjJCclUtVzRzQU9EaXlKVXdDNEtxeEZyUll4NzZ1VUJ6X2pfWnY5NDFmV2lyNnAxWjhIN3RDZTI1aG5tZkE4ZFFsbHA0bjdPWFNqZldQOXVQc2FvQ3BjaVdZSm1fbDctS1hkNUMyQ3Q1UUEySGg4WDVLb2d5MA?oc=5",
       "isNew": false
     },
     {
@@ -165,6 +175,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNS1RajNzSWN1YnRqbW1WTWNSaUJJczRvV3JDMFFZNElEOW5RT2l4c1NhcEZwSmtSd3RYajlVV3dFUFNaZzlsaC1uUlBWNXIwdF9zUGZqZXVyN3B3NVZ4RGh1b2JMWXhvSkpES2F2dldheGc2S2xCaXFCMjRZTldKWUduZ2lqUDlzcXgwNk1mbXlDbHdFekJ3?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "21551afc4daf",
+      "title": "Blackstone Credit & Insurance Leads $1 Billion Financing to Support Combination of Analogic Corporation and Leidos' Security Enterprise Solutions Businesses",
+      "source": "Blackstone",
+      "date": "2026-10-12T13:07:13Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNT1pxVW9ITXlZQ0ZYQ24wYUpNQlgxTzJGR0RMaUtIeHR1dzNDcVV3dUFFaGplY3RhdE1GbUw0Ml9sMjlxbWc3RExwRHZGUzEyZFpaRG9NaVczZ09OczJkUkxlc2VIX1dRbUdtZ0NEOUQ5eGtzLU5oSmNMd29nSFJZOEdJd3NlS0U4b2p3MGpGR3oyRnQ2SXdzWjNac3FPWWdYZ0sxZ1BHYTZnLXk5TjY1Z1NSdHJDcXhGZGJ6TkNqakZXUmhxZG0xT1ZCVmVuMk9KQjctc2VhMUdaUVczNWNWMGtjYVFhd3g4eGx5VkNqN29KLWFFNWRia2pIbHhGdWhubEZnMnplc1BOckUtcmlZei1oNlhXOVl6VS1R?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeE5LUHdKNF9LSWxNSlA3SDlYVHp2YzRjQ0dpdUNDeF9xbkxKMG8tME9xVmJfUzhLSWlaTnVkajhLUl9WZmRCLVdZcUJCUkZtX2lldnBrdHhuRDBITUtTUU1CSWlub0hic2U5RDdZSHoxV19sbXUxVzh1OEdOSXc4Nw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d5ad00cad6bf",
-      "title": "Life insurers concealed $21B in private-credit risk: Lawsuit",
-      "source": "American Banker",
-      "date": "2026-10-08T20:39:00Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMHFwcGJ1Mzh1Snp4RnNDWldBV1YwR091UkxQLV9oaUJ0bmgyS1dDZEpfdmdkSWZEbjBwVW1vMkttVGltS3BzRzJxQnlZSUtwZUJVYmNva3pkZ3B0Q3gzczlkX0VnRXB0MnVBaV9kMm5Wd1pVWk5Pdlc1Y3U4b2N4MzZndDAxdzlaUFRvUU5DOEw0Vl94ODNyWFRB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f53d003e8d90",
-      "title": "Sen. Warren concerned about private equity\u2019s growing life insurance role",
-      "source": "InsuranceNewsNet",
-      "date": "2026-10-08T16:02:30Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelFoREFpenVyLXlLd0c0ZG1ZVU8zSF9SVkpEdmpNLXE5N3J5V043dVVOVVlINGlpdlQ2dEVRbzlQRUJTcU0yV2VpM3Jsd0I0SjhsTElzQ2pKOW9qMC1YcFZBeE1tNlItYWUtV2lsUnBieFpxRVRHbENMbjNPTlFNcjNqR29CUzNQR0pUTmxLMDBKdzdoeVNOLW9XSlBIUjlPdEFMNmZVNXNodlh2OUt3?oc=5",
       "isNew": false
     }
   ]

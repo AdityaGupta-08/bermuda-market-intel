@@ -1,6 +1,6 @@
 # bermuda-market-intel
 
-GENESIS market-data dashboard (React + Vite) plus a scheduled Python data
+GENESIS (hosted at https://ubermensch-6920.github.io/bermuda-market-intel/)  market-data dashboard (React + Vite) plus a scheduled Python data
 pipeline. Everything refreshes and publishes from a single GitHub Actions
 workflow, `.github/workflows/deploy.yml`.
 

@@ -1,0 +1,3879 @@
+{
+ "source": {
+  "title": "PE Life Reinsurers — Earnings Call Review FY2023–2026",
+  "as_of": "2026-10-12",
+  "url": "https://claude.ai/artifact/7WDPiFQ5EQuVaHQCfJRgjE",
+  "mdna_url": "https://claude.ai/artifact/SAonTdn9wYUhrhwgAguGU9",
+  "kind": "earnings call review"
+ },
+ "summary": [
+  "Tone has drifted down for four of five. Only Athene is labelled Good (+0.50). Brookfield, KKR, Corebridge and F&G are Average, and Brookfield, Corebridge and F&G are at or near their lows since 2023.",
+  "Spread compression is the common thread, with different measures. Athene net spread went from 166bp (Q2'23) to a 97bp low (Q1'26) and 114bp in Q2'26, against a 120–125bp guide. Brookfield core annuity spread about 180bp vs 225bp a quarter earlier. Corebridge guides compression through end-2026. F&G fixed income yield fell 16bp in Q1'26. KKR calls sector ROEs structurally low.",
+  "Alternatives and VII keep missing. Athene alts 6% in Q1'26 against an 11% assumption; Corebridge expects VII below its 8–9% target through 2026; F&G alts $49M in Q2'26 against a 12% assumption; KKR reports a mark-versus-cash gap of $600M+ year to date that it expects to convert in 2027–28.",
+  "Liability-side competition is now the explicit constraint. Apollo calls pricing irrational and counts 36 asset managers entering retail annuities; KKR is allocating less capital to insurance; Brookfield is a self-described price taker. Corebridge and F&G retail sales fell about 41% and 34% YoY respectively in Q2'26.",
+  "Growth is still strong where capital is cheapest. Athene inflows were $22B in Q2'26 ($42B in H1, $85B target); KKR and Athene both lean on sidecars (Ivy about $6B dry powder, ADIP $4.4B in the quarter); F&G added the Fort Green sidecar in Aug 2025.",
+  "Bermuda 15% CIT is almost absent from the calls. The only direct remark is Brookfield's Q2'23 comment that it would be immaterial. The live regulatory topic is Cayman and non-reciprocal-jurisdiction scrutiny (UK PRA, Japan, NAIC proposals) raised by Apollo; F&G sold F&G Life Re (Bermuda) to Ancient effective 1 Mar 2026.",
+  "Earnings quality is deteriorating at Brookfield. Q2'26 six-month net loss of $453M on inflation-derivative and equity marks, with corporate borrowings up to $2.65B from $0.63B.",
+  "Corebridge and F&G are the weakest on core earnings. Corebridge APTOI fell 21% YoY in Q2'26 with all three insurance segments down, leverage at 33.0%, and a pending merger with Equitable. F&G ANE $85M (-17% YoY) and ROE 8%.",
+  "PRT has stopped being a growth story at Apollo. Zero PRT inflows in Q2'26 and YTD; management calls recent PRT spreads poor. Corebridge and F&G still write PRT but at lower or lumpy volumes.",
+  "Structural events to track. Corebridge–Equitable merger (close by year-end), BN/BWS simplification approved 16 July, Just Group closed 1 April, FNF’s distribution of about 12% of F&G, NAIC CLO capital charges (about -10 RBC points at F&G).",
+  "Evidence quality varies. Apollo, BWS Q2'25 onwards and part of KKR were read on primary or full transcripts; Apollo Q1'23–Q1'25, KKR, Corebridge and all F&G calls rest on truncated or AI-summarised third-party text, and Corebridge Q2'23 is release only. Earnings figures were not re-checked against releases except where the sections say so."
+ ],
+ "companies": {
+  "athene": {
+   "heading": "Athene / Apollo — Retirement Services (metric: Spread Related Earnings, SRE)",
+   "metric": "Spread Related Earnings, SRE",
+   "coverage": "Q1 FY2023 to Q2 FY2026 (latest call 4 Aug 2026). Source caveat: Q1'23 to Q1'25 were read on a third-party transcript site (bullfincher) whose pages were truncated mid-CFO remarks or at the start of Q&A, so those periods are marked partial. Q2'25 to Q2'26 were read on Apollo IR transcripts. Figures for older quarters were not re-checked against the releases.",
+   "watch": "whether net spread returns to the 120–125bp guide after 114bp in Q2 (about 10bp short at the 11% alts assumption); 10% SRE growth for 2026 and the $85B inflow target; NAIC proposals on non-reciprocal jurisdictions and Cayman scrutiny; AA rating pursuit; zero PRT; 36 new retail-annuity entrants; Athora/PIC alts returns.",
+   "quarters": {
+    "2023Q1": {
+     "date": "9 May 2023",
+     "sources": [
+      {
+       "label": "bullfincher transcript",
+       "url": "https://bullfincher.io/companies/apollo-global-management/earnings-call/fy2023-q1"
+      }
+     ],
+     "read": "partial (prepared remarks only)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Normalized SRE $811M ($1.36/sh); net spread about 160bp, described as the highest in a decade."
+      },
+      {
+       "tone": "good",
+       "theme": "Guidance",
+       "text": "Normalized SRE guided slightly above $3B for 2023; net spread target lifted to 145–150bp from 135–140bp, about 10bp of it LDTI."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth/Sidecar",
+       "text": "Inflows $12B; sidecars expected to fund about 40% of 2023 inflows; Japan flow reinsurance $9–10B."
+      },
+      {
+       "tone": "good",
+       "theme": "PRT",
+       "text": "An $8B buyout for a blue-chip client cited as evidence PRT is ramping."
+      },
+      {
+       "tone": "good",
+       "theme": "Liability",
+       "text": "No change in surrender or call-centre activity around SVB; about 80% of liabilities non-surrenderable or protected by MVA/charges."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread quality",
+       "text": "Q1 included episodic items (Atlas fees, fixed-rate loan fees); purchases priced at 150bp+ over BBB index vs about 25bp in 2022."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "About $3B Q3 outflow expected from an affiliate recapture; LDTI recast added $220M to 2022 SRE."
+      }
+     ],
+     "meter": {
+      "good": 5,
+      "bad": 0,
+      "n": 7,
+      "score": 0.71,
+      "label": "Good",
+      "arrow": null,
+      "note": "Not discussed: Bermuda, competition, capital ratios"
+     }
+    },
+    "2023Q2": {
+     "date": "3 Aug 2023",
+     "sources": [
+      {
+       "label": "bullfincher",
+       "url": "https://bullfincher.io/companies/apollo-global-management/earnings-call/fy2023-q2"
+      }
+     ],
+     "read": "partial (truncated before Q&A)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "SRE",
+       "text": "Record normalized SRE $874M, +8% QoQ; about $3.1B expected for the year."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Net spread 166bp, +5bp; higher floating-rate and cash yields outweighed higher new-business and financing costs."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Organic inflows $19B (+50% YoY), line of sight to $60B+ for the year."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar",
+       "text": "Over $4B raised across four sidecars in 2023; ADIP supports about 40% of inflows."
+      },
+      {
+       "tone": "good",
+       "theme": "Credit/Liability",
+       "text": "Credit losses under 2bp; surrenders better than forecast."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Management says Tier 1/Tier 2 capital exceeds most top-10 US banks."
+      },
+      {
+       "tone": "average",
+       "theme": "M&A/Guidance",
+       "text": "H2 SRE about equal to H1; Venerable recapture of about $3B payout annuities adds about $50M; management avoids buying inorganic blocks on surrender risk."
+      }
+     ],
+     "meter": {
+      "good": 6,
+      "bad": 0,
+      "n": 7,
+      "score": 0.86,
+      "label": "Good",
+      "arrow": "↑",
+      "note": "(+0.15 vs Q1: broader strength in spread and credit). Not discussed: Bermuda, cost of funds"
+     }
+    },
+    "2023Q3": {
+     "date": "1 Nov 2023",
+     "sources": [
+      {
+       "label": "bullfincher",
+       "url": "https://bullfincher.io/companies/apollo-global-management/earnings-call/fy2023-q3"
+      }
+     ],
+     "read": "partial (truncated before the retirement services section)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "SRE",
+       "text": "Record SRE $873M ($1.43/sh); management says Athene has already beaten its five-year plan."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "Q3 inflows $13B, below Q2's $19B; $44B YTD, $60B+ expected for the year."
+      },
+      {
+       "tone": "good",
+       "theme": "Products",
+       "text": "Retail annuities about half of Q3 activity; about $2.5B sold in October; flow reinsurance above $10B expected (Japan, US partners)."
+      },
+      {
+       "tone": "average",
+       "theme": "PRT",
+       "text": "Q3 PRT activity low; one deal closed in October; cumulative PRT since 2017 is $50B."
+      },
+      {
+       "tone": "good",
+       "theme": "Credit",
+       "text": "Full-year impairments expected at or below last year."
+      },
+      {
+       "tone": "good",
+       "theme": "Rates",
+       "text": "Higher-for-longer described as supportive of volume and profitability."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "↓",
+      "note": "(lumpier inflows, thin PRT). Not discussed (page truncated): net spread, cost of funds, alts, capital"
+     }
+    },
+    "2023Q4": {
+     "date": "8 Feb 2024",
+     "sources": [
+      {
+       "label": "bullfincher",
+       "url": "https://bullfincher.io/companies/apollo-global-management/earnings-call/fy2023-q4"
+      }
+     ],
+     "read": "partial (truncated mid-CFO outlook)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "SRE/Spread",
+       "text": "Q4 SRE ex-notables $748M (141bp); FY net spread 144bp; FY SRE +26%."
+      },
+      {
+       "tone": "bad",
+       "theme": "Alternatives",
+       "text": "Alts returned 6.5% annualised against 11% expected; shortfall $132M (25bp)."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth/Sidecar",
+       "text": "Record organic inflows about $63B, of which about $23B (35%) via sidecars; about $70B expected for 2024."
+      },
+      {
+       "tone": "good",
+       "theme": "Guidance",
+       "text": "2024: low-double-digit SRE growth, net spread 160–165bp, assuming about five rate cuts."
+      },
+      {
+       "tone": "average",
+       "theme": "Liquidity",
+       "text": "$12B+ cash and Treasury build is a near-term SRE drag, adds redeployment optionality."
+      },
+      {
+       "tone": "average",
+       "theme": "Rates",
+       "text": "Net floating-rate assets cut to $25B, heading to $20B by Q1'24 ahead of easing."
+      },
+      {
+       "tone": "average",
+       "theme": "Earnings quality",
+       "text": "About $70M of 2023 excess earnings (ADIP buydowns, Venerable recapture) will not recur; long-term tax rate about 20% after redomicile."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 1,
+      "n": 7,
+      "score": 0.14,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(alts miss, non-recurring items). Not discussed: PRT, Bermuda, surrenders"
+     }
+    },
+    "2024Q1": {
+     "date": "2 May 2024",
+     "sources": [
+      {
+       "label": "bullfincher",
+       "url": "https://bullfincher.io/companies/apollo-global-management/earnings-call/fy2024-q1"
+      }
+     ],
+     "read": "partial (truncated mid-CFO remarks)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "SRE",
+       "text": "SRE $817M ($1.32/sh), +19% YoY."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Net spread 147bp, 9bp below Q4 comparable: higher marginal cost of new business, delayed deployment, floating-rate hedging (about 5bp)."
+      },
+      {
+       "tone": "bad",
+       "theme": "Alternatives",
+       "text": "Alts again below normalised expectations."
+      },
+      {
+       "tone": "good",
+       "theme": "Rates",
+       "text": "Net floating-rate book cut $9B to $16B (about 7% of NIA); sensitivity down to $30–40M SRE per 25bp from $45–55M."
+      },
+      {
+       "tone": "good",
+       "theme": "Guidance",
+       "text": "2024 net spread 160–165bp, low-double-digit SRE growth, inflows $70B+ reaffirmed."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital formation",
+       "text": "About $20B Athene capital formation; $6.5B raised from third-party insurers."
+      },
+      {
+       "tone": "good",
+       "theme": "Strategy",
+       "text": "Management claims a decade-long lead over competitors."
+      }
+     ],
+     "meter": {
+      "good": 5,
+      "bad": 1,
+      "n": 7,
+      "score": 0.57,
+      "label": "Good",
+      "arrow": "↑",
+      "note": "Not discussed: PRT, Bermuda, surrenders"
+     }
+    },
+    "2024Q2": {
+     "date": "1 Aug 2024",
+     "sources": [
+      {
+       "label": "bullfincher",
+       "url": "https://bullfincher.io/companies/apollo-global-management/earnings-call/fy2024-q2"
+      }
+     ],
+     "read": "partial (cut at start of Q&A)",
+     "lines": [
+      {
+       "tone": "bad",
+       "theme": "SRE",
+       "text": "SRE fell to $710M ($1.15/sh): COVID-era business roll-off and hedging costs."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Net spread 6bp below Q1 comparable; about $4B COVID-era funding agreements at about 2% cost of funds matured; corporates 40%+ of H1 purchases; deployment back-weighted."
+      },
+      {
+       "tone": "bad",
+       "theme": "Guidance",
+       "text": "2024 SRE growth cut to mid-single digits; net spread about 150bp (from 160–165bp)."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Inflows $17B, $37B YTD; $70B target held."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar",
+       "text": "ADIP II raised $6B, largest third-party sidecar in the industry."
+      },
+      {
+       "tone": "good",
+       "theme": "New business",
+       "text": "Spread and ROE on target; $10B+ directly originated IG at about 200bp over comparable public corporates."
+      },
+      {
+       "tone": "average",
+       "theme": "Alternatives",
+       "text": "AAA +9% in quarter; Athora, Venerable, Catalina, FWD underperformed."
+      },
+      {
+       "tone": "good",
+       "theme": "Outlook",
+       "text": "Return to double-digit SRE growth targeted for 2025."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 2,
+      "n": 8,
+      "score": 0.25,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(guidance cut, SRE trough)"
+     }
+    },
+    "2024Q3": {
+     "date": "4 Nov 2024 (one source says 5 Nov)",
+     "sources": [
+      {
+       "label": "bullfincher",
+       "url": "https://bullfincher.io/companies/apollo-global-management/earnings-call/fy2024-q3"
+      },
+      {
+       "label": "MarketScreener",
+       "url": "https://au.marketscreener.com/quote/stock/APOLLO-GLOBAL-MANAGEMENT--131329862/news/Apollo-Global-Management-3Q-2024-Earnings-Transcript-48274892/"
+      }
+     ],
+     "read": "partial (truncated mid-Q&A)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Net spread ex-notables +16bp QoQ; roughly flat with Q2 once adjusted for 11% alts return."
+      },
+      {
+       "tone": "average",
+       "theme": "Guidance",
+       "text": "YTD SRE $2.4B (+5% ex-notables); FY about $3.2B, Q4 similar to Q3."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "About $20B organic inflows; new BAML distribution relationship."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "Outflows about 10% annualised (analyst figure), expected to ease; runoff called highly predictable."
+      },
+      {
+       "tone": "average",
+       "theme": "Alternatives",
+       "text": "Alts 8.2% annualised; AAA 10.5%, about 80% of the portfolio."
+      },
+      {
+       "tone": "good",
+       "theme": "Third-party capital",
+       "text": "Third-party insurance AUM about $100B, targeted to double in five years."
+      },
+      {
+       "tone": "good",
+       "theme": "Targets",
+       "text": "Investor Day: about 10% average SRE growth and about $5B SRE by 2029."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 7,
+      "score": 0.57,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2024Q4": {
+     "date": "4 Feb 2025",
+     "sources": [
+      {
+       "label": "bullfincher",
+       "url": "https://bullfincher.io/companies/apollo-global-management/earnings-call/fy2024-q4"
+      }
+     ],
+     "read": "partial (truncated mid-Q&A)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "SRE",
+       "text": "FY SRE $3.2B."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Net spread ex-notables 137bp, down YoY: rate transition, spread-lock actions, tighter spreads, slightly lower alts allocation."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "$70B+ organic inflows; NIA +14%; January inflows $9B+."
+      },
+      {
+       "tone": "good",
+       "theme": "New business",
+       "text": "Underwritten spread on new business above 140bp."
+      },
+      {
+       "tone": "good",
+       "theme": "Guidance",
+       "text": "2025 SRE about $3.5B at 11% alts; about 10% average growth over five years."
+      },
+      {
+       "tone": "average",
+       "theme": "Rates",
+       "text": "Guidance assumes six cuts from Sept 2024 through end-2025."
+      },
+      {
+       "tone": "average",
+       "theme": "Cost of funds",
+       "text": "Cost of funding +12bp sequentially (summary pages only)."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 0,
+      "n": 7,
+      "score": 0.43,
+      "label": "Good",
+      "arrow": "↑",
+      "note": "Not discussed: PRT, Bermuda, surrenders"
+     }
+    },
+    "2025Q1": {
+     "date": "2 May 2025",
+     "sources": [
+      {
+       "label": "bullfincher",
+       "url": "https://bullfincher.io/companies/apollo-global-management/earnings-call/fy2025-q1"
+      }
+     ],
+     "read": "partial (truncated mid-Q&A)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "SRE/Spread",
+       "text": "SRE ex-notables $826M; net spread ex-notables 129bp (-8bp); $22M notable hit to cost of funds."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record $20B inflows ($10B retail, $11B funding agreements, $5B flow); NIA +15%."
+      },
+      {
+       "tone": "average",
+       "theme": "Competition",
+       "text": "Rivals taking more asset risk; Q1 pricing 'not healthy' for adding risk."
+      },
+      {
+       "tone": "average",
+       "theme": "Liquidity",
+       "text": "Cash/Treasury shift cost about $15M in Q1, about $30M for the year if undeployed."
+      },
+      {
+       "tone": "bad",
+       "theme": "Guidance",
+       "text": "2025 target rebased from $3.5B to a $3.2B base with mid-single-digit growth."
+      },
+      {
+       "tone": "bad",
+       "theme": "Headwinds",
+       "text": "About 10bp retail competitive pressure, about $40M prepayments, about $40M from 1.5 more cuts."
+      },
+      {
+       "tone": "good",
+       "theme": "Investing",
+       "text": "About $14B invested in April at spreads about 50bp wider than Q1."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 2,
+      "n": 7,
+      "score": 0.0,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(guidance rebased)"
+     }
+    },
+    "2025Q2": {
+     "date": "5 Aug 2025",
+     "sources": [
+      {
+       "label": "Apollo IR transcript",
+       "url": "https://ir.apollo.com/_assets/_9d229425011f8161e75a7d4ea62ed11d/apollo/db/2247/21785/webcast_transcript/CORRECTED+TRANSCRIPT_+Apollo+Global+Management%2C+Inc.%28APO-US%29%2C+Q2+2025+Earnings+Call%2C+5-August-2025+8_30+AM+ET+.pdf"
+      }
+     ],
+     "read": "transcript read (full)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "SRE",
+       "text": "SRE $821M, plus $36M if alts at 11%."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Blended net spread 122bp (Q1 126bp) on post-COVID runoff; expected to drift lower through 2026 then stabilise."
+      },
+      {
+       "tone": "average",
+       "theme": "Guidance",
+       "text": "Mid-single-digit 2025 SRE growth; 10% through-cycle."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Inflows $21B (retail $7B, FA $12B, flow $2B); record FIA issuance $12B; NIA $275B (+18%)."
+      },
+      {
+       "tone": "good",
+       "theme": "New business",
+       "text": "About 130bp H1 spread; cost of doing business about 16bp, about half of larger public peers."
+      },
+      {
+       "tone": "average",
+       "theme": "Competition/Credit",
+       "text": "Public credit/CLO spreads called uneconomic; shifting to private origination ($60B IG at about 290bp over Treasuries)."
+      },
+      {
+       "tone": "average",
+       "theme": "M&A",
+       "text": "Athora/PIC awaiting regulatory approval."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 0,
+      "n": 7,
+      "score": 0.29,
+      "label": "Average",
+      "arrow": "→",
+      "note": "(full transcript read; tone flat)"
+     }
+    },
+    "2025Q3": {
+     "date": "4 Nov 2025",
+     "sources": [
+      {
+       "label": "Apollo IR transcript",
+       "url": "https://ir.apollo.com/_assets/_9d229425011f8161e75a7d4ea62ed11d/apollo/db/2247/21796/webcast_transcript/CORRECTED+TRANSCRIPT_+Apollo+Global+Management%2C+Inc.%28APO-US%29%2C+Q3+2025+Earnings+Call%2C+4-November-2025+8_30+AM+ET.pdf"
+      }
+     ],
+     "read": "transcript read (full)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "SRE",
+       "text": "SRE ex-notables $846M (alts +$37M above 11%); management says SRE troughed in H1'25."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "121bp (Q2 122bp); prepayment headwinds peak through Q1'26."
+      },
+      {
+       "tone": "good",
+       "theme": "Guidance",
+       "text": "Q4 about $880M at 125bp; FY25 about $3,475M (+8%); 2026 about +10%."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "$23B inflows ($10B retail, $10B FA, $3B flow), $69B YTD; deployed $22B at about 220bp over Treasuries."
+      },
+      {
+       "tone": "good",
+       "theme": "Rates",
+       "text": "Floating-rate net assets $6B (2%); 25bp move now $10–15M SRE vs $30–40M."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "Direct lending under 0.75%; 90%+ IG; rejects concerns on private ratings."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Managed to AA-level profile; $350M+ repurchased."
+      },
+      {
+       "tone": "average",
+       "theme": "PRT",
+       "text": "Described as effectively closed to competitors (transcription unclear)."
+      }
+     ],
+     "meter": {
+      "good": 6,
+      "bad": 0,
+      "n": 8,
+      "score": 0.75,
+      "label": "Good",
+      "arrow": "↑",
+      "note": "(trough called, rate sensitivity cut)"
+     }
+    },
+    "2025Q4": {
+     "date": "9 Feb 2026",
+     "sources": [
+      {
+       "label": "AOL transcript",
+       "url": "https://www.aol.com/articles/apollo-apo-q4-2025-earnings-151738571.html"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "SRE",
+       "text": "Q4 SRE $865M (+$28M at 11% alts); FY about $3.4B (+9%); NIA $292B (+18%)."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "120bp ex-notables (Q3 121bp); 2026 range 120–125bp."
+      },
+      {
+       "tone": "good",
+       "theme": "Guidance",
+       "text": "2026 SRE about +10% (about $3.85B); about 10% average through 2029."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record $83B 2025 inflows ($34B retail, $35B FA, $12B reinsurance); 2026 target about $85B."
+      },
+      {
+       "tone": "average",
+       "theme": "PRT",
+       "text": "2026 target does not rely on PRT; recent PRT spreads poor."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio/M&A",
+       "text": "ARI deal: about $9B CMLs at about 7.7%; software exposure about 0.5%."
+      },
+      {
+       "tone": "average",
+       "theme": "Liquidity",
+       "text": "$24B cash/Treasuries/agencies: drag but firepower."
+      },
+      {
+       "tone": "good",
+       "theme": "Third-party capital",
+       "text": "Platform $135B+ AUM; sidecars grew $16B in 2025."
+      },
+      {
+       "tone": "average",
+       "theme": "Competition",
+       "text": "Rivals in lower-quality broker channels pay high cost of funds and may rely on Cayman moves."
+      }
+     ],
+     "meter": {
+      "good": 5,
+      "bad": 0,
+      "n": 9,
+      "score": 0.56,
+      "label": "Good",
+      "arrow": "↓",
+      "note": "(Q3 was exceptional; spread slipped 1bp)"
+     }
+    },
+    "2026Q1": {
+     "date": "6 May 2026",
+     "sources": [
+      {
+       "label": "Apollo IR transcript",
+       "url": "https://ir.apollo.com/_assets/_011ea2ad397749a608b932918726e34b/apollo/db/2247/22868/webcast_transcript/APO+Q1+2026+Earnings+Call+Transcript.pdf"
+      }
+     ],
+     "read": "transcript read (truncated in Q&A)",
+     "lines": [
+      {
+       "tone": "bad",
+       "theme": "SRE",
+       "text": "SRE $719M (would be $907M at 11% alts)."
+      },
+      {
+       "tone": "bad",
+       "theme": "Spread/Alts",
+       "text": "Net spread 97bp (Q4 120bp); alts returned 6%; Atlas impairment and Athora raise cost about 3.5–4 points annualised."
+      },
+      {
+       "tone": "good",
+       "theme": "Guidance",
+       "text": "10% SRE growth reaffirmed; spread expected to stabilise as prepayments fade."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "$20B inflows; new markets $1B+ in Q1, $5B+ for year."
+      },
+      {
+       "tone": "average",
+       "theme": "Competition",
+       "text": "Competition called irrational; no public FAs issued in Q1, private FAs used."
+      },
+      {
+       "tone": "average",
+       "theme": "PRT",
+       "text": "Still closed to Apollo."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "About 95% fixed income, about 90% of it IG; levered lending 0.4%, software 0.1%; IG CLOs from $40B+ to under 8% of balance sheet."
+      },
+      {
+       "tone": "good",
+       "theme": "Liquidity/Capital",
+       "text": "About $40B cash and Treasuries; capital base about $35B; AA pursuit."
+      },
+      {
+       "tone": "average",
+       "theme": "Regulation",
+       "text": "Rising scrutiny of Cayman reinsurance (UK PRA, Japan); supports equal capital for equal risk."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 2,
+      "n": 9,
+      "score": 0.22,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(spread 97bp, alts miss)"
+     }
+    },
+    "2026Q2": {
+     "date": "4 Aug 2026",
+     "sources": [
+      {
+       "label": "Apollo IR transcript",
+       "url": "https://ir.apollo.com/_assets/_1167705645d5a41972e8c38f7947a8e5/apollo/db/2247/22879/webcast_transcript/APO+2Q26+Transcript.pdf"
+      },
+      {
+       "label": "8-K release",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001858681/000185868126000036/agmearningsrelease2q2026.htm"
+      }
+     ],
+     "read": "transcript and release read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "SRE",
+       "text": "Record SRE $877M ($1.41/sh); release shows +6.8% YoY reported."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "114bp (Q1 97bp), about 10bp short of the 120–125bp range at 11% alts; Intel repayment roll-off lumpy; cost of funds rising as book seasons."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Inflows $22B (retail $12B, flow $4B, FA $5.7B), $42B H1; gross invested assets $414B (+14%); core outflow rate 9.9% (release)."
+      },
+      {
+       "tone": "good",
+       "theme": "Guidance",
+       "text": "10% SRE growth at 11% alts; normalised spread 120–125bp into 2027."
+      },
+      {
+       "tone": "average",
+       "theme": "Alternatives",
+       "text": "AAA near 10%; levered share class launched; PIC integration smooth; $6B UK pension deal in July."
+      },
+      {
+       "tone": "average",
+       "theme": "Competition/Regulation",
+       "text": "36 asset managers entered retail annuities, some via Cayman; NAIC proposals on non-reciprocal jurisdictions."
+      },
+      {
+       "tone": "average",
+       "theme": "PRT",
+       "text": "Zero pension group annuity inflows Q2 and YTD (release)."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital/Credit",
+       "text": "About $100M repurchased; AA pursuit; 98% of AFS NAIC 1–2; historical credit loss 11bp a year; third-party capital supported about 23% of new volume."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 8,
+      "score": 0.5,
+      "label": "Good",
+      "arrow": "↑",
+      "note": "(record SRE, spread recovering off the Q1 low). Not discussed on the call: Bermuda tax, surrenders, assumption updates; Bermuda 15% CIT and ACRA detail were barely discussed on any Apollo call"
+     }
+    }
+   }
+  },
+  "global_atlantic": {
+   "heading": "KKR — Insurance / Global Atlantic (metric: Insurance Operating Earnings)",
+   "metric": "Insurance Operating Earnings",
+   "coverage": "Q1 FY2023 to Q2 FY2026 (latest call 30 Jul 2026). Basis caveats: from Q1'23 the measure is pre-tax (previously after-tax); KKR owned about 63% of GA through 2023 and 100% from 2 Jan 2024, so pre-2024 figures are for a partly owned business; from 2025 the measure is cash-based and excludes marks. Source caveat: transcripts were read through a summarising fetch tool (MarketBeat pages), which dropped the last 4–6k characters of several late-period pages; no KKR IR release or supplement was opened, so headline earnings figures rest on the transcripts only. Bermuda 15% tax, ratings, capital ratios and credit losses were essentially never discussed on KKR calls.",
+   "watch": "the $250M ± quarterly insurance operating earnings guide against $600M+ year-to-date including marks; timing of accrued income reaching cash in 2027–28; how much capital KKR keeps allocating to insurance given heightened competition; Ivy dry powder (about $6B) deployment; Asia and Japan expansion.",
+   "quarters": {
+    "2023Q1": {
+     "date": "8 May 2023",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2023-5-8-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "Insurance pre-tax operating earnings $205M, ahead of expectations."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "GA AUM $142B (from $72B at 2020 announcement); third-party insurance AUM $56B."
+      },
+      {
+       "tone": "good",
+       "theme": "Liability",
+       "text": "Surrenders in line with underwriting through April."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "No block deals in the quarter; pipeline strong but lumpy."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio",
+       "text": "Rotation to KKR-sourced assets gradual; blended fee rate about 30bp."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "KKR's share of GA book value $4.4B vs $2.9B at close."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": null,
+      "note": null
+     }
+    },
+    "2023Q2": {
+     "date": "7 Aug 2023",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2023-8-7-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "Pre-tax earnings $170M, down QoQ; extra cash held through regional-bank stress cost some ROE."
+      },
+      {
+       "tone": "good",
+       "theme": "ROE",
+       "text": "Pre-tax ROE just above the 14–15% range."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "MetLife block adds $13B AUM; GA AUM $144B."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar",
+       "text": "Ivy II final close, with a meaningful Japan Post Insurance commitment."
+      },
+      {
+       "tone": "good",
+       "theme": "Partnerships",
+       "text": "New Japan Post Insurance tie-up; AXA Hong Kong block; Singapore flow reinsurance."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 5,
+      "score": 0.8,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2023Q3": {
+     "date": "7 Nov 2023",
+     "sources": [
+      {
+       "label": "KKR IR transcript",
+       "url": "https://ir.kkr.com/app/uploads/2023/11/KKR-Q3-2023-Earnings-Transcript.pdf"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "Pre-tax earnings $210M, up close to 30% YoY."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Net investment income margin rose slightly more than cost of insurance; ROA about 15bp higher."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Higher activity in individual and institutional channels."
+      },
+      {
+       "tone": "average",
+       "theme": "Outlook",
+       "text": "2024: individual inflows $10–15B, institutional about ±$10B, outflows mid-teens $B; net organic growth $5–10B."
+      },
+      {
+       "tone": "good",
+       "theme": "Blocks",
+       "text": "MetLife due to close Q4; pro forma GA AUM $158B."
+      },
+      {
+       "tone": "average",
+       "theme": "Regulation",
+       "text": "Draft DOL rule not expected to be material."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "No obligation to buy out minorities, but KKR must provide liquidity if asked."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 7,
+      "score": 0.57,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2023Q4": {
+     "date": "6 Feb 2024",
+     "sources": [
+      {
+       "label": "KKR IR transcript",
+       "url": "https://ir.kkr.com/app/uploads/2024/02/KKR-Q4-2023-Earnings-Transcript.pdf"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "Pre-tax earnings $231M, +10% (includes $16M solar sale)."
+      },
+      {
+       "tone": "good",
+       "theme": "ROE",
+       "text": "Modelled 14–15%; management says GA has beaten it by a healthy margin."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Floating-rate exposure down to about 16% from 20%; lower 2024 rates could pressure earnings."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record inflows; individual production averaged about $10B a year, $15–20B target."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar/blocks",
+       "text": "MetLife closed, Manulife due 1H24; GA put in about 25% of equity, third parties about 75%."
+      },
+      {
+       "tone": "average",
+       "theme": "PRT",
+       "text": "Very little share today, seen as opportunity."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "KKR bought the remaining GA stake on 2 Jan 2024 for about $2.6B."
+      }
+     ],
+     "meter": {
+      "good": 5,
+      "bad": 0,
+      "n": 7,
+      "score": 0.71,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2024Q1": {
+     "date": "1 May 2024",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2024-5-1-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "Operating earnings $273M; first quarter 100% owned."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Yields held down by MetLife/Manulife cash; 12–18 months to redeploy."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "$20B+ of blocks closed; about 75% of Q1 flows institutional."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio",
+       "text": "Core real estate yields of 4–4.5% may dilute near-term ROE."
+      },
+      {
+       "tone": "average",
+       "theme": "PRT",
+       "text": "Medium-to-long-term opportunity from a low base."
+      },
+      {
+       "tone": "good",
+       "theme": "Outlook",
+       "text": "14–15% ROE range unchanged; strong conviction to double GA."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 0,
+      "n": 6,
+      "score": 0.5,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2024Q2": {
+     "date": "1 Aug 2024",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2024-8-1-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read (tail truncated)",
+     "lines": [
+      {
+       "tone": "bad",
+       "theme": "ROE",
+       "text": "Operating earnings $253M, ROE below the 14–15% range."
+      },
+      {
+       "tone": "bad",
+       "theme": "Guidance",
+       "text": "Q3 and Q4 similar to Q2; 2025 ROE 'a little bit below' the range."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Q2 inflows $8B+ vs under $3B a year earlier; TTM inflows incl. blocks $50B+."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar",
+       "text": "Ivy sidecar launched as a fifth asset class alongside GA."
+      },
+      {
+       "tone": "average",
+       "theme": "Liquidity",
+       "text": "About $8B cash vs $4B a year earlier; near-term dilution accepted."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio",
+       "text": "$2B multifamily deal at low-4% year-one yield vs 5%+ liability cost; 8% unlevered target."
+      },
+      {
+       "tone": "good",
+       "theme": "CRE",
+       "text": "No meaningful office or retail exposure."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 2,
+      "n": 7,
+      "score": 0.14,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(ROE guided below range)"
+     }
+    },
+    "2024Q3": {
+     "date": "24 Oct 2024",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://marketbeat.com/earnings/reports/2024-10-24-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read (tail truncated)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "Operating earnings $308M including about $50M from the annual assumption review; run rate about $250M."
+      },
+      {
+       "tone": "average",
+       "theme": "Liquidity",
+       "text": "Elevated cash after large blocks; returns not yet in earnings."
+      },
+      {
+       "tone": "good",
+       "theme": "Origination",
+       "text": "ABF AUM $65B+ (+40%); $22B origination YTD, mostly single-A."
+      },
+      {
+       "tone": "good",
+       "theme": "Reinsurance",
+       "text": "Two reinsurance deals closed in 12 months."
+      },
+      {
+       "tone": "average",
+       "theme": "ROE",
+       "text": "14–15% target reiterated, no timeline."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Japan business $25B AUM; GA anchored the institutional tranche of a CyrusOne financing."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 0,
+      "n": 6,
+      "score": 0.5,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2024Q4": {
+     "date": "4 Feb 2025",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2025-2-4-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read (tail truncated)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "Operating earnings $250M, guided 'plus or minus' for the next couple of quarters."
+      },
+      {
+       "tone": "bad",
+       "theme": "Spread/ROE",
+       "text": "Lengthening liabilities and adding low- or no-yield private assets reduces near-term P&L and ROE."
+      },
+      {
+       "tone": "good",
+       "theme": "Origination",
+       "text": "ABF AUM about $70B (+40%)."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "Analyst estimate of about $400M capital injected a quarter (analyst inference, not company)."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar",
+       "text": "Client interest in Ivy franchise, no figures."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 1,
+      "n": 5,
+      "score": 0.2,
+      "label": "Average",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2025Q1": {
+     "date": "1 May 2025",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2025-5-1-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read (tail truncated)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "$259M, in line with $250M ± guide."
+      },
+      {
+       "tone": "good",
+       "theme": "ROE",
+       "text": "All-in pre-tax ROE including fees 'approaching' 20%."
+      },
+      {
+       "tone": "good",
+       "theme": "Liability",
+       "text": "90% of retail annuities sold had 5+ year duration, up from 65%."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio",
+       "text": "GA alts exposure 1% vs 5–8% industry; about $1B added in Q1."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar",
+       "text": "Japan Post Insurance plans $1–2B more; IV3 being raised."
+      },
+      {
+       "tone": "bad",
+       "theme": "Earnings",
+       "text": "Shift to longer-duration private assets pressures near-term operating earnings."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 1,
+      "n": 6,
+      "score": 0.33,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2025Q2": {
+     "date": "31 Jul 2025",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2025-7-31-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read (tail truncated)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "$278M, helped by some variable investment income."
+      },
+      {
+       "tone": "average",
+       "theme": "Guidance",
+       "text": "$250M ± still the right number to model."
+      },
+      {
+       "tone": "good",
+       "theme": "ROE",
+       "text": "All-in ROE approaches 20% counting about $50B of sidecar and co-invest AUM."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "About $2.5B funding agreements over four months, average 8-year duration."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio",
+       "text": "Alts about 1% vs about 5% industry; to rise gradually."
+      },
+      {
+       "tone": "good",
+       "theme": "Third-party capital",
+       "text": "Japan Post Insurance committed $2B; third-party capacity about $6B vs $2.7B for IV2, supporting $60B+ of fee-paying AUM."
+      },
+      {
+       "tone": "average",
+       "theme": "Origination",
+       "text": "Healthcare Royalty Partners adds origination capacity."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 7,
+      "score": 0.57,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2025Q3": {
+     "date": "7 Nov 2025",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2025-11-7-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read (auto-transcript, some garbled figures)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "$305M including $41M assumption-review benefit; run rate about $250M."
+      },
+      {
+       "tone": "good",
+       "theme": "Earnings quality",
+       "text": "On a mark basis about $50M higher; about $200M a year accrued income not yet in P&L, expected 2027–28."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "GA AUM $212B vs $139B in 2022 incl. about $50B in IV vehicles."
+      },
+      {
+       "tone": "good",
+       "theme": "Inflows",
+       "text": "$15B Q3 credit inflows incl. $6B+ funding agreements and Japan Post Insurance partnership."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar",
+       "text": "About $6B third-party capacity → $60B+ fee-paying AUM."
+      },
+      {
+       "tone": "good",
+       "theme": "ROE",
+       "text": "All-in ROE high-teens, moving to 20%+."
+      },
+      {
+       "tone": "average",
+       "theme": "Reporting",
+       "text": "Cash-based reporting is a headwind vs accrued returns."
+      }
+     ],
+     "meter": {
+      "good": 5,
+      "bad": 0,
+      "n": 7,
+      "score": 0.71,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2025Q4": {
+     "date": "5 Feb 2026",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2026-2-5-kkr-co-inc-stock/"
+      }
+     ],
+     "read": "transcript read (tail truncated)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "$268M cash basis; about $320M including marks."
+      },
+      {
+       "tone": "average",
+       "theme": "Guidance",
+       "text": "2026 about $1B (±), excluding about $350M expected accrued returns."
+      },
+      {
+       "tone": "good",
+       "theme": "Earnings quality",
+       "text": "Accrued income about $95M in quarter, $300–350M in 2026, reaching cash 2027–28."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar",
+       "text": "Ivy III raised $4.5B; third-party capacity about $6.5B → $65B+ fee-paying AUM."
+      },
+      {
+       "tone": "good",
+       "theme": "Economics",
+       "text": "Total insurance economics $1.9B in 2025 (+15%)."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio",
+       "text": "Moving toward more alts and low/no-yield assets; analyst suggested spread narrowing, not confirmed."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 0,
+      "n": 6,
+      "score": 0.5,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2026Q1": {
+     "date": "5 May 2026",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2026-5-5-kkr-co-inc-stock"
+      }
+     ],
+     "read": "transcript read (tail truncated)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "$260M; slightly above $300M including marks."
+      },
+      {
+       "tone": "bad",
+       "theme": "Competition/spread",
+       "text": "Liability-side competition very high; asset spreads tight; KKR pulled back on origination; retail more competitive."
+      },
+      {
+       "tone": "bad",
+       "theme": "ROE",
+       "text": "Analyst put ROE just under 11% on a $300M run rate; management cited about $330M at target mark returns."
+      },
+      {
+       "tone": "good",
+       "theme": "Liability",
+       "text": "About 80% of originations 7+ year duration vs 37% in FY2024."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "About $6B dry powder, $60B+ liability buying power."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "About $35B TTM fundraising from GA."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio",
+       "text": "Software about 2.5% of GA AUM."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 2,
+      "n": 7,
+      "score": 0.14,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(competition and ROE flagged)"
+     }
+    },
+    "2026Q2": {
+     "date": "30 Jul 2026",
+     "sources": [
+      {
+       "label": "Webull / Motley Fool AI transcript",
+       "url": "https://www.webull.com/news/15341674978878464"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "$288M including about $40M net realisations not seen as run rate."
+      },
+      {
+       "tone": "average",
+       "theme": "Guidance",
+       "text": "About $250M ± a quarter, upside 2027–28; $600M+ YTD including marks."
+      },
+      {
+       "tone": "good",
+       "theme": "Sidecar",
+       "text": "IV vehicles $62B AUM vs about $50B a year ago; $6B dry powder, $60B+ buying power."
+      },
+      {
+       "tone": "good",
+       "theme": "Liability",
+       "text": "99% of Q2 liabilities 5+ year duration; about 80% 7+."
+      },
+      {
+       "tone": "bad",
+       "theme": "Competition/ROE",
+       "text": "Allocating less capital to insurance on heightened competition; sector ROEs called structurally low; expects wider spreads in volatile markets."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "Looking at Asia/Japan; no pending deals named."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 1,
+      "n": 6,
+      "score": 0.17,
+      "label": "Average",
+      "arrow": "→",
+      "note": null
+     }
+    }
+   }
+  },
+  "brookfield_ws": {
+   "heading": "Brookfield Wealth Solutions — insurance / annuity business (metric: Distributable Operating Earnings, DOE)",
+   "metric": "Distributable Operating Earnings, DOE",
+   "coverage": "Q1 FY2023 to Q2 FY2026 (latest call 13 Aug 2026). Structural flag: no standalone BNRE or BWS earnings call was found in any quarter (the BNT events page lists only Investor Days and AGMs). Every period below is the insurance commentary on the Brookfield Corporation (BN) call. The segment was 'Insurance Solutions' before 2024; the metric appears as DOE or DE, and the 3-for-2 split on 9 Oct 2025 restated per-share series. BWS releases for Q1'23 to Q1'26 and the Investor Day transcripts were not read; only the Q2'26 BWS release was. Bermuda was essentially never discussed (one Q2'23 remark on the tax); Bermuda 15% CIT effects are therefore not covered.",
+   "watch": "Q3 call on 12 Nov 2026; core spread vs the 200bp target; Just Group cost cuts (spread about 80bp); hedge effectiveness on inflation derivatives and equity marks; corporate and non-recourse debt trajectory; execution of the BN/BWS simplification and how the merged entity is rated and capitalised; outflows of $10–12B against the $25B 2026 sales target; $300B+ insurance-asset ambition by decade-end.",
+   "quarters": {
+    "2023Q1": {
+     "date": "11 May 2023",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/events-news/brookfield-corporation-2023-q1-conference-call-and-webcast-transcript.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "Insurance Solutions DOE $145M in the quarter, $520M LTM; annualised $700M against an $800M year-end target."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "About $2B of liquid short-duration assets redeployed at nearly 9%."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Book yield about 5% against about 3% liability cost (spread is a derived figure, not stated on the call)."
+      },
+      {
+       "tone": "good",
+       "theme": "Liability",
+       "text": "Long-dated life/annuity liabilities, effectively no liquidity risk; low risk appetite."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth/M&A",
+       "text": "Argo adds about $4B assets; excess capital earmarked for further M&A."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 5,
+      "score": 0.8,
+      "label": "Good",
+      "arrow": null,
+      "note": "Not discussed: sales volumes, PRT, Bermuda, capital ratios"
+     }
+    },
+    "2023Q2": {
+     "date": "10 Aug 2023",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/events-news/brookfield-corporation-2023-q2-conference-call-and-webcast-transcript.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "DOE $160M, $634M LTM; annualised $725M vs $800M target."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread/Portfolio",
+       "text": "5.4% yield on about $45B, about 220bp over cost of capital; about $1.5B redeployed at 8%+."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "$3B+ annuity premiums in the quarter; American National retail sales $4.5B annualised vs about $1B at acquisition; $15B+ of block and PRT closed."
+      },
+      {
+       "tone": "good",
+       "theme": "M&A",
+       "text": "AEL buyout at $55/share (about $4B) announced; expected to add $500M+ of earnings."
+      },
+      {
+       "tone": "average",
+       "theme": "Bermuda",
+       "text": "A Bermuda corporate income tax would have minimal-to-zero impact; Bermuda chosen for operations and regulator, not tax."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "About $10B of capital to be deployed after AEL and Argo; long-term target about 200bp spread, about $2B earnings on $100B assets."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "↓",
+      "note": "(from +0.80; more capital-deployment promises than results)"
+     }
+    },
+    "2023Q3": {
+     "date": "9 Nov 2023",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/events-news/brookfield-corporation-2023-q3-conference-call-and-webcast-transcript.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "DOE $182M (+14% YoY), $657M LTM; annualised about $775M."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "About 5.5% on about $50B, about 200bp over cost of capital; about $1B redeployed at 9%+."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "$2B+ annuity premiums; retail and insurance platforms raising about $800M a month, target $1.5B+ in 2024."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio",
+       "text": "Real estate transferred into the insurers at fair value (core, then opportunistic); independent valuations, regulator-approved. Related-party item a credit reader should watch."
+      },
+      {
+       "tone": "good",
+       "theme": "M&A",
+       "text": "AEL and Argo would take assets above $100B, initial annualised earnings about $1.2B."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 5,
+      "score": 0.8,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2023Q4": {
+     "date": "8 Feb 2024",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/events-news/bn-q4-2023-conference-call-and-webcast-transcript-f.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "FY2023 DOE $740M ($0.47/sh); annualised $940M, up $290M YoY."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "$8B annuity origination in 2023; assets about $60B after Argo, $100B+ after AEL."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Yield about 5.5%, about 2% above cost of capital; about $5B deployed at 9%+; target new-business spread about 2%."
+      },
+      {
+       "tone": "average",
+       "theme": "Rates",
+       "text": "No floating-rate figure given; rate risk hedged, portfolio slightly short."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "DOE retained for growth; disciplined hurdle ROEs; DBRS upgrade to A was on BN debt, not the insurers."
+      },
+      {
+       "tone": "good",
+       "theme": "Target",
+       "text": "Path to about $2B annualised earnings after AEL."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2024Q1": {
+     "date": "9 May 2024",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/events-news/bn-q1-2024-conference-call-and-webcast-transcript-f.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "DOE $273M ($0.17/sh), $868M LTM; annualised about $1.4B post-AEL, target $2B+ in 18–24 months."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Yield 5.7%, about 2 points over cost of capital; liability duration about 10 years."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "2024 target $11B annuity and pension origination; AEL capacity $20B+ a year; retail about $800M a month."
+      },
+      {
+       "tone": "good",
+       "theme": "PRT",
+       "text": "$3B US PRT won in 12 months; capacity $7–10B a year; UK licensing in progress."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "BNRE equity $8B; ROE target 15–20%; AEL rating improved per management."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "$25B+ cash and short assets to be reinvested over 18–24 months."
+      }
+     ],
+     "meter": {
+      "good": 5,
+      "bad": 0,
+      "n": 6,
+      "score": 0.83,
+      "label": "Good",
+      "arrow": "↑",
+      "note": "Not discussed: Bermuda, surrenders"
+     }
+    },
+    "2024Q2": {
+     "date": "8 Aug 2024",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/events-news/bn-q2-2024-conference-call-and-webcast-transcript-f.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "DOE $292M ($0.19/sh), $1B LTM; assets $110B+ after AEL closed."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Ex-AEL about 2%; AEL about 1.5% with 2% target as portfolio is repositioned."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "Annuity-channel origination $3.5B; 'price taker', cut crediting rates by up to 50bp, will accept lower sales to protect spread."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "ROE target 18–20% at assumed 8–10x leverage (leverage assumption a mild credit negative; it is a target)."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "Rotating cash and liquid assets into higher-yielding credit."
+      },
+      {
+       "tone": "good",
+       "theme": "Third-party capital",
+       "text": "First insurance-client SMA signed."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2024Q3": {
+     "date": "14 Nov 2024",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/events-news/bn-q3-2024-conference-call-and-webcast-transcript-f.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "DOE $364M ($0.23/sh), $1.2B LTM; roughly doubled YoY."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Yield 5.4%, 180bp over cost of capital (+10bp QoQ); 200bp expected within about 12 months."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Organic inflows about $4.5B; annuities 91% of liabilities; $1.4B UK pension reinsurance deal; CAD 1.5B Canadian PRT deal."
+      },
+      {
+       "tone": "average",
+       "theme": "Valuation/Competition",
+       "text": "Must prove track record for a higher multiple; UK competition intense."
+      },
+      {
+       "tone": "good",
+       "theme": "P&C",
+       "text": "Hurricane impact not material."
+      },
+      {
+       "tone": "good",
+       "theme": "Distribution",
+       "text": "Retail raising close to $2B a month."
+      }
+     ],
+     "meter": {
+      "good": 5,
+      "bad": 0,
+      "n": 6,
+      "score": 0.83,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2024Q4": {
+     "date": "13 Feb 2025",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/events-news/bn-q4-24-transcript-final.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "FY2024 DOE $1.4B ($0.85/sh), nearly double; annualised about $1.6B heading to $2B."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Yield 5.4%, about 1.8% over cost of capital, rising to about 2%; liability duration about 9 years."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "2024 originations about $19B; January 2025 annuities about $2B; first FABN about $500M."
+      },
+      {
+       "tone": "good",
+       "theme": "PRT/International",
+       "text": "Second-largest Canadian PRT deal; first large UK deal closed; teams in UK and Japan."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital/Ratings",
+       "text": "Insurers 'heavily overcapitalized'; not seeking upgrades; no ratios given."
+      },
+      {
+       "tone": "average",
+       "theme": "M&A",
+       "text": "Growth organic plus bolt-ons."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "→",
+      "note": null
+     }
+    },
+    "2025Q1": {
+     "date": "8 May 2025",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/events-news/bn-q1-2025-conference-call-transcript.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "DOE $430M ($0.27/sh), $1.5B LTM; ROE reached 15%+ target; assets $140B+."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Originations $4B; 2025 target $25B; banks and broker-dealers 60% of US annuity sales but 30% of Brookfield's."
+      },
+      {
+       "tone": "good",
+       "theme": "PRT/FA",
+       "text": "UK PRT licence received; inaugural $500M funding agreement 3x oversubscribed."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital/Liquidity",
+       "text": "Statutory capital $16B+; cash $15B+; total liquidity $40B+; permanent capital, no third-party money."
+      },
+      {
+       "tone": "average",
+       "theme": "M&A",
+       "text": "AEL and ANICO bought at 0.7–0.8x book; will not buy at peers' roughly 2x."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 5,
+      "score": 0.8,
+      "label": "Good",
+      "arrow": "↑",
+      "note": "Not discussed: Bermuda, ratings, spread"
+     }
+    },
+    "2025Q2": {
+     "date": "7 Aug 2025",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/brookfield-bn/reports-filings/quarterly-reports/bn-q2-2025conference-call-and-webcast-trancript-f.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "DOE $391M ($0.25/sh), $1.6B LTM (release basis $398M); ROE in line with 15%+ target."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Yield 5.8%, spread 1.8% over cost of funds; management sees no downside to spread; target 2%."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Originations $4B+; assets $135B; $3.5B deployed at 8% net yield."
+      },
+      {
+       "tone": "good",
+       "theme": "M&A",
+       "text": "Just Group (UK PRT) to be bought for $3.2B, about two-thirds via credit facility; adds about $40B assets, 15%+ expected ROE."
+      },
+      {
+       "tone": "average",
+       "theme": "P&C",
+       "text": "Organic growth, combined ratio target below 100%."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "About $180B of Brookfield balance sheet supports the business; no structural change planned."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 0,
+      "n": 6,
+      "score": 0.5,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2025Q3": {
+     "date": "13 Nov 2025",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/BN-IR-Master/Events/2025/BN%20Q3%202025Conference%20Call%20and%20Webcast%20Trancript_Final.pdf"
+      }
+     ],
+     "read": "BN call read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DE",
+       "text": "DE $420M ($0.18/sh), $1.7B LTM; organic growth 15%+ YoY; ROE 15%."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Spread 165bp (analyst-cited, confirmed); yield 5.7%; decline attributed to inflows sitting in cash; long-term target about 200bp."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Originations $5B; assets $139B; about 80% of new retail annuities 5+ years duration."
+      },
+      {
+       "tone": "average",
+       "theme": "Liabilities",
+       "text": "Net flows to settle at about one-third outflows relative to inflows."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "$4B deployed at 9% net yield; barbell of liquidity and real asset/credit/equity."
+      },
+      {
+       "tone": "good",
+       "theme": "International",
+       "text": "First Japan flow reinsurance deal; Just Group shareholder-approved, close 1H26, assets to about $180B; pro forma financials declined."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2025Q4": {
+     "date": "12 Feb 2026",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/BN-IR-Master/Events/2026/bn-q4-2025-conference-call-and-webcast-transcript-final.pdf"
+      }
+     ],
+     "read": "BN call read (header says 2025; listing date 12 Feb 2026 used)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DE",
+       "text": "FY2025 DE $1.7B ($0.71/sh), +24%; ROE about 15%; growth spread 2.25%."
+      },
+      {
+       "tone": "good",
+       "theme": "Guidance",
+       "text": "2026: year-end assets about $200B, DE above $2B, capital above $20B 'well above regulatory targets'; mid-teens ROE."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "2025 annuity sales $20B; US target $30B+ a year over time; second bank platform soon."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio/Liquidity",
+       "text": "About 50% liquid, 50% private; $13B deployed in 2025; about $3B of 2025 inflows was liquidity catch-up."
+      },
+      {
+       "tone": "good",
+       "theme": "International/P&C",
+       "text": "First Japan deal (Dai-ichi Frontier), $3–5B a year target; P&C float $8B near-zero cost."
+      },
+      {
+       "tone": "average",
+       "theme": "Structure",
+       "text": "BN and BNT to combine within about 12 months; tax nuances flagged."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "→",
+      "note": null
+     }
+    },
+    "2026Q1": {
+     "date": "14 May 2026",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/Brookfield-BN-IR-V2/2026/Q1/bn-q1-2026-transcript.pdf"
+      }
+     ],
+     "read": "BN call read (internal inconsistencies in the transcript)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DE",
+       "text": "DE $430M ($0.18/sh), +11%; $1.7B LTM."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Cost of funds grew faster than NII as short rates fell; total-return spread about 225bp; mid-teens ROE."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "Originations about $5B (annuity $4B); US fixed annuity market -9 to -10%; BWS share +4 points; outflows guided $10–12B a year vs $25B 2026 target."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital/Ratings",
+       "text": "$20B+ regulatory capital, about 4x the minimum; writing insurers rated A or A-."
+      },
+      {
+       "tone": "good",
+       "theme": "UK/Bermuda",
+       "text": "Just closed 1 April, about $40B assets, 10–12% going-in return; Just does not use Bermuda, so PRA concerns on Bermuda reinsurance have no material impact."
+      },
+      {
+       "tone": "average",
+       "theme": "P&C",
+       "text": "Clearbrook exits complete; combined ratio 99%."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 0,
+      "n": 6,
+      "score": 0.5,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2026Q2": {
+     "date": "13 Aug 2026",
+     "sources": [
+      {
+       "label": "BN transcript",
+       "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/Brookfield-BN-IR-V2/2026/Q2/BN%20Q2-2026-transcript.pdf"
+      },
+      {
+       "label": "BWS release",
+       "url": "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2026/q2/2026-q2-bws-press-release.pdf"
+      }
+     ],
+     "read": "BN call and BWS release read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "DOE",
+       "text": "Release DOE $488M vs $398M (+23%), $926M for six months; the BN call quoted DE $480M ($0.20/sh), $1.8B LTM — the $8M gap is unreconciled."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Core annuity income spread about 180bp (about 220bp incl. unrealised marks); down from 225bp last quarter; excludes marks at the low end."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "Annuity sales $5B; bank/broker-dealer added about $200M; spreads stay above 200bp despite competition."
+      },
+      {
+       "tone": "good",
+       "theme": "Just/PRT",
+       "text": "Just contributed about $29M, about 12% going-in ROE; costs 2–3x some competitors, so cost cuts add 50bp+ to a spread of about 80bp."
+      },
+      {
+       "tone": "average",
+       "theme": "P&C",
+       "text": "Combined ratio 99%; Clearbrook de-risked volatile lines."
+      },
+      {
+       "tone": "bad",
+       "theme": "Earnings quality/leverage",
+       "text": "Net income $149M; six-month net loss $453M on inflation-derivative and public-equity losses; corporate borrowings $2.65B vs $0.63B, non-recourse $6.98B vs $4.86B."
+      },
+      {
+       "tone": "good",
+       "theme": "Liquidity",
+       "text": "About $35B cash and short-term plus about $43B long-term liquid; $5B deployed at 7% target yield; duration nearly matched."
+      },
+      {
+       "tone": "average",
+       "theme": "Structure/Capital",
+       "text": "BN and BWS simplification approved 16 July; $300B+ insurance assets by decade-end; no numerical guidance."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 1,
+      "n": 8,
+      "score": 0.25,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(spread down, GAAP volatility, rising debt). Not discussed: American Equity by name, Bermuda, ratings, surrenders, credit losses"
+     }
+    }
+   }
+  },
+  "corebridge": {
+   "heading": "Corebridge Financial (metric: adjusted pre-tax operating income, APTOI)",
+   "metric": "adjusted pre-tax operating income, APTOI",
+   "coverage": "Q1 FY2023 to Q2 FY2026 (latest call 5 Aug 2026). Scope flag: on 25 Mar 2026 Corebridge and Equitable Holdings announced an all-stock merger into a new parent to be named Equitable (ticker EQH), valuing the combination at about $22B, Marc Costantini as CEO, Houston HQ, close expected by year-end 2026. Corebridge holders approved on 30 Jul 2026; Nippon Life directors voted in favour (support agreement dated 8 Apr 2026). Corebridge remains in the set until closing; after that it should be dropped or replaced by the combined entity. CEO Kevin Hogan and CFO Elias Habayeb announced exits on the Q3'25 call. Source caveat: transcripts were MarketBeat/Quartr text, partly truncated for Q3'25 to Q2'26; Q2'23 was read from the release only (call not read). Fortitude Re and Bermuda were discussed only sporadically.",
+   "watch": "Equitable merger close by year-end (state and international approvals pending); Blackstone mandate of $92.5B by end-Q3 vs a roughly $20B gap; base spread income about $2.55B guide; VII staying below the 8–9% target; Group Retirement fee transition; IR sales rebound; second-half buybacks of about $350M; Fortitude Re funds-withheld unrealised losses; Nippon co-manufacturing talks; Q3 date (about 2–3 Nov, unconfirmed).",
+   "quarters": {
+    "2023Q1": {
+     "date": "9 May 2023",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2023-5-12-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Base spread income +38% YoY; base yield 4.42%, new money 6.5% (about 230bp over roll-off); IR net investment spread +71bp."
+      },
+      {
+       "tone": "bad",
+       "theme": "Earnings",
+       "text": "APTOI $724M, down $185M YoY; VII accounted for $270M+ of the decline."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Premiums and deposits $10.3B (+45%) incl. $1.5B PRT."
+      },
+      {
+       "tone": "average",
+       "theme": "CRE",
+       "text": "CMLs $30.3B; traditional US office $4.5B with a 5%+ allowance; RBC sensitivity to a 30% office shock about 11 points."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Life fleet RBC 410–420%, leverage 27.9%, holdco liquidity $1.8B, $1B buyback authorisation."
+      },
+      {
+       "tone": "average",
+       "theme": "Blackstone/BlackRock",
+       "text": "About $3B into Blackstone at 6.5% gross yield; nearly $1B into BlackRock."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "Fixed annuity surrender rate 15%, within expectations."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 1,
+      "n": 7,
+      "score": 0.29,
+      "label": "Average",
+      "arrow": null,
+      "note": "Not discussed: Bermuda, Nippon, actuarial review"
+     }
+    },
+    "2023Q2": {
+     "date": "4 Aug 2023",
+     "sources": [
+      {
+       "label": "StreetInsider release",
+       "url": "https://www.streetinsider.com/Business+Wire/Corebridge+Financial+Announces+Second+Quarter+2023+Results/21997408.html"
+      }
+     ],
+     "read": "release only, call not read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "APTOI $836M (+37%), $740M ex-VII; IR $574M vs $365M."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Base spread income +42%; base yield +76bp; IR base spread 2.41%."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Sales $9.9B (+42%); PRT $1.9B; GICs $917M."
+      },
+      {
+       "tone": "average",
+       "theme": "Fortitude Re",
+       "text": "Modco treaties excluded from APTOI; funds-withheld NII $270M, embedded derivative loss $122M."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Life fleet RBC above 400%, leverage 28.0%, $750M returned incl. $200M repurchased from AIG and Blackstone."
+      },
+      {
+       "tone": "average",
+       "theme": "VII",
+       "text": "VII $96M, down 20%."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "↑",
+      "note": "(low confidence: release only)"
+     }
+    },
+    "2023Q3": {
+     "date": "3 Nov 2023",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2023-11-2-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read (some garbling)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Base yield 4.7%, new money about 6.6% (150bp over roll-off); IR spread +62bp YoY; spreads to keep expanding then taper."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Premiums and deposits $9.1B; record $1.9B GIC; FIA $2B+ for third straight quarter."
+      },
+      {
+       "tone": "average",
+       "theme": "VII",
+       "text": "Alts $0.12/sh below expectations; Q4 also expected below target."
+      },
+      {
+       "tone": "good",
+       "theme": "Liability",
+       "text": "Actuarial update +$22M, no significant reserve changes; surrenders peaked early in Q3."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "RBC 410–420%, holdco liquidity $1.7B, $730M special dividend."
+      },
+      {
+       "tone": "average",
+       "theme": "Fortitude Re/Bermuda",
+       "text": "Fortitude cited as precedent only; weighing Bermuda and flow reinsurance."
+      },
+      {
+       "tone": "good",
+       "theme": "Blackstone/BlackRock",
+       "text": "Blackstone assets 6.6% yield at A+."
+      },
+      {
+       "tone": "average",
+       "theme": "CRE",
+       "text": "2023 office maturities resolved; about $350M of 2024 maturities remain."
+      }
+     ],
+     "meter": {
+      "good": 5,
+      "bad": 0,
+      "n": 8,
+      "score": 0.63,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2023Q4": {
+     "date": "15 Feb 2024",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2024-2-15-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "2023 spread income +30% to $3.7B; IR spread +37bp but management said it likely peaked."
+      },
+      {
+       "tone": "bad",
+       "theme": "VII",
+       "text": "Alts lost $23M (-$0.17/sh); real estate equity about 25% of the $5.5B alts book; more marks expected in Q1."
+      },
+      {
+       "tone": "bad",
+       "theme": "Life",
+       "text": "Life APTOI $79M, -44%, on UL mortality."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record $39.9B 2023 premiums and deposits; IM APTOI $93M (+55%)."
+      },
+      {
+       "tone": "average",
+       "theme": "Credit",
+       "text": "95% IG fixed maturities; CML allowance 1.8%; 2024 office maturities $240M."
+      },
+      {
+       "tone": "average",
+       "theme": "Bermuda",
+       "text": "Bermuda entity being expanded, approval expected 2024."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "RBC 400–430%; $1.1B returned in Q4; UK Life sale expected Q2."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 2,
+      "n": 7,
+      "score": 0.14,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(VII and Life weakness)"
+     }
+    },
+    "2024Q1": {
+     "date": "3 May 2024",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2024-5-6-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Base spread income +7% ex-notables to about $700M a quarter; spreads likely peaked; cost of funds rising."
+      },
+      {
+       "tone": "bad",
+       "theme": "VII",
+       "text": "Alts $0.17/sh below expectations on real estate marks."
+      },
+      {
+       "tone": "good",
+       "theme": "Institutional",
+       "text": "IM APTOI $112M (+37%); PRT $1.8B; GICs $600M."
+      },
+      {
+       "tone": "average",
+       "theme": "Group retirement",
+       "text": "APTOI $200M (+8%); fee income about half of the segment."
+      },
+      {
+       "tone": "bad",
+       "theme": "Life",
+       "text": "APTOI $54M, -6%."
+      },
+      {
+       "tone": "good",
+       "theme": "Investments",
+       "text": "$9B+ originated at A+; new money 160bp over roll-off; no CML foreclosures."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Holdco liquidity $1.7B; buyback authorisation +$2B; UK sale closed."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 2,
+      "n": 7,
+      "score": 0.14,
+      "label": "Average",
+      "arrow": "→",
+      "note": null
+     }
+    },
+    "2024Q2": {
+     "date": "1 Aug 2024",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://marketbeat.com/earnings/reports/2024-8-1-corebridge-financial-inc-stock"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Base yield 4.82%; new money 130bp over roll-off; base spread income +3%."
+      },
+      {
+       "tone": "average",
+       "theme": "Cost of funds",
+       "text": "New business costs more than in-force; marginal compression expected."
+      },
+      {
+       "tone": "bad",
+       "theme": "VII",
+       "text": "Alts about 4% vs 8–9% target; a bond call caused a loss."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "IR sales $6.8B (+68%), record $4.1B fixed annuities; GICs $1.8B; no PRT closed."
+      },
+      {
+       "tone": "good",
+       "theme": "Bermuda",
+       "text": "Ceding started in July via a flow facility for fixed and fixed-index annuities."
+      },
+      {
+       "tone": "good",
+       "theme": "Partners",
+       "text": "H1 origination about $19B (+58%) with Blackstone and BlackRock; Nippon expected to become a large shareholder."
+      },
+      {
+       "tone": "good",
+       "theme": "Liability",
+       "text": "Fixed annuity surrender rate at a five-quarter low."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Q2 returns $575M; holdco liquidity $1.9B."
+      }
+     ],
+     "meter": {
+      "good": 6,
+      "bad": 1,
+      "n": 8,
+      "score": 0.63,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2024Q3": {
+     "date": "5 Nov 2024",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2024-11-4-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read (minor gaps)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "APTOI about $1B; operating EPS $1.38 (+31%); core income +4%."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Base spread income +1% YoY, -3% QoQ; 25bp SOFR cut costs under 2bp; floating-rate exposure about 8%."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "IR sales $5.5B (+40%); RILA launched with about 200 distributors."
+      },
+      {
+       "tone": "good",
+       "theme": "Institutional",
+       "text": "IM APTOI +50%; full-plan PRT termination landing in Q4."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "Fixed annuity surrender rate 13%; actuarial update near zero for a third year."
+      },
+      {
+       "tone": "average",
+       "theme": "Bermuda",
+       "text": "Supports fixed and index annuity business; third-party capital a possible future use."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Leverage 29.6%; holdco liquidity $2B; $750M junior sub notes issued."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 7,
+      "score": 0.57,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2024Q4": {
+     "date": "13 Feb 2025",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2025-2-12-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Base spread income -5%; IR spread -18bp on floating-rate resets; 2025 EPS growth guided below 10%."
+      },
+      {
+       "tone": "average",
+       "theme": "Cost of funds",
+       "text": "New money costs less than in-force."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Premiums and deposits $41.7B (+5%); MarketLock RILA $90M+ of applications."
+      },
+      {
+       "tone": "bad",
+       "theme": "Group retirement",
+       "text": "Q4 net outflows $3.5B."
+      },
+      {
+       "tone": "good",
+       "theme": "Life",
+       "text": "APTOI more than doubled; $110–120M quarterly run rate."
+      },
+      {
+       "tone": "good",
+       "theme": "Bermuda",
+       "text": "About $12B reserves seeded; external deals being weighed; Blackstone book about $69B, sourcing $43B+ in 2024."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "RBC 420–430%; holdco liquidity $2.2B; buyback authorisation +$2B."
+      },
+      {
+       "tone": "average",
+       "theme": "Nippon",
+       "text": "Welcomed as partner; no terms."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 1,
+      "n": 8,
+      "score": 0.38,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2025Q1": {
+     "date": "6 May 2025",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2025-5-5-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read (tail truncated)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Base spread income -3% YoY, +3% QoQ; SOFR sensitivity cut to 2bp; floating-rate exposure about 5%."
+      },
+      {
+       "tone": "average",
+       "theme": "VII",
+       "text": "Alts $0.06 short; 2025 expected to miss 8–9% target."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Premiums and deposits $9.3B; RILA $260M+; GIC reserves +48%."
+      },
+      {
+       "tone": "bad",
+       "theme": "Group retirement",
+       "text": "Net outflows $1.8B."
+      },
+      {
+       "tone": "good",
+       "theme": "Bermuda",
+       "text": "About $2B seeded in the quarter; about $14B cumulative."
+      },
+      {
+       "tone": "good",
+       "theme": "Credit",
+       "text": "95% of fixed maturities IG; CML performing with a meaningful allowance."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "RBC 400%+ (426% at year-end); holdco cash $1.4B; payout 70%."
+      },
+      {
+       "tone": "average",
+       "theme": "Nippon",
+       "text": "Nippon joined the board; no commercial announcement."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 1,
+      "n": 8,
+      "score": 0.38,
+      "label": "Good",
+      "arrow": "→",
+      "note": null
+     }
+    },
+    "2025Q2": {
+     "date": "5 Aug 2025",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2025-8-4-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read (speaker labels swapped in places)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "APTOI $942M; EPS $1.36; run-rate ROE 13.7%."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Base spread income -6%, about $50M lost to Fed cuts and hedging; new money about 50bp over roll-off."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record IR deposits $6.8B; RILA near $500M; GIC reserves +40%."
+      },
+      {
+       "tone": "bad",
+       "theme": "Group retirement",
+       "text": "Base spread income -18%; two plan exits cost about $1.5B, two more expected Q3."
+      },
+      {
+       "tone": "good",
+       "theme": "VA deal",
+       "text": "Venerable VA transaction about 90% closed; $2.1B distributable proceeds; lost earnings about $300M, accretion by 2H26."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "FIA/fixed surrenders expected to rise in 2H25."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Holdco liquidity $1.3B; buyback authorisation +$2B; payout 64%."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 1,
+      "n": 7,
+      "score": 0.43,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2025Q3": {
+     "date": "4 Nov 2025",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2025-11-4-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read (last ~3.9k characters unread)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "APTOI $678M; EPS $0.96, $0.12 below consensus."
+      },
+      {
+       "tone": "bad",
+       "theme": "Liability",
+       "text": "$98M charge from the annual actuarial assumption update."
+      },
+      {
+       "tone": "bad",
+       "theme": "Spread",
+       "text": "IR base spread -7bp QoQ (about 5bp from VA-transaction reallocation); compression expected through end-2026."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "RILA near $800M; record index annuity sales; best institutional sales since IPO incl. $1.5B PRT."
+      },
+      {
+       "tone": "bad",
+       "theme": "Group retirement",
+       "text": "In-plan premiums and deposits -10%."
+      },
+      {
+       "tone": "good",
+       "theme": "Credit",
+       "text": "Private credit about $30B, 90% IG; below-IG middle-market loans $3.5B with no principal loss."
+      },
+      {
+       "tone": "good",
+       "theme": "Bermuda",
+       "text": "$18B seeded since inception; net floating-rate exposure down 50%+."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "Holdco liquidity $1.8B; about $700M VA proceeds distributed; payout 80% vs 60–65% target. CEO/CFO exits announced."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 3,
+      "n": 8,
+      "score": 0.0,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(assumption-update charge, compression guide)"
+     }
+    },
+    "2025Q4": {
+     "date": "10/11 Feb 2026",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2026-2-11-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript read (last ~3.4k characters unread)",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "APTOI $760M; EPS $1.22; ROE 12.5%."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Base spread income +4%, IR spread -6bp; 2026 base spread income guided to about $2.55B; rate sensitivity cut about 75%."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record 2025 sales $42B; RILA $1.9B; about $55B originated split roughly evenly among internal, BlackRock and Blackstone."
+      },
+      {
+       "tone": "bad",
+       "theme": "Life",
+       "text": "APTOI -30%; guide $110–120M a quarter."
+      },
+      {
+       "tone": "average",
+       "theme": "Group retirement",
+       "text": "APTOI -1%; 12–24 months of fee transition."
+      },
+      {
+       "tone": "good",
+       "theme": "Bermuda",
+       "text": "About $20B ceded; legacy liabilities about 1% of balance sheet."
+      },
+      {
+       "tone": "average",
+       "theme": "Credit",
+       "text": "Software about $1B public plus $350M direct lending; data-centre debt tied to hyperscaler leases."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "RBC 430%+; holdco liquidity $2.3B; 2025 capital return $2.6B."
+      },
+      {
+       "tone": "average",
+       "theme": "Guidance",
+       "text": "2026 EPS growth at low end of 10–15%, 2027 upper half."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 1,
+      "n": 9,
+      "score": 0.33,
+      "label": "Good",
+      "arrow": "↑",
+      "note": "(assumption charge behind; spread guide held)"
+     }
+    },
+    "2026Q1": {
+     "date": "early May 2026 (release 4 May; exact call date unconfirmed)",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2026-5-6-corebridge-financial-inc-stock/"
+      }
+     ],
+     "read": "transcript partial (cut mid-Q&A)",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "APTOI $629M; EPS $1.05; ex-VII/notables EPS +13%; ROE 10.6%."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Core spread income +1%; $2.55B guide reaffirmed; compression to level off by year-end if two more cuts."
+      },
+      {
+       "tone": "bad",
+       "theme": "VII",
+       "text": "Weak partly on non-recurring marks; Q2 could still be below expectation."
+      },
+      {
+       "tone": "bad",
+       "theme": "Group retirement",
+       "text": "APTOI -17% as the business shifts to fees (about 60% of earnings)."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "IR deposits $4.3B; GICs $1B+ incl. first CAD GIC; IM reserves +18%."
+      },
+      {
+       "tone": "average",
+       "theme": "FIA",
+       "text": "Fixed/index annuities hitting end of surrender periods; maturity spike 2026–28."
+      },
+      {
+       "tone": "average",
+       "theme": "Nippon",
+       "text": "Co-manufacturing talks for Japan, 9–12 months at least to market."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Holdco liquidity $1.7B+; Q1 capital return $1.4B; buybacks paused for the merger."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 2,
+      "n": 8,
+      "score": 0.0,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "Not seen: Fortitude Re, Bermuda, credit"
+     }
+    },
+    "2026Q2": {
+     "date": "5 Aug 2026",
+     "sources": [
+      {
+       "label": "MarketBeat",
+       "url": "https://www.marketbeat.com/earnings/reports/2026-8-5-corebridge-financial-inc-stock/"
+      },
+      {
+       "label": "8-K",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001889539/000188953926000137/corebridgefinancial-pressr.htm"
+      }
+     ],
+     "read": "transcript read (last ~5.3k characters unread) plus release",
+     "lines": [
+      {
+       "tone": "bad",
+       "theme": "Earnings",
+       "text": "APTOI $664M vs $842M (-21%; -2% ex-VII); EPS $1.12; ROE 11.4% below the 12–14% target; core income +5%."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Base spread income $898M vs $862M; $2.55B guide stands; single-digit compression bottoming by end-2026."
+      },
+      {
+       "tone": "bad",
+       "theme": "VII",
+       "text": "Alts lagged on PE marks and software weakness; alts under 3% of balance sheet; 2026 will miss the 8–9% target."
+      },
+      {
+       "tone": "bad",
+       "theme": "Segments",
+       "text": "IR APTOI -11%, Group Retirement -17%, Life -16%."
+      },
+      {
+       "tone": "good",
+       "theme": "Institutional",
+       "text": "IM sales $2.6B incl. $1.8B GICs; GICs about 5% of GA vs 10–15% at some peers."
+      },
+      {
+       "tone": "bad",
+       "theme": "Growth",
+       "text": "IR sales -41% to $3.8B, though net flows positive and June the strongest month."
+      },
+      {
+       "tone": "good",
+       "theme": "Credit",
+       "text": "96% IG at A-; private debt 91% IG; over half of new purchases single-A or better."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Holdco liquidity $1.4B; leverage 33.0%; Life RBC above target; 2026 buybacks about $1.9B."
+      },
+      {
+       "tone": "average",
+       "theme": "Partners",
+       "text": "Blackstone mandate of $92.5B by end-Q3'26 against a gap of about $20B; Nippon co-manufacturing in 'third or fourth inning'."
+      },
+      {
+       "tone": "average",
+       "theme": "Fortitude Re",
+       "text": "Excluded from APTOI, $108M Q2 adjustment; funds-withheld NII $233M vs $343M; cumulative unrealised losses $(2,526)M; not discussed on the call."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 4,
+      "n": 10,
+      "score": -0.1,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(broad segment weakness; leverage 33%)"
+     }
+    }
+   }
+  },
+  "fg": {
+   "heading": "F&G Annuities & Life (metric: adjusted net earnings, ANE)",
+   "metric": "adjusted net earnings, ANE",
+   "coverage": "Q1 FY2023 to Q2 FY2026 (latest call 6 Aug 2026). Source caveat: every call was read as a third-party AI summary of the transcript (roic.ai for Q1'23 to Q1'26, EarningsWhispers for Q2'26), not verbatim text; some figures were flagged as garbled on the pages, and several call dates are page dates that fall on weekends, so they may be publication dates. Only the Q2'26 8-K release was opened. Treat figures as indicative until checked against the releases. Scope flags: F&G Life Re (Bermuda) was sold to Ancient effective 1 Mar 2026; FNF distributed about 12% of F&G on 31 Dec 2025 and retains about 70%. Blackstone sidecar (Fort Green Re, Cayman) launched 1 Aug 2025.",
+   "watch": "Q3 call on 6 Nov 2026; alts return against the 12% assumption at year-end review; spread pressure from loss of the Bermuda assets and lower surrender fees; PRT mortality recovery in H2; NAIC CLO charge (about -10 RBC points before management action) vs 400% RBC; Peak Altitude deconsolidation; remaining buyback capacity; flow partner and Fort Green sidecar utilisation; CFO transition.",
+   "quarters": {
+    "2023Q1": {
+     "date": "6 May 2023",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2023-year/1-quarter"
+      }
+     ],
+     "read": "AI summary of transcript",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record gross sales $3.3B (+27%); retail $2.8B (+87%); PRT and funding agreements about $260M each."
+      },
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "ANE $49M ($0.39/sh) after a $37M tax valuation allowance; alts $99M vs $132M at expected return."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Fixed income yield 4.33% vs 3.73%; floaters 18% of portfolio."
+      },
+      {
+       "tone": "good",
+       "theme": "Liability",
+       "text": "88% of net reserves surrender-protected; fixed deferred surrenders slightly elevated but within pricing."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "95% IG; impairments 2bp; office about $1B; no SVB/Silvergate/Signature exposure."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "Debt-to-cap 24%; RBC not disclosed (400% target); flow reinsurance frees about $75M capital per $1B ceded."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": null,
+      "note": "Bermuda not discussed"
+     }
+    },
+    "2023Q2": {
+     "date": "9 Aug 2023",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2023-year/2-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "ANE $79M ($0.63/sh) vs $155M a year earlier; alts short of expectation by $0.44."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Fixed income yield 4.39% vs 3.93%; adjusted ROA ex-significant items 113bp; cost of funds rising."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "Gross sales $3.0B (-3%); retail $2.3B; institutional about $700M incl. $500M PRT."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Debt-to-cap 23%; Moody's upgrade to A3; about $5B of new business ceded under flow reinsurance."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "Surrender and death outflows slightly elevated; net flows positive."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 0,
+      "n": 5,
+      "score": 0.4,
+      "label": "Good",
+      "arrow": "↓",
+      "note": "Bermuda, RBC not discussed"
+     }
+    },
+    "2023Q3": {
+     "date": "10 Nov 2023",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2023-year/3-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "ANE $120M ($0.96/sh), $148M ex-significant items (+28%); ROA 119bp; ROE 10.5%."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Hedging $2.7B of floaters locks in about 213bp extra yield, about 12bp annual margin."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "Gross sales $2.8B (-3%); retail -17% as reinsurance agreements finalised; MYGA flow reinsurance 90%."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Debt-to-cap 22%; dividend +5% to $0.21; about $270M distribution acquisition."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "95% IG; impairments under 5bp."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 5,
+      "score": 0.8,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2023Q4": {
+     "date": "22 Feb 2024",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2023-year/4-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "FY ANE $335M, $539M ex-significant items (+14%); ROA 117bp."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record gross sales $13.2B; net $9.2B; RILA launched Feb 2024."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Fixed income yield 4.45%; about half of $10B floaters hedged (190bp locked)."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "FIA surrenders elevated from 1035 exchanges, offset by inflows; 92% of retail fixed annuities surrender-protected."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "RBC about 440%; debt-to-cap 25.7%; FNF bought $250M preferred; A.M. Best upgrade to A."
+      },
+      {
+       "tone": "average",
+       "theme": "Blackstone",
+       "text": "New fee agreement negotiated, no terms."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 0,
+      "n": 6,
+      "score": 0.5,
+      "label": "Good",
+      "arrow": "↓",
+      "note": "Bermuda not named"
+     }
+    },
+    "2024Q1": {
+     "date": "9 May 2024",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2024-year/1-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "ANE $154M ex-significant items (+18%); ROA 125bp; ROE 11%."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Yield 4.56%; floaters about 60% hedged."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Gross sales $3.5B (+6%); record FIA; record Q1 PRT $584M."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "FIA terminations up YoY but in line with Q4."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "Debt-to-cap 24%; $250M preferred; capital generation $1B+."
+      },
+      {
+       "tone": "average",
+       "theme": "Portfolio",
+       "text": "95% IG; impairments 2bp; alts LP book returned about half of invested capital."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2024Q2": {
+     "date": "6 Aug 2024",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2024-year/2-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "ANE $171M ex-significant items (+33%); ROA 130bp; ROE about 12%."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record gross sales $4.4B (+47%); $900M FABN, first in two years."
+      },
+      {
+       "tone": "good",
+       "theme": "Spread",
+       "text": "Yield 4.6%; two-thirds of floaters hedged; no spread compression seen."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "FIA surrenders elevated by refinancing; expected for a couple more quarters."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "Debt-to-cap 26.4% vs 25% target; debt $2.1B."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "96% IG; office 1.8%; CML LTV 60%."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "→",
+      "note": "Offshore entities run to strictest standards; Bermuda not named"
+     }
+    },
+    "2024Q3": {
+     "date": "9 Nov 2024",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2024-year/3-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "ANE $179M ex-significant items (+21%); ROA 132bp."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Gross sales $3.9B (+39%); record retail $3.5B; PRT $300M; from 1 July 80% of one FIA product flow-reinsured."
+      },
+      {
+       "tone": "average",
+       "theme": "Offshore",
+       "text": "Cayman entities used for affiliated reinsurance only, Iowa approves each treaty; difference from onshore mainly mortality assumption."
+      },
+      {
+       "tone": "good",
+       "theme": "Blackstone/Portfolio",
+       "text": "Asset classes grew from 6 to 14 under Blackstone; 96% IG; office under 2%."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "Surrenders elevated while rates stay high; assumption review cost $17M net."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "Debt-to-cap 26.5%; $500M note issued in October."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 0,
+      "n": 6,
+      "score": 0.5,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2024Q4": {
+     "date": "21 Feb 2025",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2024-year/4-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Record gross sales $15.3B (+16%); net $10.6B; PRT $2.3B; MYGA fell in Q4 as capital shifted to FIA/PRT."
+      },
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "FY ANE ex-significant items $657M (+22%); ROA 127bp; alts $145M short."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Yield 4.59%, -7bp sequentially; compression acknowledged, no figure."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "Surrenders still elevated, Q4 lighter."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "RBC 410%+ vs 400% target; debt $2.2B."
+      },
+      {
+       "tone": "average",
+       "theme": "Bermuda",
+       "text": "Former Bermuda CEO becomes Chief Liability Officer; analysts raised Bermuda/Cayman regulation; F&G Life Re not named."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 0,
+      "n": 6,
+      "score": 0.33,
+      "label": "Good",
+      "arrow": "↓",
+      "note": "(borderline)"
+     }
+    },
+    "2025Q1": {
+     "date": "11 May 2025",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2025-year/1-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "bad",
+       "theme": "Earnings",
+       "text": "ANE $91M ($0.72/sh) vs $108M; margin compression and higher interest expense; ROA 68bp (LTM 100bp); alts $63M under expected."
+      },
+      {
+       "tone": "bad",
+       "theme": "Spread",
+       "text": "Yield 4.53%; management 'gave up some spread'; analyst-cited cost of funds 318bp (+22bp), unconfirmed."
+      },
+      {
+       "tone": "bad",
+       "theme": "Growth",
+       "text": "Gross sales $2.9B (-17%); MYGA cut to $562M from $1.3B; PRT $311M; FA $525M."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "Surrenders below Q3/Q4'24; some older policies vulnerable."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "RBC at or above 400%; debt $2.3B; 8M shares offered ($269M net); FNF about 82%."
+      },
+      {
+       "tone": "good",
+       "theme": "Blackstone/Portfolio",
+       "text": "Partnership in 7th year; 96% IG; impairments 2bp; CLOs $3.7B."
+      }
+     ],
+     "meter": {
+      "good": 1,
+      "bad": 3,
+      "n": 6,
+      "score": -0.33,
+      "label": "Bad",
+      "arrow": "↓",
+      "note": "(spread and sales both weaker)"
+     }
+    },
+    "2025Q2": {
+     "date": "7 Aug 2025",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2025-year/2-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "ANE $103M ($0.77/sh); alts $83M below expectation; LTM ROA 92bp; ROE 8.8%."
+      },
+      {
+       "tone": "good",
+       "theme": "Blackstone/Offshore",
+       "text": "Blackstone sidecar (Fort Green Re, Cayman) launched 1 Aug, about $1B commitments; takes up to 75% of new accumulation FIA; no F&G ownership; expected accretive."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Gross sales $4.1B; FIA about $1.6B; record MYGA $1.9B; PRT $400M+; record IUL $53M."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Yield +5bp vs Q1; spread and cost of funds not quantified."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "97% IG; five-year impairments 6bp; surrenders normalised."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "RBC at/above 400%; opex ratio 56bp guided to about 50bp."
+      }
+     ],
+     "meter": {
+      "good": 3,
+      "bad": 0,
+      "n": 6,
+      "score": 0.5,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2025Q3": {
+     "date": "7 Nov 2025",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2025-year/3-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "good",
+       "theme": "Earnings",
+       "text": "ANE $165M ($1.22/sh), helped by about $25M prepayment and tax benefits; alts $67M below expectation; LTM ROA 92bp."
+      },
+      {
+       "tone": "good",
+       "theme": "Growth",
+       "text": "Gross sales $4.2B: FIA $1.7B, PRT $500M+, FABN $1B+ (record $800M), MYGA about $1B."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Yield 4.68%, mostly a floating-rate methodology refinement."
+      },
+      {
+       "tone": "good",
+       "theme": "Offshore/Blackstone",
+       "text": "Sidecar provides third-party capital; flow fee income $41M for nine months (+46%); Blackstone in year 8, F&G keeps flexibility to use other managers."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "No direct First Brands, Tricolor or PrimaLend exposure; 96% IG; floaters about 5%."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital/FNF",
+       "text": "Dividend +13.6%; FNF to distribute about 12% of F&G."
+      }
+     ],
+     "meter": {
+      "good": 4,
+      "bad": 0,
+      "n": 6,
+      "score": 0.67,
+      "label": "Good",
+      "arrow": "↑",
+      "note": null
+     }
+    },
+    "2025Q4": {
+     "date": "20 Feb 2026",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2025-year/4-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "Q4 ANE $123M ($0.91/sh); FY $482M; alts about 7% vs 10% assumption; management plans for continued mediocre alts returns."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "FY gross sales $14.6B; core $9.0B (FIA $6.7B, PRT $2.1B); MYGA $3.8B; net $10.0B."
+      },
+      {
+       "tone": "average",
+       "theme": "Offshore",
+       "text": "F&G Life Re (Bermuda) sold to Ancient effective 1 Mar; about $900M liabilities recaptured; AUM -$1.9B; costs about $10M of quarterly ANE; Blackstone keeps in-force assets."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "97% IG; impairments 8bp; private origination about $11B (20%), about 92% IG."
+      },
+      {
+       "tone": "average",
+       "theme": "Liability",
+       "text": "Surrender fee income guided down about 20% in 2026."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "RBC about 430% (helped by recapture); debt $2.3B; FNF retains about 70%."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 0,
+      "n": 6,
+      "score": 0.33,
+      "label": "Good",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2026Q1": {
+     "date": "7 May 2026",
+     "sources": [
+      {
+       "label": "roic.ai",
+       "url": "https://www.roic.ai/quote/FGN/transcripts/2026-year/1-quarter"
+      }
+     ],
+     "read": "AI summary",
+     "lines": [
+      {
+       "tone": "average",
+       "theme": "Earnings",
+       "text": "ANE $110M ($0.82/sh); ROA 76bp (LTM 87bp); ROE 8.4%; alts income $44M; long-term alts assumption raised to 12–14% on a narrower equity-only definition."
+      },
+      {
+       "tone": "bad",
+       "theme": "Spread",
+       "text": "Yield 4.77%, -16bp; about a third of the decline permanent, mainly the Bermuda assets; some spread pressure expected."
+      },
+      {
+       "tone": "average",
+       "theme": "Growth",
+       "text": "Gross sales $3.2B (+10%): core $2.0B, FA $1.0B, MYGA $200M; gross AUM record near $75B, retained $56B."
+      },
+      {
+       "tone": "average",
+       "theme": "Offshore/Blackstone",
+       "text": "Life Re sale effective 1 Mar removed a $1.8B block; Blackstone sources private origination, no fee terms."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "97% IG; impairments 3bp; middle-market lending about $5B (89% IG); software under 5%."
+      },
+      {
+       "tone": "good",
+       "theme": "Capital",
+       "text": "RBC above 400%; $100M buyback authorised; Peak Altitude strategic alternatives launched."
+      }
+     ],
+     "meter": {
+      "good": 2,
+      "bad": 1,
+      "n": 6,
+      "score": 0.17,
+      "label": "Average",
+      "arrow": "↓",
+      "note": null
+     }
+    },
+    "2026Q2": {
+     "date": "6 Aug 2026",
+     "sources": [
+      {
+       "label": "EarningsWhispers",
+       "url": "https://earningswhispers.com/transcript/FG/Q22026"
+      },
+      {
+       "label": "8-K release",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001934850/000193485026000081/a2q26fgearningsrelease_f.htm"
+      }
+     ],
+     "read": "AI summary of transcript; release also opened",
+     "lines": [
+      {
+       "tone": "bad",
+       "theme": "Earnings",
+       "text": "ANE $85M ($0.65/sh) vs $103M; alts $49M vs 12% assumption; ROE 8%, ROA 68bp; Bermuda sale cost about $8M vs Q1."
+      },
+      {
+       "tone": "bad",
+       "theme": "Growth",
+       "text": "Gross sales $2.7B vs $4.1B; net $1.5B vs $2.7B; MYGA $101M; PRT $232M; FIA/RILA $1.74B; FA $600M."
+      },
+      {
+       "tone": "average",
+       "theme": "Spread",
+       "text": "Core spread described as consistent; product margin pressured by lower surrender income and higher DAC amortisation; PRT mortality soft, expected to recover H2."
+      },
+      {
+       "tone": "average",
+       "theme": "Offshore",
+       "text": "No new Bermuda detail; flow reinsurance partner added 1 July; about 90% of MYGA and about half of FIA reinsured."
+      },
+      {
+       "tone": "average",
+       "theme": "Capital",
+       "text": "New NAIC CLO charges cost about 10 RBC points at 30 June; RBC guided above 400%; debt $2.3B; H1 buybacks $120M, about $12–15M remaining."
+      },
+      {
+       "tone": "good",
+       "theme": "Portfolio",
+       "text": "Performing well; alts book about $4B with 60%+ of invested capital returned."
+      }
+     ],
+     "meter": {
+      "good": 1,
+      "bad": 2,
+      "n": 6,
+      "score": -0.17,
+      "label": "Average",
+      "arrow": "↓",
+      "note": "(earnings and sales both down YoY; second consecutive weak ROA). Blackstone and FNF not discussed"
+     }
+    }
+   }
+  }
+ }
+}

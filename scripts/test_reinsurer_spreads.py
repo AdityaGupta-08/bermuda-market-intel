@@ -60,6 +60,135 @@ BWS = table([
 ])
 
 
+def by_key(key):
+    return next(c for c in rs.COMPANIES if c["key"] == key)
+
+
+# Layouts below copy the real filings' cell structure (colspans included), as
+# dumped from EDGAR; only the surrounding prose is trimmed.
+
+# BWS press release (exh_991): the month is only in the label cell and the
+# years row doesn't line up with the value cells.
+BWS_RELEASE = table([
+    [("Unaudited As of and for the periods ended June 30 (US$ millions, except per share amounts)", 1), ("", 1),
+     ("Three Months Ended", 5), ("", 1), ("Six Months Ended", 6)],
+    ["", "2026", "", "", "2025", "", "", "2026", "", "", "", "2025"],
+    ["Total assets", "", "$", "205,704", "", "$", "148,893", "", "$", "205,704", "", "", "$", "148,893"],
+    ["Distributable operating earnings1", "", "", "488", "", "", "398", "", "", "926", "", "", "", "835"],
+    ["Net income (loss)", "", "", "149", "", "", "516", "", "", "(453", ")", "", "", "234"],
+], context="we remain well positioned to deliver stable earnings and continued growth.")
+BWS_RELEASE_Q1 = table([
+    [("Unaudited As of and for the periods ended March 31 (US$ millions, except per share amounts)", 1), ("Three Months Ended", 7)],
+    ["", "2026", "", "", "", "2025", ""],
+    ["Distributable operating earnings1", "", "438", "", "", "", "437", ""],
+])
+# BWS quarterly report (6-K, bnt-…_d2.htm).
+BWS_REPORT = table([
+    [("AS OF AND FOR THE PERIODS ENDED JUN. 30 US$ MILLIONS", 3), ("", 3), ("Three Months Ended", 9), ("", 3),
+     ("Six Months Ended", 9), ("", 3), ("", 3)],
+    [("", 3), ("2026", 3), ("", 3), ("2025", 3), ("", 3), ("2026", 3), ("", 3), ("2025", 3), ("", 3), ("", 3)],
+    [("Total assets", 3), ("", 3), ("$", 1), ("205,704", 1), ("", 1), ("", 3), ("$", 1), ("148,893", 1), ("", 1), ("", 3),
+     ("$", 1), ("205,704", 1), ("", 1), ("", 3), ("$", 1), ("148,893", 1), ("", 1), ("", 3), ("", 3)],
+    [("Distributable Operating Earnings(1)", 3), ("", 3), ("488", 2), ("", 1), ("", 3), ("398", 2), ("", 1), ("", 3),
+     ("926", 2), ("", 1), ("", 3), ("835", 2), ("", 1), ("", 3), ("", 3)],
+], context="Key Financial Data The following table presents key financial data of the Company:")
+
+# Corebridge: segment tables carry the same row label as the consolidated one;
+# only the consolidated table counts, whichever comes first.
+COREBRIDGE = table([
+    [("", 3), ("", 3), ("Three Months Ended June 30,", 9)],
+    [("", 3), ("", 3), ("2026", 3), ("", 3), ("2025", 3)],
+    [("Base spread income", 3), ("", 3), ("$", 1), ("645", 1), ("", 1), ("", 3), ("$", 1), ("630", 1), ("", 1)],
+    [("Adjusted pre-tax operating income", 3), ("", 3), ("$", 1), ("467", 1), ("", 1), ("", 3), ("$", 1), ("523", 1), ("", 1)],
+], context="to shareholders of record Business results ($ in millions) Individual Retirement") + table([
+    [("", 3), ("", 3), ("", 3), ("Three Months Ended June 30,", 9), ("", 3), ("", 3)],
+    [("", 3), ("", 3), ("", 3), ("2026", 3), ("", 3), ("2025", 3), ("", 3), ("", 3), ("", 3), ("", 3)],
+    [("Net loss available to common shareholders", 3), ("", 3), ("", 3), ("$", 1), ("(16)", 2), ("", 3), ("$", 1), ("(660)", 2)],
+    [("Adjusted pre-tax operating income1", 3), ("", 3), ("", 3), ("$", 1), ("664", 2), ("", 3), ("$", 1), ("842", 2)],
+    [("Base spread income2", 3), ("", 3), ("", 3), ("$", 1), ("898", 2), ("", 3), ("$", 1), ("862", 2)],
+], context='"Non-GAAP Financial Measures" below 1 Consolidated results ($ in millions, except per share data)')
+
+# KKR: slide images with the slide text hidden behind them; no <table> at all.
+KKR_SLIDES = (
+    '<DIV><IMG src="q226earningsrelease_vf008.jpg"><DIV><FONT size="1" style="font-size:1pt;color:white">'
+    "Total&#9;Operating&#9;Earnings ($ in thousands) 2Q&#8217;25 2Q&#8217;26 2Q&#8217;25 YTD 2Q&#8217;26 YTD "
+    "Fee Related Earnings $ 886,754 $ 1,214,148 $ 1,709,357 $ 2,230,523 "
+    "Insurance Operating Earnings $ 277,932 $ 288,220 $ 536,704 $ 548,550 "
+    "Strategic Holdings Operating Earnings $ 29,121 $ 37,036 $ 60,607 $ 85,332</FONT></DIV></DIV>"
+    '<DIV><FONT size="1">Insurance 16 &#8226; Insurance Operating Earnings: $288 million for the quarter, which '
+    "includes approximately $40 million from investment realizations</FONT></DIV>"
+    '<DIV><FONT size="1">Reconciliation Insurance Operating Earnings (277,932) (288,220) (536,704) (548,550) '
+    "(1,025,197) (1,121,241)</FONT></DIV>")
+
+# F&G: tables are images; the release states the figure in a sentence.
+FG_RELEASE = (
+    "<p>F&amp;G Annuities &amp; Life Reports Second Quarter 2026 Results</p>"
+    "<p>Net earnings for the second quarter of 2025 included $49 million of net unfavorable mark-to-market effects "
+    "and $19 million of other unfavorable items; all of which are excluded from adjusted net earnings.</p>"
+    "<p>Adjusted net earnings attributable to common shareholders (adjusted net earnings) for the second quarter "
+    "were $85 million, or $0.65 per share, compared with $103 million, or $0.77 per share, for the second quarter "
+    "of 2025.</p><p>Adjusted net earnings for the six months ended June 30, 2026 were $195 million.</p>")
+
+# Athene financial highlights: "Net spread" (SRE / NIA) beside net investment spread.
+ATHENE_HIGHLIGHTS = table([
+    [("", 3), ("Quarterly Trends", 27), ("", 3), ("Δ", 9), ("", 3), ("Year-to-Date", 9)],
+    [("", 3), ("3Q’23", 3), ("", 3), ("4Q’23", 3), ("", 3), ("1Q’24", 3), ("", 3), ("2Q’24", 3), ("", 3), ("3Q’24", 3),
+     ("", 3), ("Q/Q", 3), ("", 3), ("Y/Y", 3), ("", 3), ("2023", 3), ("", 3), ("2024", 3)],
+    [("Spread related earnings (SRE)", 3), ("$", 1), ("872", 1), ("", 1), ("", 3), ("$", 1), ("749", 1), ("", 1), ("", 3),
+     ("$", 1), ("816", 1), ("", 1), ("", 3), ("$", 1), ("712", 1), ("", 1), ("", 3), ("$", 1), ("855", 1), ("", 1)],
+    [("Net spread", 3), ("1.68", 2), ("%", 1), ("", 3), ("1.41", 2), ("%", 1), ("", 3), ("1.47", 2), ("%", 1), ("", 3),
+     ("1.24", 2), ("%", 1), ("", 3), ("1.44", 2), ("%", 1)],
+    [("Net investment spread", 3), ("2.13", 2), ("%", 1), ("", 3), ("1.80", 2), ("%", 1), ("", 3), ("1.83", 2), ("%", 1),
+     ("", 3), ("1.64", 2), ("%", 1), ("", 3), ("1.83", 2), ("%", 1)],
+], context="Financial Highlights Unaudited (in millions, except percentages)")
+
+
+class RealLayoutTests(unittest.TestCase):
+    def test_bws_release_month_in_label_and_misaligned_years(self):
+        found, _ = rs.extract_from_document(BWS_RELEASE, by_key("brookfield_ws"))
+        self.assertEqual(found["earnings"], {"2026Q2": 488, "2025Q2": 398})  # six-month columns dropped
+        found, _ = rs.extract_from_document(BWS_RELEASE_Q1, by_key("brookfield_ws"))
+        self.assertEqual(found["earnings"], {"2026Q1": 438, "2025Q1": 437})
+
+    def test_bws_quarterly_report(self):
+        found, _ = rs.extract_from_document(BWS_REPORT, by_key("brookfield_ws"))
+        self.assertEqual(found["earnings"], {"2026Q2": 488, "2025Q2": 398})
+
+    def test_corebridge_consolidated_table_only(self):
+        found, _ = rs.extract_from_document(COREBRIDGE, by_key("corebridge"))
+        self.assertEqual(found, {"earnings": {"2026Q2": 664, "2025Q2": 842},
+                                 "base_spread": {"2026Q2": 898, "2025Q2": 862}})
+
+    def test_kkr_hidden_slide_text_in_thousands(self):
+        found, _ = rs.extract_from_document(KKR_SLIDES, by_key("global_atlantic"))
+        self.assertEqual(found, {"earnings": {"2025Q2": 277.93, "2026Q2": 288.22}})
+
+    def test_kkr_row_pairs_with_a_header_of_its_own_width(self):
+        # A chart axis (five quarters) between the table header and the row must not be used.
+        html = ("<div>($ in thousands) 2Q'25 2Q'26 2Q'25 YTD 2Q'26 YTD Net Investment Income $ 1,788,525 $ 1,953,987 "
+                "$ 3,517,868 $ 3,854,599 chart 2Q'24 3Q'24 4Q'24 1Q'25 2Q'25 $1.0 $1.1 "
+                "Insurance Operating Earnings $ 277,932 $ 288,220 $ 536,704 $ 548,550</div>")
+        found = rs.extract_text_rows(html, by_key("global_atlantic")["metrics"])
+        self.assertEqual(found, {"earnings": {"2025Q2": 277.93, "2026Q2": 288.22}})
+        self.assertIsNone(rs.parse_period("2Q'26 LTM"))
+
+    def test_fg_release_sentence(self):
+        found, _ = rs.extract_from_document(FG_RELEASE, by_key("fg"))
+        self.assertEqual(found, {"earnings": {"2026Q2": 85.0}})
+
+    def test_athene_net_spread_beside_net_investment_spread(self):
+        found, _ = rs.extract_from_document(ATHENE_HIGHLIGHTS, by_key("athene"))
+        self.assertEqual(found["net_spread"], {"2023Q3": 1.68, "2023Q4": 1.41, "2024Q1": 1.47, "2024Q2": 1.24, "2024Q3": 1.44})
+        self.assertEqual(found["spread"]["2023Q3"], 2.13)
+        self.assertEqual(found["earnings"]["2024Q2"], 712)
+
+    def test_labels(self):
+        self.assertEqual(rs._norm_label("Distributable operating earnings1"), "distributable operating earnings")
+        self.assertEqual(rs._norm_label("Adjusted pre-tax operating income(1)"), "adjusted pre-tax operating income")
+        self.assertEqual(rs._row_label([("", 1), ("$", 1), ("Net spread", 1), ("1.2", 1)]), "Net spread")
+        self.assertEqual(rs._row_label([("", 1), ("2026", 1)]), "")
+
+
 class PeriodAndValueTests(unittest.TestCase):
     def test_period_formats(self):
         cases = {"2Q'24": "2024Q2", "3Q’24": "2024Q3", "Q4 2025": "2025Q4", "Q1'26": "2026Q1",
@@ -208,6 +337,17 @@ class EdgarFlowTests(unittest.TestCase):
             rs.update_company(athene, state, rs.date(2023, 1, 1), deadline=rs.time.monotonic() + 60)
         self.assertEqual(state["points"]["earnings"]["2026Q2"]["value"], 877)
 
+    def test_every_company_gets_a_slice_of_the_time_budget(self):
+        seen = []
+        with mock.patch.object(rs, "update_company", lambda c, st, since, dl: seen.append((c["key"], dl))), \
+                mock.patch.object(rs, "update_fallback", lambda c, st, dl: None):
+            rs.main()
+        self.assertEqual([k for k, _ in seen], [c["key"] for c in rs.COMPANIES])
+        start = rs.time.monotonic()
+        first = seen[0][1] - start
+        self.assertLess(first, rs.TIME_BUDGET / len(rs.COMPANIES) + 1)  # not the whole budget
+        self.assertTrue(all(b > a for (_, a), (_, b) in zip(seen, seen[1:])))
+
     def test_main_writes_output_and_keeps_cache_on_error(self):
         def get(url, timeout=30):
             if "CIK0001527469" in url or "1527469/" in url:
@@ -306,7 +446,7 @@ class FallbackTests(unittest.TestCase):
             return pages[url].encode() if url in pages else None
         # 4Q'24 already has SEC figures, so its event page must not be opened.
         state = {"points": {k: {"2024Q4": {"value": 1, "filed": "2025-02-04", "form": "8-K", "url": "s", "source": "sec"}}
-                            for k in ("earnings", "spread")}}
+                            for k in self.athene["metrics"]}}
         with mock.patch.object(rs, "web_get", web):
             rs.update_fallback(self.athene, state, today=self.TODAY)
         pts = state["points"]

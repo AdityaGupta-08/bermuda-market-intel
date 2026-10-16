@@ -7,7 +7,7 @@ earnings of $877 million") instead of a table.
 
 Prose is easy to misread, so extraction is deliberately narrow:
   - only sentences about the document's own quarter (a sentence naming a
-    different quarter or year is skipped);
+    different quarter or year before any comparison is skipped);
   - no full-year, year-to-date, six-month, guidance or target sentences;
   - no figure that follows a comparison ("up from", "a year ago", "versus");
   - for a movement ("declined 11 basis points to 1.47%") the figure after
@@ -161,14 +161,19 @@ def extract_prose_metrics(text, quarter, metric_specs):
     for s in sentences(normalise(text)):
         if _SKIP_SENTENCE.search(s):
             continue
-        named = _quarters_named(s)
+        # Only the clause before any comparison ("…were $85 million, compared with
+        # $103 million for the second quarter of 2025") decides which period the
+        # sentence reports; the comparator's own period doesn't disqualify it.
+        cut = _COMPARATIVE.search(s)
+        head = s[:cut.start()] if cut else s
+        named = _quarters_named(head)
         if any(q != qn or (y is not None and y != year) for q, y in named):
             continue
-        if any(int(y) != year for y in re.findall(r"\b(20\d{2})\b", s)):
+        if any(int(y) != year for y in re.findall(r"\b(20\d{2})\b", head)):
             continue
         for key, spec in metric_specs.items():
             for pat in spec.get("prose", []):
-                for m in re.finditer(pat, s, re.I):
+                for m in re.finditer(pat, head, re.I):
                     prefix = s[max(0, m.start() - 60):m.start()]
                     if _COMPARATIVE.search(prefix):
                         continue

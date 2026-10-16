@@ -65,6 +65,12 @@ class ProseExtractionTests(unittest.TestCase):
         found, _ = em.extract_prose_metrics(RELEASE, "2026Q2", {"earnings": DOE})
         self.assertEqual(found, {"earnings": 488.0})
 
+    def test_comparison_clause_does_not_disqualify_the_sentence(self):
+        text = ("Adjusted net earnings for the second quarter were $85 million, compared with $103 million "
+                "for the second quarter of 2025.")
+        spec = {"earnings": {"unit": "usd_m", "bounds": (20, 1500), "prose": [r"adjusted net earnings"]}}
+        self.assertEqual(em.extract_prose_metrics(text, "2026Q2", spec)[0], {"earnings": 85.0})
+
     def test_billions_scaled_to_millions(self):
         found, _ = em.extract_prose_metrics("In the second quarter, SRE was $1.1 billion.", "2026Q2", ATHENE)
         self.assertEqual(found, {"earnings": 1100.0})

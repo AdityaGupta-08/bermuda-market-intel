@@ -61,7 +61,7 @@ OUT = DATA / "reinsurer_spreads.json"
 QUARTERS_SHOWN = 12
 QUARTERS_KEPT = 16
 BACKFILL_DAYS = 1300           # ~3.5 years: 12 quarters plus filing lag
-PARSER_VERSION = 1             # bump to re-read every filing after a parser change
+PARSER_VERSION = 2             # bump to re-read every filing after a parser change
 REQUEST_GAP = 0.15             # SEC asks for <= 10 requests/second
 MAX_FILINGS_PER_RUN = 40       # per company; the first backfill finishes over a few runs
 TIME_BUDGET = 180              # seconds per run; unread filings wait for the next run
@@ -82,11 +82,13 @@ COMPANIES = [
         "source": "Athene quarterly financial supplement (Form 8-K exhibit)",
         "metrics": {
             "earnings": {"label": "Spread related earnings (SRE)", "unit": "usd_m", "bounds": (100, 5000),
-                         "rows": [r"^spread related earnings$"],
+                         "rows": [r"^spread related earnings( \(sre\))?$"],
                          "prose": [r"spread[- ]related earnings", r"\bSRE\b"]},
+            "net_spread": {"label": "Net spread (SRE ÷ avg net invested assets)", "unit": "pct", "bounds": (0.2, 4.0),
+                           "rows": [r"^net spread$"], "prose": [r"\bnet spread\b"]},
             "spread": {"label": "Net investment spread", "unit": "pct", "bounds": (0.2, 5.0),
                        "rows": [r"^net investment spread$"],
-                       "prose": [r"net investment spread", r"\bnet spread\b"]},
+                       "prose": [r"net investment spread"]},
         },
         # Apollo posts each call's transcript PDF on its IR site, linked from
         # the home page (latest quarter) and from each earnings event page.
@@ -97,12 +99,17 @@ COMPANIES = [
             "doc": r"transcript[^\"']*\.pdf",
         },
         "definition": ("SRE: pre-tax operating earnings of the retirement business excluding market "
-                       "volatility and non-operating items, net of financing costs. Net investment "
-                       "spread: SRE divided by average net invested assets, annualized."),
+                       "volatility and non-operating items, net of financing costs. Net spread: SRE as a "
+                       "percentage of average net invested assets, annualized; this is the figure Apollo "
+                       "quotes on its calls. Net investment spread: net investment earned rate plus "
+                       "strategic capital management fees, less total cost of funds (higher, as it is "
+                       "before operating and financing costs)."),
+        "scope": "Apollo-owned; Bermuda: Athene Life Re and the ACRA / ADIP sidecars.",
     },
     {
         "key": "global_atlantic", "name": "Global Atlantic", "owner": "KKR", "cik": 1404912,
         "forms": ("8-K",), "items": ("2.02",), "doc_hint": r"(ex|exhibit)[-_]?99|earnings|release|supplement",
+        "text_rows": True,  # the release is slide images with the slide text hidden behind them
         "source": "KKR quarterly earnings release, Insurance segment (Form 8-K exhibit)",
         "metrics": {
             "earnings": {"label": "Insurance operating earnings", "unit": "usd_m", "bounds": (30, 3000),
@@ -112,12 +119,15 @@ COMPANIES = [
         "fallback_note": ("KKR doesn't post call transcripts on its own site, and third-party transcript "
                           "sites are paywalled or bar automated reading, so these figures come from SEC filings only."),
         "definition": ("KKR's Insurance segment (Global Atlantic) operating earnings: net investment income "
-                       "less net cost of insurance and G&A, after tax and noncontrolling interests. "
-                       "KKR does not disclose a spread percentage."),
+                       "less net cost of insurance and general and administrative costs. Basis changes: KKR "
+                       "owned about 63% of Global Atlantic until 2 Jan 2024 and 100% after; from 2025 the "
+                       "measure is cash-based and excludes marks on investments. KKR does not disclose a "
+                       "spread percentage."),
+        "scope": "KKR-owned; Bermuda reinsurance entities and the Ivy sidecars.",
     },
     {
         "key": "brookfield_ws", "name": "Brookfield Wealth Solutions", "owner": "Brookfield", "cik": 1837429,
-        "forms": ("6-K",), "items": None, "doc_hint": r"(ex|exhibit)[-_]?99|press|release|results",
+        "forms": ("6-K",), "items": None, "doc_hint": r"exh_?99|(ex|exhibit)[-_]?99|press|release|results|bnt-\d{8}_d",
         "source": "Brookfield Wealth Solutions quarterly results (Form 6-K exhibit)",
         "metrics": {
             "earnings": {"label": "Distributable operating earnings (DOE)", "unit": "usd_m", "bounds": (20, 5000),
@@ -133,6 +143,46 @@ COMPANIES = [
         "definition": ("Brookfield's distributable operating earnings across its annuity (incl. American "
                        "Equity), P&C and life businesses. Not a spread-only measure; no consistent spread "
                        "percentage is disclosed."),
+        "scope": "Brookfield; Bermuda reinsurance platform with American Equity, American National and Just Group.",
+    },
+]
+
+COMPANIES += [
+    {
+        "key": "corebridge", "name": "Corebridge Financial", "owner": "Nippon Life stake; Blackstone & BlackRock mandates",
+        "cik": 1889539, "forms": ("8-K",), "items": ("2.02",),
+        "doc_hint": r"pressr|press|release|earnings|ex(hibit)?[-_]?99",
+        "source": "Corebridge quarterly earnings release, consolidated results (Form 8-K exhibit)",
+        "metrics": {
+            "earnings": {"label": "Adjusted pre-tax operating income (APTOI)", "unit": "usd_m", "bounds": (200, 4000),
+                         "rows": [r"^adjusted pre-tax operating income$"], "context": r"consolidated"},
+            "base_spread": {"label": "Base spread income", "unit": "usd_m", "bounds": (200, 4000),
+                            "rows": [r"^base spread income$"], "context": r"consolidated"},
+        },
+        "fallback": None,
+        "definition": ("APTOI: company-wide operating income before tax (Individual and Group Retirement, Life, "
+                       "Institutional), excluding investment gains and losses, market-risk-benefit changes and "
+                       "the Fortitude Re funds-withheld results. Base spread income: base portfolio income less "
+                       "interest credited, excluding variable investment income; the spread line of the business."),
+        "scope": "Fortitude Re legacy reinsurance and its own Bermuda flow reinsurance (from 2024); "
+                 "merging with Equitable (all-stock, close expected by end-2026).",
+    },
+    {
+        "key": "fg", "name": "F&G Annuities & Life", "owner": "FNF (about 70%); Blackstone manages assets",
+        "cik": 1934850, "forms": ("8-K",), "items": ("2.02",),
+        "doc_hint": r"earningsrelease|financialsupp|ex(hibit)?[-_]?99",
+        "sec_prose": True,  # the release tables are images; the figure is read from its sentences
+        "source": "F&G quarterly earnings release (Form 8-K exhibit)",
+        "metrics": {
+            "earnings": {"label": "Adjusted net earnings (ANE)", "unit": "usd_m", "bounds": (20, 1500),
+                         "rows": [r"^adjusted net earnings( attributable to common shareholders)?$"],
+                         "prose": [r"adjusted net earnings"]},
+        },
+        "fallback": None,
+        "definition": ("Adjusted net earnings attributable to common shareholders: net earnings excluding "
+                       "mark-to-market effects and other significant items. After tax; not a spread measure."),
+        "scope": "Blackstone asset-management partner; F&G Life Re (Bermuda) sold to Ancient effective "
+                 "1 Mar 2026; Fort Green Re (Cayman) sidecar since Aug 2025.",
     },
 ]
 
@@ -245,7 +295,7 @@ def _grid(row):
 
 MONTHS = {m: i + 1 for i, m in enumerate(
     ("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"))}
-_SKIP = re.compile(r"six months|nine months|twelve months|year(s)? ended|ytd|year[- ]to[- ]date|full year|\bfy\b|"
+_SKIP = re.compile(r"six months|nine months|twelve months|year(s)? ended|ytd|\bltm\b|year[- ]to[- ]date|full year|\bfy\b|"
                    r"change|variance|%\s*chg|vs\.?", re.I)
 _YEAR = re.compile(r"^(19|20)\d{2}$")
 _MONTH = re.compile(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\b", re.I)
@@ -291,6 +341,7 @@ def parse_value(text):
 
 def _norm_label(text):
     t = re.sub(r"\(\d+\)|\[\d+\]|\*+", "", text.lower())
+    t = re.sub(r"(?<=[a-z)])\d{1,2}\s*$", "", t)  # footnote marker glued on: "earnings1"
     t = re.sub(r"[\s:$]+$", "", t.replace("—", "-")).strip()
     return re.sub(r"\s+", " ", t)
 
@@ -304,13 +355,59 @@ def _unit_scale(context_text):
     return 1.0
 
 
+def _row_label(row):
+    """A row's label: its first text cell, skipping empty spacer cells and lone
+    '$'/'%' marks; '' when the row starts with a number (a header or data row)."""
+    for txt, _ in row:
+        t = txt.strip()
+        if not t or t in ("$", "%"):
+            continue
+        return "" if parse_value(t) is not None else t
+    return ""
+
+
+_PERIOD_GROUP = re.compile(r"(three|six|nine|twelve) months|quarter|year(s)? ended|\bytd\b", re.I)
+_MONTH_DAY = re.compile(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})\b", re.I)
+
+
+def _sequential_periods(rows, context=""):
+    """Periods in reading order for headers whose cells don't line up with the
+    value columns (Brookfield): the month comes from the label cell or table
+    title ('periods ended June 30'), each group ('Three Months Ended', 'Six
+    Months Ended') takes its share of the years row in order. None marks a
+    non-quarter column (six months, year to date)."""
+    header = []
+    for r in rows:
+        if _row_label(r) and [t for t, _ in r if parse_value(t) is not None and not _YEAR.match(t.strip())]:
+            break
+        header.append(r)
+    texts = [t.strip() for r in header for t, _ in r if t.strip()]
+    m = _MONTH_DAY.search(" ".join(texts)) or _MONTH_DAY.search(context[-300:])
+    if not m or MONTHS[m.group(1).lower()] % 3:
+        return []
+    q = MONTHS[m.group(1).lower()] // 3
+    years = max(([t.strip() for t, _ in r if _YEAR.match(t.strip())] for r in header), key=len, default=[])
+    if not years:
+        return []
+    groups = [t for t in texts if _PERIOD_GROUP.search(t) and not _YEAR.match(t)]
+    if not groups:
+        return [] if _SKIP.search(" ".join(texts)) else [f"{y}Q{q}" for y in years]
+    if len(years) % len(groups):
+        return []
+    per, out = len(years) // len(groups), []
+    for i, g in enumerate(groups):
+        quarterly = re.search(r"three months|quarter", g, re.I) and not re.search(r"six|nine|twelve|year|ytd", g, re.I)
+        out += [f"{y}Q{q}" if quarterly else None for y in years[i * per:(i + 1) * per]]
+    return out
+
+
 def _header_columns(rows):
     """Period per column span from the header rows (those above the first data
     row). Multi-row headers are combined column by column, so 'Three Months
     Ended June 30,' over '2026 | 2025' reads as two quarters."""
     header_rows = []
     for r in rows:
-        label = r[0][0] if r else ""
+        label = _row_label(r)
         nums = [txt for txt, _ in r[1:] if parse_value(txt) is not None and not _YEAR.match(txt.strip())]
         if label and nums:
             break
@@ -351,10 +448,12 @@ def extract_metrics(html, metric_specs):
         for r in rows:
             if not r:
                 continue
-            label = _norm_label(r[0][0])
+            label = _norm_label(_row_label(r))
             for key, spec in metric_specs.items():
-                if not any(re.search(p, label) for p in spec["rows"]):
+                if not label or not any(re.search(p, label) for p in spec["rows"]):
                     continue
+                if spec.get("context") and not re.search(spec["context"], table["context"], re.I):
+                    continue  # e.g. Corebridge: the consolidated table, not a segment one
                 if spans is None:
                     spans = _header_columns(rows)
                 values = {}
@@ -370,6 +469,12 @@ def extract_metrics(html, metric_specs):
                     if spans and len(nums) == len(spans):
                         values = {p: v for (p, _, _), v in zip(spans, nums)}
                 if not values:
+                    # Fallback: header groups and years read in order (cells misaligned).
+                    periods = _sequential_periods(rows, table["context"])
+                    nums = [v for v in (parse_value(t) for t, _ in r) if v is not None]
+                    if periods and len(nums) == len(periods):
+                        values = {p: v for p, v in zip(periods, nums) if p}
+                if not values:
                     misses.append({"metric": key, "row": [t for t, _ in r][:14],
                                    "headers": [p for p, _, _ in (spans or [])]})
                     continue
@@ -382,6 +487,58 @@ def extract_metrics(html, metric_specs):
                         found.setdefault(key, {}).setdefault(q, v)
                     else:
                         log.warning(f"    {key} {q}: {v} outside plausible range {lo}-{hi}; ignored")
+    return found, misses
+
+
+_PERIOD_TOKEN = r"(?:[1-4]q\s?'?\d{2}|q[1-4]\s?'?\d{2})(?:\s+(?:ytd|ltm))?"
+
+
+def extract_text_rows(html, metric_specs):
+    """{metric: {quarter: value}} for releases laid out as slide images with the
+    slide text hidden behind them (KKR): no HTML tables, but the text reads
+    'insurance operating earnings $ 277,932 $ 288,220 $ 536,704 $ 548,550'
+    after a header run of period tokens ("2q'25 2q'26 2q'25 ytd 2q'26 ytd").
+    Numbers pair with the nearest preceding run of exactly as many tokens;
+    year-to-date and LTM columns are dropped."""
+    text = plain_text(html).lower().replace("\u2019", "'")
+    found = {}
+    for key, spec in metric_specs.items():
+        lo, hi = spec["bounds"]
+        for pat in spec["rows"]:
+            row = re.compile("(?:" + pat.strip("^$") + r")\s*(?:\(\d\)|\d)?\s*(?P<nums>(?:\$?\s*\(?-?\d[\d,]*(?:\.\d+)?\)?%?\s*){2,8})")
+            for m in row.finditer(text):
+                nums = [parse_value(n) for n in re.findall(r"\(?-?\d[\d,]*(?:\.\d+)?\)?", m.group("nums"))]
+                before = text[max(0, m.start() - 3000):m.start()]
+                runs = [r for r in re.finditer(rf"(?:{_PERIOD_TOKEN}\s+)*{_PERIOD_TOKEN}", before)
+                        if len(re.findall(_PERIOD_TOKEN, r.group(0))) == len(nums)]
+                if not runs:
+                    continue
+                run = runs[-1]
+                tokens = re.findall(_PERIOD_TOKEN, run.group(0))
+                scale = _unit_scale(before[max(0, run.start() - 300):run.end()]) if spec["unit"] == "usd_m" else 1.0
+                for tok, v in zip(tokens, nums):
+                    q = parse_period(tok)  # None for YTD / LTM columns
+                    if q is None or v is None:
+                        continue
+                    v = round(v * scale, 2)
+                    if lo <= v <= hi:
+                        found.setdefault(key, {}).setdefault(q, v)
+    return found
+
+
+def extract_from_document(html, company):
+    """Tables first; then the hidden-text slide rows (text_rows companies); then
+    the release's own sentences (sec_prose companies, one quarter per filing)."""
+    found, misses = extract_metrics(html, company["metrics"])
+    if not found and company.get("text_rows"):
+        found = extract_text_rows(html, company["metrics"])
+    if not found and company.get("sec_prose"):
+        text = em.html_text(html)
+        quarter = em.quarter_from_text(em.normalise(text))
+        prose = {k: s for k, s in company["metrics"].items() if s.get("prose")}
+        if quarter and prose:
+            values, _notes = em.extract_prose_metrics(text, quarter, prose)
+            found = {k: {quarter: v} for k, v in values.items()}
     return found, misses
 
 
@@ -473,7 +630,7 @@ def update_company(company, state, since, deadline=None):
             html = sec_get(url, timeout=60)
             if not mentions_metric(html, company):
                 continue
-            found, misses = extract_metrics(html, company["metrics"])
+            found, misses = extract_from_document(html, company)
             for metric, by_q in found.items():
                 for q, v in by_q.items():
                     merge_points(points, metric, q, v, f, url)
@@ -636,7 +793,7 @@ def build_output(states, errors):
         has = any(m["points"] for m in metrics.values())
         companies.append({
             "key": c["key"], "name": c["name"], "owner": c["owner"], "cik": c["cik"],
-            "source": c["source"], "definition": c["definition"], "metrics": metrics,
+            "source": c["source"], "definition": c["definition"], "scope": c.get("scope"), "metrics": metrics,
             "status": "ok" if has else ("error" if c["key"] in errors else "no_data"),
             "note": errors.get(c["key"]),
             "edgar_url": f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={c['cik']}",

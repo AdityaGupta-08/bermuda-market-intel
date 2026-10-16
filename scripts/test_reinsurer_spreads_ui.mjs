@@ -4,6 +4,7 @@
 import {
   quarterIndex, quarterFromIndex, quarterLabel, quarterAxis, summarizeMetric,
   lineScale, formatValue, formatAxisValue, formatChange, tableRows, buildReinsurerView, groupNotCovered,
+  commentaryFor, defaultReasonQuarter,
 } from "../src/reinsurerSpreads.js";
 
 let pass = 0, fail = 0;
@@ -129,7 +130,7 @@ const fbData = {
        metrics: { earnings: { label: "E", unit: "usd_m", points: [pt("2026Q2", 288, { source: "sec" })] } } }],
 };
 const fv = buildReinsurerView(fbData);
-const [fb, kkr] = fv.companies;
+const fb = fv.companies.find(c => c.key === "brookfield_ws"), kkr = fv.companies.find(c => c.key === "global_atlantic");
 const fm = fb.metrics[0];
 check("series carries each point's source", fm.series[11].source === "release" && fm.series[10].source === "sec" && fm.series[0].source === null,
   fm.series.slice(-2).map(x => x.source), ["sec", "release"]);
@@ -143,6 +144,39 @@ check("fallback source and KKR's note passed through", fb.fallbackSource.startsW
 const frows = tableRows(fb);
 check("table names the source of each row", frows[0].sourceText === "results release (read 2026-10-15)" && frows[1].sourceText === "6-K 2026-05-08",
   frows.map(r => r.sourceText), ["results release (read 2026-10-15)", "6-K 2026-05-08"]);
+
+console.log("\nreasons");
+const call = (date, tones, score, label) => ({
+  date, read: "transcript read", sources: [{ label: "transcript", url: "t" }],
+  lines: tones.map((tone, i) => ({ tone, theme: "Spread", text: `line ${i}` })),
+  meter: { score, label, good: tones.filter(t => t === "good").length, bad: tones.filter(t => t === "bad").length, n: tones.length, arrow: "↑", note: null },
+});
+const commentary = {
+  source: { title: "PE Life Reinsurers — Earnings Call Review", as_of: "2026-10-12", url: "https://claude.ai/artifact/x", mdna_url: "m" },
+  summary: ["Tone drifted down for four of five."],
+  companies: {
+    athene: { heading: "Athene / Apollo — Retirement Services", metric: "SRE", coverage: "Q1 FY2023 to Q2 FY2026", watch: "net spread vs guide",
+      quarters: { "2026Q2": call("4 Aug 2026", ["good", "average"], 0.5, "Good"), "2026Q1": call("6 May 2026", ["bad", "good", "average"], 0, "Average"),
+                  "2026Q3": call("3 Nov 2026", ["good"], 1, "Good") } },
+    corebridge: { heading: "Corebridge Financial (metric: APTOI)", metric: "APTOI", quarters: { "2026Q2": call("5 Aug 2026", ["bad"], -1, "Bad") } },
+  },
+};
+const rc = commentaryFor(commentary, "athene");
+check("calls oldest first with filing-style labels", rc.calls.map(c => c.label).join() === "1Q'26,2Q'26,3Q'26", rc.calls.map(c => c.label), "1Q'26,2Q'26,3Q'26");
+check("lookup by quarter and latest call", rc.byQuarter["2026Q1"].meter.label === "Average" && rc.latest.quarter === "2026Q3", rc.latest.quarter, "2026Q3");
+check("company without commentary ⇒ null", commentaryFor(commentary, "fg") === null && commentaryFor(undefined, "athene") === null, "—", null);
+const rv = buildReinsurerView(data, commentary);
+const rath = rv.companies.find(c => c.key === "athene");
+check("reasons attached to the company card", rath.reasons.watch === "net spread vs guide" && rath.reasons.calls.length === 3, rath.reasons.watch, "attached");
+check("default quarter: newest with both a figure and commentary", defaultReasonQuarter(rath) === "2026Q2", defaultReasonQuarter(rath), "2026Q2");
+const core = rv.companies.find(c => c.key === "corebridge");
+check("review-only company still gets a card, named from the heading", core && core.name === "Corebridge Financial" && core.status === "no_data"
+  && core.reasons.calls.length === 1, core && core.name, "Corebridge Financial");
+check("default quarter falls back to the newest call without data", defaultReasonQuarter(core) === "2026Q2", defaultReasonQuarter(core), "2026Q2");
+check("cards in the page's company order", rv.companies.map(c => c.key).slice(0, 4).join() === "athene,global_atlantic,brookfield_ws,corebridge",
+  rv.companies.map(c => c.key), "athene,global_atlantic,brookfield_ws,corebridge,…");
+check("review source and summary exposed", rv.review.as_of === "2026-10-12" && rv.review.summary.length === 1, rv.review, "as_of + summary");
+check("no commentary ⇒ no reasons, no review", buildReinsurerView(data).review === null && buildReinsurerView(data).companies[0].reasons === null, "—", null);
 
 console.log(`\n${pass} passed, ${fail} failed\n`);
 process.exit(fail ? 1 : 0);

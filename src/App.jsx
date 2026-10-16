@@ -1430,7 +1430,7 @@ const PAGES = [
   { id: "news", label: "News", icon: Newspaper }, { id: "bma", label: "Regulatory", icon: Shield },
   { id: "structures", label: "RI Structures", icon: Layers },
 ];
-const FILES = { ust: "ust.json", jgb: "jgb.json", gilt: "gilt.json", eiopa: "eur.json", india: "india.json", credit: "credit.json", cds: "cds.json", sofr: "sofr.json", bma_rates: "bma_rates.json", commodities: "commodities.json", debt_maturity: "debt_maturity.json", news: "news.json", regulatory: "regulatory.json", inflation: "inflation.json", myga: "myga_spreads.json", reinsurer_spreads: "reinsurer_spreads.json" };
+const FILES = { ust: "ust.json", jgb: "jgb.json", gilt: "gilt.json", eiopa: "eur.json", india: "india.json", credit: "credit.json", cds: "cds.json", sofr: "sofr.json", bma_rates: "bma_rates.json", commodities: "commodities.json", debt_maturity: "debt_maturity.json", news: "news.json", regulatory: "regulatory.json", inflation: "inflation.json", myga: "myga_spreads.json", reinsurer_spreads: "reinsurer_spreads.json", reinsurer_commentary: "reinsurer_commentary.json" };
 
 // ── Source health (data/source_health.json written by the pipeline) ──
 const HEALTH_COLORS = { active: "#4ade80", fallback: "#fbbf24", stagnant: "#f87171" };
@@ -1530,7 +1530,7 @@ export default function App() {
       case "sofr": return <SofrSection data={data.sofr} loading={ls.sofr} error={errs.sofr} />;
       case "credit": return <CreditSection data={data.credit} loading={ls.credit} error={errs.credit} />;
       case "cds": return <CDSSection data={data.cds} loading={ls.cds} error={errs.cds} />;
-      case "pe_reinsurers": return <ReinsurerSpreadsSection data={data.reinsurer_spreads} loading={ls.reinsurer_spreads} />;
+      case "pe_reinsurers": return <ReinsurerSpreadsSection data={data.reinsurer_spreads} commentary={data.reinsurer_commentary} loading={ls.reinsurer_spreads} />;
       case "news": return <NewsSection data={data.news} loading={ls.news} error={errs.news} />;
       case "bma": return <RegulatorySection data={data.regulatory} loading={ls.regulatory} error={errs.regulatory} />;
       case "structures": return <StructuresSection />;

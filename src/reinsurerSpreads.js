@@ -175,15 +175,60 @@ const STATUS_TEXT = {
   error: "The SEC fetch failed for this company at the last refresh and nothing is cached yet.",
 };
 
-/** Everything the page renders, in display order. */
-export function buildReinsurerView(data) {
-  const companies = data?.companies || [];
+// ── Reasons (data/reinsurer_commentary.json, from the earnings call review) ──
+
+export const TONE_TEXT = { good: "Good", average: "Average", bad: "Bad" };
+// Display order for companies the SEC file doesn't carry yet.
+const COMPANY_ORDER = ["athene", "global_atlantic", "brookfield_ws", "corebridge", "fg"];
+
+/** One company's calls from the review: oldest first, each with its quarter
+    label, sentiment meter and tagged lines; plus metric, coverage and the
+    latest watch-list entry. Null when the review doesn't cover the company. */
+export function commentaryFor(commentary, key) {
+  const c = commentary?.companies?.[key];
+  if (!c) return null;
+  const calls = Object.entries(c.quarters || {})
+    .filter(([q]) => QRE.test(q))
+    .sort(([a], [b]) => (a < b ? -1 : 1))
+    .map(([quarter, v]) => ({
+      quarter, label: quarterLabel(quarter), date: v.date || null, read: v.read || null,
+      sources: v.sources || [], lines: v.lines || [], meter: v.meter || null,
+    }));
+  return {
+    heading: c.heading || null, metric: c.metric || null, coverage: c.coverage || null, watch: c.watch || null,
+    calls, byQuarter: Object.fromEntries(calls.map(x => [x.quarter, x])),
+    latest: calls.length ? calls[calls.length - 1] : null,
+  };
+}
+
+/** Quarter the reasons panel opens on: the newest quarter that has both a
+    figure and commentary; else the newest commented quarter. */
+export function defaultReasonQuarter(company) {
+  const r = company.reasons;
+  if (!r?.calls.length) return null;
+  const withData = new Set(company.metrics.flatMap(m => m.series.filter(p => p.value != null).map(p => p.quarter)));
+  const both = r.calls.filter(c => withData.has(c.quarter));
+  return (both.length ? both[both.length - 1] : r.latest).quarter;
+}
+
+/** Everything the page renders, in display order. Companies the review
+    covers but the SEC file doesn't carry yet still get a card (reasons only). */
+export function buildReinsurerView(data, commentary) {
+  const companies = [...(data?.companies || [])];
+  for (const key of Object.keys(commentary?.companies || {})) {
+    if (companies.some(c => c.key === key)) continue;
+    const heading = commentary.companies[key].heading || key;
+    companies.push({ key, name: heading.split(/\s+[—(]/)[0].trim(), owner: null, status: "no_data", metrics: {} });
+  }
+  const rank = k => (COMPANY_ORDER.includes(k) ? COMPANY_ORDER.indexOf(k) : COMPANY_ORDER.length);
+  companies.sort((a, b) => rank(a.key) - rank(b.key));
   const axis = quarterAxis(companies);
   return {
     updated: data?.updated || null,
     note: data?.note || null,
     axis,
     notCovered: groupNotCovered(data?.not_covered || []),
+    review: commentary?.source ? { ...commentary.source, summary: commentary.summary || [] } : null,
     companies: companies.map(c => {
       const metrics = Object.entries(c.metrics || {}).map(([key, m]) => ({
         key, label: m.label || key, unit: m.unit, ...summarizeMetric(m, axis),
@@ -200,13 +245,14 @@ export function buildReinsurerView(data) {
         message = `SEC filings couldn't be read at the last refresh (${c.note}). Quarters without a filing are filled from the ${fallbackKinds.join(" / ")} and marked as such.`;
       else if (c.note) message = `Last refresh failed (${c.note}); showing figures collected earlier.`;
       return {
-        key: c.key, name: c.name, owner: c.owner, source: c.source, definition: c.definition,
+        key: c.key, name: c.name, owner: c.owner, source: c.source, definition: c.definition, scope: c.scope || null,
         edgarUrl: c.edgar_url, metrics, latestFiling, hasData, usesFallback, fallbackKinds,
         fallbackSource: c.fallback_source || null, fallbackNote: c.fallback_note || null,
         status: hasData ? "ok" : c.status === "error" ? "error" : "no_data",
         // A failed run keeps the cached figures; say so instead of hiding it.
         stale: hasData && !!c.note,
         message,
+        reasons: commentaryFor(commentary, c.key),
       };
     }),
   };

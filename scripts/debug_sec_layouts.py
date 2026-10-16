@@ -12,10 +12,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 import fetch_reinsurer_spreads as rs  # noqa: E402
 
 TARGETS = [
-    # (label, cik, forms, items, doc hint, phrases to look for, how many filings)
-    ("KKR", 1404912, ("8-K",), ("2.02",), r"earnings|release|ex99", [r"insurance", r"global atlantic"], 1),
-    ("F&G", 1934850, ("8-K",), ("2.02",), r"earningsrelease|financialsupp", [r"adjusted net earnings", r"net investment spread", r"spread"], 1),
-    ("Athene-2023", 1527469, ("8-K",), ("2.02", "7.01"), r"financialsupp", [r"spread related earnings", r"net investment spread"], 0),
+    ("KKR", 1404912, ("8-K",), ("2.02",), r"earningsrelease", [r"insurance operating", r"insurance segment", r"global atlantic"], 1),
+    ("F&G", 1934850, ("8-K",), ("2.02",), r"earningsrelease|financialsupp", [r"adjusted net earnings"], 2),
 ]
 
 
@@ -71,6 +69,17 @@ def main():
                             print(f"      ...{text[max(0, m.start()-120):m.end()+160]!r}")
                     if not show_tables(html, [p if p.startswith("^") else p for p in phrases]):
                         print("      (no table row starts with the phrase)")
+                    if label == "KKR":
+                        print(f"      tags: table={html.lower().count('<table')} tr={html.lower().count('<tr')} div={html.lower().count('<div')}")
+                        for m in list(re.finditer(r"insurance", text))[:200]:
+                            w = text[m.start():m.start() + 140]
+                            if re.search(r"\d{2,}", w) and ("operating earnings" in w or "net investment" in w or "segment" in w):
+                                print(f"      WIN {w!r}")
+                        i = html.lower().find("insurance operating earnings")
+                        j = html.lower().find(">insurance<")
+                        for k in (i, j):
+                            if k >= 0:
+                                print(f"      RAW {html[max(0, k-700):k+500]!r}")
 
 
 if __name__ == "__main__":

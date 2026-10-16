@@ -1,0 +1,80 @@
+#!/usr/bin/env python3
+"""TEMPORARY diagnostic (removed before merge): print the table rows around
+each reinsurer metric in recent SEC filings, so the parser can be fitted to
+the real layouts. Runs only on GitHub's runners (the dev sandbox can't reach
+the SEC)."""
+import re
+import sys
+from datetime import date
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+import fetch_reinsurer_spreads as rs  # noqa: E402
+
+TARGETS = [
+    # (label, cik, forms, items, doc hint, phrases to look for, how many filings)
+    ("KKR", 1404912, ("8-K",), ("2.02",), r"earnings|release|ex99", [r"insurance", r"operating earnings"], 2),
+    ("BWS", 1837429, ("6-K",), None, r"ex(hibit)?[-_]?99|press|release|results|bnt-", [r"distributable operating"], 6),
+    ("Corebridge", 1889539, ("8-K",), ("2.02",), r"ex(hibit)?[-_]?99|earnings|release|supplement",
+     [r"adjusted pre-?tax operating income", r"operating earnings", r"net investment spread"], 2),
+    ("F&G", 1934850, ("8-K",), ("2.02",), r"ex(hibit)?[-_]?99|earnings|release|supplement",
+     [r"adjusted net earnings", r"net investment spread"], 2),
+    ("Athene-2023", 1527469, ("8-K",), ("2.02", "7.01"), r"financialsupp", [r"^spread related earnings", r"^net investment spread"], 0),
+]
+
+
+def show_tables(html, phrases, max_tables=4):
+    shown = 0
+    for t in rs.html_tables(html):
+        rows = [[txt for txt, _ in r] for r in t["rows"]]
+        hit = [i for i, r in enumerate(rows) if r and any(re.search(p, (r[0] or "").lower()) for p in phrases)]
+        if not hit:
+            continue
+        shown += 1
+        print(f"      TABLE context={t['context'][-160:]!r}")
+        first = hit[0]
+        keep = set(range(0, 6)) | set(range(max(0, first - 6), first + 2)) | set(hit[:6])
+        for i in sorted(k for k in keep if k < len(rows)):
+            print(f"        r{i}: {t['rows'][i]}")
+        if shown >= max_tables:
+            break
+    return shown
+
+
+def main():
+    since = date(2023, 1, 1)
+    for label, cik, forms, items, hint, phrases, n in TARGETS:
+        company = {"name": label, "cik": cik, "forms": forms, "items": items, "doc_hint": hint}
+        print(f"=== {label} (CIK {cik})")
+        try:
+            filings = rs.list_filings(company, since)
+        except Exception as e:
+            print(f"  list failed: {e}")
+            continue
+        print(f"  {len(filings)} filings; newest: {[(f['filed'], f['accession']) for f in filings[-6:]]}")
+        picks = filings[-n:] if n else [f for f in filings if f["filed"].startswith(("2023-08", "2023-11", "2024-02"))]
+        for f in reversed(picks):
+            acc = f["accession"].replace("-", "")
+            base = f"https://www.sec.gov/Archives/edgar/data/{cik}/{acc}"
+            try:
+                idx = rs.sec_json(f"{base}/index.json")
+            except Exception as e:
+                print(f"  {f['filed']} index failed: {e}")
+                continue
+            names = [i["name"] for i in idx.get("directory", {}).get("item", [])]
+            print(f"  -- {f['filed']} {f['accession']} primary={f['primary']} files={names[:14]}")
+            for name in [x for x in names if x.lower().endswith((".htm", ".html")) and "index" not in x.lower()][:6]:
+                html = rs.sec_get(f"{base}/{name}", timeout=60)
+                text = rs.plain_text(html).lower()
+                found = {p: len(re.findall(p.strip("^"), text)) for p in phrases}
+                print(f"    {name}: {len(html)//1024}KB phrase-hits={found}")
+                if any(found.values()):
+                    for p in phrases:
+                        for m in list(re.finditer(p.strip("^"), text))[:2]:
+                            print(f"      ...{text[max(0, m.start()-120):m.end()+160]!r}")
+                    if not show_tables(html, [p if p.startswith("^") else p for p in phrases]):
+                        print("      (no table row starts with the phrase)")
+
+
+if __name__ == "__main__":
+    main()

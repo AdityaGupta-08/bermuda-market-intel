@@ -13,21 +13,17 @@ import fetch_reinsurer_spreads as rs  # noqa: E402
 
 TARGETS = [
     # (label, cik, forms, items, doc hint, phrases to look for, how many filings)
-    ("KKR", 1404912, ("8-K",), ("2.02",), r"earnings|release|ex99", [r"insurance", r"operating earnings"], 2),
-    ("BWS", 1837429, ("6-K",), None, r"ex(hibit)?[-_]?99|press|release|results|bnt-", [r"distributable operating"], 6),
-    ("Corebridge", 1889539, ("8-K",), ("2.02",), r"ex(hibit)?[-_]?99|earnings|release|supplement",
-     [r"adjusted pre-?tax operating income", r"operating earnings", r"net investment spread"], 2),
-    ("F&G", 1934850, ("8-K",), ("2.02",), r"ex(hibit)?[-_]?99|earnings|release|supplement",
-     [r"adjusted net earnings", r"net investment spread"], 2),
-    ("Athene-2023", 1527469, ("8-K",), ("2.02", "7.01"), r"financialsupp", [r"^spread related earnings", r"^net investment spread"], 0),
+    ("KKR", 1404912, ("8-K",), ("2.02",), r"earnings|release|ex99", [r"insurance", r"global atlantic"], 1),
+    ("F&G", 1934850, ("8-K",), ("2.02",), r"earningsrelease|financialsupp", [r"adjusted net earnings", r"net investment spread", r"spread"], 1),
+    ("Athene-2023", 1527469, ("8-K",), ("2.02", "7.01"), r"financialsupp", [r"spread related earnings", r"net investment spread"], 0),
 ]
 
 
-def show_tables(html, phrases, max_tables=4):
+def show_tables(html, phrases, max_tables=7):
     shown = 0
     for t in rs.html_tables(html):
         rows = [[txt for txt, _ in r] for r in t["rows"]]
-        hit = [i for i, r in enumerate(rows) if r and any(re.search(p, (r[0] or "").lower()) for p in phrases)]
+        hit = [i for i, r in enumerate(rows) if r and any(re.search(p, " ".join(r[:3]).lower()) for p in phrases)]
         if not hit:
             continue
         shown += 1
@@ -52,7 +48,7 @@ def main():
             print(f"  list failed: {e}")
             continue
         print(f"  {len(filings)} filings; newest: {[(f['filed'], f['accession']) for f in filings[-6:]]}")
-        picks = filings[-n:] if n else [f for f in filings if f["filed"].startswith(("2023-08", "2023-11", "2024-02"))]
+        picks = filings[-n:] if n else [f for f in filings if f["filed"].startswith(("2023-11", "2024-11"))]
         for f in reversed(picks):
             acc = f["accession"].replace("-", "")
             base = f"https://www.sec.gov/Archives/edgar/data/{cik}/{acc}"
@@ -63,7 +59,8 @@ def main():
                 continue
             names = [i["name"] for i in idx.get("directory", {}).get("item", [])]
             print(f"  -- {f['filed']} {f['accession']} primary={f['primary']} files={names[:14]}")
-            for name in [x for x in names if x.lower().endswith((".htm", ".html")) and "index" not in x.lower()][:6]:
+            docs = [x for x in names if x.lower().endswith((".htm", ".html")) and "index" not in x.lower() and not x.startswith("R")]
+            for name in [x for x in docs if re.search(hint, x, re.I)][:3]:
                 html = rs.sec_get(f"{base}/{name}", timeout=60)
                 text = rs.plain_text(html).lower()
                 found = {p: len(re.findall(p.strip("^"), text)) for p in phrases}

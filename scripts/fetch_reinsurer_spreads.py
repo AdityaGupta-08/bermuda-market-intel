@@ -829,15 +829,18 @@ def main():
     since = date.today() - timedelta(days=BACKFILL_DAYS)
     states, errors = load_states(), {}
     deadline = time.monotonic() + TIME_BUDGET
-    for c in COMPANIES:
+    for i, c in enumerate(COMPANIES):
         st = states.setdefault(c["key"], {})
+        # Each company gets an equal slice of what's left, so a long backfill for
+        # one never starves the others; time a company doesn't use rolls over.
+        share = time.monotonic() + max(0.0, deadline - time.monotonic()) / (len(COMPANIES) - i)
         try:
-            update_company(c, st, since, deadline)
+            update_company(c, st, since, share)
         except Exception as e:
             errors[c["key"]] = f"{type(e).__name__}: {e}"
             log.warning(f"  {c['name']}: {errors[c['key']]}")
         try:
-            update_fallback(c, st, deadline)
+            update_fallback(c, st, share)
         except Exception as e:
             log.warning(f"  {c['name']} fallback: {type(e).__name__}: {e}")
         trim(st.get("points", {}))

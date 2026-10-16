@@ -337,6 +337,17 @@ class EdgarFlowTests(unittest.TestCase):
             rs.update_company(athene, state, rs.date(2023, 1, 1), deadline=rs.time.monotonic() + 60)
         self.assertEqual(state["points"]["earnings"]["2026Q2"]["value"], 877)
 
+    def test_every_company_gets_a_slice_of_the_time_budget(self):
+        seen = []
+        with mock.patch.object(rs, "update_company", lambda c, st, since, dl: seen.append((c["key"], dl))), \
+                mock.patch.object(rs, "update_fallback", lambda c, st, dl: None):
+            rs.main()
+        self.assertEqual([k for k, _ in seen], [c["key"] for c in rs.COMPANIES])
+        start = rs.time.monotonic()
+        first = seen[0][1] - start
+        self.assertLess(first, rs.TIME_BUDGET / len(rs.COMPANIES) + 1)  # not the whole budget
+        self.assertTrue(all(b > a for (_, a), (_, b) in zip(seen, seen[1:])))
+
     def test_main_writes_output_and_keeps_cache_on_error(self):
         def get(url, timeout=30):
             if "CIK0001527469" in url or "1527469/" in url:

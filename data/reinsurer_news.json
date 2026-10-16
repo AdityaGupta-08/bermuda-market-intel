@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T11:27:36Z",
+  "updated": "2026-10-16T16:43:10Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {

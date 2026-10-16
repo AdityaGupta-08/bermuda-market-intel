@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 23 items
-Generated Fri 16 Oct 2026, 08:27 ADT
+Bermuda life & annuity watchlist — last 14 days — 21 items
+Generated Fri 16 Oct 2026, 13:43 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 54 items
+- ✅ **Google News (16 of 16 companies)** — 55 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -17,11 +17,6 @@ Generated Fri 16 Oct 2026, 08:27 ADT
 ## Global Atlantic
 
 - **2026-10-05** — InsuranceNewsNet — [Global Atlantic names Dan Farrelly head of IMO and IBD channels](https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2NvYjZTbEo5NURrVDVBQlJuY0RpeEtWUU9sWDNBZndGemFra2MtaTB0bURPZWF5VUpVcUVEYy02R1REVUZtRGRpbWJhQnFwNFMwNWhoQURFNzgwb3E2anduVFJkVTBEWTZwT2NwTG5pc0NIZGFsaFVYenhlek1jWERkLW5wQTFCSmMtRVdzcGdkZlc2Vm9qbFlwSFBoeUhHV2dvZ25R?oc=5)
-
-## Fortitude Re
-
-- **2026-10-02** — Beinsure — [Fortitude Re parent acquires Dayforward annuity insurtech platform](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZVeElENk94UGE3RlhnbC11N1ZqUVAzZy1objVFZWpqdlo3WndnVWd0bkY3Z3dBdGxkNVFnUml2T3E4OXdhMTU3R3c0T3kyNWpDUmRrb3RHOHNQNURqb0lLT09XQS1EUkVUcTFISlNvdzc3NzZJU3pZQjNiMVFQZW9B?oc=5)
-- **2026-10-02** — Beinsure — [Fortitude Re parent acquires insurtech Dayforward annuity technology platform](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZVeElENk94UGE3RlhnbC11N1ZqUVAzZy1objVFZWpqdlo3WndnVWd0bkY3Z3dBdGxkNVFnUml2T3E4OXdhMTU3R3c0T3kyNWpDUmRrb3RHOHNQNURqb0lLT09XQS1EUkVUcTFISlNvdzc3NzZJU3pZQjNiMVFQZW9B?oc=5)
 
 ## Prismic Re
 
@@ -54,7 +49,7 @@ Generated Fri 16 Oct 2026, 08:27 ADT
 - **2026-10-09** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
 - **2026-10-09** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Sold by Douglas Lane & Associates LLC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnI1UVRLQWdOV1otQUJ4dnR3VVJMUXczQzNGaF9LQmQ5NTJUYjk5djY1WlhCYURucGFmRi1wVGhnSzhKRlRNOXUwRmpRNTZ5RllEeC0ySnNvM2hubGt3ekVRR0twVm5Ra3Z0RkxOeEFhckY5V3d4cXNHNHM5Zk55RWVsR2tLZFYzNjdIY3JETVNpZDZEQlNfVEFDRkdhWjNYV21mYm1naWJaRVFYdGhrQ1dQcWRVWTFRb1hySUlEcmNZY0t3ekJxUHRBekdBZnZYNlc0RWIzM3FTa24wWDdNZ2F1OA?oc=5)
 
-_No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Aspida, Kuvare, Sagicor, Catalina_
+_No news in the window: Wilton Re, Fortitude Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Aspida, Kuvare, Sagicor, Catalina_
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:25:40Z",
+  "updated": "2026-10-16T04:35:32Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 19,
+      "count": 20,
       "error": null
     },
     {
@@ -149,6 +149,18 @@
       ]
     },
     {
+      "id": "2f66c80f38d4",
+      "title": "LNC Stock Pops On Report Of Lincoln National\u2019s Potential $5B Reinsurance Deal With Talcott",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5",
+      "source": "Stocktwits",
+      "feed": "Google News: Talcott",
+      "date": "2026-10-14T22:47:52Z",
+      "summary": "",
+      "companies": [
+        "Talcott"
+      ]
+    },
+    {
       "id": "f1de125d0e6b",
       "title": "Are Investors Undervaluing Reinsurance Group of America (RGA) Right Now?",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW82WWhlYTQwckpSOFFkajNpc0tFVDk1SzY1cDlNZFJMdm5Xc01FNFZrMDRQRm9wOFJJanExVWV4bUlEX3VTZzE0NmRPdlJqZDlWYU03OXpJdDNjMXhVdGoxc2trODJIOUdsQWVtOXRqbTZrVGtPdjFyZHFTMmtfYnFpZHQydVFjTGdlbDkteEh0S1RmSzIwc2ZhWHJ6M2FHbGtOenhSWS14bDNibXAtZXFRTQ?oc=5",
@@ -209,18 +221,6 @@
       ]
     },
     {
-      "id": "2f66c80f38d4",
-      "title": "LNC Stock Pops On Report Of Lincoln National\u2019s Potential $5B Reinsurance Deal With Talcott",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5",
-      "source": "Stocktwits",
-      "feed": "Google News: Talcott",
-      "date": "2026-10-13T02:59:09Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
-      ]
-    },
-    {
       "id": "f7284a2ac9d6",
       "title": "Talcott ratings affirmed as Fitch keeps outlook stable",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTRMT0dEUE1xY3dNYXRTS1NJUE9yZUFNdnVSTDZkSGE5VFQwUGJYRUFYMFNBLU9KLWRvcExIa3l2d2Z3WkNvd012STdLaXJHWWhxSjRRNEpvcFpxR3ZtWWR4eUw2U2dEYkM4aEdTdlM1Uk9KbzZVWmJVTzdsSE9MMERQOTZDdW1UZmVRdEpoRFNFOVZjRkUxQXhndw?oc=5",
@@ -239,6 +239,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-12T15:25:27Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "2fdc1c528866",
+      "title": "Wells Fargo Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $292",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2dGN01KY3Q2VDNoMFhLY2QzaUZxRlpuR29yYlJEWVp5M0xsdi1FT3JmbDhwekY1REF0RlkwejdpYXNxMmx1SzF2UmtMVG14aTVGZEJpS3RaMDR6NkZjRzRpR290ZnZFS0UtUkQ1cnAwRkk3LXp1SU5zQVVUZXIyYmZZYV85Z2UzaTlseVZmSkFZdmVubFg2cko3QW9wNEhyOGVqTU1YdDhCOVh6aXc?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News: RGA",
+      "date": "2026-10-12T13:33:00Z",
       "summary": "",
       "companies": [
         "RGA"

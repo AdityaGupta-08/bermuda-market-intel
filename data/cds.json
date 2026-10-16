@@ -16,7 +16,7 @@
       "name": "AAA Corp",
       "spread": 41,
       "prior": 40,
-      "series_id": "BAMLC0A1CAAA",
+      "series_id": "",
       "date": "2026-10-15",
       "source": "credit.json"
     },
@@ -70,5 +70,5 @@
     }
   },
   "sector": {},
-  "_fetched": "2026-10-16T17:14:05.996395Z"
+  "_fetched": "2026-10-16T17:58:56.705044Z"
 }

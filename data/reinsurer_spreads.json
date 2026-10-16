@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T17:18:42.289128Z",
+  "updated": "2026-10-16T18:03:31.420685Z",
   "quarters": 12,
   "parser_version": 2,
   "companies": [
@@ -21,21 +21,24 @@
               "value": 872.0,
               "filed": "2024-11-06",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2023Q4",
               "value": 749.0,
               "filed": "2025-02-13",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2024Q1",
               "value": 816.0,
               "filed": "2025-05-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2024Q2",
@@ -115,6 +118,30 @@
           "label": "Net spread (SRE \u00f7 avg net invested assets)",
           "unit": "pct",
           "points": [
+            {
+              "quarter": "2023Q3",
+              "value": 1.68,
+              "filed": "2024-11-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2023Q4",
+              "value": 1.41,
+              "filed": "2025-02-13",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q1",
+              "value": 1.47,
+              "filed": "2025-05-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm",
+              "source": "sec"
+            },
             {
               "quarter": "2024Q2",
               "value": 1.24,
@@ -198,21 +225,24 @@
               "value": 2.13,
               "filed": "2024-11-06",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2023Q4",
               "value": 1.8,
               "filed": "2025-02-13",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2024Q1",
               "value": 1.83,
               "filed": "2025-05-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2024Q2",
@@ -325,30 +355,30 @@
           "0001527469-25-000065": 2,
           "0001527469-25-000062": 2,
           "0001527469-25-000059": 2,
-          "0001527469-25-000053": 1,
-          "0001527469-25-000050": 1,
-          "0001527469-25-000047": 1,
-          "0001193125-25-154072": 1,
-          "0001527469-25-000040": 1,
-          "0001527469-25-000036": 1,
-          "0001527469-25-000034": 1,
-          "0001527469-25-000029": 1,
-          "0001527469-25-000026": 1,
-          "0001527469-25-000023": 1,
-          "0001527469-25-000018": 1,
-          "0001527469-25-000013": 1,
-          "0001527469-25-000011": 1,
-          "0001527469-25-000008": 1,
-          "0001527469-25-000005": 1,
-          "0001527469-25-000003": 1,
-          "0001527469-24-000094": 1,
-          "0001527469-24-000092": 1,
-          "0001527469-24-000086": 1,
-          "0001193125-24-235926": 1,
-          "0001527469-24-000083": 1,
-          "0001527469-24-000081": 1,
-          "0001527469-24-000073": 1,
-          "0001527469-24-000066": 1,
+          "0001527469-25-000053": 2,
+          "0001527469-25-000050": 2,
+          "0001527469-25-000047": 2,
+          "0001193125-25-154072": 2,
+          "0001527469-25-000040": 2,
+          "0001527469-25-000036": 2,
+          "0001527469-25-000034": 2,
+          "0001527469-25-000029": 2,
+          "0001527469-25-000026": 2,
+          "0001527469-25-000023": 2,
+          "0001527469-25-000018": 2,
+          "0001527469-25-000013": 2,
+          "0001527469-25-000011": 2,
+          "0001527469-25-000008": 2,
+          "0001527469-25-000005": 2,
+          "0001527469-25-000003": 2,
+          "0001527469-24-000094": 2,
+          "0001527469-24-000092": 2,
+          "0001527469-24-000086": 2,
+          "0001193125-24-235926": 2,
+          "0001527469-24-000083": 2,
+          "0001527469-24-000081": 2,
+          "0001527469-24-000073": 2,
+          "0001527469-24-000066": 2,
           "0001527469-24-000063": 1,
           "0001527469-24-000060": 1,
           "0001527469-24-000053": 1,
@@ -448,25 +478,29 @@
               "value": 816.0,
               "filed": "2025-05-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm",
+              "source": "sec"
             },
             "2023Q4": {
               "value": 749.0,
               "filed": "2025-02-13",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm",
+              "source": "sec"
             },
             "2023Q3": {
               "value": 872.0,
               "filed": "2024-11-06",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm",
+              "source": "sec"
             },
             "2023Q2": {
               "value": 799.0,
               "filed": "2024-08-08",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000073/athq22024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000073/athq22024financialsuppleme.htm",
+              "source": "sec"
             },
             "2023Q1": {
               "value": 687.0,
@@ -555,25 +589,29 @@
               "value": 1.83,
               "filed": "2025-05-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm",
+              "source": "sec"
             },
             "2023Q4": {
               "value": 1.8,
               "filed": "2025-02-13",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm",
+              "source": "sec"
             },
             "2023Q3": {
               "value": 2.13,
               "filed": "2024-11-06",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm",
+              "source": "sec"
             },
             "2023Q2": {
               "value": 1.99,
               "filed": "2024-08-08",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000073/athq22024financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000073/athq22024financialsuppleme.htm",
+              "source": "sec"
             },
             "2023Q1": {
               "value": 1.83,
@@ -656,6 +694,34 @@
               "filed": "2025-08-07",
               "form": "8-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2024Q1": {
+              "value": 1.47,
+              "filed": "2025-05-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000034/athq12025financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2023Q4": {
+              "value": 1.41,
+              "filed": "2025-02-13",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000013/athq42024financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2023Q3": {
+              "value": 1.68,
+              "filed": "2024-11-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000092/athq32024financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2023Q2": {
+              "value": 1.52,
+              "filed": "2024-08-08",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746924000073/athq22024financialsuppleme.htm",
               "source": "sec"
             }
           }
@@ -1056,37 +1122,37 @@
           "0001837429-24-000027": 2,
           "0001171843-24-006359": 2,
           "0001193125-24-248770": 2,
-          "0001193125-24-215174": 1,
-          "0001837429-24-000021": 1,
-          "0001193125-24-197902": 1,
-          "0001171843-24-004555": 1,
-          "0001193125-24-182393": 1,
-          "0001193125-24-171391": 1,
-          "0001171843-24-003681": 1,
-          "0001193125-24-163428": 1,
-          "0001837429-24-000015": 1,
-          "0001171843-24-002701": 1,
-          "0001193125-24-133092": 1,
-          "0001171843-24-002609": 1,
-          "0001171843-24-002494": 1,
-          "0001171843-24-002369": 1,
-          "0001171843-24-001657": 1,
-          "0001171843-24-001333": 1,
-          "0001171843-24-000676": 1,
-          "0001193125-24-008711": 1,
-          "0001193125-23-301279": 1,
-          "0001193125-23-278961": 1,
-          "0001171843-23-007069": 1,
-          "0001837429-23-000021": 1,
-          "0001171843-23-006908": 1,
-          "0001171843-23-006199": 1,
-          "0001193125-23-215568": 1,
-          "0001193125-23-215429": 1,
-          "0001193125-23-215254": 1,
-          "0001193125-23-215141": 1,
-          "0001837429-23-000017": 1,
-          "0001171843-23-005186": 1,
-          "0001193125-23-195311": 1,
+          "0001193125-24-215174": 2,
+          "0001837429-24-000021": 2,
+          "0001193125-24-197902": 2,
+          "0001171843-24-004555": 2,
+          "0001193125-24-182393": 2,
+          "0001193125-24-171391": 2,
+          "0001171843-24-003681": 2,
+          "0001193125-24-163428": 2,
+          "0001837429-24-000015": 2,
+          "0001171843-24-002701": 2,
+          "0001193125-24-133092": 2,
+          "0001171843-24-002609": 2,
+          "0001171843-24-002494": 2,
+          "0001171843-24-002369": 2,
+          "0001171843-24-001657": 2,
+          "0001171843-24-001333": 2,
+          "0001171843-24-000676": 2,
+          "0001193125-24-008711": 2,
+          "0001193125-23-301279": 2,
+          "0001193125-23-278961": 2,
+          "0001171843-23-007069": 2,
+          "0001837429-23-000021": 2,
+          "0001171843-23-006908": 2,
+          "0001171843-23-006199": 2,
+          "0001193125-23-215568": 2,
+          "0001193125-23-215429": 2,
+          "0001193125-23-215254": 2,
+          "0001193125-23-215141": 2,
+          "0001837429-23-000017": 2,
+          "0001171843-23-005186": 2,
+          "0001193125-23-195311": 2,
           "0000950157-23-000747": 1,
           "0001171843-23-004299": 1,
           "0001171843-23-004212": 1,
@@ -1181,6 +1247,34 @@
               "filed": "2024-11-15",
               "form": "6-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742924000027/bws-09302024x6kexhibit991.htm",
+              "source": "sec"
+            },
+            "2023Q2": {
+              "value": 160.0,
+              "filed": "2024-08-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742924000021/bamr-20240630_d2.htm",
+              "source": "sec"
+            },
+            "2023Q1": {
+              "value": 110.0,
+              "filed": "2024-05-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742924000015/bnre-03312024x6kexhibit991.htm",
+              "source": "sec"
+            },
+            "2022Q4": {
+              "value": 170.0,
+              "filed": "2024-02-08",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184324000676/exh_991.htm",
+              "source": "sec"
+            },
+            "2022Q3": {
+              "value": 172.0,
+              "filed": "2023-11-13",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742923000021/bnre-09302023x6kexhibit991.htm",
               "source": "sec"
             }
           }

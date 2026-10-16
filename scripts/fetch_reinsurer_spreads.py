@@ -72,8 +72,8 @@ FALLBACK_RETRY_DAYS = 14       # a missing fallback document is retried after th
 # SEC requires a User-Agent identifying the requester. Set the SEC_USER_AGENT
 # secret to "Name contact@example.com" to use your own.
 SEC_USER_AGENT = os.environ.get("SEC_USER_AGENT", "").strip() or (
-    "bermuda-market-intel/1.0 (github.com/Ubermensch-6920/bermuda-market-intel; "
-    "Ubermensch-6920@users.noreply.github.com)")
+    "bermuda-market-intel/1.0 (github.com/AdityaGupta-08/bermuda-market-intel; "
+    "AdityaGupta-08@users.noreply.github.com)")
 
 COMPANIES = [
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T04:35:29Z",
+  "updated": "2026-10-16T11:27:34Z",
   "naic": [
     {
       "id": "cb21fa3406cc",
@@ -122,12 +122,22 @@
       "isNew": false
     },
     {
+      "id": "59880aeb806b",
+      "title": "Insurance Regulators Defend State-Led Model in Reply to Warren",
+      "date": "2026-09-25",
+      "cat": "General",
+      "summary": "",
+      "source": "Insurance Journal",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DeXN4cnhld0luT0wxMElFc1oxZGhaVTJtbW00NXFaLWVTUFYxNF9Wdk56M2JEYnZHVzktdkhiSmRfckxuQUM0dmFfaHVlMlFVMi0tLU42eXlIZEU5QkJIQVNHLTl1MUVSZ21JSVBLMEt1VmRIZUlV?oc=5",
+      "isNew": false
+    },
+    {
       "id": "91fd005502cc",
       "title": "Insurance Regulators Back State-Led Model in Reply to Warren",
       "date": "2026-09-25",
       "cat": "General",
       "summary": "",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWR6a2k2NzgtRHBIeU5odmtHVFpfWmZSN0J2aWFfZ2NybEpBd3RRVDVmMGVnSmVxakhTSXRiX1E4WVlFb0pXSkxvZUh0d0NrUjB3QV9WaVB0cXRkcy14Y3pPeWdXMDU5bElmWENyelhJcFlkdFpjc1hQS1BicllNZy1rdlZJS2VLakM0WlZ3cFJGTjc4VVJ6MjdXS3Y0OFVGdGExd242UVhfNEtSLTM1OXBsUQ?oc=5",
       "isNew": false
     },
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX050SzY3ZHI1amVIdThwNV9xQ1o3NVg4UTdyaXNScU9Dd3Z6eGU5S3ZPZFl5MnAzMDhteVZ1cmRTb0h2MmlfMWl3YmhMRGNRenY2enhGalFqcXpaX1FabUR3TU5MWjBFRUdhS0pla2w4Z0tPc2pLNDZKM0lnV21rQ0FWTGlYNEo5VHdnTjNlbnZmNEs5MktTcks4aTBRdEVfRDdoRG5QUHY3UHpMTVJwSFhEV0d1Um1jYURLeXNqUjJUak1FUDR2ODUxaVZwUWFQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "52142e9f1dc2",
-      "title": "Security Benefit Life (SBL) Bet It All on a Risky Asset, Then the NAIC Closed the Loophole",
-      "date": "2026-08-26",
-      "cat": "Investment",
-      "summary": "",
-      "source": "Substack",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nSDdPRmdDb2w1eTF3WlU2SWJNVVQ2NEFxS01rSlhTaVBxR3BqT0RRMkxOZW1yNFFRc3hVbTlSU0dxck9NTzJMYnlPTWlZT2tNOEl1V3ZVS2FNSVJud3ZDZlhCRUFwRTRrRG1hMEdwZnFIcU14eUE?oc=5",
       "isNew": false
     }
   ],

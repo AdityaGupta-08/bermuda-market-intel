@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T21:12:55Z",
+  "updated": "2026-10-16T23:38:40Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -95,7 +95,7 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "64bdca379950",
+      "title": "Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News: RGA",
+      "date": "2026-10-16T12:58:31Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "9a001d915dec",
       "title": "Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
@@ -275,18 +287,6 @@
       "source": "Simply Wall Street",
       "feed": "Google News: RGA",
       "date": "2026-10-10T11:33:30Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "64bdca379950",
-      "title": "Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
-      "source": "Yahoo Finance Australia",
-      "feed": "Google News: RGA",
-      "date": "2026-10-09T23:57:33Z",
       "summary": "",
       "companies": [
         "RGA"

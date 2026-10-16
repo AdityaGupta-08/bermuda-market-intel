@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 21 items
-Generated Fri 16 Oct 2026, 18:12 ADT
+Generated Fri 16 Oct 2026, 20:38 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 56 items
+- ✅ **Google News (16 of 16 companies)** — 55 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -36,6 +36,7 @@ Generated Fri 16 Oct 2026, 18:12 ADT
 
 ## RGA
 
+- **2026-10-16** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
 - **2026-10-15** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEROMHJzQTFEVnotcl9DWlM2eGhNX1h5cjZfc2FIcHRMQXJzNDY5ejBoVkUyZVZlOTFHbzE1dk11QkUzb29GUExuYnJaTDNXNkxjY1l1cFBTbm5reGVJM1JiV1lpYXpvWVljQWVHRlkwd1UzTDhjX0t4T0dLMXhRSzR2YTAwWEZxRzFncXNqZ0JkdC05ZFpEU2R2ck9Id1V3c2FrUlpuMFFUZXVGWGVPX29FeFZsaXlaWERJOWU4VDVuZDdkek5xM2ZZQl9iVEZERFFWd1NKbE4tUDNVZHFDTnZ5Vl9yQTJQaXZvQWJKTE0?oc=5)
 - **2026-10-14** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHNtT1RXSE5CZGtUYVBzZ09xVDFtdFVFQk1TMGtaUXBYNWdBeE5WdU1YU20tNzk5YktxRmtFVk1TQ0FTd1duRDFlREtxYXRuRVVVUWtOd1YydTZ6RTlMMkl5a3ZMR2cwTEsxS2hDYVdrcTVxR0tKSlJqbUQtNU9YbDZjRjR1N05GT1NoR1JLQQ?oc=5)
 - **2026-10-14** — Yahoo Finance — [Are Investors Undervaluing Reinsurance Group of America (RGA) Right Now?](https://news.google.com/rss/articles/CBMiswFBVV95cUxObW82WWhlYTQwckpSOFFkajNpc0tFVDk1SzY1cDlNZFJMdm5Xc01FNFZrMDRQRm9wOFJJanExVWV4bUlEX3VTZzE0NmRPdlJqZDlWYU03OXpJdDNjMXhVdGoxc2trODJIOUdsQWVtOXRqbTZrVGtPdjFyZHFTMmtfYnFpZHQydVFjTGdlbDkteEh0S1RmSzIwc2ZhWHJ6M2FHbGtOenhSWS14bDNibXAtZXFRTQ?oc=5)
@@ -46,7 +47,6 @@ Generated Fri 16 Oct 2026, 18:12 ADT
 - **2026-10-12** — Moomoo — [Wells Fargo Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $292](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2dGN01KY3Q2VDNoMFhLY2QzaUZxRlpuR29yYlJEWVp5M0xsdi1FT3JmbDhwekY1REF0RlkwejdpYXNxMmx1SzF2UmtMVG14aTVGZEJpS3RaMDR6NkZjRzRpR290ZnZFS0UtUkQ1cnAwRkk3LXp1SU5zQVVUZXIyYmZZYV85Z2UzaTlseVZmSkFZdmVubFg2cko3QW9wNEhyOGVqTU1YdDhCOVh6aXc?oc=5)
 - **2026-10-11** — Simply Wall Street — [Reinsurance Group Of America Could Be 8% Undervalued After Four Straight Earnings Beats](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVG5rN2RUQmV5ZmYtaUVuRVhlU01KREEwQ0dBZG5KRU9EV1NyQTRYV1hIZEhZMVlUdlBRQWFYY0tNV3hZaFhrYklrQkdITUZwZkF4cU9aZVJJdmZsUGR1VGFBblVpN2h1blBhdlR6WTVLYmhzcDdmWXBLeUExYTlJZnp6ZHJ0cmh6NE91dXFkM3VyaUpDbk9GNWZYRjU0WS1QNWx0Q0NmelZoSWZveWhfSkFYbkVtekRpRmZBZWZDTHBqbEZaUjRscmJnSk1jM0lIeDlMRDl5NDV4Tlk3U0HSAeMBQVVfeXFMTzYwQWo4alVoVE9ScFZPUEtKaW5FeUk5OGF6RmRCSnZtSUl1T2NBWVRfUHdoYk1kWUJHamV1V2NHYWtpMFlSM3pNR2h4QWFGSkhhc0c5ZnVvVV9XSHhOWi1zUWdDV25fM1RLLWdtdjN4eE1CZjFsRERtUE55RzlyNU5sSDVEeExlUHFHRWRaYVp3U3ZLSzV0TFFOQlZoTHhWbDFfMnFGdFRwZDNicXh1eXEybTJTSU9hT3AxRmQyRjZNeHN3dFh1UE9ZXzFPMzBCQ01VU3dWQUhWcU8wazFJbE45bVk?oc=5)
 - **2026-10-10** — Simply Wall Street — [Is Earnings Beat Streak Altering The Investment Case For RGA Stock?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjNBUHBvTjJxUXB2QlE4Si1FRk8zb19jXzVGSmdiNGVRaDlEaGZOdUd1NUJCUENSV1R5Zzk2bnRuUWczXzlpRElBbFc0TkkwNVMwaXNLUFJCMVVLY1NTZnhPQTlZVUhnNWhaMHQxMms2b0pwQ1diSXpLbnRZb3h3NjZoeng3UXEtZFdqbG1ieDdMOUN0aGpSVW9Ia09CcjJpOHFoSDlwWGZ1NW1OSGV0STJWVXpsUHRpdGEyTDNzSE00SVlvbDdnd0hrMTU1WU9RZWxldjVFbDBFcS1mWWfSAeMBQVVfeXFMTXpweVRKWGIyMWRaYkllUGJGQllBX01kWGFRLU9PRzQxbUtkZW9PTnZ4bFBhelZjUDlERnRvMFJQa3NzZ29LVjhlYm05V21WVEJPX0JlQng4VmdvSF9xMUNPQ0ttQ2RRMjJxbjNTczdueWY1LTh3V25BbW5yV01VbTduRTl0MUlUVzRmZ0lQZ2RtV2RrVXE5TmRHZTNMS2pyd2Q0bEpkN1U2MkduSURTbDMwLU1xQk94UDBJdXhjOURrOTMweHdRRWtOOUZnUmNzNXJwTkd0TERmbjFWOGhuZWtuUXM?oc=5)
-- **2026-10-09** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
 - **2026-10-09** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Sold by Douglas Lane & Associates LLC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnI1UVRLQWdOV1otQUJ4dnR3VVJMUXczQzNGaF9LQmQ5NTJUYjk5djY1WlhCYURucGFmRi1wVGhnSzhKRlRNOXUwRmpRNTZ5RllEeC0ySnNvM2hubGt3ekVRR0twVm5Ra3Z0RkxOeEFhckY5V3d4cXNHNHM5Zk55RWVsR2tLZFYzNjdIY3JETVNpZDZEQlNfVEFDRkdhWjNYV21mYm1naWJaRVFYdGhrQ1dQcWRVWTFRb1hySUlEcmNZY0t3ekJxUHRBekdBZnZYNlc0RWIzM3FTa24wWDdNZ2F1OA?oc=5)
 
 _No news in the window: Wilton Re, Fortitude Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Aspida, Kuvare, Sagicor, Catalina_

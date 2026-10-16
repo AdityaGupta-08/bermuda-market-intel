@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16T16:43:03.170963Z",
+  "updated": "2026-10-16T17:18:42.289128Z",
   "quarters": 12,
-  "parser_version": 1,
+  "parser_version": 2,
   "companies": [
     {
       "key": "athene",
@@ -9,7 +9,8 @@
       "owner": "Apollo",
       "cik": 1527469,
       "source": "Athene quarterly financial supplement (Form 8-K exhibit)",
-      "definition": "SRE: pre-tax operating earnings of the retirement business excluding market volatility and non-operating items, net of financing costs. Net investment spread: SRE divided by average net invested assets, annualized.",
+      "definition": "SRE: pre-tax operating earnings of the retirement business excluding market volatility and non-operating items, net of financing costs. Net spread: SRE as a percentage of average net invested assets, annualized; this is the figure Apollo quotes on its calls. Net investment spread: net investment earned rate plus strategic capital management fees, less total cost of funds (higher, as it is before operating and financing costs).",
+      "scope": "Apollo-owned; Bermuda: Athene Life Re and the ACRA / ADIP sidecars.",
       "metrics": {
         "earnings": {
           "label": "Spread related earnings (SRE)",
@@ -41,63 +42,150 @@
               "value": 712.0,
               "filed": "2025-08-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2024Q3",
               "value": 855.0,
               "filed": "2025-11-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2024Q4",
               "value": 838.0,
               "filed": "2026-02-19",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2025Q1",
               "value": 804.0,
               "filed": "2026-05-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2025Q2",
               "value": 820.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2025Q3",
               "value": 872.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2025Q4",
               "value": 865.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2026Q1",
               "value": 719.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2026Q2",
               "value": 877.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            }
+          ]
+        },
+        "net_spread": {
+          "label": "Net spread (SRE \u00f7 avg net invested assets)",
+          "unit": "pct",
+          "points": [
+            {
+              "quarter": "2024Q2",
+              "value": 1.24,
+              "filed": "2025-08-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q3",
+              "value": 1.44,
+              "filed": "2025-11-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q4",
+              "value": 1.37,
+              "filed": "2026-02-19",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q1",
+              "value": 1.26,
+              "filed": "2026-05-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q2",
+              "value": 1.22,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q3",
+              "value": 1.24,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q4",
+              "value": 1.2,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q1",
+              "value": 0.97,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q2",
+              "value": 1.14,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             }
           ]
         },
@@ -131,63 +219,72 @@
               "value": 1.64,
               "filed": "2025-08-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2024Q3",
               "value": 1.83,
               "filed": "2025-11-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2024Q4",
               "value": 1.79,
               "filed": "2026-02-19",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2025Q1",
               "value": 1.65,
               "filed": "2026-05-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2025Q2",
               "value": 1.58,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2025Q3",
               "value": 1.6,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2025Q4",
               "value": 1.58,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2026Q1",
               "value": 1.34,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             {
               "quarter": "2026Q2",
               "value": 1.47,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             }
           ]
         }
@@ -199,35 +296,35 @@
       "fallback_note": null,
       "_state": {
         "processed": {
-          "0001527469-26-000073": 1,
-          "0001527469-26-000069": 1,
-          "0001527469-26-000066": 1,
-          "0001527469-26-000063": 1,
-          "0001527469-26-000060": 1,
-          "0001527469-26-000057": 1,
-          "0001193125-26-333977": 1,
-          "0001527469-26-000047": 1,
-          "0001527469-26-000043": 1,
-          "0001527469-26-000039": 1,
-          "0001527469-26-000037": 1,
-          "0001527469-26-000034": 1,
-          "0001527469-26-000032": 1,
-          "0001527469-26-000030": 1,
-          "0001527469-26-000024": 1,
-          "0001527469-26-000018": 1,
-          "0001527469-26-000016": 1,
-          "0001527469-26-000010": 1,
-          "0001527469-26-000007": 1,
-          "0001527469-26-000004": 1,
-          "0001527469-26-000002": 1,
-          "0001527469-25-000085": 1,
-          "0001527469-25-000082": 1,
-          "0001527469-25-000080": 1,
-          "0001527469-25-000073": 1,
-          "0001527469-25-000070": 1,
-          "0001527469-25-000065": 1,
-          "0001527469-25-000062": 1,
-          "0001527469-25-000059": 1,
+          "0001527469-26-000073": 2,
+          "0001527469-26-000069": 2,
+          "0001527469-26-000066": 2,
+          "0001527469-26-000063": 2,
+          "0001527469-26-000060": 2,
+          "0001527469-26-000057": 2,
+          "0001193125-26-333977": 2,
+          "0001527469-26-000047": 2,
+          "0001527469-26-000043": 2,
+          "0001527469-26-000039": 2,
+          "0001527469-26-000037": 2,
+          "0001527469-26-000034": 2,
+          "0001527469-26-000032": 2,
+          "0001527469-26-000030": 2,
+          "0001527469-26-000024": 2,
+          "0001527469-26-000018": 2,
+          "0001527469-26-000016": 2,
+          "0001527469-26-000010": 2,
+          "0001527469-26-000007": 2,
+          "0001527469-26-000004": 2,
+          "0001527469-26-000002": 2,
+          "0001527469-25-000085": 2,
+          "0001527469-25-000082": 2,
+          "0001527469-25-000080": 2,
+          "0001527469-25-000073": 2,
+          "0001527469-25-000070": 2,
+          "0001527469-25-000065": 2,
+          "0001527469-25-000062": 2,
+          "0001527469-25-000059": 2,
           "0001527469-25-000053": 1,
           "0001527469-25-000050": 1,
           "0001527469-25-000047": 1,
@@ -288,55 +385,64 @@
               "value": 820.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2025Q3": {
               "value": 872.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2025Q4": {
               "value": 865.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2026Q1": {
               "value": 719.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2026Q2": {
               "value": 877.0,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2025Q1": {
               "value": 804.0,
               "filed": "2026-05-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm",
+              "source": "sec"
             },
             "2024Q4": {
               "value": 838.0,
               "filed": "2026-02-19",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm",
+              "source": "sec"
             },
             "2024Q3": {
               "value": 855.0,
               "filed": "2025-11-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm",
+              "source": "sec"
             },
             "2024Q2": {
               "value": 712.0,
               "filed": "2025-08-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm",
+              "source": "sec"
             },
             "2024Q1": {
               "value": 816.0,
@@ -386,55 +492,64 @@
               "value": 1.58,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2025Q3": {
               "value": 1.6,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2025Q4": {
               "value": 1.58,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2026Q1": {
               "value": 1.34,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2026Q2": {
               "value": 1.47,
               "filed": "2026-08-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
             },
             "2025Q1": {
               "value": 1.65,
               "filed": "2026-05-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm",
+              "source": "sec"
             },
             "2024Q4": {
               "value": 1.79,
               "filed": "2026-02-19",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm",
+              "source": "sec"
             },
             "2024Q3": {
               "value": 1.83,
               "filed": "2025-11-10",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm",
+              "source": "sec"
             },
             "2024Q2": {
               "value": 1.64,
               "filed": "2025-08-07",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm"
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm",
+              "source": "sec"
             },
             "2024Q1": {
               "value": 1.83,
@@ -478,6 +593,71 @@
               "form": "8-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746923000074/athq32023financialsuppleme.htm"
             }
+          },
+          "net_spread": {
+            "2025Q2": {
+              "value": 1.22,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2025Q3": {
+              "value": 1.24,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2025Q4": {
+              "value": 1.2,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2026Q1": {
+              "value": 0.97,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2026Q2": {
+              "value": 1.14,
+              "filed": "2026-08-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000057/athq22026financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2025Q1": {
+              "value": 1.26,
+              "filed": "2026-05-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000030/athq12026financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2024Q4": {
+              "value": 1.37,
+              "filed": "2026-02-19",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000010/athq42025financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2024Q3": {
+              "value": 1.44,
+              "filed": "2025-11-10",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000080/athq32025financialsuppleme.htm",
+              "source": "sec"
+            },
+            "2024Q2": {
+              "value": 1.24,
+              "filed": "2025-08-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/athq22025financialsuppleme.htm",
+              "source": "sec"
+            }
           }
         },
         "fallback_seen": {}
@@ -489,37 +669,236 @@
       "owner": "KKR",
       "cik": 1404912,
       "source": "KKR quarterly earnings release, Insurance segment (Form 8-K exhibit)",
-      "definition": "KKR's Insurance segment (Global Atlantic) operating earnings: net investment income less net cost of insurance and G&A, after tax and noncontrolling interests. KKR does not disclose a spread percentage.",
+      "definition": "KKR's Insurance segment (Global Atlantic) operating earnings: net investment income less net cost of insurance and general and administrative costs. Basis changes: KKR owned about 63% of Global Atlantic until 2 Jan 2024 and 100% after; from 2025 the measure is cash-based and excludes marks on investments. KKR does not disclose a spread percentage.",
+      "scope": "KKR-owned; Bermuda reinsurance entities and the Ivy sidecars.",
       "metrics": {
         "earnings": {
           "label": "Insurance operating earnings",
           "unit": "usd_m",
-          "points": []
+          "points": [
+            {
+              "quarter": "2022Q3",
+              "value": 68.84,
+              "filed": "2023-11-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491223000022/q323earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2023Q1",
+              "value": 205.11,
+              "filed": "2024-05-01",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491224000008/q124earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2023Q2",
+              "value": 170.22,
+              "filed": "2024-07-31",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491224000014/q224earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2023Q3",
+              "value": 210.03,
+              "filed": "2024-10-24",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491224000022/q324earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q1",
+              "value": 272.84,
+              "filed": "2025-05-01",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000019/q125earningsrelease_vg.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q2",
+              "value": 253.21,
+              "filed": "2025-07-31",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000025/q225earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q3",
+              "value": 238.52,
+              "filed": "2025-11-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000040/q325earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q1",
+              "value": 258.77,
+              "filed": "2026-05-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000011/q126earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q2",
+              "value": 277.93,
+              "filed": "2026-07-30",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000022/q226earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q3",
+              "value": 304.65,
+              "filed": "2025-11-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000040/q325earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q1",
+              "value": 260.33,
+              "filed": "2026-05-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000011/q126earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q2",
+              "value": 288.22,
+              "filed": "2026-07-30",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000022/q226earningsrelease_vf.htm",
+              "source": "sec"
+            }
+          ]
         }
       },
-      "status": "no_data",
+      "status": "ok",
       "note": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1404912",
       "fallback_source": null,
       "fallback_note": "KKR doesn't post call transcripts on its own site, and third-party transcript sites are paywalled or bar automated reading, so these figures come from SEC filings only.",
       "_state": {
         "processed": {
-          "0001404912-26-000022": 1,
-          "0001404912-26-000011": 1,
-          "0001404912-26-000002": 1,
-          "0001404912-25-000040": 1,
-          "0001404912-25-000025": 1,
-          "0001404912-25-000019": 1,
-          "0001404912-25-000003": 1,
-          "0001404912-24-000022": 1,
-          "0001404912-24-000014": 1,
-          "0001404912-24-000008": 1,
-          "0001404912-24-000002": 1,
-          "0001404912-23-000022": 1,
-          "0001404912-23-000017": 1,
-          "0001404912-23-000011": 1
+          "0001404912-26-000022": 2,
+          "0001404912-26-000011": 2,
+          "0001404912-26-000002": 2,
+          "0001404912-25-000040": 2,
+          "0001404912-25-000025": 2,
+          "0001404912-25-000019": 2,
+          "0001404912-25-000003": 2,
+          "0001404912-24-000022": 2,
+          "0001404912-24-000014": 2,
+          "0001404912-24-000008": 2,
+          "0001404912-24-000002": 2,
+          "0001404912-23-000022": 2,
+          "0001404912-23-000017": 2,
+          "0001404912-23-000011": 2
         },
-        "points": {},
+        "points": {
+          "earnings": {
+            "2025Q2": {
+              "value": 277.93,
+              "filed": "2026-07-30",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000022/q226earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2026Q2": {
+              "value": 288.22,
+              "filed": "2026-07-30",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000022/q226earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2025Q1": {
+              "value": 258.77,
+              "filed": "2026-05-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000011/q126earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2026Q1": {
+              "value": 260.33,
+              "filed": "2026-05-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000011/q126earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2024Q3": {
+              "value": 238.52,
+              "filed": "2025-11-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000040/q325earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2025Q3": {
+              "value": 304.65,
+              "filed": "2025-11-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000040/q325earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2024Q2": {
+              "value": 253.21,
+              "filed": "2025-07-31",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000025/q225earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2024Q1": {
+              "value": 272.84,
+              "filed": "2025-05-01",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000019/q125earningsrelease_vg.htm",
+              "source": "sec"
+            },
+            "2023Q3": {
+              "value": 210.03,
+              "filed": "2024-10-24",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491224000022/q324earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2023Q2": {
+              "value": 170.22,
+              "filed": "2024-07-31",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491224000014/q224earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2023Q1": {
+              "value": 205.11,
+              "filed": "2024-05-01",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491224000008/q124earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2022Q3": {
+              "value": 68.84,
+              "filed": "2023-11-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491223000022/q323earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2022Q2": {
+              "value": 80.61,
+              "filed": "2023-08-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491223000017/q223earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2022Q1": {
+              "value": 43.95,
+              "filed": "2023-05-08",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491223000011/q123earningsrelease_vf.htm",
+              "source": "sec"
+            }
+          }
+        },
         "fallback_seen": {}
       }
     },
@@ -530,55 +909,153 @@
       "cik": 1837429,
       "source": "Brookfield Wealth Solutions quarterly results (Form 6-K exhibit)",
       "definition": "Brookfield's distributable operating earnings across its annuity (incl. American Equity), P&C and life businesses. Not a spread-only measure; no consistent spread percentage is disclosed.",
+      "scope": "Brookfield; Bermuda reinsurance platform with American Equity, American National and Just Group.",
       "metrics": {
         "earnings": {
           "label": "Distributable operating earnings (DOE)",
           "unit": "usd_m",
-          "points": []
+          "points": [
+            {
+              "quarter": "2023Q3",
+              "value": 182.0,
+              "filed": "2024-11-15",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742924000027/bws-09302024x6kexhibit991.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2023Q4",
+              "value": 258.0,
+              "filed": "2025-02-13",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184325000795/exh_991.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q1",
+              "value": 279.0,
+              "filed": "2025-05-13",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000014/bws-03312025x6kexhibit991.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q2",
+              "value": 298.0,
+              "filed": "2025-08-12",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000019/bnt-20250630_d2.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q3",
+              "value": 370.0,
+              "filed": "2025-11-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000026/bws-09302025x6kexhibit991.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q4",
+              "value": 427.0,
+              "filed": "2026-02-12",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326000766/exh_991.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q1",
+              "value": 437.0,
+              "filed": "2026-05-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326003395/exh_991.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q2",
+              "value": 398.0,
+              "filed": "2026-08-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742926000018/bnt-20260630_d2.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q3",
+              "value": 427.0,
+              "filed": "2025-11-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000026/bws-09302025x6kexhibit991.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q4",
+              "value": 437.0,
+              "filed": "2026-02-12",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326000766/exh_991.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q1",
+              "value": 438.0,
+              "filed": "2026-05-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326003395/exh_991.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q2",
+              "value": 488.0,
+              "filed": "2026-08-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742926000018/bnt-20260630_d2.htm",
+              "source": "sec"
+            }
+          ]
         }
       },
-      "status": "no_data",
+      "status": "ok",
       "note": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1837429",
       "fallback_source": "BWS results release (bnt.brookfield.com)",
       "fallback_note": null,
       "_state": {
         "processed": {
-          "0001837429-26-000018": 1,
-          "0001171843-26-005475": 1,
-          "0001104659-26-084375": 1,
-          "0001104659-26-071030": 1,
-          "0001104659-26-066347": 1,
-          "0001837429-26-000012": 1,
-          "0001171843-26-003395": 1,
-          "0001104659-26-055597": 1,
-          "0001104659-26-054962": 1,
-          "0001171843-26-002336": 1,
-          "0001171843-26-002125": 1,
-          "0001171843-26-001924": 1,
-          "0001171843-26-000766": 1,
-          "0001837429-25-000026": 1,
-          "0001171843-25-007253": 1,
-          "0001171843-25-006381": 1,
-          "0001171843-25-006197": 1,
-          "0001171843-25-005970": 1,
-          "0001837429-25-000019": 1,
-          "0001171843-25-005149": 1,
-          "0001193125-25-169827": 1,
-          "0001104659-25-058305": 1,
-          "0001104659-25-049799": 1,
-          "0001837429-25-000014": 1,
-          "0001171843-25-002941": 1,
-          "0001193125-25-075823": 1,
-          "0001171843-25-001762": 1,
-          "0001171843-25-001402": 1,
-          "0001171843-25-001252": 1,
-          "0001171843-25-001179": 1,
-          "0001171843-25-000795": 1,
-          "0001193125-25-020861": 1,
-          "0001837429-24-000027": 1,
-          "0001171843-24-006359": 1,
-          "0001193125-24-248770": 1,
+          "0001837429-26-000018": 2,
+          "0001171843-26-005475": 2,
+          "0001104659-26-084375": 2,
+          "0001104659-26-071030": 2,
+          "0001104659-26-066347": 2,
+          "0001837429-26-000012": 2,
+          "0001171843-26-003395": 2,
+          "0001104659-26-055597": 2,
+          "0001104659-26-054962": 2,
+          "0001171843-26-002336": 2,
+          "0001171843-26-002125": 2,
+          "0001171843-26-001924": 2,
+          "0001171843-26-000766": 2,
+          "0001837429-25-000026": 2,
+          "0001171843-25-007253": 2,
+          "0001171843-25-006381": 2,
+          "0001171843-25-006197": 2,
+          "0001171843-25-005970": 2,
+          "0001837429-25-000019": 2,
+          "0001171843-25-005149": 2,
+          "0001193125-25-169827": 2,
+          "0001104659-25-058305": 2,
+          "0001104659-25-049799": 2,
+          "0001837429-25-000014": 2,
+          "0001171843-25-002941": 2,
+          "0001193125-25-075823": 2,
+          "0001171843-25-001762": 2,
+          "0001171843-25-001402": 2,
+          "0001171843-25-001252": 2,
+          "0001171843-25-001179": 2,
+          "0001171843-25-000795": 2,
+          "0001193125-25-020861": 2,
+          "0001837429-24-000027": 2,
+          "0001171843-24-006359": 2,
+          "0001193125-24-248770": 2,
           "0001193125-24-215174": 1,
           "0001837429-24-000021": 1,
           "0001193125-24-197902": 1,
@@ -620,7 +1097,94 @@
           "0001171843-23-003175": 1,
           "0001171843-23-002031": 1
         },
-        "points": {},
+        "points": {
+          "earnings": {
+            "2026Q2": {
+              "value": 488.0,
+              "filed": "2026-08-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742926000018/bnt-20260630_d2.htm",
+              "source": "sec"
+            },
+            "2025Q2": {
+              "value": 398.0,
+              "filed": "2026-08-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742926000018/bnt-20260630_d2.htm",
+              "source": "sec"
+            },
+            "2026Q1": {
+              "value": 438.0,
+              "filed": "2026-05-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326003395/exh_991.htm",
+              "source": "sec"
+            },
+            "2025Q1": {
+              "value": 437.0,
+              "filed": "2026-05-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326003395/exh_991.htm",
+              "source": "sec"
+            },
+            "2025Q4": {
+              "value": 437.0,
+              "filed": "2026-02-12",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326000766/exh_991.htm",
+              "source": "sec"
+            },
+            "2024Q4": {
+              "value": 427.0,
+              "filed": "2026-02-12",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326000766/exh_991.htm",
+              "source": "sec"
+            },
+            "2025Q3": {
+              "value": 427.0,
+              "filed": "2025-11-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000026/bws-09302025x6kexhibit991.htm",
+              "source": "sec"
+            },
+            "2024Q3": {
+              "value": 370.0,
+              "filed": "2025-11-14",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000026/bws-09302025x6kexhibit991.htm",
+              "source": "sec"
+            },
+            "2024Q2": {
+              "value": 298.0,
+              "filed": "2025-08-12",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000019/bnt-20250630_d2.htm",
+              "source": "sec"
+            },
+            "2024Q1": {
+              "value": 279.0,
+              "filed": "2025-05-13",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000014/bws-03312025x6kexhibit991.htm",
+              "source": "sec"
+            },
+            "2023Q4": {
+              "value": 258.0,
+              "filed": "2025-02-13",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184325000795/exh_991.htm",
+              "source": "sec"
+            },
+            "2023Q3": {
+              "value": 182.0,
+              "filed": "2024-11-15",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742924000027/bws-09302024x6kexhibit991.htm",
+              "source": "sec"
+            }
+          }
+        },
         "fallback_seen": {
           "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2026/q2/2026-q2-bws-press-release.pdf": 1,
           "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2026/q1/2026-q1-bws-press-release.pdf": 1,
@@ -635,6 +1199,697 @@
           "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2023/q4/2023-q4-bws-press-release.pdf": 1,
           "https://bnt.brookfield.com/sites/brookfield-bnt-v2/files/Brookfield-BN-IR-V2/2023/q3/2023-q3-bws-press-release.pdf": 1
         }
+      }
+    },
+    {
+      "key": "corebridge",
+      "name": "Corebridge Financial",
+      "owner": "Nippon Life stake; Blackstone & BlackRock mandates",
+      "cik": 1889539,
+      "source": "Corebridge quarterly earnings release, consolidated results (Form 8-K exhibit)",
+      "definition": "APTOI: company-wide operating income before tax (Individual and Group Retirement, Life, Institutional), excluding investment gains and losses, market-risk-benefit changes and the Fortitude Re funds-withheld results. Base spread income: base portfolio income less interest credited, excluding variable investment income; the spread line of the business.",
+      "scope": "Fortitude Re legacy reinsurance and its own Bermuda flow reinsurance (from 2024); merging with Equitable (all-stock, close expected by end-2026).",
+      "metrics": {
+        "earnings": {
+          "label": "Adjusted pre-tax operating income (APTOI)",
+          "unit": "usd_m",
+          "points": [
+            {
+              "quarter": "2023Q3",
+              "value": 813.0,
+              "filed": "2024-11-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000050/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2023Q4",
+              "value": 820.0,
+              "filed": "2025-02-12",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000010/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q1",
+              "value": 837.0,
+              "filed": "2025-05-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000026/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q2",
+              "value": 859.0,
+              "filed": "2025-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000050/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q3",
+              "value": 921.0,
+              "filed": "2025-11-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q4",
+              "value": 758.0,
+              "filed": "2026-02-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000017/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q1",
+              "value": 710.0,
+              "filed": "2026-05-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000109/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q2",
+              "value": 842.0,
+              "filed": "2026-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q3",
+              "value": 654.0,
+              "filed": "2025-11-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q4",
+              "value": 760.0,
+              "filed": "2026-02-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000017/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q1",
+              "value": 629.0,
+              "filed": "2026-05-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000109/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q2",
+              "value": 664.0,
+              "filed": "2026-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            }
+          ]
+        },
+        "base_spread": {
+          "label": "Base spread income",
+          "unit": "usd_m",
+          "points": [
+            {
+              "quarter": "2023Q3",
+              "value": 918.0,
+              "filed": "2024-11-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000050/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2023Q4",
+              "value": 987.0,
+              "filed": "2025-02-12",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000010/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q1",
+              "value": 1016.0,
+              "filed": "2025-05-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000026/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q2",
+              "value": 955.0,
+              "filed": "2025-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000050/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q3",
+              "value": 887.0,
+              "filed": "2025-11-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q4",
+              "value": 849.0,
+              "filed": "2026-02-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000017/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q1",
+              "value": 895.0,
+              "filed": "2026-05-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000109/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q2",
+              "value": 862.0,
+              "filed": "2026-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q3",
+              "value": 880.0,
+              "filed": "2025-11-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q4",
+              "value": 880.0,
+              "filed": "2026-02-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000017/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q1",
+              "value": 883.0,
+              "filed": "2026-05-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000109/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q2",
+              "value": 898.0,
+              "filed": "2026-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            }
+          ]
+        }
+      },
+      "status": "ok",
+      "note": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1889539",
+      "fallback_source": null,
+      "fallback_note": null,
+      "_state": {
+        "processed": {
+          "0001889539-26-000137": 2,
+          "0001889539-26-000109": 2,
+          "0001140361-26-014871": 2,
+          "0001889539-26-000017": 2,
+          "0001889539-25-000096": 2,
+          "0001889539-25-000050": 2,
+          "0001889539-25-000026": 2,
+          "0001889539-25-000010": 2,
+          "0001889539-24-000050": 2,
+          "0001889539-24-000027": 2,
+          "0001889539-24-000019": 2,
+          "0001889539-24-000003": 2,
+          "0001889539-23-000023": 2,
+          "0001889539-23-000016": 2,
+          "0001140361-23-023574": 2,
+          "0001140361-23-022946": 2
+        },
+        "points": {
+          "earnings": {
+            "2026Q2": {
+              "value": 664.0,
+              "filed": "2026-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2025Q2": {
+              "value": 842.0,
+              "filed": "2026-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2026Q1": {
+              "value": 629.0,
+              "filed": "2026-05-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000109/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2025Q1": {
+              "value": 710.0,
+              "filed": "2026-05-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000109/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2025Q4": {
+              "value": 760.0,
+              "filed": "2026-02-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000017/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2024Q4": {
+              "value": 758.0,
+              "filed": "2026-02-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000017/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2025Q3": {
+              "value": 654.0,
+              "filed": "2025-11-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2024Q3": {
+              "value": 921.0,
+              "filed": "2025-11-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2024Q2": {
+              "value": 859.0,
+              "filed": "2025-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000050/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2024Q1": {
+              "value": 837.0,
+              "filed": "2025-05-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000026/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2023Q4": {
+              "value": 820.0,
+              "filed": "2025-02-12",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000010/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2023Q3": {
+              "value": 813.0,
+              "filed": "2024-11-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000050/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2023Q2": {
+              "value": 836.0,
+              "filed": "2024-07-31",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000027/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2023Q1": {
+              "value": 724.0,
+              "filed": "2024-05-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000019/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2022Q4": {
+              "value": 704.0,
+              "filed": "2024-02-15",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000003/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2022Q2": {
+              "value": 611.0,
+              "filed": "2023-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953923000016/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            }
+          },
+          "base_spread": {
+            "2026Q2": {
+              "value": 898.0,
+              "filed": "2026-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2025Q2": {
+              "value": 862.0,
+              "filed": "2026-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2026Q1": {
+              "value": 883.0,
+              "filed": "2026-05-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000109/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2025Q1": {
+              "value": 895.0,
+              "filed": "2026-05-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000109/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2025Q4": {
+              "value": 880.0,
+              "filed": "2026-02-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000017/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2024Q4": {
+              "value": 849.0,
+              "filed": "2026-02-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000017/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2025Q3": {
+              "value": 880.0,
+              "filed": "2025-11-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2024Q3": {
+              "value": 887.0,
+              "filed": "2025-11-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2024Q2": {
+              "value": 955.0,
+              "filed": "2025-08-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000050/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2024Q1": {
+              "value": 1016.0,
+              "filed": "2025-05-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000026/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2023Q4": {
+              "value": 987.0,
+              "filed": "2025-02-12",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000010/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2023Q3": {
+              "value": 918.0,
+              "filed": "2024-11-04",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000050/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2023Q2": {
+              "value": 924.0,
+              "filed": "2024-07-31",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000027/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            }
+          }
+        },
+        "fallback_seen": {}
+      }
+    },
+    {
+      "key": "fg",
+      "name": "F&G Annuities & Life",
+      "owner": "FNF (about 70%); Blackstone manages assets",
+      "cik": 1934850,
+      "source": "F&G quarterly earnings release (Form 8-K exhibit)",
+      "definition": "Adjusted net earnings attributable to common shareholders: net earnings excluding mark-to-market effects and other significant items. After tax; not a spread measure.",
+      "scope": "Blackstone asset-management partner; F&G Life Re (Bermuda) sold to Ancient effective 1 Mar 2026; Fort Green Re (Cayman) sidecar since Aug 2025.",
+      "metrics": {
+        "earnings": {
+          "label": "Adjusted net earnings (ANE)",
+          "unit": "usd_m",
+          "points": [
+            {
+              "quarter": "2023Q2",
+              "value": 79.0,
+              "filed": "2023-08-08",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485023000054/a2q23fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2023Q3",
+              "value": 120.0,
+              "filed": "2023-11-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485023000065/a3q23fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2023Q4",
+              "value": 143.0,
+              "filed": "2025-02-20",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000006/a4q24fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q1",
+              "value": 108.0,
+              "filed": "2024-05-08",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485024000023/a1q24fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q2",
+              "value": 139.0,
+              "filed": "2024-08-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485024000040/a2q24fgearningsrelease_0.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q3",
+              "value": 156.0,
+              "filed": "2024-11-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485024000051/a3q24fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2024Q4",
+              "value": 123.0,
+              "filed": "2026-02-19",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485026000021/a4q25fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q1",
+              "value": 91.0,
+              "filed": "2025-05-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000018/a1q25fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q2",
+              "value": 103.0,
+              "filed": "2025-08-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000039/a2q25fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2025Q3",
+              "value": 165.0,
+              "filed": "2025-11-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000061/a3q25fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q1",
+              "value": 110.0,
+              "filed": "2026-05-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485026000053/a1q26fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q2",
+              "value": 85.0,
+              "filed": "2026-08-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485026000081/a2q26fgearningsrelease_f.htm",
+              "source": "sec"
+            }
+          ]
+        }
+      },
+      "status": "ok",
+      "note": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1934850",
+      "fallback_source": null,
+      "fallback_note": null,
+      "_state": {
+        "processed": {
+          "0001934850-26-000095": 2,
+          "0001934850-26-000081": 2,
+          "0001934850-26-000077": 2,
+          "0001934850-26-000053": 2,
+          "0001934850-26-000021": 2,
+          "0001934850-25-000061": 2,
+          "0001934850-25-000039": 2,
+          "0001934850-25-000018": 2,
+          "0001934850-25-000006": 2,
+          "0001934850-24-000051": 2,
+          "0001934850-24-000040": 2,
+          "0001934850-24-000023": 2,
+          "0001934850-24-000014": 2,
+          "0001934850-23-000065": 2,
+          "0001934850-23-000054": 2,
+          "0001934850-23-000037": 2
+        },
+        "points": {
+          "earnings": {
+            "2026Q2": {
+              "value": 85.0,
+              "filed": "2026-08-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485026000081/a2q26fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2026Q1": {
+              "value": 110.0,
+              "filed": "2026-05-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485026000053/a1q26fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2024Q4": {
+              "value": 123.0,
+              "filed": "2026-02-19",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485026000021/a4q25fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2025Q3": {
+              "value": 165.0,
+              "filed": "2025-11-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000061/a3q25fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2025Q2": {
+              "value": 103.0,
+              "filed": "2025-08-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000039/a2q25fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2025Q1": {
+              "value": 91.0,
+              "filed": "2025-05-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000018/a1q25fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2023Q4": {
+              "value": 143.0,
+              "filed": "2025-02-20",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000006/a4q24fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2024Q3": {
+              "value": 156.0,
+              "filed": "2024-11-06",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485024000051/a3q24fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2024Q2": {
+              "value": 139.0,
+              "filed": "2024-08-05",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485024000040/a2q24fgearningsrelease_0.htm",
+              "source": "sec"
+            },
+            "2024Q1": {
+              "value": 108.0,
+              "filed": "2024-05-08",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485024000023/a1q24fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2022Q4": {
+              "value": 75.0,
+              "filed": "2024-02-21",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485024000014/a4q23fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2023Q3": {
+              "value": 120.0,
+              "filed": "2023-11-07",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485023000065/a3q23fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2023Q2": {
+              "value": 79.0,
+              "filed": "2023-08-08",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485023000054/a2q23fgearningsrelease_f.htm",
+              "source": "sec"
+            },
+            "2023Q1": {
+              "value": 49.0,
+              "filed": "2023-05-03",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485023000037/a1q23fgearningsrelease_f.htm",
+              "source": "sec"
+            }
+          }
+        },
+        "fallback_seen": {}
       }
     }
   ],

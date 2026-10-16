@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:43:07Z",
+  "updated": "2026-10-16T17:18:46Z",
   "naic": [
     {
       "id": "cb21fa3406cc",
@@ -152,6 +152,16 @@
       "isNew": false
     },
     {
+      "id": "a972fa55b62c",
+      "title": "NAIC considers redefining mortgage loans",
+      "date": "2026-09-24",
+      "cat": "General",
+      "summary": "",
+      "source": "Asset Securitization Report",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlRQLWVZUC1VYzlqY19wckc2LWdOTU1xWm1YcExHUmJpRHNFYUNjSUctQ2FvMFBhYWxweHhXX0puMTNJeTZIUHprd3YwWWhGYU5MMm1sVTIxSWRoRlpSZGR6X2tLel92RERFODRrV2VTV1FYSGtKVDFmMVliY0FUUGNjMTNad1JQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "9dcffecf88f0",
       "title": "NAIC Letter Details Proactive State Oversight of Evolving Insurance Landscape",
       "date": "2026-09-24",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFRrYU5rd09DREJzUU5yeWpGTUc1Rlo4aWFaai16LWV0dTdFdXR5cWhEQXZ5cW5UUW43Z1dhMHFRYnl1Wnp6QWNQUW54UGV4bGhwMU9tQ2l3cHJKVVg2dkgybS16dVN1clFMMHVWR3BERHMxM2FoMnBTTXNpd2hBYmRYYkxpb3BCdmZpVnFLY3pLT3VWSFQzdWRGZDFockRX?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "bb44b8c96a9c",
-      "title": "AHA urges NAIC to adopt broader healthcare affordability framework",
-      "date": "2026-09-01",
-      "cat": "General",
-      "summary": "",
-      "source": "American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTc5TlJEdGxoTXVqaEljMHUwOU9RTFdXMlgySF9zcVZlM2RFOFpBaW5FamZueExPcm9nMW5NU0VMbXYzRDZCbVdkblVKZHdnRFlyVnNlQ3JxNW9hRFRRZndnd1F2MWZGd1lfMVVDQ19abDJYVXg2QzN5ZFpUZkZRSjRMcXgyV2VIc0VXZVgtaVR3TUxiMVU1dXlHZ1ROZG9FZHhUenNNeWpfVi0w?oc=5",
       "isNew": false
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:43:10Z",
+  "updated": "2026-10-16T17:18:49Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -213,7 +213,7 @@
       "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "source": "Pensions & Investments",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Athene",
       "date": "2026-10-13T13:00:00Z",
       "summary": "",
       "companies": [

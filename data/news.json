@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:43:07Z",
+  "updated": "2026-10-16T17:18:46Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "0599c85ef6aa",
+      "title": "Walter\u2019s insurers skirted capital rules with \u2018rolling\u2019 loophole",
+      "source": "Crain's Chicago Business",
+      "date": "2026-10-16T15:22:00Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3pLeEpyVFI4aFp2bmw2bzFGV3FZRm5KV19ITFhIdU9rT3Y4RWRoRVI1VF94cDFibzR6dzNjTUE1a1Y4RDNoZ1A1RUVVLXFRY3ZUWEpNUFhuaDVzTkN6MVZtSHRHNm1waTNTUlBoaXQ5SERsTm9PWlVjN0xFWnFqbWNoTXBZeTJrclllMDNyc3NoTEd4enF1RHpwR1pObWUxY2oyRDBrajZFZTVtVEE?oc=5",
+      "isNew": false
+    },
     {
       "id": "4dc7911088c0",
       "title": "Private credit faces deployment squeeze as fundraising hits record",
@@ -295,16 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE1sT2taWUJXMDF4bnFWZ1drM2VHdElSSVBlOUhkNjVHMDEwN3czV0xQUXBOcFNHZjV1a0lwcUhHOXk3VjRTTGVhMXRXYk02bTl4R3RLN2U5RXVvaHNuc3JTdF9RSGJ6OFN3VFl4ZUh4Q2ZUM3ZPYlBmaEdhclNzbU96YXpDa182S1ZCUWVn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4af4f1fb19cb",
-      "title": "SageSure Makes Strategic Investment in Leading Insurance-Linked Securities Fund Manager Pillar Capital Management",
-      "source": "Yahoo Finance",
-      "date": "2026-10-09T19:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUt0SUFsMHluT3laV3ZZV3NFRWtLanA2UHFhS3FqR0tZV1Y0MjVaQkxxS2N5VHBzTk5WaGxEWWg5bFRRMm9qY3ZWc1lKeDBOSkZEdHRUVDg0RmpCRi14QlhCSUdvREVUSW5FQmV1VFphQkx5SGtIZFpISm1hRGtHVWdUNExiaWc3SEhDS09ieTJlczhkZ1E0ZE1iZGN6cFAtLVdnTkI3c29RZ3l5?oc=5",
       "isNew": false
     }
   ]

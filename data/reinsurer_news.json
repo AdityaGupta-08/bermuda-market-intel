@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T04:29:43Z",
+  "updated": "2026-10-17T10:48:27Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -10,99 +10,99 @@
     },
     {
       "name": "Google News: Aspida",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Athene",
-      "ok": true,
-      "count": 9,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Catalina",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Fortitude Re",
-      "ok": true,
-      "count": 7,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Global Atlantic",
-      "ok": true,
-      "count": 7,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Kuvare",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Martello Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Monument Re",
-      "ok": true,
-      "count": 1,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Prismic Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: RGA",
-      "ok": true,
-      "count": 17,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Resolution Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Sagicor",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Somerset Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Talcott",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Venerable",
-      "ok": true,
-      "count": 3,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Wilton Re",
-      "ok": true,
-      "count": 1,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Reinsurance News",

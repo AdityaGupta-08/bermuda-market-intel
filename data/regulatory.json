@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T23:38:37Z",
+  "updated": "2026-10-17T04:29:40Z",
   "naic": [
     {
       "id": "cb21fa3406cc",
@@ -147,7 +147,7 @@
       "date": "2026-09-25",
       "cat": "General",
       "summary": "",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWR6a2k2NzgtRHBIeU5odmtHVFpfWmZSN0J2aWFfZ2NybEpBd3RRVDVmMGVnSmVxakhTSXRiX1E4WVlFb0pXSkxvZUh0d0NrUjB3QV9WaVB0cXRkcy14Y3pPeWdXMDU5bElmWENyelhJcFlkdFpjc1hQS1BicllNZy1rdlZJS2VLakM0WlZ3cFJGTjc4VVJ6MjdXS3Y0OFVGdGExd242UVhfNEtSLTM1OXBsUQ?oc=5",
       "isNew": false
     },
@@ -202,6 +202,16 @@
       "isNew": false
     },
     {
+      "id": "a52470f83b73",
+      "title": "Warren presses insurance regulators for answers on private credit ties as Walter probe widens",
+      "date": "2026-09-11",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSHpHV05NaFhoTTAxOVNkMFBBTVNBVGpCU2hCMEo3Q0lObzd0ZkJjOGpOSU9ocmc5cW5xRmZidHVqREpYOGdQcmhzbUdBZk51b1pJUWwyVHdJVE5JN3puUV9BckwyLW1EUDFRcjhVOVlRTjRsdDM0bE9mRFF6VVh2QnB3SndJaGYtbUx5TGJIcURIVmpFLVN2MEE4c1F5MlBhcExxb2FUdUZ1ZUwzN0pfenVBMEF5S2RUbFc5NFRrUk4wdTJhQzFFVUJ6YnFSbDdOdGZsaGlLcXRlX0FYQkVKQV9ob2laQjExQ2YtTzVLVW1zWTlLVE5F?oc=5",
+      "isNew": false
+    },
+    {
       "id": "6b4416d0ab31",
       "title": "NAIC to make insurers show AI use in claims and models",
       "date": "2026-09-11",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQm1rbXZMUzBQV2ZFWkpFbGFEdmU0SS1oaWV2MTNmdkZ2aTJqWEVNR2k0QkJEbXlWUkZpLVc5ZE1PS0hZSTBjSU1TU1hTalhuX21EM3JkV1hPbGRmMFVhbWtvQ2ptV2J6QVpncm1Gbm10Vlp3RTNwWEdjdDlaSVZYM3M3R19DNElZVGllRFFiY0F2TDV3SFZ5OFBwVVJzWTk1dVh3SEJWdzkydzlFWTFv?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c8ede7636f68",
-      "title": "NAIC meeting a collaborative success",
-      "date": "2026-09-03",
-      "cat": "General",
-      "summary": "",
-      "source": "InsuranceNewsNet",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFRrYU5rd09DREJzUU5yeWpGTUc1Rlo4aWFaai16LWV0dTdFdXR5cWhEQXZ5cW5UUW43Z1dhMHFRYnl1Wnp6QWNQUW54UGV4bGhwMU9tQ2l3cHJKVVg2dkgybS16dVN1clFMMHVWR3BERHMxM2FoMnBTTXNpd2hBYmRYYkxpb3BCdmZpVnFLY3pLT3VWSFQzdWRGZDFockRX?oc=5",
       "isNew": false
     }
   ],

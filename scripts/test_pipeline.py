@@ -420,13 +420,39 @@ class CdsTests(Base):
 
 
 class MygaTests(Base):
-    def test_no_quotes_reports_stale(self):
+    def run_myga(self, html, prev=None, min_rows=None):
         import fetch_myga as fm
-        with mock.patch.object(fm, "_recent_enough", return_value=(False, {"status": "ok"})), \
-             mock.patch.object(fm, "load_ust", return_value=(["5Y"], [4.0], days_back(1))), \
-             mock.patch.object(fm, "fetch_term", return_value=([], "u")), \
-             mock.patch.object(fm.time, "sleep", lambda s: None):
-            self.assertTrue(fm.fetch_myga().startswith("stale: no quotes parsed"))
+        out = self.data / "myga_spreads.json"
+        with mock.patch.object(fm, "OUT", out), \
+             mock.patch.object(fm, "_recent_enough", return_value=(False, prev)), \
+             mock.patch.object(fm, "load_ust", return_value=(["5Y", "7Y"], [4.0, 4.2], days_back(1))), \
+             mock.patch.object(fm, "fetch_market", return_value=html), \
+             mock.patch.object(fm, "MIN_MARKET_ROWS", min_rows or fm.MIN_MARKET_ROWS), \
+             mock.patch.object(fm, "STATE", "FL"):
+            status = fm.fetch_myga()
+        return status, (json.loads(out.read_text()) if out.exists() else None)
+
+    def test_no_quotes_reports_stale(self):
+        status, written = self.run_myga("<table></table>", prev={"status": "ok"})
+        self.assertTrue(status.startswith("stale: no quotes parsed"))
+        self.assertIsNone(written)  # previous file left untouched
+
+    def test_top_slice_is_not_taken_for_the_market(self):
+        import fetch_myga as fm
+        status, written = self.run_myga(fm.FIXTURE_HTML)  # 10 rows, under the full-market floor
+        self.assertIn("not the full market", status)
+        self.assertEqual(written["status"], "unavailable")
+
+    def test_full_market_writes_derived_spreads_only(self):
+        import fetch_myga as fm
+        status, d = self.run_myga(fm.FIXTURE_HTML, min_rows=5)
+        self.assertIsNone(status)
+        self.assertEqual(d["status"], "ok")
+        self.assertEqual((d["quote_count"], d["product_count"], d["market_count"]), (5, 6, 10))
+        # A+ 5y: the carrier's best FL product, 5.60% over a 4.00% Treasury.
+        self.assertEqual(d["buckets"]["aplus"]["terms"]["5"]["median_bp"], 160.0)
+        blob = json.dumps(d["buckets"]) + json.dumps(d["overall"])
+        self.assertNotRegex(blob, r"Redacted|Mutual|Simple Co|Life")
 
 
 class SourceHealthTests(unittest.TestCase):

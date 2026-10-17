@@ -6,6 +6,32 @@ spread a policyholder can actually reinvest at, over the matched-maturity
 Treasury — and until now that spread was a hardcoded calibration constant.
 This turns it into an observed market statistic.
 
+SOURCE
+------
+My Annuity Store's rate marketplace (rates from AnnuityRateWatch, updated
+daily). The page server-renders only the 25 highest rates; its "Show all
+products" button pulls the full market — every MYGA, one table row each —
+from a public JSON endpoint, and this reads that same endpoint. Each row
+carries its terms as data attributes: guarantee term, AM Best rating, the
+states it is sold in, premium bands with the rate for each, and whether the
+rate is simple interest.
+
+The top-25 slice is never used as a fallback: it is the top of the market by
+construction, so its "median" would overstate every bucket. Fewer than
+MIN_MARKET_ROWS rows means something changed, and the fetcher reports stale
+rather than publish a skewed spread.
+
+FROM ROWS TO QUOTES
+-------------------
+- Only products sold in STATE that take a PREMIUM deposit, at the rate that
+  deposit earns (banded products pay more on larger deposits).
+- Simple-interest rates are converted to the compound annual yield with the
+  same maturity value; 7.00% simple over 5 years is about 6.19% compounded.
+  Comparing them at face value would flatter those products by 50-90bp.
+- One quote per carrier and term, the carrier's best: the median then
+  describes the typical carrier, not whichever carrier files the most
+  product variants (rider, MVA and state versions of one contract).
+
 WHAT IS STORED, AND WHY IT IS ONLY THIS
 ---------------------------------------
 Carrier names and individual quotes are NEVER written to disk. The output
@@ -21,9 +47,9 @@ be exactly — and only — what the model consumes.
 POLITENESS
 ----------
 The pipeline runs every three hours; MYGA rates move on carrier pricing
-committees, not intraday. This fetcher no-ops unless the existing file is
-older than MIN_REFRESH_HOURS, and sleeps between term requests. Set
-MYGA_FETCH=off to disable it entirely.
+committees, not intraday. This fetcher makes one request, and no-ops unless
+the existing file is older than MIN_REFRESH_HOURS. Set MYGA_FETCH=off to
+disable it entirely.
 
 Self-test (no network):  python scripts/fetch_myga.py --selftest
 """
@@ -33,10 +59,10 @@ import logging
 import os
 import re
 import sys
-import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timedelta
+from html import unescape
 from statistics import median
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -46,11 +72,16 @@ logging.basicConfig(level=logging.INFO, format="%(message)s")
 log = logging.getLogger("fetch")
 
 OUT = DATA / "myga_spreads.json"
-BASE_URL = "https://www.stantheannuityman.com/myga-quote"
+PAGE_URL = "https://myannuitystore.com/annuity-rates/marketplace/"
+MARKET_URL = "https://myannuitystore.com/wp-json/mas/v1/rate-rows"
+SOURCE = "My Annuity Store"
+SOURCE_LABEL = "My Annuity Store rate marketplace (AnnuityRateWatch data)"
+FEEDS = "MYGA new-money spreads by rating"
 TERMS = [3, 5, 7, 10]
 STATE = os.environ.get("MYGA_STATE", "FL").upper()
+PREMIUM = 100_000          # matches the calculator's default account value
 MIN_REFRESH_HOURS = 20
-REQUEST_GAP_SECONDS = 3
+MIN_MARKET_ROWS = 100      # the full market is ~650 products; the top slice is 25
 
 # AM Best scale collapsed to the buckets the model actually distinguishes.
 # The point of the bucketing is to price the credit-quality tradeoff the
@@ -63,11 +94,6 @@ BUCKETS = [
 ]
 BUCKET_OF = {r: key for key, _label, ratings in BUCKETS for r in ratings}
 LABEL_OF = {key: label for key, label, _ in BUCKETS}
-
-RATE_KEYS = ("effectiveyield", "effectiveannualyield", "annualyield", "yield",
-             "rate", "creditedrate", "apy", "effectiverate")
-RATING_KEYS = ("ambest", "ambestrating", "rating", "carrierrating", "bestrating")
-TERM_KEYS = ("years", "term", "termyears", "guaranteeperiod", "duration")
 
 
 # ── Treasury benchmark ────────────────────────────────────────────
@@ -105,15 +131,6 @@ def load_ust():
 
 
 # ── Parsing ───────────────────────────────────────────────────────
-# The site is almost certainly a JS app, and its internal shape is not a
-# contract. Rather than bind to one selector, walk whatever JSON the page
-# carries and pick out dicts that look like a quote — a rate-ish key next to
-# a rating-ish key. That survives most re-skins, and when it stops working it
-# returns nothing rather than something wrong.
-
-def _norm_key(k):
-    return re.sub(r"[^a-z]", "", str(k).lower())
-
 
 def _to_rate(v):
     """'5.35%' | '5.35' | 5.35 → 5.35. Rejects anything outside a sane band."""
@@ -155,79 +172,89 @@ def _to_term(v):
     return n if 1 <= n <= 20 else None
 
 
-def harvest_quotes(node, default_term=None, _depth=0):
-    """Recursively pull {rate, rating, term} triples out of arbitrary JSON."""
-    found = []
-    if _depth > 12:
-        return found
-    if isinstance(node, list):
-        for item in node:
-            found += harvest_quotes(item, default_term, _depth + 1)
-        return found
-    if not isinstance(node, dict):
-        return found
-
-    keys = {_norm_key(k): k for k in node}
-    rate_k = next((keys[k] for k in RATE_KEYS if k in keys), None)
-    rating_k = next((keys[k] for k in RATING_KEYS if k in keys), None)
-    term_k = next((keys[k] for k in TERM_KEYS if k in keys), None)
-
-    if rate_k and rating_k:
-        rate = _to_rate(node[rate_k])
-        rating = _to_rating(node[rating_k])
-        term = _to_term(node[term_k]) if term_k else default_term
-        if rate is not None and rating and term:
-            found.append({"rate": rate, "rating": rating, "term": term})
-
-    for v in node.values():
-        if isinstance(v, (dict, list)):
-            found += harvest_quotes(v, default_term, _depth + 1)
-    return found
+_ROW = re.compile(r"<tr\b([^>]*)>", re.I)
+_ATTR = re.compile(r'([a-z][\w-]*)\s*=\s*"([^"]*)"', re.I)
 
 
-def extract_json_blobs(html):
-    """Every JSON payload embedded in the page, in likely-usefulness order."""
-    blobs = []
-    for pat in (
-        r'<script[^>]+id="__NEXT_DATA__"[^>]*>(.*?)</script>',
-        r'<script[^>]+type="application/json"[^>]*>(.*?)</script>',
-        r'window\.__INITIAL_STATE__\s*=\s*({.*?})\s*;?\s*</script>',
-        r'window\.__NUXT__\s*=\s*({.*?})\s*;?\s*</script>',
-    ):
-        for m in re.finditer(pat, html, re.S | re.I):
+def market_rows(html):
+    """Attributes of every product row (rows carrying data-term), unescaped."""
+    rows = []
+    for m in _ROW.finditer(html or ""):
+        attrs = {k.lower(): unescape(v) for k, v in _ATTR.findall(m.group(1))}
+        if "data-term" in attrs:
+            rows.append(attrs)
+    return rows
+
+
+def rate_at_premium(row, premium):
+    """Rate a `premium` deposit earns, or None if the product won't take it."""
+    try:
+        bands = json.loads(row.get("data-bands") or "[]")
+    except ValueError:
+        bands = []
+    if bands:
+        for b in bands:
             try:
-                blobs.append(json.loads(m.group(1)))
-            except Exception:
-                pass
-    return blobs
+                if float(b["min"]) <= premium <= float(b["max"]):
+                    return _to_rate(b["rate"])
+            except (KeyError, TypeError, ValueError):
+                continue
+        return None
+    try:
+        if float(row.get("data-overallmin") or 0) > premium:
+            return None
+    except ValueError:
+        pass
+    return _to_rate(row.get("data-highrate", ""))
 
 
-def parse_html_table(html, default_term):
-    """Last resort: server-rendered rows carrying a rating and a percentage."""
-    out = []
-    for row in re.findall(r"<tr[^>]*>(.*?)</tr>", html, re.S | re.I):
-        text = re.sub(r"<[^>]+>", " ", row)
-        rating = _to_rating(text)
-        m = re.search(r"(\d+\.\d+)\s*%", text)
-        if rating and m:
-            rate = _to_rate(m.group(1))
-            if rate is not None:
-                out.append({"rate": rate, "rating": rating, "term": default_term})
-    return out
+def compound_equivalent(simple_pct, years):
+    """Simple-interest rate → compound annual yield with the same maturity value."""
+    return ((1 + simple_pct / 100 * years) ** (1 / years) - 1) * 100
 
 
-def fetch_term(term, state, timeout=20):
-    url = f"{BASE_URL}?state={state}&years={term}"
-    req = urllib.request.Request(url, headers=HDR)
+def _is_simple(row):
+    flag = row.get("data-simple")
+    if flag is not None:
+        return flag.strip() == "1"
+    return "simple interest" in row.get("data-product", "").lower()
+
+
+def parse_market(rows, state=STATE, premium=PREMIUM, terms=TERMS):
+    """Product rows → (one quote per carrier and term, products considered).
+
+    Carrier names are used here only to collapse a carrier's variants into
+    its best rate; they do not leave this function.
+    """
+    best, products = {}, 0
+    for i, row in enumerate(rows):
+        term = _to_term(row.get("data-term", ""))
+        rating = _to_rating(row.get("data-rating", ""))
+        if term not in terms or not rating:
+            continue
+        states = {s.strip().upper() for s in row.get("data-states", "").split(",") if s.strip()}
+        if state and state not in states:
+            continue
+        rate = rate_at_premium(row, premium)
+        if rate is None:
+            continue
+        if _is_simple(row):
+            rate = compound_equivalent(rate, term)
+        products += 1
+        carrier = (row.get("data-carrier") or "").strip().lower() or f"row{i}"
+        key = (carrier, term)
+        if key not in best or rate > best[key]["rate"]:
+            best[key] = {"rate": round(rate, 4), "rating": rating, "term": term}
+    return list(best.values()), products
+
+
+def fetch_market(timeout=45):
+    req = urllib.request.Request(MARKET_URL, headers={**HDR, "Accept": "application/json"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        html = r.read().decode("utf-8", errors="replace")
-    quotes = []
-    for blob in extract_json_blobs(html):
-        quotes += harvest_quotes(blob, default_term=term)
-    if not quotes:
-        quotes = parse_html_table(html, default_term=term)
-    # A term page can carry adjacent terms; keep only what was asked for.
-    return [q for q in quotes if q["term"] == term], url
+        payload = json.loads(r.read().decode("utf-8", errors="replace"))
+    if not isinstance(payload, dict) or not payload.get("ok") or not isinstance(payload.get("html"), str):
+        raise ValueError("unexpected response shape")
+    return payload["html"]
 
 
 # ── Aggregation ───────────────────────────────────────────────────
@@ -285,10 +312,15 @@ def aggregate(quotes, ust_tenors, ust_yields):
 def _recent_enough():
     try:
         prev = json.loads(OUT.read_text())
-        ts = datetime.strptime(prev["_fetched"][:19], "%Y-%m-%dT%H:%M:%S")
-        return datetime.utcnow() - ts < timedelta(hours=MIN_REFRESH_HOURS), prev
     except Exception:
         return False, None
+    try:
+        ts = datetime.strptime(prev["_fetched"][:19], "%Y-%m-%dT%H:%M:%S")
+        fresh = datetime.utcnow() - ts < timedelta(hours=MIN_REFRESH_HOURS)
+        # Only a good file earns the skip; a placeholder retries next run.
+        return fresh and prev.get("status") == "ok", prev
+    except Exception:
+        return False, prev
 
 
 def write_out(obj):
@@ -299,77 +331,105 @@ def write_out(obj):
 def fetch_myga():
     if os.environ.get("MYGA_FETCH", "on").lower() in ("off", "0", "false", "no"):
         log.info("  MYGA: disabled via MYGA_FETCH")
-        record_source("Stan The Annuity Man", feeds="MYGA new-money spreads by rating",
-                      ok=False, fallback="cache", note="disabled via MYGA_FETCH")
+        record_source(SOURCE, feeds=FEEDS, ok=False, fallback="cache", note="disabled via MYGA_FETCH")
         return
 
     fresh, prev = _recent_enough()
     if fresh:
         log.info(f"  MYGA: cached copy is under {MIN_REFRESH_HOURS}h old, skipping fetch")
-        record_source("Stan The Annuity Man", feeds="MYGA new-money spreads by rating",
-                      ok=True, note=f"cached (<{MIN_REFRESH_HOURS}h); rates move weekly at most")
+        record_source(SOURCE, feeds=FEEDS, ok=True,
+                      note=f"cached (<{MIN_REFRESH_HOURS}h); rates move weekly at most")
         return
 
     tenors, yields, ust_date = load_ust()
     if not tenors:
-        record_source("Stan The Annuity Man", feeds="MYGA new-money spreads by rating",
-                      ok=False, fallback="cache", note="no UST curve to spread against")
+        record_source(SOURCE, feeds=FEEDS, ok=False, fallback="cache", note="no UST curve to spread against")
         raise RuntimeError("ust.json unavailable; cannot derive spreads")
 
-    all_quotes, errors, url = [], [], None
-    for i, term in enumerate(TERMS):
-        try:
-            quotes, url = fetch_term(term, STATE)
-            log.info(f"  MYGA {STATE} {term}y: {len(quotes)} quotes parsed")
-            all_quotes += quotes
-        except urllib.error.HTTPError as e:
-            errors.append(f"{term}y HTTP {e.code}")
-            log.warning(f"  MYGA {STATE} {term}y: HTTP {e.code}")
-        except Exception as e:
-            errors.append(f"{term}y {e}")
-            log.warning(f"  MYGA {STATE} {term}y: {e}")
-        if i < len(TERMS) - 1:
-            time.sleep(REQUEST_GAP_SECONDS)
+    rows, quotes, products, problem = [], [], 0, None
+    try:
+        rows = market_rows(fetch_market())
+        if len(rows) < MIN_MARKET_ROWS:
+            problem = f"only {len(rows)} product rows, not the full market"
+        else:
+            quotes, products = parse_market(rows, STATE, PREMIUM, TERMS)
+    except urllib.error.HTTPError as e:
+        problem = f"HTTP {e.code}"
+    except Exception as e:
+        problem = f"{type(e).__name__}: {e}"
+    log.info(f"  MYGA: {len(rows)} products in the market, {products} sold in {STATE} at "
+             f"${PREMIUM:,} for {TERMS}y, {len(quotes)} carrier quotes")
 
-    if not all_quotes:
-        note = "no quotes parsed" + (f" ({'; '.join(errors[:3])})" if errors else
-                                     " — page shape changed or content is client-rendered")
+    if not quotes:
+        note = "no quotes parsed" + (f" ({problem})" if problem else
+                                     f" (no {STATE} products at ${PREMIUM:,} in the market rows)")
         log.warning(f"  MYGA: {note}; leaving previous file untouched")
-        record_source("Stan The Annuity Man", feeds="MYGA new-money spreads by rating",
-                      ok=False, fallback="cache" if prev else "static_default", note=note)
+        record_source(SOURCE, feeds=FEEDS, ok=False,
+                      fallback="cache" if prev else "static_default", note=note)
         if prev is None:
             write_out({
                 "date": datetime.utcnow().strftime("%Y-%m-%d"),
-                "state": STATE, "source": "Stan The Annuity Man — MYGA quote tool",
-                "url": f"{BASE_URL}?state={STATE}&years=5",
+                "state": STATE, "source": SOURCE_LABEL, "url": PAGE_URL,
                 "status": "unavailable", "note": note,
                 "buckets": {}, "overall": {},
             })
         return f"stale: {note}"
 
-    buckets, overall = aggregate(all_quotes, tenors, yields)
+    buckets, overall = aggregate(quotes, tenors, yields)
     write_out({
         "date": datetime.utcnow().strftime("%Y-%m-%d"),
         "state": STATE,
-        "source": "Stan The Annuity Man — MYGA quote tool",
-        "url": f"{BASE_URL}?state={STATE}&years=5",
+        "premium": PREMIUM,
+        "source": SOURCE_LABEL,
+        "url": PAGE_URL,
         "status": "ok",
         "ust_date": ust_date,
         "terms": TERMS,
-        "quote_count": len(all_quotes),
-        "note": ("Derived statistics only. Spreads are each carrier's effective annual yield "
-                 "less the matched-maturity Treasury, aggregated by AM Best bucket. No carrier "
-                 "names or individual quotes are stored or published."),
+        "quote_count": len(quotes),
+        "product_count": products,
+        "market_count": len(rows),
+        "note": (f"Derived statistics only. Each carrier's best MYGA rate per term for a ${PREMIUM:,} "
+                 f"deposit in {STATE} (simple-interest rates converted to compound), less the "
+                 "matched-maturity Treasury, aggregated by AM Best bucket. No carrier names or "
+                 "individual quotes are stored or published."),
         "buckets": buckets,
         "overall": overall,
     })
-    log.info(f"  myga_spreads.json written ({len(all_quotes)} quotes, "
+    log.info(f"  myga_spreads.json written ({len(quotes)} carrier quotes from {products} products, "
              f"{len(buckets)} rating buckets, state {STATE})")
-    record_source("Stan The Annuity Man", feeds="MYGA new-money spreads by rating",
-                  ok=True, note=f"{len(all_quotes)} quotes across {len(TERMS)} terms, state {STATE}")
+    record_source(SOURCE, feeds=FEEDS, ok=True,
+                  note=f"{len(quotes)} carrier quotes from {products} products, state {STATE}")
 
 
 # ── Self-test (no network) ────────────────────────────────────────
+
+def _fixture_row(term, rating, states, carrier, product, bands, simple=False, overallmin=None):
+    """A product row in the marketplace's own markup (attributes HTML-escaped)."""
+    bands_json = json.dumps([{"min": lo, "max": hi, "rate": r} for lo, hi, r in bands]).replace('"', "&quot;")
+    rates = [r for _, _, r in bands]
+    return (f'<tr\n  data-term="{term}"\n  data-rating="{rating}"\n  data-states="{states}" data-wy1="0%" '
+            f'data-carrier="{carrier}" data-highrate="{max(rates)}" data-lowrate="{min(rates)}" '
+            f'data-banding="{int(len(bands) > 1)}" data-overallmin="{overallmin or bands[0][0]}" '
+            f'data-bands="{bands_json}" data-product="{product}" data-simple="{int(simple)}">'
+            f'<td class="mrt-td mrt-td-cp"><span class="mrt-td-co">{carrier}</span>'
+            f'<span class="mrt-td-pr">{product}</span></td>'
+            f'<td class="mrt-td mrt-td-rt"><span class="mrt-rate">{max(rates):.2f}%</span></td></tr>')
+
+
+FIXTURE_HTML = "".join([
+    "<tr><th>Compare</th><th>Company &amp; Product Name</th></tr>",          # header row: ignored
+    _fixture_row(5, "A+", "AL,FL,TX", "Redacted Life", "Plain 5", [(10000, 1000000, 5.60)]),
+    _fixture_row(5, "A+", "AL,FL,TX", "Redacted Life", "Plain 5 with rider", [(10000, 1000000, 5.40)]),
+    _fixture_row(5, "A+", "CA", "Redacted Life", "Plain 5 (CA)", [(10000, 1000000, 5.90)]),
+    _fixture_row(5, "A-", "FL,GA", "Banded Mutual", "Tiered 5", [(5000, 99999, 6.00), (100000, 1000000, 6.35)]),
+    _fixture_row(5, "A-", "FL", "Simple Co", "Simple 5 (Simple Interest)", [(5000, 1000000, 7.00)], simple=True),
+    _fixture_row(5, "A", "FL", "Jumbo Life", "Jumbo 5", [(250000, 2000000, 6.80)]),
+    _fixture_row(5, "B-", "FL", "Weak Life", "Weak 5", [(5000, 1000000, 6.45)]),
+    _fixture_row(4, "A", "FL", "Odd Term Life", "Four", [(5000, 1000000, 5.50)]),
+    _fixture_row(7, "NR", "FL", "Unrated Life", "Seven", [(5000, 1000000, 6.90)]),
+    _fixture_row(7, "A", "AK,FL", "Redacted Life", "Plain 7", [(10000, 1000000, 5.80)]),
+])
+
 
 def selftest():
     ok = fails = 0
@@ -402,30 +462,51 @@ def selftest():
     check("A- not read as A", _to_rating("A-") == "A-", _to_rating("A-"), "A-")
     check("no rating", _to_rating("n/a") is None, _to_rating("n/a"), None)
     check("N/A uppercase", _to_rating("N/A") is None, _to_rating("N/A"), None)
+    check("NR is no rating", _to_rating("NR") is None, _to_rating("NR"), None)
     check("A++ not truncated", _to_rating("A++ (Superior)") == "A++", _to_rating("A++ (Superior)"), "A++")
     check("prefix text ignored", _to_rating("AM Best A-") == "A-", _to_rating("AM Best A-"), "A-")
     check("bare A still works", _to_rating("A") == "A", _to_rating("A"), "A")
     check("B++ parsed", _to_rating("B++") == "B++", _to_rating("B++"), "B++")
 
-    print("\nquote harvesting from arbitrary JSON")
-    payload = {"props": {"pageProps": {"results": [
-        {"carrierName": "Redacted Life", "amBestRating": "A+", "effectiveYield": "5.60%", "years": 5},
-        {"carrierName": "Other Mutual", "rating": "A-", "rate": 5.95, "term": 5},
-        {"nested": {"deep": [{"ambest": "A", "annualYield": "5.40%", "termYears": 5}]}},
-        {"carrierName": "No Rating Co", "effectiveYield": "9.99%", "years": 5},
-    ]}}}
-    q = harvest_quotes(payload)
-    check("finds quotes at any depth", len(q) == 3, len(q), 3)
-    check("drops rows without a rating", all(x["rating"] for x in q), q, "all rated")
-    check("carries the term through", all(x["term"] == 5 for x in q), q, "term 5")
-    check("empty input is safe", harvest_quotes({}) == [] and harvest_quotes(None) == [], None, [])
+    print("\nsimple interest")
+    ce = compound_equivalent(7.00, 5)
+    check("7.00% simple over 5y ≈ 6.19% compound (the site's own figure)", round(ce, 2) == 6.19, ce, 6.19)
+    ce7 = compound_equivalent(7.10, 7)
+    check("7.10% simple over 7y ≈ 5.93%", round(ce7, 2) == 5.93, ce7, 5.93)
+    check("one year: simple = compound", abs(compound_equivalent(5.0, 1) - 5.0) < 1e-9, None, 5.0)
 
-    print("\nHTML fallback")
-    html = ("<table><tr><td>Some Carrier</td><td>A+</td><td>5.60%</td></tr>"
-            "<tr><td>Another</td><td>A-</td><td>5.95%</td></tr>"
-            "<tr><td>Header</td><td>Rating</td><td>Yield</td></tr></table>")
-    rows = parse_html_table(html, default_term=5)
-    check("parses server-rendered rows", len(rows) == 2, len(rows), 2)
+    print("\nmarket rows")
+    rows = market_rows(FIXTURE_HTML)
+    check("product rows only (header skipped)", len(rows) == 10, len(rows), 10)
+    check("attributes unescaped (bands JSON readable)", json.loads(rows[3]["data-bands"])[1]["rate"] == 6.35,
+          rows[3].get("data-bands"), "6.35 in band 2")
+    check("newlines inside the tag tolerated", rows[0]["data-rating"] == "A+", rows[0].get("data-rating"), "A+")
+    check("banded: $100k earns the upper band", rate_at_premium(rows[3], 100_000) == 6.35,
+          rate_at_premium(rows[3], 100_000), 6.35)
+    check("banded: $50k earns the lower band", rate_at_premium(rows[3], 50_000) == 6.00,
+          rate_at_premium(rows[3], 50_000), 6.00)
+    check("deposit below the minimum: not offered", rate_at_premium(rows[5], 100_000) is None,
+          rate_at_premium(rows[5], 100_000), None)
+    unbanded = {"data-highrate": "5.75", "data-overallmin": "10000"}
+    check("no bands: falls back to the headline rate", rate_at_premium(unbanded, 100_000) == 5.75,
+          rate_at_premium(unbanded, 100_000), 5.75)
+    check("no bands, minimum above deposit: not offered",
+          rate_at_premium({**unbanded, "data-overallmin": "250000"}, 100_000) is None, None, None)
+
+    quotes, products = parse_market(rows, "FL", 100_000, [3, 5, 7, 10])
+    by = {(q["rating"], q["term"]): q["rate"] for q in quotes}
+    check("CA-only variant excluded for FL", 5.90 not in by.values(), by, "no 5.90")
+    check("a carrier's variants collapse to its best rate", by.get(("A+", 5)) == 5.60, by.get(("A+", 5)), 5.60)
+    am5 = sorted(q["rate"] for q in quotes if (q["rating"], q["term"]) == ("A-", 5))
+    check("simple interest converted before comparing", am5 == [6.1859, 6.35], am5,
+          "[6.1859 compound, 6.35 banded] (not 7.00 simple)")
+    check("off-list term dropped", all(q["term"] != 4 for q in quotes), quotes, "no 4y")
+    check("unrated dropped", ("A", 7) in by and len([q for q in quotes if q["term"] == 7]) == 1, quotes, "only A 7y")
+    check("one quote per carrier and term", len(quotes) == 5, len(quotes), 5)
+    check("products counted after state/size filters", products == 6, products, 6)
+    q_any, _ = parse_market(rows, "", 100_000, [5])
+    check("no state filter: CA variant still collapses into its carrier",
+          {(q["rating"], q["rate"]) for q in q_any} >= {("A+", 5.90)} and len(q_any) == 4, q_any, "4 carriers")
 
     print("\naggregation — the step that discards carrier identity")
     quotes = [
@@ -450,6 +531,10 @@ def selftest():
     check("no carrier identity survives aggregation",
           "carrier" not in blob.lower() and "Life" not in blob, None, "clean")
     check("no raw rates survive either", "5.6" not in blob and "6.1" not in blob, None, "spreads only")
+    fb, fo = aggregate(parse_market(market_rows(FIXTURE_HTML), "FL", 100_000, TERMS)[0], t, y)
+    fblob = json.dumps({"buckets": fb, "overall": fo})
+    check("end to end from market rows: no names", not re.search(r"Redacted|Mutual|Simple Co|Life", fblob),
+          fblob[:200], "clean")
 
     print("\nno-curve guard")
     b2, o2 = aggregate(quotes, None, None)

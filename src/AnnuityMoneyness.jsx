@@ -476,7 +476,7 @@ export default function AnnuityMoneynessSection({ ust, credit, myga, loading, er
                           const on = mygaBucket === rb.key;
                           return (
                             <button key={rb.key} disabled={!nQ} onClick={() => setMygaBucket(rb.key)}
-                              title={nQ ? `${nQ} quotes observed` : "no quotes observed in this bucket"}
+                              title={nQ ? `${nQ} carrier quotes observed` : "no quotes observed in this bucket"}
                               style={{
                                 background: on ? "#22d3ee1f" : "transparent",
                                 border: `1px solid ${on ? "#22d3ee" : "#2a2d35"}`, borderRadius: 6,
@@ -537,11 +537,13 @@ export default function AnnuityMoneynessSection({ ust, credit, myga, loading, er
                   </div>
 
                   <div style={{ marginTop: 9, fontSize: 11, color: "#475569", lineHeight: 1.5 }}>
-                    {myga.quote_count} quotes · state {myga.state} · {myga.date}
+                    {myga.quote_count} carrier quotes{myga.product_count ? ` from ${myga.product_count} products` : ""}
+                    {" · "}{myga.state}{myga.premium ? ` · $${Math.round(myga.premium / 1000)}k deposit` : ""} · {myga.date}
                     {" · "}<a href={myga.url} target="_blank" rel="noopener noreferrer" style={{ color: "#60a5fa", textDecoration: "none" }}>
                       {myga.source} <ExternalLink size={10} style={{ verticalAlign: "middle" }} />
                     </a>
                     <div style={{ marginTop: 3 }}>
+                      Each carrier&rsquo;s best rate per term, simple-interest rates converted to compound.
                       Derived spreads only — carrier names and individual quotes are never stored or published.
                     </div>
                   </div>

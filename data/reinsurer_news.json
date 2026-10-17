@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T10:48:27Z",
+  "updated": "2026-10-17T15:38:23Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -10,99 +10,99 @@
     },
     {
       "name": "Google News: Aspida",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Athene",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 9,
+      "error": null
     },
     {
       "name": "Google News: Catalina",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Fortitude Re",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 7,
+      "error": null
     },
     {
       "name": "Google News: Global Atlantic",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 7,
+      "error": null
     },
     {
       "name": "Google News: Kuvare",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Martello Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Monument Re",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Google News: Prismic Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: RGA",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 17,
+      "error": null
     },
     {
       "name": "Google News: Resolution Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Sagicor",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Somerset Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Talcott",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 10,
+      "error": null
     },
     {
       "name": "Google News: Venerable",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 4,
+      "error": null
     },
     {
       "name": "Google News: Wilton Re",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Reinsurance News",
@@ -118,7 +118,7 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
       "source": "Yahoo Finance Australia",
       "feed": "Google News: RGA",
-      "date": "2026-10-16T12:16:15Z",
+      "date": "2026-10-16T14:44:30Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -131,6 +131,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-15T15:51:05Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "53a46545e2b1",
+      "title": "J.P. Morgan Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $297",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNU1BVE1RQlY0c212OFg5Mk95ZHZlWUg5NzFjdk9RcXpueHRITGVuaE84T3ZvVUFDN0x2d2VHZEpQRFRMSzA2YWhfTm5lTkhKai1NWmtHVkFhM2hqdFg0a0VocWUtMi12YjR2aDdfUWdFcDA0MlhHYUdjZnIxaHlOLUhYakdPd2t1Mm94djhVRVpUcldiaElsTU9xWVU4NVAyanRPLXgydGIzbUE?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News: RGA",
+      "date": "2026-10-15T12:34:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -225,7 +237,7 @@
       "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "source": "Pensions & Investments",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Athene",
       "date": "2026-10-13T13:00:00Z",
       "summary": "",
       "companies": [

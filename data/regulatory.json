@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T10:47:59Z",
+  "updated": "2026-10-17T15:38:20Z",
   "naic": [
     {
       "id": "cb21fa3406cc",
@@ -152,16 +152,6 @@
       "isNew": false
     },
     {
-      "id": "a972fa55b62c",
-      "title": "NAIC considers redefining mortgage loans",
-      "date": "2026-09-24",
-      "cat": "General",
-      "summary": "",
-      "source": "Asset Securitization Report",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlRQLWVZUC1VYzlqY19wckc2LWdOTU1xWm1YcExHUmJpRHNFYUNjSUctQ2FvMFBhYWxweHhXX0puMTNJeTZIUHprd3YwWWhGYU5MMm1sVTIxSWRoRlpSZGR6X2tLel92RERFODRrV2VTV1FYSGtKVDFmMVliY0FUUGNjMTNad1JQ?oc=5",
-      "isNew": false
-    },
-    {
       "id": "9dcffecf88f0",
       "title": "NAIC Letter Details Proactive State Oversight of Evolving Insurance Landscape",
       "date": "2026-09-24",
@@ -169,6 +159,16 @@
       "summary": "",
       "source": "Morningstar",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWJMVGZGbkRtbFBJYlpRU1hyS09DSnBpQ1N3b2RGc2t2dlIyYzhNcTZlZEpfWktqbnQ4U3U0VG1TNXZEVWpuM3ctWlBzV2pCeEl3a3QyNzlDb0U1Ykc0Sy0yZE13UXB3UkNvWGRPV0hkZ0s5SWl6OEtRZmp3NzV2bXhGZFRuTlBnWWZGY3Jka3U5T1A4dnRENU82SEg5Wm9xWmwtOWZ1UDJpTzhvbFJwZGVGNUpmcFhRbE9ubUY5V1ZJOWRxZmhORzVUVlNOZC0yeGk1Wg?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "a972fa55b62c",
+      "title": "NAIC considers redefining mortgage loans",
+      "date": "2026-09-23",
+      "cat": "General",
+      "summary": "",
+      "source": "Asset Securitization Report",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlRQLWVZUC1VYzlqY19wckc2LWdOTU1xWm1YcExHUmJpRHNFYUNjSUctQ2FvMFBhYWxweHhXX0puMTNJeTZIUHprd3YwWWhGYU5MMm1sVTIxSWRoRlpSZGR6X2tLel92RERFODRrV2VTV1FYSGtKVDFmMVliY0FUUGNjMTNad1JQ?oc=5",
       "isNew": false
     },
     {
@@ -523,6 +523,16 @@
       "summary": "",
       "source": "Cayman Compass",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWZjbnpQU052ZXFyRG5tUVYzYlJZVkVTQngyZU5wS2xfNlQyZU9nNDl6a0s5VUxvdnJXdFh6bzVHUHdpTDJZZ0o3d1N6akJYSkZsdVNtUlpvLVRTSVhKNGJsenhvVkhEUVFucnNKak1YS1NYZkM2dC0xeWNYUXpVTks3NEZNQQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "4c91980eada9",
+      "title": "Appointment Notice - CIMA+ ANNOUNCES THE APPOINTMENT OF DENNIS BURNS AS MARKET LEADER, PORTS AND MARINE",
+      "date": "2026-10-01",
+      "cat": "General",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMEpiSWZxQzlqTjlDX2ZMVUI5d2JudnhxZEc1dkllUW9jLU8yYUEtbnpDSkJzN3h0b3NSZWVqaUhzUHllNHpDdGczTElFSmJOQ0wyeHB0ZUVMdlVVRnJBeFVNd1NoV2ZBTFB3M1lLdUprVVFlWVV1WFBOcGJzbXZ2TF8wRWRBcmlnRXhUT2RaNGZzVmFfeTJKMEFGT0ZUaDh3V0NUNjdNT0ZWa1ppU04w?oc=5",
       "isNew": false
     },
     {

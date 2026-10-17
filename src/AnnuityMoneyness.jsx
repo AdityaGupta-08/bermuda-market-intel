@@ -61,6 +61,11 @@ const usd = v =>
     ? "$" + Math.round(v).toLocaleString("en-US")
     : "—";
 const yrs = v => (v != null && isFinite(v) ? v.toFixed(1) + "y" : "—");
+// Signed $k axis label; one decimal under $10k so nearby ticks don't round to the same label.
+const fmtSignedK = v => {
+  const k = Math.abs(v) / 1000;
+  return (v > 0 ? "+" : v < 0 ? "−" : "") + "$" + (k < 10 && k % 1 ? k.toFixed(1) : Math.round(k)) + "k";
+};
 
 // ── Small controls ──
 
@@ -782,7 +787,7 @@ export default function AnnuityMoneynessSection({ ust, credit, myga, loading, er
                   <XAxis dataKey="label" tick={{ fill: "#94a3b8", fontSize: 11 }} axisLine={{ stroke: "#1e2028" }} tickLine={false}
                     label={{ value: "Exit year — bars are relative to holding to maturity", position: "insideBottom", offset: -2, fill: "#475569", fontSize: 11 }} />
                   <YAxis tick={{ fill: "#94a3b8", fontSize: 11 }} axisLine={{ stroke: "#1e2028" }} tickLine={false}
-                    width={82} tickFormatter={v => (v > 0 ? "+" : v < 0 ? "−" : "") + "$" + Math.abs(Math.round(v / 1000)) + "k"} />
+                    width={82} tickFormatter={fmtSignedK} />
                   <Tooltip cursor={{ fill: "#ffffff08" }}
                     contentStyle={{ background: "#1e2028", border: "1px solid #334155", borderRadius: 6, fontSize: 12 }}
                     labelStyle={{ color: "#f1f5f9", fontWeight: 700 }}
@@ -965,7 +970,7 @@ export default function AnnuityMoneynessSection({ ust, credit, myga, loading, er
         {currentLapse && (
           <div style={{ padding: "6px 20px 16px", display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(180px, 1fr))", gap: 12 }}>
             <Stat label="Rate gap today" value={bp(currentGap * 100)} ink={currentGap > 0 ? OTM_INK : ITM_INK}
-              sub={`competitor ${pct(marketRate)} vs credited ${pct(g)}`} />
+              sub={`${bench?.short || "market"} ${pct(marketRate)} vs credited ${pct(g)}`} />
             <Stat label="Excess lapse" value={currentLapse.excess.toFixed(1) + "pp"} ink={currentLapse.excess > 0 ? OTM_INK : "#94a3b8"}
               sub={currentLapse.excess === 0 ? "contract is in the money — no dynamic add-on" : `damped by the ${sc}% surrender charge`} />
             <Stat label="Projected total lapse" value={currentLapse.total.toFixed(1) + "%"} ink="#f1f5f9"

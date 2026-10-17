@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T20:39:10Z",
+  "updated": "2026-10-17T23:10:09Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 18,
+      "count": 19,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
       "source": "Yahoo Finance Australia",
       "feed": "Google News: RGA",
-      "date": "2026-10-16T20:14:54Z",
+      "date": "2026-10-16T22:32:29Z",
       "summary": "",
       "companies": [
         "RGA"

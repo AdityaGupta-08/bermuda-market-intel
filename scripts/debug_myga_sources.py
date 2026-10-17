@@ -1,19 +1,17 @@
 #!/usr/bin/env python3
-"""TEMPORARY diagnostic (removed before merge): table layout of the My Annuity
-Store rate pages, so the MYGA fetcher can parse them."""
+"""TEMPORARY diagnostic (removed before merge): how My Annuity Store's
+marketplace loads the full market behind the server-rendered top 25."""
 import re
 import sys
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from fetchlib import HDR  # noqa: E402
 
-PAGES = [
-    "https://myannuitystore.com/annuity-rates/marketplace/",
-    "https://myannuitystore.com/annuity-rates/fixed-annuity-rates/",
-    "https://myannuitystore.com/annuity-rates/fixed-annuity-rates/5-year/",
-]
+PAGE = "https://myannuitystore.com/annuity-rates/marketplace/"
+PATTERNS = r"admin-ajax|wp-json|fetch\(|XMLHttpRequest|\$\.(?:ajax|post|get)|action\s*[:=]|nonce|loadFull|load_full|fullMarket|full_market|mrtLoad|mrt_load|\.json"
 
 
 def get(url):
@@ -22,28 +20,37 @@ def get(url):
         return r.read().decode("utf-8", errors="replace")
 
 
-def text(h):
-    return " ".join(re.sub(r"<[^>]+>", " ", h).split())
+def snippets(src, label, limit=25):
+    seen = 0
+    for m in re.finditer(PATTERNS, src, re.I):
+        a, b = max(0, m.start() - 220), m.end() + 320
+        print(f"  [{label}] …{' '.join(src[a:b].split())}…")
+        seen += 1
+        if seen >= limit:
+            break
 
 
-for url in PAGES:
-    print(f"\n=== {url}")
-    try:
-        html = get(url)
-    except Exception as e:
-        print(f"  ERROR {e}")
+html = get(PAGE)
+print(f"page bytes {len(html)}")
+for m in re.finditer(r"Load the full market", html):
+    print("  BUTTON:", " ".join(html[max(0, m.start() - 900):m.end() + 600].split()))
+    break
+for m in re.finditer(r"<(?:div|section|form)[^>]*\bmrt[^>]*>", html):
+    print("  CONTAINER:", m.group(0)[:400])
+srcs = re.findall(r"<script[^>]+src=[\"']([^\"']+)", html)
+print("SCRIPTS:", srcs)
+for i, body in enumerate(re.findall(r"<script\b[^>]*>(.*?)</script>", html, re.S | re.I)):
+    if re.search(r"mrt|market|rates", body, re.I) and len(body) > 40:
+        print(f"INLINE {i} len={len(body)} head={' '.join(body[:300].split())!r}")
+        snippets(body, f"inline{i}")
+for s in srcs:
+    url = urllib.parse.urljoin(PAGE, s)
+    if "myannuitystore.com" not in url or not re.search(r"mrt|market|rate|theme|main|app|custom", url, re.I):
         continue
-    for ti, tbl in enumerate(re.findall(r"<table\b(.*?)</table>", html, re.S | re.I)):
-        attrs = re.match(r"([^>]*)>", tbl).group(1)[:200]
-        rows = re.findall(r"<tr\b([^>]*)>(.*?)</tr>", tbl, re.S | re.I)
-        print(f"  TABLE {ti} attrs={attrs!r} rows={len(rows)}")
-        for ri, (rattrs, r) in enumerate(rows[:6] + rows[-2:]):
-            cells = re.findall(r"<t([hd])\b([^>]*)>(.*?)</t[hd]>", r, re.S | re.I)
-            print(f"    r{ri} rowattrs={rattrs[:160]!r}")
-            print(f"       cells={[ (k, text(c)[:60]) for k, a, c in cells]}")
-            if ri == 1:
-                print(f"       raw={r[:1200]!r}")
-    for pat in (r"Showing[^<]{0,80}", r"of \d+ (?:products|results|annuities)", r"Load more", r"data-page", r"page/2", r"\?pg=", r"Rates updated[^<]{0,80}"):
-        hits = re.findall(pat, html, re.I)[:3]
-        if hits:
-            print(f"  {pat}: {hits}")
+    try:
+        js = get(url)
+    except Exception as e:
+        print(f"  {url}: ERROR {e}")
+        continue
+    print(f"EXTERNAL {url} len={len(js)}")
+    snippets(js, url.rsplit('/', 1)[-1][:40])

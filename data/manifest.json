@@ -11,8 +11,8 @@
     "bma_rates": "stale: latest workbook 2026-03-31, expected 2026-06-30",
     "commodities": "ok",
     "inflation": "ok",
-    "myga": "stale: no quotes parsed \u2014 page shape changed or content is client-rendered"
+    "myga": "ok"
   },
-  "run": "2026-10-18T11:08:32.367284Z",
-  "_fetched": "2026-10-18T11:08:39.932792Z"
+  "run": "2026-10-18T14:50:02.761019Z",
+  "_fetched": "2026-10-18T14:50:11.697477Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T11:08:55Z",
+  "updated": "2026-10-18T14:50:27Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -113,18 +113,6 @@
   ],
   "items": [
     {
-      "id": "64bdca379950",
-      "title": "Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
-      "source": "Yahoo Finance Australia",
-      "feed": "Google News: RGA",
-      "date": "2026-10-18T10:33:36Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "48052574ff22",
       "title": "Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5",
@@ -155,6 +143,18 @@
       "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
       "date": "2026-10-17T05:06:05Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "64bdca379950",
+      "title": "Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News: RGA",
+      "date": "2026-10-16T14:02:41Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -261,7 +261,7 @@
       "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "source": "Pensions & Investments",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Athene",
       "date": "2026-10-13T13:00:00Z",
       "summary": "",
       "companies": [
@@ -334,7 +334,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjVuZGVKSnhudndIcWNObUh6RXVzUFBhaVRYQWlLZFpkWmNOMVUwbzZnN3dZODIwNmdTMWlXN3h2ZkNrUk1lMV8yWnFWQTFFTlRPd1ljLVJRRHhJUVh2OXVhYS1mUFBQU3BianFHckFOdC1KZUVSWXl1b3lfaGRCUlM5QUpqaEUyWFFCR0xKZEdFaUhrV2ttNG1PemlSbHVOUlFBRW5weGRuUGM?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-10-09T12:15:02Z",
+      "date": "2026-10-09T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1226,18 +1226,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "3b0a9d5a7361",
-      "title": "Aspida Life Re appoints Brian Lewis as CFO in Bermuda By Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3BsQThGREpyN21pWGU4dGhOMVBrOUdycURiNVFmeS10Z0tBVE5ISmFWQXcyLXNQcks1Y0dJdVNVMEdjSWdJQWNXY01zdFQ4bFlWZFZUdnpmZ0ZqbWh6TDFsY3pHQklQOGhyTEhjdEE4UnhyOWZiQjFKZHhVb1RSWG90dUlnYnNtWjM2dzlFMnhGUE1fSHAwX01wSUJrdWpHSUNWM1BkQkZUVTlqSjE3SmpZSHQ?oc=5",
-      "source": "Investing.com India",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-09-03T13:38:31Z",
-      "summary": "",
-      "companies": [
-        "Aspida"
       ]
     }
   ]

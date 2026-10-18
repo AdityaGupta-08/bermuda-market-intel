@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 22 items
-Generated Sun 18 Oct 2026, 12:54 ADT
+Generated Sun 18 Oct 2026, 17:46 ADT
 
 ## Feed status
 
@@ -25,7 +25,7 @@ Generated Sun 18 Oct 2026, 12:54 ADT
 
 ## Talcott
 
-- **2026-10-14** — Stocktwits — [LNC Stock Pops On Report Of Lincoln National’s Potential $5B Reinsurance Deal With Talcott](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5)
+- **2026-10-17** — Stocktwits — [LNC Stock Pops On Report Of Lincoln National’s Potential $5B Reinsurance Deal With Talcott](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5)
 - **2026-10-14** — Royal Gazette | Bermuda — [Talcott seeks to renew bid for US life insurer Brighthouse](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlJPRkpTSEVrR0lHWEhRYWJGWDRFVXpBa1hQV29lOHAwd1YyQzAxQU5lLUpJSnZ3OE93VzE2Z2VDU3dadm9JX3NHeEpaNnBlMTNMVkdBcGI5dzdUbkVwb1NlS2FIQ0tUVEF4cnUxRHFaM3V1dzIxSG9IbXZONFR0bHg0TEZRTzM1Uy1wdGR3b2VmZUM0Z3VrNGNnR25qSkZnc3JkeFZFRVdQaHcwRUV6RUVWQS15U3ZpVS1rZ3hlNDFiTXFn?oc=5)
 - **2026-10-12** — Traders Union — [Talcott ratings affirmed as Fitch keeps outlook stable](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTRMT0dEUE1xY3dNYXRTS1NJUE9yZUFNdnVSTDZkSGE5VFQwUGJYRUFYMFNBLU9KLWRvcExIa3l2d2Z3WkNvd012STdLaXJHWWhxSjRRNEpvcFpxR3ZtWWR4eUw2U2dEYkM4aEdTdlM1Uk9KbzZVWmJVTzdsSE9MMERQOTZDdW1UZmVRdEpoRFNFOVZjRkUxQXhndw?oc=5)
 - **2026-10-06** — Beinsure — [Lincoln Financial closes $6.3 bn Talcott reinsurance transaction](https://news.google.com/rss/articles/CBMilAFBVV95cUxPazg4R3pTQzBVTzh4QnhxdUpvRFZSX2JxYk5la1FlWXB2Z0xWa0E1OE5uVldBLVNFYlhCcUxNaDdxSzlQYmRJSFNVTmNFblBoS3M2eVN0dlZBTnZxTHlaNXNtcnQ1V044NFRoZnRCYUdPSmxucUFDeWpzSGphekZ4a3RQWmFib2hIUWtiVWVYZU9fb1lO?oc=5)

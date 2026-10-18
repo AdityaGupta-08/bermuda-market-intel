@@ -90,8 +90,8 @@
     {
       "date": "2025-10-02",
       "rate": 4.2,
-      "ust_3m": 4.02,
-      "ust_1y": 3.62
+      "ust_3m": null,
+      "ust_1y": null
     },
     {
       "date": "2025-10-03",
@@ -1661,5 +1661,5 @@
     }
   },
   "note": "Published daily by NY Fed at ~8:00 AM ET. Averages are backward-looking compounded (30/90/180-day) via FRED.",
-  "_fetched": "2026-10-17T23:08:34.492894Z"
+  "_fetched": "2026-10-18T04:35:56.016106Z"
 }

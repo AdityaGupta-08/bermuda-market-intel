@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 21 items
-Generated Sat 17 Oct 2026, 20:10 ADT
+Generated Sun 18 Oct 2026, 01:37 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 59 items
+- ✅ **Google News (16 of 16 companies)** — 57 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -36,7 +36,7 @@ Generated Sat 17 Oct 2026, 20:10 ADT
 
 ## RGA
 
-- **2026-10-16** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
+- **2026-10-17** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
 - **2026-10-15** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEROMHJzQTFEVnotcl9DWlM2eGhNX1h5cjZfc2FIcHRMQXJzNDY5ejBoVkUyZVZlOTFHbzE1dk11QkUzb29GUExuYnJaTDNXNkxjY1l1cFBTbm5reGVJM1JiV1lpYXpvWVljQWVHRlkwd1UzTDhjX0t4T0dLMXhRSzR2YTAwWEZxRzFncXNqZ0JkdC05ZFpEU2R2ck9Id1V3c2FrUlpuMFFUZXVGWGVPX29FeFZsaXlaWERJOWU4VDVuZDdkek5xM2ZZQl9iVEZERFFWd1NKbE4tUDNVZHFDTnZ5Vl9yQTJQaXZvQWJKTE0?oc=5)
 - **2026-10-15** — Moomoo — [J.P. Morgan Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $297](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNU1BVE1RQlY0c212OFg5Mk95ZHZlWUg5NzFjdk9RcXpueHRITGVuaE84T3ZvVUFDN0x2d2VHZEpQRFRMSzA2YWhfTm5lTkhKai1NWmtHVkFhM2hqdFg0a0VocWUtMi12YjR2aDdfUWdFcDA0MlhHYUdjZnIxaHlOLUhYakdPd2t1Mm94djhVRVpUcldiaElsTU9xWVU4NVAyanRPLXgydGIzbUE?oc=5)
 - **2026-10-14** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHNtT1RXSE5CZGtUYVBzZ09xVDFtdFVFQk1TMGtaUXBYNWdBeE5WdU1YU20tNzk5YktxRmtFVk1TQ0FTd1duRDFlREtxYXRuRVVVUWtOd1YydTZ6RTlMMkl5a3ZMR2cwTEsxS2hDYVdrcTVxR0tKSlJqbUQtNU9YbDZjRjR1N05GT1NoR1JLQQ?oc=5)

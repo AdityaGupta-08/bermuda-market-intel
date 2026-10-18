@@ -42,7 +42,7 @@
     4.777,
     4.806,
     5.013,
-    5.239,
+    5.238,
     null,
     5.692,
     5.785
@@ -66,7 +66,7 @@
     3.87,
     3.976,
     4.134,
-    4.54,
+    4.539,
     null,
     5.218,
     5.366
@@ -84,5 +84,5 @@
   "cached": [],
   "held": {},
   "note": "Official BoE daily archive first; then market scrapes; then local history / cache.",
-  "_fetched": "2026-10-18T14:48:11.061765Z"
+  "_fetched": "2026-10-18T15:52:58.605082Z"
 }

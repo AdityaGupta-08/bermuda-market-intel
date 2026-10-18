@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T14:50:27Z",
+  "updated": "2026-10-18T15:54:48Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -154,7 +154,7 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
       "source": "Yahoo Finance Australia",
       "feed": "Google News: RGA",
-      "date": "2026-10-16T14:02:41Z",
+      "date": "2026-10-16T15:19:59Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -261,7 +261,7 @@
       "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "source": "Pensions & Investments",
-      "feed": "Google News: Athene",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-10-13T13:00:00Z",
       "summary": "",
       "companies": [
@@ -1214,18 +1214,6 @@
       "summary": "",
       "companies": [
         "Aspida"
-      ]
-    },
-    {
-      "id": "192b732441b2",
-      "title": "RGA Hits 52-Week High: Time to Add the Stock for Better Returns?",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWm9DX2JUdlBVRXBfc2JMWXpCemJPRlg4eHpBam9PQUtMTnV6bDJaYlhUeGFEbDl0RE9rUnpNa2VxNUh3ajE4QkZTZ0JzMkVvMXZXM1hRUWhqRHZpSWZpSVNfaGU1a3U1WlFmbVRMTi0tM3BISmJHT2VGUHhIWXFnMFVZeFY1Q1VJLS1QTGV2VVBQWjhpTE5Jak5kN0wwZkhNZ3VXNVA1WDZOTVlKb09waXQxcHkzMVpXQWc?oc=5",
-      "source": "TradingView",
-      "feed": "Google News: RGA",
-      "date": "2026-09-03T15:22:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     }
   ]

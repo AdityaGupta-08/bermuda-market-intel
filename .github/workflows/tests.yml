@@ -39,6 +39,7 @@ jobs:
           python scripts/test_reinsurer_spreads.py
           python scripts/test_earnings_materials.py
           python scripts/test_import_call_review.py
+          python scripts/fetch_myga.py --selftest
 
       - uses: actions/setup-node@v4
         with:

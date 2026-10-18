@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T04:37:31Z",
+  "updated": "2026-10-18T11:08:55Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 17,
+      "count": 19,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
@@ -118,7 +118,43 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
       "source": "Yahoo Finance Australia",
       "feed": "Google News: RGA",
-      "date": "2026-10-17T04:03:38Z",
+      "date": "2026-10-18T10:33:36Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "48052574ff22",
+      "title": "Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-18T07:37:14Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "f6065ee34602",
+      "title": "Sagicor\u2019s Caribbean deal heads to shareholder vote",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNckRJeFFyMXNUUHBTUmRmUERlWkl6bXZNdXAxTG00VWw1MVpoSFNteUZvaEhJNG5kTGtXUE1XSi0teURIYUV0UTl3ajB3cmJPTjFMcWJqcmhHOE55Tmc2WExNVTc2OVlTNjRwTnBER043X0hMUVh0X1lDanpJV3hfS2NheTk1WUVEeHZSYTdKLVkwY3BU?oc=5",
+      "source": "Jamaica Observer",
+      "feed": "Google News: Sagicor",
+      "date": "2026-10-18T07:30:06Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-10-17T05:06:05Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -209,18 +245,6 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-10-14T04:50:58Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "07e895c423c3",
       "title": "Wells Fargo Reaffirms Their Buy Rating on Reinsurance Group (RGA)",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW45TjZHa0pCY2l2TUJfZ1NGaTNKTlkwYmtYb0xkUXhpNkdscmNrUlFGMFFRR1lXMFcyaF9EOGwzWnhiMUVyLVVNVzhJZ2tEbm5za0RIWkdDaTBtRDg4WURMSV9Dem91REpaM1B1VFJCcERUUk9GdXJVOXp1MWdGOUdJVXg5YjJ1bmF2ZHlocDBqZENxdHJzczhEWHpjRlRCNEhra3FZdnB0a2NYTDNSZG96Njk3enBGM28tRmhwbkkzcjY2SldlSUVIWTFOcmlURVJtSHg2bkdpeTBHQVZfNmh0aw?oc=5",
@@ -237,7 +261,7 @@
       "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "source": "Pensions & Investments",
-      "feed": "Google News: Athene",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-10-13T13:00:00Z",
       "summary": "",
       "companies": [
@@ -305,24 +329,24 @@
       ]
     },
     {
-      "id": "d5e388dfd066",
-      "title": "Reinsurance Group of America, Incorporated $RGA Shares Sold by Douglas Lane & Associates LLC",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnI1UVRLQWdOV1otQUJ4dnR3VVJMUXczQzNGaF9LQmQ5NTJUYjk5djY1WlhCYURucGFmRi1wVGhnSzhKRlRNOXUwRmpRNTZ5RllEeC0ySnNvM2hubGt3ekVRR0twVm5Ra3Z0RkxOeEFhckY5V3d4cXNHNHM5Zk55RWVsR2tLZFYzNjdIY3JETVNpZDZEQlNfVEFDRkdhWjNYV21mYm1naWJaRVFYdGhrQ1dQcWRVWTFRb1hySUlEcmNZY0t3ekJxUHRBekdBZnZYNlc0RWIzM3FTa24wWDdNZ2F1OA?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-09T17:23:22Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "c75a8736568d",
       "title": "Reinsurance Group of America, Incorporated (RGA) Hit a 52 Week High, Can the Run Continue?",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjVuZGVKSnhudndIcWNObUh6RXVzUFBhaVRYQWlLZFpkWmNOMVUwbzZnN3dZODIwNmdTMWlXN3h2ZkNrUk1lMV8yWnFWQTFFTlRPd1ljLVJRRHhJUVh2OXVhYS1mUFBQU3BianFHckFOdC1KZUVSWXl1b3lfaGRCUlM5QUpqaEUyWFFCR0xKZEdFaUhrV2ttNG1PemlSbHVOUlFBRW5weGRuUGM?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-10-09T12:15:02Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "d5e388dfd066",
+      "title": "Reinsurance Group of America, Incorporated $RGA Shares Sold by Douglas Lane & Associates LLC",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnI1UVRLQWdOV1otQUJ4dnR3VVJMUXczQzNGaF9LQmQ5NTJUYjk5djY1WlhCYURucGFmRi1wVGhnSzhKRlRNOXUwRmpRNTZ5RllEeC0ySnNvM2hubGt3ekVRR0twVm5Ra3Z0RkxOeEFhckY5V3d4cXNHNHM5Zk55RWVsR2tLZFYzNjdIY3JETVNpZDZEQlNfVEFDRkdhWjNYV21mYm1naWJaRVFYdGhrQ1dQcWRVWTFRb1hySUlEcmNZY0t3ekJxUHRBekdBZnZYNlc0RWIzM3FTa24wWDdNZ2F1OA?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-09T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -381,7 +405,7 @@
       "title": "Lincoln Financial closes $6.3 bn Talcott reinsurance transaction",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazg4R3pTQzBVTzh4QnhxdUpvRFZSX2JxYk5la1FlWXB2Z0xWa0E1OE5uVldBLVNFYlhCcUxNaDdxSzlQYmRJSFNVTmNFblBoS3M2eVN0dlZBTnZxTHlaNXNtcnQ1V044NFRoZnRCYUdPSmxucUFDeWpzSGphekZ4a3RQWmFib2hIUWtiVWVYZU9fb1lO?oc=5",
       "source": "Beinsure",
-      "feed": "Google News: Talcott",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-10-06T19:21:31Z",
       "summary": "",
       "companies": [
@@ -1211,30 +1235,6 @@
       "source": "Investing.com India",
       "feed": "Google News: Fortitude Re",
       "date": "2026-09-03T13:38:31Z",
-      "summary": "",
-      "companies": [
-        "Aspida"
-      ]
-    },
-    {
-      "id": "9ed517a97d97",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Hits Fresh High: Is There Still Room to Run?",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkJpb3duSjFWdjlJcW1oc3JURThKNWk5djFGanNqZmxyNmtiMHljY2ZRMkxKMGk3SmgxQUNsYld4dFBYTUx1WExZSk4zOHozcUJOMFpxejVybjdlUVdDeERabnV3LVJaTFF6XzhkLWc0Nm5DaWVoOHZPUGNudWxZN09hNUo3akNScGtrMlhJenpHajFGSlE5UUZEaUdDdkZrcHhrdllDc2VTUm8?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-09-03T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "f5f489153072",
-      "title": "Aspida Appoints Brian Lewis as Chief Financial Officer of Aspida Re",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNElYXzI1OTZscFZ3Ymttc1N6Zl9iNmwyWVQ2dXJ6UWJGcUlZb1NtdG5PN24wZkJCdHlfc0VpRENoVnFpanRrS3FsU1FidmlFcmxIbExxbDkwamRnWjNlVEpvTk80N3RnNlhxdVktLUhoNkFsLTA5YVZMWXJ3RkN1WVUtZ1pTSHZ4aEFJZGZ5V1dCTkRtWlVwTHFWYlFuX1VYOVJRWWZwNzJCOWZwYk8wdXVraVlTSzNNbnFOaUpfWFU4M2hGYjhUbFVWVzdKcHl2LWc3ZTVXb1TSAd4BQVVfeXFMTUdNRzdVY2w2MldFZjJCTU5rWXBfSndETFdDWV9hWVBGRERuR1lEaUlERW5VOW1vNE5TUXE1bC1UbG9aY2dNZTFZT3JVcDR5VEZlZEhNenhydWNrRTROeEVuWlJCcjVUcmtlMnBDZ09obGdIOEV4VzVzRXIyNHZrcjJvUFNwcklCU2JXdVpWVXpGSzY3RXZLWTkyZ3lGd1FVSENVdXoycHVEM09XRGUzS0l5YjBvOXZvYWNERmJOYjFQZFpTZUtXQUJvd3BLU25tRFNuMlJjU1B6Nk5aSlR3?oc=5",
-      "source": "The Manila Times",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-09-03T07:00:00Z",
       "summary": "",
       "companies": [
         "Aspida"

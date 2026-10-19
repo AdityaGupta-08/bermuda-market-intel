@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-18",
-  "prior_date": "2026-10-17",
+  "date": "2026-10-19",
+  "prior_date": "2026-10-18",
   "source": "Investing.com / TradingEconomics / FRED / cache",
   "url": "https://www.investing.com/rates-bonds/uk-government-bonds",
   "tenors": [
@@ -20,10 +20,10 @@
     4.93,
     4.96,
     5.17,
-    5.38,
-    5.595,
+    5.36,
+    5.585,
     5.81,
-    5.87
+    5.85
   ],
   "prior_yields": [
     4.57,
@@ -34,42 +34,42 @@
     5.38,
     5.595,
     5.81,
-    5.85
+    5.87
   ],
   "prior_1m_yields": [
     4.513,
-    4.612,
+    4.652,
     4.777,
     4.806,
     5.013,
-    5.238,
+    5.233,
     null,
     5.692,
-    5.785
+    5.765
   ],
   "prior_1m_date": "",
   "prior_3m_yields": [
-    4.21,
+    4.16,
     4.35,
     4.43,
-    4.55,
-    4.71,
+    4.52,
+    4.68,
     4.98,
     5.295,
     5.61,
     5.69
   ],
-  "prior_3m_date": "2026-07-19",
+  "prior_3m_date": "2026-07-20",
   "year_ago_yields": [
     3.834,
-    3.885,
+    3.856,
     3.87,
     3.976,
     4.134,
-    4.539,
+    4.534,
     null,
     5.218,
-    5.366
+    5.346
   ],
   "year_ago_date": "",
   "derived": {
@@ -84,5 +84,5 @@
   "cached": [],
   "held": {},
   "note": "Official BoE daily archive first; then market scrapes; then local history / cache.",
-  "_fetched": "2026-10-18T23:13:20.022568Z"
+  "_fetched": "2026-10-19T04:41:53.924451Z"
 }

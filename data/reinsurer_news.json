@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T13:21:57Z",
+  "updated": "2026-10-19T20:38:34Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,19 +17,19 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
       "name": "Google News: Catalina",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 20,
+      "count": 19,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 4,
+      "count": 6,
       "error": null
     },
     {
@@ -112,6 +112,42 @@
     }
   ],
   "items": [
+    {
+      "id": "9e7590227165",
+      "title": "Sagicor ratings affirmed by Fitch with stable outlook",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDFUa0F5dFRmRlNVNWR4bGV1Q3A0QlNWbURLR0JmZEU4VkhKVWNRc0x3cU0teEFQUURlOVVMa25wdVpCaEpiUmlyYi0tcGhjMUFPOFdhYm5vRkViYlpqa1FJZHk3V3NJdEY5UVJZVjMzRzdBdi1kRVpTMmNnSHBhZG43TEpqTmJYR3BmRy1mN0NTbkFN?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News: Sagicor",
+      "date": "2026-10-19T18:20:39Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "c521dbbf7c45",
+      "title": "Athene Announces Third Quarter 2026 Fixed Income Investor Call",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzROWDdIa0hQemZlWVVuSHBfSG1sWUFLZXlPMmxoeU41ZndzUWlROHdocDJLbjR0aHBRUDNIZ0Y2UTNQSU10ZU1RYWFTTEVqVWY2QzUzcE8wb2ctZ0ozeUdtYWFRcEV2N0UxZUx4RDhOTkczOV9VLWt1eTlqT2ZhUzRKeGx3VHJRd1kyNWNHZkRueS1wajBhdWo4NGR2SjZ6b0E?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: Athene",
+      "date": "2026-10-19T11:45:00Z",
+      "summary": "",
+      "companies": [
+        "Athene"
+      ]
+    },
+    {
+      "id": "2f586d0db221",
+      "title": "A Venerable Beauty Brand Returns To Spot TV",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9id1ZXYjFnblhMNk03NTZiOFgyTkZYMGgxUjMtVVdiNURwajVsUVdyODVHWDJwbkpXUEc0QzVxOFZIODZsZ3J4QnhoRkNKSllWWVd5dERkQXZ0eGJLX2haZjRFZndVclNqQ21XZHpodVpyNnBVLU84?oc=5",
+      "source": "Radio & Television Business Report",
+      "feed": "Google News: Venerable",
+      "date": "2026-10-19T07:48:38Z",
+      "summary": "",
+      "companies": [
+        "Venerable"
+      ]
+    },
     {
       "id": "16c4f6cc2718",
       "title": "Reinsurance Group of America (RGA) Nears Argus Target As Its Undervalued Narrative Holds",
@@ -161,24 +197,24 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
+      "id": "64bdca379950",
+      "title": "Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
+      "source": "Yahoo Finance Australia",
       "feed": "Google News: RGA",
-      "date": "2026-10-17T16:05:32Z",
+      "date": "2026-10-17T21:45:12Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "64bdca379950",
-      "title": "Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
-      "source": "Yahoo Finance Australia",
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-16T21:45:12Z",
+      "date": "2026-10-17T16:05:32Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -346,7 +382,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjVuZGVKSnhudndIcWNObUh6RXVzUFBhaVRYQWlLZFpkWmNOMVUwbzZnN3dZODIwNmdTMWlXN3h2ZkNrUk1lMV8yWnFWQTFFTlRPd1ljLVJRRHhJUVh2OXVhYS1mUFBQU3BianFHckFOdC1KZUVSWXl1b3lfaGRCUlM5QUpqaEUyWFFCR0xKZEdFaUhrV2ttNG1PemlSbHVOUlFBRW5weGRuUGM?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-10-09T12:15:02Z",
+      "date": "2026-10-09T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

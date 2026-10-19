@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T13:21:54Z",
+  "updated": "2026-10-19T20:38:31Z",
   "naic": [
     {
       "id": "cb21fa3406cc",
@@ -68,7 +68,7 @@
       "cat": "General",
       "summary": "",
       "source": "Captive Insurance Times",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbElTMmxyZkMwT3d0OGVnYkJFNUItQlc1c1N5eWNJdkdaelBEWnpseWlaMGJub2d3eUdLRzhwbEZvd1ZJZm9pSW9ucThyTTdfM2ZwZmlTT0NfWjhFcjMxbktxSjJaN1U3SFlqekpZdGFONUJ4ZzJCZmRfaTRJNTFUUHpWOU11VHhXZHp1RURocTVteXlaQ0ZXeGRXREdHRHhvcnpNRFREMlhVZzFPdm5vX19VMkJ6djBVbUp4NDNPeDBCbGJ2SkprTnNMLVlTT1NnSW5zR1VjdmpNQWs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOTJMNXFZOURBTGhKY21HdWFTYmN3M1VWNmQ5djFkWkpNMWctN29mclNWVUE3c21fb2VfU1ExdFBVY09WMFU1c19yczZUZGFIUXNwNUtwanpHNVljV2FVT0RZOFU4N2RCS1dsMUIyZ3VpQ0xwTFRNbmVsUzNCVHpNVUlqbTNjREJGSkxWWXZuS0JtUGc3ZTI0cTVrR2I3Z3NLQzMtbkphS3c1VEVJaTgtdHBjUGljY0VvQ1lYRHJUUGh3Qk5IckVrYjV5SkotNzJPdU1RNzJn?oc=5",
       "isNew": false
     },
     {
@@ -253,6 +253,16 @@
     }
   ],
   "bma": [
+    {
+      "id": "45283834d1fa",
+      "title": "Bermuda digital assets - October 2026 update",
+      "date": "2026-10-19",
+      "cat": "Investment",
+      "summary": "",
+      "source": "JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlRoR0NDcXlFMnFaeV91b1dJZHVPdGRhWjRCc0Fnc3Y3dXJVSV9Va2ZWbHJkZEI1MlUzZFVsUnJDcEZMWFY1azlfTlJHc0ZhSnc3SFgzcmZxWHZQcWE5TlFTV3ZBNDdqY2Q2U0RoX0dEcjc3R3FrUFZNaXVqZ0pDdHBvbHA?oc=5",
+      "isNew": true
+    },
     {
       "id": "e8c6fa480189",
       "title": "Bermuda investment funds - Summer 2026 update",
@@ -485,16 +495,6 @@
     },
     {
       "id": "66ff73270577",
-      "title": "BMA issues stablecoin consultation paper",
-      "date": "2026-07-22",
-      "cat": "General",
-      "summary": "",
-      "source": "Captive International",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbENnbmtsM0pnWjdtZWFkeXNXVUVTQ2x4N1Z0SlI4YmJhRTFtdUpRWDBEWTBkcnp5WEJGejBLdkZJWmxYQk9oTWMxM09FblYzQXo5eG1BNWg4V2hNdk5SaXd5MUxHVWF3b1pwQnBBWDN1c1BPa3VVeXN5eW5mUkRqdTJoMA?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "5f3d0a0ec783",
       "title": "BMA issues stablecoin consultation paper",
       "date": "2026-07-22",
       "cat": "General",

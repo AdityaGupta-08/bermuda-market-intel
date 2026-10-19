@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "state": "FL",
   "premium": 100000,
   "source": "My Annuity Store rate marketplace (AnnuityRateWatch data)",
@@ -21,21 +21,21 @@
       "label": "A",
       "terms": {
         "3": {
-          "median_bp": 38.0,
+          "median_bp": 48.0,
           "top_quartile_bp": 68.0,
           "best_bp": 93.0,
           "n": 17,
           "ust_pct": 4.82
         },
         "5": {
-          "median_bp": 81.0,
+          "median_bp": 86.0,
           "top_quartile_bp": 101.0,
           "best_bp": 111.0,
           "n": 21,
           "ust_pct": 4.89
         },
         "7": {
-          "median_bp": 77.0,
+          "median_bp": 82.0,
           "top_quartile_bp": 97.0,
           "best_bp": 122.0,
           "n": 18,
@@ -88,13 +88,13 @@
       "terms": {
         "3": {
           "median_bp": 55.5,
-          "top_quartile_bp": 66.7,
+          "top_quartile_bp": 75.5,
           "best_bp": 93.0,
           "n": 10,
           "ust_pct": 4.82
         },
         "5": {
-          "median_bp": 86.0,
+          "median_bp": 91.0,
           "top_quartile_bp": 96.0,
           "best_bp": 116.0,
           "n": 13,
@@ -102,7 +102,7 @@
         },
         "7": {
           "median_bp": 72.0,
-          "top_quartile_bp": 88.2,
+          "top_quartile_bp": 90.7,
           "best_bp": 117.0,
           "n": 10,
           "ust_pct": 4.98
@@ -180,5 +180,5 @@
       "ust_pct": 5.09
     }
   },
-  "_fetched": "2026-10-18T14:50:02.759519Z"
+  "_fetched": "2026-10-19T13:21:34.824350Z"
 }

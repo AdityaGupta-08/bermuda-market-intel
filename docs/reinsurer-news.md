@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 22 items
-Generated Mon 19 Oct 2026, 01:43 ADT
+Generated Mon 19 Oct 2026, 10:21 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 60 items
+- ✅ **Google News (16 of 16 companies)** — 64 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -36,6 +36,7 @@ Generated Mon 19 Oct 2026, 01:43 ADT
 
 ## RGA
 
+- **2026-10-19** — Simply Wall Street — [Reinsurance Group of America (RGA) Nears Argus Target As Its Undervalued Narrative Holds](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSFBtMDhCZkU1Ukp4SHdkdXdmeFNwWngyQW9JUTZrbXJ4SGFzUU5na1RNMXlHR0tiSmo2TnIxQ0ltYXhKd0FKT0pvc2N5WEVFMm9tQlpwOGgxZUZ1bUVUaUJBMXhNaUFwZXRyYkw0bEtybm9YaWZCcmhDM1pCVEROQXBwcldUZXRwVS1kTWRGOG1uTFJ2dXg3NHROcmdmaUN4XzlZb044V1hCVERLdFNtU0FzN2VZaThCRFJGbVhJTU01YjBuS2ljNUpCTzEtOVl0b0VtOWo4aC1OQmtKdXhpbFZmTdIB4wFBVV95cUxQSFBtMDhCZkU1Ukp4SHdkdXdmeFNwWngyQW9JUTZrbXJ4SGFzUU5na1RNMXlHR0tiSmo2TnIxQ0ltYXhKd0FKT0pvc2N5WEVFMm9tQlpwOGgxZUZ1bUVUaUJBMXhNaUFwZXRyYkw0bEtybm9YaWZCcmhDM1pCVEROQXBwcldUZXRwVS1kTWRGOG1uTFJ2dXg3NHROcmdmaUN4XzlZb044V1hCVERLdFNtU0FzN2VZaThCRFJGbVhJTU01YjBuS2ljNUpCTzEtOVl0b0VtOWo4aC1OQmtKdXhpbFZmTQ?oc=5)
 - **2026-10-18** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5)
 - **2026-10-17** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-10-16** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
@@ -47,7 +48,6 @@ Generated Mon 19 Oct 2026, 01:43 ADT
 - **2026-10-13** — The Globe and Mail — [Wells Fargo Reaffirms Their Buy Rating on Reinsurance Group (RGA)](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW45TjZHa0pCY2l2TUJfZ1NGaTNKTlkwYmtYb0xkUXhpNkdscmNrUlFGMFFRR1lXMFcyaF9EOGwzWnhiMUVyLVVNVzhJZ2tEbm5za0RIWkdDaTBtRDg4WURMSV9Dem91REpaM1B1VFJCcERUUk9GdXJVOXp1MWdGOUdJVXg5YjJ1bmF2ZHlocDBqZENxdHJzczhEWHpjRlRCNEhra3FZdnB0a2NYTDNSZG96Njk3enBGM28tRmhwbkkzcjY2SldlSUVIWTFOcmlURVJtSHg2bkdpeTBHQVZfNmh0aw?oc=5)
 - **2026-10-12** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Given New $292.00 Price Target at Wells Fargo & Company](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFBDSjdNemtxWmg3Z0tjamxmUk04X21UTU0xZVNYbHVhdGlVbHk3R1FkVlhQeWRHQ0ppMXAyOTgtNTJqa3g3bkxIWmJ0UmhVOTFiZUMwSWU5NEI0R21wb3JlTGk0bjcxWlNFUXYtZDNJQUQ5MHJOUXV1MkFxaWhlNWdrZExBdm9uSUJSZ0kzREJfNHF0WWJCM0NNSDRnbEdycEZOaVRGVURQRnU3QWJQdzJUbjhQQkhncXFqVHVCZ0lrNEJ1NzRfZ2JzLXNDbXBSWGRPNnViU3N6bnNoZ3hDYVZaYU56QQ?oc=5)
 - **2026-10-12** — Moomoo — [Wells Fargo Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $292](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2dGN01KY3Q2VDNoMFhLY2QzaUZxRlpuR29yYlJEWVp5M0xsdi1FT3JmbDhwekY1REF0RlkwejdpYXNxMmx1SzF2UmtMVG14aTVGZEJpS3RaMDR6NkZjRzRpR290ZnZFS0UtUkQ1cnAwRkk3LXp1SU5zQVVUZXIyYmZZYV85Z2UzaTlseVZmSkFZdmVubFg2cko3QW9wNEhyOGVqTU1YdDhCOVh6aXc?oc=5)
-- **2026-10-11** — Simply Wall Street — [Reinsurance Group Of America Could Be 8% Undervalued After Four Straight Earnings Beats](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVG5rN2RUQmV5ZmYtaUVuRVhlU01KREEwQ0dBZG5KRU9EV1NyQTRYV1hIZEhZMVlUdlBRQWFYY0tNV3hZaFhrYklrQkdITUZwZkF4cU9aZVJJdmZsUGR1VGFBblVpN2h1blBhdlR6WTVLYmhzcDdmWXBLeUExYTlJZnp6ZHJ0cmh6NE91dXFkM3VyaUpDbk9GNWZYRjU0WS1QNWx0Q0NmelZoSWZveWhfSkFYbkVtekRpRmZBZWZDTHBqbEZaUjRscmJnSk1jM0lIeDlMRDl5NDV4Tlk3U0HSAeMBQVVfeXFMTzYwQWo4alVoVE9ScFZPUEtKaW5FeUk5OGF6RmRCSnZtSUl1T2NBWVRfUHdoYk1kWUJHamV1V2NHYWtpMFlSM3pNR2h4QWFGSkhhc0c5ZnVvVV9XSHhOWi1zUWdDV25fM1RLLWdtdjN4eE1CZjFsRERtUE55RzlyNU5sSDVEeExlUHFHRWRaYVp3U3ZLSzV0TFFOQlZoTHhWbDFfMnFGdFRwZDNicXh1eXEybTJTSU9hT3AxRmQyRjZNeHN3dFh1UE9ZXzFPMzBCQ01VU3dWQUhWcU8wazFJbE45bVk?oc=5)
 
 ## Sagicor
 

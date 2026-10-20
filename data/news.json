@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:21:08Z",
+  "updated": "2026-10-20T19:19:14Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "c6acf62587fa",
+      "title": "KPMG in Bermuda promotes Ranchod to audit partner",
+      "source": "Captive Insurance Times",
+      "date": "2026-10-20T16:08:01Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOW1mYndMRXVJdlFzbFhLeE5HOWplN3poRHJYSFVjOGRPMHVQeEFXUjJhMG84MnY2Yk1LUE85UXUwelJ0WTliSlNiNE9hVE5mS09ia0tCdFl0ajVIV2pUN0tIem9reWlta0toY3lpVC04RzZ3RXFaVzJYaXhhb2pBUzh4SURPRlBuR3lfRUU1aWVSb2dZX2hOLXpkYzM3blFoaFNsckpzZUQ0VFhxUXhJUnY1ZzE0dHlncEhWWV9TUDBEMHdmRnFKMjN4ZDhadFdHMTFoREZPakduaWVfTkNVQWh3MEkyaXc?oc=5",
+      "isNew": false
+    },
     {
       "id": "c161ebe336b0",
       "title": "Bank of America says 1% increase to interest rate would add $95 billion in national debt costs",
@@ -18,13 +28,13 @@
       "isNew": false
     },
     {
-      "id": "543d542ba2a7",
-      "title": "The New Insurance Playbook: Scale, Specialization and Smarter Capital",
-      "source": "AllianceBernstein",
-      "date": "2026-10-20T06:10:38Z",
-      "topic": "Insurance AM",
+      "id": "08c74e31d3bd",
+      "title": "Moody\u2019s: German insurers pile into private credit",
+      "source": "Alternative Credit Investor",
+      "date": "2026-10-20T11:35:15Z",
+      "topic": "Private Credit",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYUVfY1NEMUdpSjNfNUltSENvUzAwc1NQZUh2VGNTbnFPWkJHemRVVWRPUUt2V05WaE83WUZPMUZweUpWbmVrc09vSVdTSmdrQWVCam9fQ0V2LWxySUZFVC1GMER2TnRfMF9YSU9XcVF0V3BWelVGV1FoRkhuQUVzWTdkQWRoMTJXdVZQbHJYaE55LS1vZDNldEw2ZFJCMWRSaXk2UHdLQTVGeC1FN0NXeEJwZ1dReUZTZVJ0NVFheVRNZWNiS2lpWjZUUkFxNWNTb1VGZmpmeTVFSEVxME14WE9xRlU4QjVtelNnSEVlUUJhTmdsWHptdkpGUVB6Y01i?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3I3ZnI4cU10UFZLd1prcjAzRDBrWUI5eklqaXZTMkJFMW56bzNwZ3Mxd081aXBEQ2FVc1c1Y0VSWEFQN3djSEFLQUUyc2Y4cFpUYng2Y2pqNlZCNGluLUxiZm93dW9oNWVCY2U1RzVBUGF3b05Nem5BYldHWGluVElQTjlZbWlUM2NfV2dfdUNaeXVtX1Q5bGVoX3lvZw?oc=5",
       "isNew": false
     },
     {
@@ -35,6 +45,16 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzlZb01vLTl4bFFmZFpxVVd0dUVUaUFjQnRnLWpYXzhoeDJGX2tYeFFfT1VKYjZmaEJwdFJZU1FlS3k4RkZQN2dZRjdqN0pmeEpQeTRKQXdGanAyWGFqRmxoLVM1YU5SRlY1eDdwSndLTURVdWtXMkh1X1NWOTBXeEhkbjB1ZmlLQnh3NVg2NTlOWXdjTXNmQzZIcmlzSEV3T3VUN29CeGRTMHc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "543d542ba2a7",
+      "title": "The New Insurance Playbook: Scale, Specialization and Smarter Capital",
+      "source": "AllianceBernstein",
+      "date": "2026-10-19T20:35:26Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWWNJUVpzZmxZNC01cVlmQnhEcF9Kdk5tZVJzTUtPbFJ0UjROZnJSN1l6OG9kLVBjRE12U082SVRKbVVWSUNLb2M0US1URUU3c2N5YnlnZERqS21mTHhLUVQ0VlVRTnRWZmlDMEYxMzBSVUpqdGdTbTBud1ZuSmh4Y0p1OEE4cHM5bjRZNkRuU1NfT1hBY09oSGVtLUhmVGtlZlJFa0haNWVDQkcyX0ZyQURoSkpHaWk4aEN5SW05dWxYWW1IUThuM295R2F2SU1BTFFfSDl6S1VTc2x6b3QzN1hkS1UtS2piQVhvVkln?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0twUTJIZHRYeTMtRXBKU3JKWExlVkFhMDM4QjJTOWhETmtVYlNOdmVQOUVtd0M5VzdYOFdJVVM2UXFaSVl6TWhzSDJMRkhGTnFuMUF3RFZrR1dXTFpzWDJya2Ruc1VKWTZYbDdJc3JuRUYxUUVIMmljSWx3NldzRk1LV1hORTMwejkyLVM0YkFXS0F2aGJjVzV3c19vYldJdGJPXzI0VG1DRmJBQU1sTWdEMHZHbTI0LXBUM3FBdGowQlkxZ05LRkN3cmFScWoxZVU0WkE3RzloS0tR?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "e5d2eff30d43",
-      "title": "New England Asset Management Named Insurance Asset Management Firm of the Year by Insurance Insider US",
-      "source": "Business Wire",
-      "date": "2026-10-13T17:07:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd1VSbWpCY0VqMGVSUHhPTVBlcjFGUldLTno5OHFZWUFtTmJ5azZaMlVDV2V3TUJyX2JxLW4xNHY3Qk5wa1F2cE90cV9tWjJzZ0t0MEl4QTZIWk1nalo0YmhaN1Z2QV9HMm5hOEYtUGk4dEdLeEVrcFl3QzhFRUItTk9aY3VlYy1TVW5wanlGQk5lZkVwUWxBcGFKZFFxUVY3X3FkcnJ2WnBtVzR2S1Nxa1c2NjVjbGFjZEcwazVreE9JVFdjY3loVEIxWnE5VGlZdld4Nm9RQ1J0TXBLRWpsT05GU1BkRXNqSW9BM3J0eVc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ff07402fdd19",
-      "title": "Moody\u2019s: life insurers increasingly rely on RNFs",
-      "source": "Alternative Credit Investor",
-      "date": "2026-10-13T17:01:57Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOW9FbXphYUQ4U2xpeEhKQm93cmtMeTJJVTFtbW1LcE5obzAzS0NNdG9rTThodjZqSWVyMENWaklxVjdsSU5idFNMaTQ1VDJKYlNyMVdKem5TYnBMNUNGaU1qR1ltVE9LU3VlU05ZS1Fqci1QbTNPNDhBZU4xRjIwdTVBVThFbTIxd2VoYmhZaTRtWmpXYThlSHJCOVE?oc=5",
       "isNew": false
     }
   ]

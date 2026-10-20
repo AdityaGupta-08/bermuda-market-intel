@@ -66,7 +66,7 @@
     5.831,
     6.117,
     6.443,
-    6.514,
+    6.504,
     null,
     null,
     7.103
@@ -85,5 +85,5 @@
   "cached": [],
   "held": {},
   "note": "FBIL latest first, then Investing/TE/FRED, then local history / cache. India 3M curve is exact once local history accumulates.",
-  "_fetched": "2026-10-20T14:19:12.381646Z"
+  "_fetched": "2026-10-20T19:17:41.209139Z"
 }

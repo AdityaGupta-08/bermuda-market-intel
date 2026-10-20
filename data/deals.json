@@ -6,7 +6,7 @@
     "At least one primary source: the company's own release, an SEC filing, or a regulator document.",
     "Facts on the card (parties, size, dates, status) come from those sources; independent coverage is linked where it adds detail.",
     "A deal is listed only once it is signed. Reports of talks or exploratory sales are left out until a party confirms them.",
-    "Status is 'Closed' only when a source confirms completion; until then it stays 'Pending', and the card says when it was last checked."
+    "Status is 'Closed' only when a primary source confirms completion (an announcement that a deal will close doesn't count); until then it stays 'Pending', and the card says when it was last checked."
   ],
   "excluded": [
     {
@@ -74,7 +74,7 @@
         {"name": "Prudential Financial", "role": "cedant"}
       ],
       "size": {"usd_bn": 5, "basis": "reserves", "text": "~$5bn reserves (USD-denominated Japanese whole life)"},
-      "summary": "Prismic will reinsure about $5bn of reserves backing USD-denominated Japanese whole life policies written by Prudential's Japanese affiliates; Prudential keeps its policyholder obligations and administration. Prismic expects to manage about $25bn of assets supporting assumed liabilities once it closes. Subject to regulatory approvals.",
+      "summary": "Prismic will reinsure about $5bn of reserves backing USD-denominated Japanese whole life policies written by Prudential's Japanese affiliates; Prudential keeps its policyholder obligations and administration. Prismic expects to manage about $25bn of assets supporting assumed liabilities once it closes.",
       "sources": [
         {"label": "Prismic Life Announces $5 Billion Reinsurance Agreement with Prudential Financial", "publisher": "Prudential Financial", "kind": "primary", "date": "2026-10-05", "url": "https://news.prudential.com/us-en/latest-news/prudential-news/2026/Q4/Prismic-Life-Announces-5-Billion-Reinsurance-Agreement-with-Prudential-Financial"},
         {"label": "Investor relations copy", "publisher": "Prudential Financial", "kind": "primary", "date": "2026-10-05", "url": "https://investor.prudential.com/news/detail/2645/prismic-life-announces-5-billion-reinsurance-agreement-with-prudential-financial"},
@@ -158,9 +158,10 @@
         {"name": "Dai-ichi Life", "role": "cedant"}
       ],
       "size": null,
-      "summary": "Prismic Life Reinsurance International agreed to reinsure an in-force, yen-denominated block of whole life and annuity policies from Dai-ichi Life, which keeps its policyholder obligations and administration. Prismic's May 2026 capital-raise release cites the Dai-ichi transaction.",
+      "summary": "Prismic Life Reinsurance International agreed to reinsure an in-force, yen-denominated block of whole life and annuity policies from Dai-ichi Life, which keeps its policyholder obligations and administration.",
       "note": "Size not disclosed. Announcement date from Reinsurance News coverage; completion not confirmed in a source.",
       "sources": [
+        {"label": "Daiichi Life to Reinsure Whole Life Block with Prismic Life", "publisher": "Prismic Life via Business Wire", "kind": "primary", "url": "https://www.businesswire.com/news/home/20260408148558/en"},
         {"label": "Prismic capital-raise release (cites the Dai-ichi Life transaction)", "publisher": "Prismic Life via Business Wire", "kind": "primary", "date": "2026-05-20", "url": "https://www.businesswire.com/news/home/20260520537530/en/Prismic-Life-Announces-Completion-of-Oversubscribed-Capital-Raise"},
         {"label": "Daiichi to reinsure block of whole life and annuity policies with Prismic Life", "publisher": "Reinsurance News", "kind": "secondary", "date": "2026-04-09", "url": "https://www.reinsurancene.ws/daiichi-to-reinsure-block-of-whole-life-and-annuity-policies-with-prismic-life/"},
         {"label": "Prismic strikes Daiichi reinsurance deal", "publisher": "The Royal Gazette", "kind": "secondary", "date": "2026-04-13", "url": "https://www.royalgazette.com/reinsurance/business/article/20260413/prismic-strikes-daiichi-reinsurance-deal/"}
@@ -184,7 +185,8 @@
       "milestones": [
         {"date": "2025-07-31", "event": "Rule 2.7 offer announcement"},
         {"date": "2025-09-19", "event": "Shareholders approve the scheme"},
-        {"date": "2026-04-01", "event": "Completed; Just delisted from the LSE"}
+        {"date": "2026-04-01", "event": "Completed; scheme effective"},
+        {"date": "2026-04-02", "event": "Just shares cease trading on the LSE (date set in the completion release)"}
       ],
       "sources": [
         {"label": "Rule 2.7 announcement (filed as SEC exhibit 2.1)", "publisher": "SEC EDGAR", "kind": "primary", "date": "2025-07-31", "url": "https://www.sec.gov/Archives/edgar/data/0001837429/000119312525169827/d92864dex21.htm"},
@@ -236,6 +238,7 @@
       "sources": [
         {"label": "Athora to acquire Pension Insurance Corporation Group", "publisher": "Pension Insurance Corporation", "kind": "primary", "date": "2025-07-03", "url": "https://www.pensioncorporation.com/news-insights/press-releases/2025/athora-to-acquire-pension-insurance-corporation-group"},
         {"label": "Athora to acquire Pension Insurance Corporation Group", "publisher": "Athora", "kind": "primary", "date": "2025-07-03", "url": "https://www.athora.com/news/athora-to-acquire-PIC"},
+        {"label": "Athora Group completes acquisition of Pension Insurance Corporation Group and announces plans to relocate headquarters to the UK", "publisher": "Athora via ANP Persportaal", "kind": "primary", "date": "2026-03-27", "url": "https://persportaal.anp.nl/artikel/CSN-270326060/athora-group-completes-acquisition-of-pension-insurance-corporation-group-and-announces-plans-to-relocate-headquarters-to-the-uk"},
         {"label": "Athora completes acquisition of PIC, plans to relocate headquarters to UK", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/athora-completes-acquisition-of-pic-plans-to-relocate-headquarters-to-uk/"}
       ],
       "verified": "2026-10-20"
@@ -281,7 +284,7 @@
       "summary": "Newly launched Ancient Financial bought F&G's Bermuda reinsurer F&G Life Re Ltd, renamed Ancient Re, taking the remaining $1.8bn in-force block with it. F&G adds Ancient Re as a forward-flow reinsurance partner; F&G said the unit was no longer needed to support its reinsurance strategy.",
       "sources": [
         {"label": "Ancient Financial Launches ... Announces Agreement to Acquire F&G Life Re Ltd.", "publisher": "Ancient Financial via Business Wire", "kind": "primary", "date": "2026-02-19", "url": "https://www.businesswire.com/news/home/20260219942227/en/Ancient-Financial-Launches-as-a-Strategic-Asset-Management-and-Reinsurance-Holding-Company-Announces-Agreement-to-Acquire-FG-Life-Re-Ltd."},
-        {"label": "F&G first quarter 2026 results (confirms 1 March closing)", "publisher": "F&G Annuities & Life", "kind": "primary", "url": "https://investors.fglife.com/news/news-details/2026/FG-Annuities--Life-Reports-First-Quarter-2026-Results/default.aspx"},
+        {"label": "F&G first quarter 2026 results (confirms 1 March closing)", "publisher": "F&G Annuities & Life", "kind": "primary", "url": "https://investors.fglife.com/news/news-details/2026/FG-Annuities--Life-Reports-First-Quarter-2026-Results/default.aspx", "confirms_closing": true},
         {"label": "Representing Ancient Financial on its acquisition of FG Life Re", "publisher": "Walkers (Ancient's Bermuda counsel)", "kind": "secondary", "url": "https://www.walkersglobal.com/en/About-us/News/2026/03/Representing-Ancient-Financial-on-its-acquisition-of-FG-Life-Re"}
       ],
       "verified": "2026-10-20"
@@ -370,7 +373,7 @@
         {"name": "Resolution Life", "role": "target"}
       ],
       "size": {"usd_bn": 8.2, "basis": "purchase price", "text": "$8.2bn for the remaining shares (values Resolution Life at $10.6bn)"},
-      "summary": "Nippon Life, already a minority shareholder, bought the rest of Resolution Life from its investment limited partnership. The US, UK, Bermuda and Singapore institutional business becomes a Nippon Life subsidiary; the Australasian business merges with Nippon's MLC to form the Acenda joint venture. Sir Clive Cowdery stays as chair and CEO.",
+      "summary": "Nippon Life, already a minority shareholder, bought the rest of Resolution Life from its investment limited partnership. The US, UK, Bermuda and Singapore institutional business becomes a Nippon Life subsidiary; the Australasian business merges with Nippon's MLC to form the Acenda joint venture. Sir Clive Cowdery remained chair and CEO at completion.",
       "sources": [
         {"label": "Resolution Life announces acquisition by Nippon Life", "publisher": "Resolution Life", "kind": "primary", "date": "2024-12-11", "url": "https://www.resolutionlife.com/news-and-insights/resolution-life-announces-acquisition-by-nippon-life/"},
         {"label": "Resolution Life confirms completion of acquisition by Nippon Life", "publisher": "Resolution Life", "kind": "primary", "date": "2025-10-31", "url": "https://www.resolutionlife.com/news-and-insights/resolution-life-confirms-completion-of-acquisition-by-nippon-life/"},
@@ -440,7 +443,7 @@
       "sources": [
         {"label": "KKR Q2 2025 10-Q (subsequent events: $2bn commitment)", "publisher": "SEC EDGAR", "kind": "primary", "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000032/kkr-20250630.htm"},
         {"label": "Japan Post Insurance invests $2bn in Global Atlantic reinsurance sidecar", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/japan-post-insurance-invests-2bn-in-global-atlantic-reinsurance-sidecar/"},
-        {"label": "Japan Post Insurance makes $2bn investment into Global Atlantic reinsurance sidecar", "publisher": "Artemis", "kind": "secondary", "url": "https://www.artemis.bm/news/japan-post-insurance-makes-2bn-investment-into-global-atlantic-reinsurance-sidecar"}
+        {"label": "Japan Post Insurance makes $2bn investment into Global Atlantic reinsurance sidecar", "publisher": "Artemis", "kind": "secondary", "url": "https://www.artemis.bm/news/japan-post-insurance-makes-2bn-investment-into-global-atlantic-reinsurance-sidecar/"}
       ],
       "verified": "2026-10-20"
     },
@@ -460,8 +463,9 @@
       "summary": "Venerable's Corporate Solutions Life Reinsurance Company reinsures Corebridge's entire Individual Retirement VA in-force book, mainly GMWB contracts, and buys SunAmerica Asset Management; Corebridge keeps administration and adds VA flow reinsurance with Venerable. Corebridge expects about $2.1bn of after-tax distributable proceeds.",
       "milestones": [
         {"date": "2025-06-25", "event": "Agreement announced"},
-        {"date": "2025-08-04", "event": "First closing: American General Life book (~90% of value)"},
-        {"date": "2026-01-02", "event": "Final closing: US Life reinsurance and SAAMCo sale"}
+        {"date": "2025-08-04", "event": "First closing announced: American General Life book (~90% of value)"},
+        {"date": "2026-01-01", "event": "SunAmerica Asset Management sale closes"},
+        {"date": "2026-01-02", "event": "US Life reinsurance closes (final piece)"}
       ],
       "sources": [
         {"label": "Corebridge Financial Announces Transformative Individual Retirement Variable Annuity Transaction with Venerable", "publisher": "Corebridge Financial", "kind": "primary", "date": "2025-06-25", "url": "https://investors.corebridgefinancial.com/news/news-details/2025/Corebridge-Financial-Announces-Transformative-Individual-Retirement-Variable-Annuity-Transaction-with-Venerable/default.aspx"},
@@ -510,6 +514,7 @@
       "summary": "Talcott Life Re, Talcott's Bermuda reinsurer, reinsures a ¥550bn block of in-force payout annuities from Japan Post Insurance, which keeps servicing and administration. Effective 31 Mar 2025; Talcott's second transaction with a Japanese insurer. AM Best left the Talcott subsidiaries' ratings unchanged.",
       "sources": [
         {"label": "Talcott Financial Group Announces Block Reinsurance Transaction with Japan Post Insurance", "publisher": "Talcott Financial Group", "kind": "primary", "date": "2025-03-28", "url": "https://talcott.com/articles/talcott-financial-group-announces-block-reinsurance-transaction-with-japan-post-insurance/"},
+        {"label": "Talcott Financial Group Expands Block Reinsurance Transaction with Japan Post Insurance by ¥100 Billion (expands the in-force 2025 block)", "publisher": "Talcott via Business Wire", "kind": "primary", "date": "2026-03-31", "url": "https://www.businesswire.com/news/home/20260331002402/en/Talcott-Financial-Group-Expands-Block-Reinsurance-Transaction-with-Japan-Post-Insurance-by-%C2%A5100-Billion"},
         {"label": "AM Best comments on Talcott subsidiaries' ratings after the transaction", "publisher": "AM Best via Business Wire", "kind": "secondary", "date": "2025-04-01", "url": "https://www.businesswire.com/news/home/20250401032535/en/AM-Best-Comments-on-the-Credit-Ratings-of-Talcott-Financial-Group-Ltd.s-Subsidiaries-Following-Announced-Reinsurance-Transaction-With-Japan-Post-Insurance-Co.-Ltd."},
         {"label": "Talcott enters major reinsurance agreement with Japan Post Insurance", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/talcott-enters-major-reinsurance-agreement-with-japan-post-insurance/"}
       ],
@@ -554,7 +559,7 @@
       "note": "Prudential's 2025 annual report says the transaction completed in March 2025, effective 1 March.",
       "sources": [
         {"label": "Prudential Financial to Reinsure $7B Japanese Whole Life Block with Prismic Life", "publisher": "Prudential Financial", "kind": "primary", "date": "2025-01-22", "url": "https://investor.prudential.com/news/news-details/2025/Prudential-Financial-to-Reinsure-7B-Japanese-Whole-Life-Block-with-Prismic-Life/default.aspx"},
-        {"label": "Prudential 2025 Annual Report (completion, effective 1 March 2025)", "publisher": "SEC EDGAR", "kind": "primary", "url": "https://www.sec.gov/Archives/edgar/data/1137774/000110465926035169/tm2524222d2_ars.pdf"},
+        {"label": "Prudential 2025 Annual Report (completion, effective 1 March 2025)", "publisher": "SEC EDGAR", "kind": "primary", "url": "https://www.sec.gov/Archives/edgar/data/1137774/000110465926035169/tm2524222d2_ars.pdf", "confirms_closing": true},
         {"label": "Prudential Financial to reinsure $7bn Japanese Whole Life Block with Prismic", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/prudential-financial-to-reinsure-7bn-japanese-whole-life-block-with-prismic/"}
       ],
       "verified": "2026-10-20"

@@ -27,14 +27,20 @@ Every deal must have:
   coverage and never count on their own;
 - direct `https` links to the publisher. Google News redirects and archive
   wrappers are rejected;
-- a `verified` date, with no announced, closed or milestone date after it;
-- a status that matches its sources: `closed` only once a source confirms
-  completion (with a `closed` date), otherwise `pending`.
+- a `verified` date that is not in the future, with no announced, closed or
+  milestone date after it;
+- a status that matches its sources: `closed` (with a `closed` date) only when a
+  **primary** source dated on or after the close confirms it, or a primary source
+  that states completion is marked `"confirms_closing": true` (e.g. a later 10-K or
+  results release). An announcement saying a deal *will* close doesn't count, and
+  neither does coverage. Otherwise the deal stays `pending`; a `terminated` date
+  only goes on a `terminated` deal.
 
 Reports of talks or exploratory sales are not listed until a party confirms a
 signed deal. `size.usd_bn` is filled only when a source states a US dollar
-figure; nothing is converted. The *Liabilities reinsured* total sums only
-`reserves` and `liabilities` figures on closed deals.
+figure (`$`, `US$`, `USD`); nothing is converted, and C$, A$, HK$ and similar
+are left as text. The *Liabilities reinsured* total sums only `reserves` and
+`liabilities` figures on closed deals.
 
 `scripts/test_deals.mjs` fails CI if any entry breaks a rule. The page applies
 the same rules in the browser and holds back any entry that fails rather than
@@ -45,8 +51,8 @@ showing it without its sources. A pending deal whose `verified` date is more tha
 
 Add an object to `deals` in `data/deals.json` (copy an existing one), then run
 `node scripts/test_deals.mjs`. When a pending deal closes, set `status` to
-`closed`, add the `closed` date and the closing release to `sources`, and bump
-`verified` (and the file's `updated`).
+`closed`, add the `closed` date and the closing release (with its `date`) to
+`sources`, and bump `verified` (and the file's `updated`).
 
 ## Reinsurer news monitor
 

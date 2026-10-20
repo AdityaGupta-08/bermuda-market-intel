@@ -54,13 +54,17 @@ const StatusPill = ({ info }) => {
   );
 };
 
+// Headline amount when there's no USD figure: the first currency amount in the
+// source's own wording ("£5.7bn", "€1.2 billion"), or nothing rather than a stray word.
+const AMOUNT_RE = /(?:[A-Z]{1,3})?[£€¥$]\s?\d[\d.,]*\s?(?:bn|tn|m|billion|trillion|million)?/i;
+
 const SizeFigure = ({ size }) => {
   if (!size) return <div style={{ fontSize: 12, color: INK.muted, textAlign: "right", flexShrink: 0, maxWidth: 90 }}>Size not disclosed</div>;
+  const headline = size.usd_bn != null ? formatUsdBn(size.usd_bn) : size.text.match(AMOUNT_RE)?.[0].trim();
+  if (!headline) return null;
   return (
     <div style={{ textAlign: "right", flexShrink: 0 }}>
-      <div style={{ fontSize: 20, fontWeight: 700, color: INK.primary, fontFamily: MONO, lineHeight: 1.1 }}>
-        {size.usd_bn != null ? formatUsdBn(size.usd_bn) : size.text.split(/[ ,(;]/)[0].replace(/^~/, "")}
-      </div>
+      <div style={{ fontSize: 20, fontWeight: 700, color: INK.primary, fontFamily: MONO, lineHeight: 1.1 }}>{headline}</div>
       <div style={{ fontSize: 11, color: INK.muted, marginTop: 2 }}>{BASIS_TEXT[size.basis]}</div>
     </div>
   );
@@ -119,14 +123,15 @@ const DealCard = ({ d }) => (
           {d.statusInfo.checked && (
             <span style={{ fontSize: 11, color: d.statusInfo.recheck ? "#fbbf24" : INK.muted }}
               title={d.statusInfo.recheck ? `Not re-checked in over ${RECHECK_DAYS} days; it may have closed since.` : undefined}>
-              {d.statusInfo.recheck && <AlertTriangle size={11} style={{ verticalAlign: "-1px", marginRight: 3 }} />}{d.statusInfo.checked}
+              {d.statusInfo.recheck && <AlertTriangle size={11} aria-hidden="true" style={{ verticalAlign: "-1px", marginRight: 3 }} />}
+              {d.statusInfo.checked}{d.statusInfo.recheck && ` · re-check due (over ${RECHECK_DAYS} days)`}
             </span>
           )}
         </div>
         <h3 style={{ margin: "0 0 4px", fontSize: 15.5, fontWeight: 700, color: INK.primary, lineHeight: 1.35 }}>{d.title}</h3>
         <div style={{ fontSize: 12.5, color: INK.secondary, lineHeight: 1.5 }}>
           {d.parties.map((x, i) => (
-            <span key={x.name}>{i > 0 && <span style={{ color: INK.faint }}> · </span>}
+            <span key={`${x.name}|${x.role}`}>{i > 0 && <span style={{ color: INK.faint }}> · </span>}
               <span style={{ color: INK.primary }}>{x.name}</span> <span style={{ color: INK.muted }}>({x.role})</span>
             </span>
           ))}
@@ -206,7 +211,7 @@ const Rejected = ({ rejected }) => !rejected.length ? null : (
   </div>
 );
 
-export default function DealsSection({ data, loading, error }) {
+export default function DealsSection({ data, error }) {
   const [type, setType] = useState("all");
   const [status, setStatus] = useState("all");
   const [query, setQuery] = useState("");
@@ -232,12 +237,14 @@ export default function DealsSection({ data, loading, error }) {
         <VettingPanel view={view} />
       </div>
 
-      {loading && !data && (
+      {/* App stores every file's data (and errors) only once all files have
+          loaded, so "no data, no error" means still loading, not missing. */}
+      {!data && !error && (
         <div style={{ padding: 24, color: INK.secondary, fontSize: 13 }}>
           <Loader size={16} style={{ verticalAlign: "middle", marginRight: 8, animation: "spin 1s linear infinite" }} />Loading deals…
         </div>
       )}
-      {!loading && !data && (
+      {!data && error && (
         <div style={{ background: SURFACE, border: "1px solid #1e2028", borderRadius: 12, padding: "16px 20px", fontSize: 13, color: INK.secondary }}>
           <AlertTriangle size={14} style={{ verticalAlign: "middle", marginRight: 6, color: "#fbbf24" }} />
           Deals file not found{error ? ` (${error})` : ""}. It ships with the site build from data/deals.json.

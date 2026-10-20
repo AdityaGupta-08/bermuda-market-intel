@@ -35,10 +35,14 @@ export const RECHECK_DAYS = 45;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const ID_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 // Redirect and archive wrappers hide the real publisher, so they don't count as a reference.
-const WRAPPER_HOSTS = ["news.google.com", "archive.ph", "archive.today", "web.archive.org"];
+const WRAPPER_HOSTS = [
+  "news.google.com", "webcache.googleusercontent.com", "web.archive.org",
+  "archive.ph", "archive.today", "archive.is", "archive.md", "archive.li", "archive.vn", "archive.fo",
+];
 
 const isNum = v => typeof v === "number" && Number.isFinite(v);
 const isText = v => typeof v === "string" && v.trim().length > 0;
+const has = (obj, k) => typeof k === "string" && Object.hasOwn(obj, k);
 
 /** True for a real calendar date written YYYY-MM-DD. */
 export function isIsoDate(s) {
@@ -53,26 +57,34 @@ function urlProblem(url) {
   let u;
   try { u = new URL(url); } catch { return "is not a valid URL"; }
   if (u.protocol !== "https:") return "must use https";
-  if (WRAPPER_HOSTS.some(h => u.hostname === h || u.hostname.endsWith(`.${h}`))) return `links via ${u.hostname}, not the publisher`;
+  const host = u.hostname.replace(/\.$/, "");
+  if (WRAPPER_HOSTS.some(h => host === h || host.endsWith(`.${h}`))) return `links via ${host}, not the publisher`;
+  // A link copied from a Google results page is a redirect, not the publisher.
+  if (/^(www\.)?google\.[a-z.]+$/.test(host) && u.pathname === "/url") return `links via ${host}, not the publisher`;
   return null;
 }
 
-/** Every rule a deal breaks, as readable strings; empty means it is vetted. */
-export function validateDeal(d) {
+/** Every rule a deal breaks, as readable strings; empty means it is vetted.
+    Pass today (YYYY-MM-DD) to also refuse a verified date in the future. */
+export function validateDeal(d, today = null) {
   const p = [];
   if (!d || typeof d !== "object") return ["is not an object"];
   if (!isText(d.id) || !ID_RE.test(d.id)) p.push("id must be lower-case words joined by hyphens");
   if (!isText(d.title)) p.push("missing title");
   if (!isText(d.summary)) p.push("missing summary");
-  if (!TYPE_TEXT[d.type]) p.push(`unknown type "${d.type}"`);
-  if (!STATUS_TEXT[d.status]) p.push(`unknown status "${d.status}"`);
+  if (d.note != null && !isText(d.note)) p.push("note must be text");
+  if (!has(TYPE_TEXT, d.type)) p.push(`unknown type "${d.type}"`);
+  if (!has(STATUS_TEXT, d.status)) p.push(`unknown status "${d.status}"`);
   if (!isText(d.region)) p.push("missing region");
 
   if (!isIsoDate(d.announced)) p.push("announced must be a YYYY-MM-DD date");
   if (!isIsoDate(d.verified)) p.push("verified must be a YYYY-MM-DD date");
+  else if (isIsoDate(today) && d.verified > today) p.push("verified date is in the future");
   if (d.status === "closed" && !isIsoDate(d.closed)) p.push("closed deal needs a closed date");
   if (d.status !== "closed" && d.closed != null) p.push("only a closed deal has a closed date");
   if (d.status === "terminated" && !isIsoDate(d.terminated)) p.push("terminated deal needs a terminated date");
+  if (d.status !== "terminated" && d.terminated != null) p.push("only a terminated deal has a terminated date");
+  if (isIsoDate(d.terminated) && isIsoDate(d.announced) && d.terminated < d.announced) p.push("terminated date is before the announcement");
   // Nothing on the card may post-date the check that vetted it.
   if (isIsoDate(d.verified))
     for (const k of ["announced", "closed", "terminated"])
@@ -85,11 +97,12 @@ export function validateDeal(d) {
 
   if (d.size != null) {
     if (!isText(d.size.text)) p.push("size needs its text as the source states it");
-    if (!BASIS_TEXT[d.size.basis]) p.push(`unknown size basis "${d.size.basis}"`);
+    if (!has(BASIS_TEXT, d.size.basis)) p.push(`unknown size basis "${d.size.basis}"`);
     if (d.size.usd_bn != null && !(isNum(d.size.usd_bn) && d.size.usd_bn > 0)) p.push("size.usd_bn must be a positive number");
   }
 
-  for (const [i, m] of (d.milestones || []).entries()) {
+  if (d.milestones != null && !Array.isArray(d.milestones)) p.push("milestones must be a list");
+  for (const [i, m] of (Array.isArray(d.milestones) ? d.milestones : []).entries()) {
     if (!isIsoDate(m?.date) || !isText(m?.event)) p.push(`milestone ${i + 1} needs a date and an event`);
     else if (isIsoDate(d.verified) && m.date > d.verified) p.push(`milestone ${i + 1} is after the verified date`);
   }
@@ -100,25 +113,32 @@ export function validateDeal(d) {
   sources.forEach((s, i) => {
     const n = `source ${i + 1}`;
     if (!isText(s?.label) || !isText(s?.publisher)) p.push(`${n} needs a label and a publisher`);
-    if (!SOURCE_KIND_TEXT[s?.kind]) p.push(`${n} kind must be primary or secondary`);
+    if (!has(SOURCE_KIND_TEXT, s?.kind)) p.push(`${n} kind must be primary or secondary`);
     if (s?.date != null && !isIsoDate(s.date)) p.push(`${n} date must be YYYY-MM-DD`);
+    if (s?.confirms_closing != null && typeof s.confirms_closing !== "boolean") p.push(`${n} confirms_closing must be true or false`);
     const bad = isText(s?.url) ? urlProblem(s.url) : "has no URL";
     if (bad) p.push(`${n} ${bad}`);
     if (isText(s?.url)) { if (seen.has(s.url)) p.push(`${n} repeats a URL`); seen.add(s.url); }
   });
   if (sources.length && !sources.some(s => s?.kind === "primary")) p.push("needs a primary source (company release, filing or regulator)");
+  // "Closed" must rest on a primary source that postdates the close or says it
+  // happened; an announcement saying a deal "will" close doesn't count.
+  if (d.status === "closed" && isIsoDate(d.closed) && !sources.some(s => s?.kind === "primary" && confirmsClosing(s, d.closed)))
+    p.push("closed deal needs a primary source dated on or after the close, or marked confirms_closing");
   return p;
 }
 
+const confirmsClosing = (s, closed) => s.confirms_closing === true || (isIsoDate(s.date) && s.date >= closed);
+
 /** Splits the file into vetted deals and rejected entries (with reasons).
     Duplicate ids reject every copy, so neither silently wins. */
-export function vetDeals(data) {
+export function vetDeals(data, today = null) {
   const all = Array.isArray(data?.deals) ? data.deals : [];
   const counts = {};
-  for (const d of all) if (d?.id) counts[d.id] = (counts[d.id] || 0) + 1;
+  for (const d of all) if (isText(d?.id)) counts[d.id] = (Object.hasOwn(counts, d.id) ? counts[d.id] : 0) + 1;
   const deals = [], rejected = [];
   all.forEach((d, i) => {
-    const problems = validateDeal(d);
+    const problems = validateDeal(d, today);
     if (d?.id && counts[d.id] > 1) problems.push("duplicate id");
     if (problems.length) rejected.push({ id: d?.id || `entry ${i + 1}`, problems });
     else deals.push(d);
@@ -198,7 +218,7 @@ export function dealStats(deals) {
 /** Everything the page renders. Filters: type, status ("all" or a key) and a
     free-text query over titles, parties, publishers and summaries. */
 export function buildDealsView(data, { type = "all", status = "all", query = "", sort = "recent", today = null } = {}) {
-  const { deals, rejected } = vetDeals(data);
+  const { deals, rejected } = vetDeals(data, today);
   const q = query.trim().toLowerCase();
   const shown = deals
     .filter(d => type === "all" || d.type === type)
@@ -207,10 +227,11 @@ export function buildDealsView(data, { type = "all", status = "all", query = "",
     .sort(bySort[sort] || bySort.recent);
   const countBy = key => deals.reduce((m, d) => ({ ...m, [d[key]]: (m[d[key]] || 0) + 1 }), {});
   return {
-    updated: data?.updated || null,
-    scope: data?.scope || null,
-    vetting: Array.isArray(data?.vetting) ? data.vetting : [],
-    excluded: Array.isArray(data?.excluded) ? data.excluded : [],
+    updated: isIsoDate(data?.updated) ? data.updated : null,
+    // File-level text goes straight into JSX, so anything that isn't text is dropped.
+    scope: isText(data?.scope) ? data.scope : null,
+    vetting: (Array.isArray(data?.vetting) ? data.vetting : []).filter(isText),
+    excluded: (Array.isArray(data?.excluded) ? data.excluded : []).filter(x => isText(x?.title) && isText(x?.reason)),
     stats: dealStats(deals),
     typeCounts: countBy("type"),
     statusCounts: countBy("status"),

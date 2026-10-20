@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 24 items
-Generated Mon 19 Oct 2026, 21:23 ADT
+Generated Tue 20 Oct 2026, 05:35 ADT
 
 ## Feed status
 
@@ -14,10 +14,6 @@ Generated Mon 19 Oct 2026, 21:23 ADT
 - **2026-10-19** — Yahoo Finance — [Athene Announces Third Quarter 2026 Fixed Income Investor Call](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzROWDdIa0hQemZlWVVuSHBfSG1sWUFLZXlPMmxoeU41ZndzUWlROHdocDJLbjR0aHBRUDNIZ0Y2UTNQSU10ZU1RYWFTTEVqVWY2QzUzcE8wb2ctZ0ozeUdtYWFRcEV2N0UxZUx4RDhOTkczOV9VLWt1eTlqT2ZhUzRKeGx3VHJRd1kyNWNHZkRueS1wajBhdWo4NGR2SjZ6b0E?oc=5)
 - **2026-10-13** — Pensions & Investments — [What Athene’s investments can tell asset managers about where insurance portfolios are heading](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5)
 - **2026-10-06** — Stock Titan — [Athene Hldg (ATH) Stock Price, News & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5)
-
-## Global Atlantic
-
-- **2026-10-05** — InsuranceNewsNet — [Global Atlantic names Dan Farrelly head of IMO and IBD channels](https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2NvYjZTbEo5NURrVDVBQlJuY0RpeEtWUU9sWDNBZndGemFra2MtaTB0bURPZWF5VUpVcUVEYy02R1REVUZtRGRpbWJhQnFwNFMwNWhoQURFNzgwb3E2anduVFJkVTBEWTZwT2NwTG5pc0NIZGFsaFVYenhlek1jWERkLW5wQTFCSmMtRVdzcGdkZlc2Vm9qbFlwSFBoeUhHV2dvZ25R?oc=5)
 
 ## Talcott
 
@@ -51,7 +47,11 @@ Generated Mon 19 Oct 2026, 21:23 ADT
 - **2026-10-19** — Traders Union — [Sagicor ratings affirmed by Fitch with stable outlook](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDFUa0F5dFRmRlNVNWR4bGV1Q3A0QlNWbURLR0JmZEU4VkhKVWNRc0x3cU0teEFQUURlOVVMa25wdVpCaEpiUmlyYi0tcGhjMUFPOFdhYm5vRkViYlpqa1FJZHk3V3NJdEY5UVJZVjMzRzdBdi1kRVpTMmNnSHBhZG43TEpqTmJYR3BmRy1mN0NTbkFN?oc=5)
 - **2026-10-18** — Jamaica Observer — [Sagicor’s Caribbean deal heads to shareholder vote](https://news.google.com/rss/articles/CBMilAFBVV95cUxNckRJeFFyMXNUUHBTUmRmUERlWkl6bXZNdXAxTG00VWw1MVpoSFNteUZvaEhJNG5kTGtXUE1XSi0teURIYUV0UTl3ajB3cmJPTjFMcWJqcmhHOE55Tmc2WExNVTc2OVlTNjRwTnBER043X0hMUVh0X1lDanpJV3hfS2NheTk1WUVEeHZSYTdKLVkwY3BU?oc=5)
 
-_No news in the window: Wilton Re, Fortitude Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Catalina_
+## Catalina
+
+- **2026-10-20** — theinsurer.com — [Exclusive: Apollo explores sale of Catalina Holdings' UK arm](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVGTXo3cEFmUXNDdkRWcW9pM2Z2Ym5lQ0lNdEhwTXUwNlowM3lGbDBtdUJXTFRuc19wTEh4QmhrR3NFekctZXRNUHotaXRYYVE1Y050SldRMnNYbmhFVE1DZGI5LUM2OTdzMXUwOEVZVGN4bDNmSE5qYk8wX1ZRTDkyb0pDa0RHbFZFM3FucUQ0U3llYlV6bTNNZ3ZjSWFTUUN0bjNCWUg?oc=5)
+
+_No news in the window: Global Atlantic, Wilton Re, Fortitude Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare_
 
 ---
 

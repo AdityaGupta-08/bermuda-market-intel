@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T00:23:32Z",
+  "updated": "2026-10-20T08:35:10Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,19 +17,19 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
       "name": "Google News: Catalina",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 19,
+      "count": 18,
       "error": null
     },
     {
@@ -95,13 +95,13 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "b09d51d99fb8",
+      "title": "Exclusive: Apollo explores sale of Catalina Holdings' UK arm",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVGTXo3cEFmUXNDdkRWcW9pM2Z2Ym5lQ0lNdEhwTXUwNlowM3lGbDBtdUJXTFRuc19wTEh4QmhrR3NFekctZXRNUHotaXRYYVE1Y050SldRMnNYbmhFVE1DZGI5LUM2OTdzMXUwOEVZVGN4bDNmSE5qYk8wX1ZRTDkyb0pDa0RHbFZFM3FucUQ0U3llYlV6bTNNZ3ZjSWFTUUN0bjNCWUg?oc=5",
+      "source": "theinsurer.com",
+      "feed": "Google News: Catalina",
+      "date": "2026-10-20T06:58:46Z",
+      "summary": "",
+      "companies": [
+        "Catalina"
+      ]
+    },
     {
       "id": "9e7590227165",
       "title": "Sagicor ratings affirmed by Fitch with stable outlook",
@@ -1223,18 +1235,6 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-09-06T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "3319e2451cbf",
-      "title": "AXQ Capital LP Purchases Shares of 7,323 Reinsurance Group of America, Incorporated $RGA",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX013MW1EM2dVUUxjaU02eHJZRmZ1ZFpSZmJKVk9CejAtckhNNzlYOW80OExfdXVGWnUxdllJclRWTWF2bU5icVhRdXEzbVNCMFlFd2ZUWTlNd1p3anZmSzB4WC00Q1V4ejdTQ0ZfVnk5bHFRRWcxenlZYllBdEEwUTNRMVlLSFVoc0NNc0gzMjhPOW1MMGpaaXZFcndHZDZ0NndYZlJjUDZvbUpHOTcyLVFvT3NWSFVlNURFdDRVbG9ndWkzZmFEOWtoQTdVRlF4ZldSbmpOU3R3b0ppdDlR?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-09-05T07:43:52Z",
       "summary": "",
       "companies": [
         "RGA"

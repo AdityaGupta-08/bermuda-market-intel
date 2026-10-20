@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T00:23:29Z",
+  "updated": "2026-10-20T08:35:07Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,26 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "543d542ba2a7",
+      "title": "The New Insurance Playbook: Scale, Specialization and Smarter Capital",
+      "source": "AllianceBernstein",
+      "date": "2026-10-20T06:10:38Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYUVfY1NEMUdpSjNfNUltSENvUzAwc1NQZUh2VGNTbnFPWkJHemRVVWRPUUt2V05WaE83WUZPMUZweUpWbmVrc09vSVdTSmdrQWVCam9fQ0V2LWxySUZFVC1GMER2TnRfMF9YSU9XcVF0V3BWelVGV1FoRkhuQUVzWTdkQWRoMTJXdVZQbHJYaE55LS1vZDNldEw2ZFJCMWRSaXk2UHdLQTVGeC1FN0NXeEJwZ1dReUZTZVJ0NVFheVRNZWNiS2lpWjZUUkFxNWNTb1VGZmpmeTVFSEVxME14WE9xRlU4QjVtelNnSEVlUUJhTmdsWHptdkpGUVB6Y01i?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "45e97f4667c0",
+      "title": "Moody\u2019s forecasts further growth in German insurers\u2019 private credit investments",
+      "source": "Reinsurance News",
+      "date": "2026-10-20T06:01:27Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzlZb01vLTl4bFFmZFpxVVd0dUVUaUFjQnRnLWpYXzhoeDJGX2tYeFFfT1VKYjZmaEJwdFJZU1FlS3k4RkZQN2dZRjdqN0pmeEpQeTRKQXdGanAyWGFqRmxoLVM1YU5SRlY1eDdwSndLTURVdWtXMkh1X1NWOTBXeEhkbjB1ZmlLQnh3NVg2NTlOWXdjTXNmQzZIcmlzSEV3T3VUN29CeGRTMHc?oc=5",
+      "isNew": false
+    },
     {
       "id": "a2702afc583b",
       "title": "Spain | Rising interest rates, less fragility",
@@ -35,6 +55,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXUxeVVHc0hZNU4zazIxT2JkM2Vxd3I3N0wyemRBd3M3dkVSY0hmSGhiS3JPTkhseEU5TlRqZWg4aXl5N0ZWRE01SjgwSXpBZXNyUFllbHdHNHd6SkYzNEMxTURyYkE5blNfLXU5V0N2RkRaS1B2cEtqMG03YWlqeDIyWlBhNHJPT2NpdTh0QXhGNl91UjgxZjhB0gGfAUFVX3lxTE1JMkc3czdPbDRmdlB2VENWaGU1SE5hVXY2WmM0QmNmNVlualhDQThsTnMwaEdhYVMtM2taemNfZmdWWEZXUjlTdTV2ZXlOWXQ5dTlyalBtc05SN0tHTlc4akpsY1psaHdvd0owMl81cXBJNUFRN0NheGoyTU54TVFkWDBXUkl0NHpTd3kzdlc3NnR0WlBqYi1LQ2hMVVlZWQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f16b4568a05c",
+      "title": "BOJ chief says underlying inflation 'quite close' to price goal",
+      "source": "Reuters",
+      "date": "2026-10-19T00:17:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUlPaThzNFplTl9JQ0oxQjlBY1VFT0N4ZnBGY09mTXZRaG9yeko1M1pzXzNfZ0Zla1RpZlNrVUd1dHRDMzY2cGNmUU13VzNmY2RFTW1VTW5kdDI1NEJsZTBxZ2Y0MHcxTTQweThkSUpZbmRyV1pLMEtpcXc3VWxmd3FqWmhmbzYya1lvSnEwa0J3QXQtMllSTjlfMWlIWVlpQV9KZnFBcDVaRkMtM2R1M1hVb2VJejdUYWRR?oc=5",
       "isNew": false
     },
     {
@@ -104,7 +134,7 @@
       "date": "2026-10-16T04:00:00Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTld6aWRsWmtoX2VGYVpFVmRFbXpLZDF5UUt5XzZ2VmNzQ0t3NVlIWWhkTFBRRm5YM1kxN25udS1UN2dhOXVpU3RwSG1iWUIyNC1OT05HaXlfNVNIM3FHenhHTFNoX2Yzb0hkaUY4c2owYzFlWGloY2pRRTFxTERObFBuRlpaTEo0NWpsNW5wRTRHbXA1Z3JJY1ZsVDVpTGhEZ3FaUFFOVTVCeXBrd2xCQUdwR2dIazJoRFlUbVJ1aWJmREx1?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQW9zcjVEODI0TVkwb3g1Q3BEU05naHM2ZGVHUzB4OTl6OWZ5Tzc3dGdpTGpKMFlFbTJPRy1sVE9BVWl1VC1DbURIUnpqS1hpbDFYX0RhdUpGQlRZSWxNTU5CeEZzbVhfVlZ0ZXBvdHRoWHkzcEh1ck80VmpybkZWVHJid3pBNDJBYm54TS1peHpjZUxTRmtONUNVZlhiNTRZcDZlVlRIUGNUTDZVVHNQVGZDMGJpZ1IxaFF0Tm52OVRzMjk4NjBDSQ?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Structured Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "2effb79e9d97",
-      "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
-      "source": "Pensions & Investments",
-      "date": "2026-10-13T13:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8e88c5cb4a0f",
-      "title": "A Japan with higher rates changes everything",
-      "source": "The Japan Times",
-      "date": "2026-10-13T04:00:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVVFlRW14NldmdnRseXdweEhZR1hSQWREV0pWNDQyVkFqMXVtMnpPR2lHcXdyVjlHdjhqYlZ6MjFvRU5EN3VQNmh1TnNXSmplTzhONG1UdkxkNl9IVHdwVmtseUpVaW9pdjdQMXBpTHJRMlpuQ1dzajU3cU5IbGNmNXcyMjFCbVpRVFVjVmp3?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "812ccd5c2b2d",
-      "title": "Insurance Regulators Tighten Reinsurance Capital, ILS and Risk Transfer Rules",
-      "source": "Beinsure",
-      "date": "2026-10-12T17:11:51Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wSHNjUlZOUzh4eDFqajFON3BXRkM0NWpEWHBkdk5aV0xKdXVhQ25idnNhMlByR19UeWx1Vy1QS0dHYWtuWnVMd2ZTWE1POHU4eUhtXzM4aTZfRG0wclZ1bGtJNW5PMTNWOW1PckFSa0ZFdjVxRVZkb1lB?oc=5",
       "isNew": false
     }
   ]

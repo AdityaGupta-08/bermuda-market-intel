@@ -1,0 +1,563 @@
+{
+  "_comment": "Hand-curated deals tracker shown on the Deals page. Not written by the pipeline: edit by hand. Every deal must carry at least one primary source (company release, SEC filing or regulator) and a 'verified' date; scripts/test_deals.mjs enforces the rules below in CI and the page hides any entry that breaks them. Status follows what a source says: a deal stays 'pending' until a source confirms completion. Sizes are as the source states them; usd_bn is set only when a source gives a US dollar figure, and is never converted here.",
+  "updated": "2026-10-20",
+  "scope": "Signed or completed transactions involving Bermuda life & annuity reinsurers, their sponsors and their cedants, announced or completed since 1 January 2025.",
+  "vetting": [
+    "At least one primary source: the company's own release, an SEC filing, or a regulator document.",
+    "Facts on the card (parties, size, dates, status) come from those sources; independent coverage is linked where it adds detail.",
+    "A deal is listed only once it is signed. Reports of talks or exploratory sales are left out until a party confirms them.",
+    "Status is 'Closed' only when a source confirms completion; until then it stays 'Pending', and the card says when it was last checked."
+  ],
+  "excluded": [
+    {
+      "title": "Apollo exploring a sale of Catalina Holdings' UK arm",
+      "date": "2026-10-20",
+      "reason": "Press report of an exploratory process (The Insurer); nothing signed or confirmed by Apollo or Catalina."
+    }
+  ],
+  "deals": [
+    {
+      "id": "lincoln-talcott-gul-2026",
+      "title": "Talcott reinsures $6.3bn of Lincoln Financial GUL and funding agreements",
+      "type": "block_reinsurance",
+      "status": "closed",
+      "announced": "2026-07-30",
+      "closed": "2026-10-01",
+      "region": "US",
+      "parties": [
+        {"name": "Talcott Financial Group", "role": "reinsurer"},
+        {"name": "Lincoln Financial", "role": "cedant"}
+      ],
+      "size": {"usd_bn": 6.3, "basis": "reserves", "text": "$6.3bn: ~$5.8bn GUL reserves + ~$0.5bn funding agreements"},
+      "summary": "A Talcott subsidiary reinsures about $5.8bn of in-force guaranteed universal life statutory reserves (about 37% of Lincoln's remaining GUL block) plus about $500m of funding agreement business, partly as coinsurance with funds withheld and partly as modco. Lincoln keeps administration and put the all-in statutory capital impact at about $200m. With its 2023 Fortitude Re deal, about 60% of Lincoln's GUL block is now reinsured.",
+      "milestones": [
+        {"date": "2026-07-30", "event": "Agreement announced"},
+        {"date": "2026-10-01", "event": "Closed, effective 1 October"}
+      ],
+      "sources": [
+        {"label": "Announcement", "publisher": "Lincoln Financial", "kind": "primary", "date": "2026-07-30", "url": "https://www.lincolnfinancial.com/public/aboutus/newsroom/pressreleases/Lincoln-Financial-Announces-Reinsurance-Transaction-with-Talcott"},
+        {"label": "Closing release", "publisher": "Lincoln Financial", "kind": "primary", "date": "2026-10-01", "url": "https://www.lincolnfinancial.com/public/aboutus/newsroom/pressreleases/Lincoln-Financial-Closes-Reinsurance-Transaction-with-Talcott"},
+        {"label": "Lincoln closes $6.3bn reinsurance transaction with Talcott", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/lincoln-closes-6-3bn-reinsurance-transaction-with-talcott/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "fortitude-dayforward-2026",
+      "title": "Fortitude Re buys Dayforward's platform to build Fortitude Life",
+      "type": "m_and_a",
+      "status": "pending",
+      "announced": "2026-09-28",
+      "region": "US",
+      "parties": [
+        {"name": "Fortitude Re", "role": "acquirer"},
+        {"name": "Dayforward", "role": "target"}
+      ],
+      "size": null,
+      "summary": "Fortitude Re's parent, FGH Parent, L.P., is buying substantially all of insurtech Dayforward's assets (technology platform, distribution agreements, IP, licensed agency and staff) into a new subsidiary to be renamed Fortitude Life. Dayforward's insurance entities and legacy policies are excluded. Gives Fortitude Re its own annuity origination platform.",
+      "note": "Price not disclosed. The release does not say whether the purchase has completed.",
+      "sources": [
+        {"label": "Fortitude Re Acquires Dayforward to Broaden Capabilities", "publisher": "Fortitude Re via Business Wire", "kind": "primary", "date": "2026-09-28", "url": "https://www.businesswire.com/news/home/20260928125692/en/Fortitude-Re-Acquires-Dayforward-to-Broaden-Capabilities"},
+        {"label": "Fortitude Re acquires insurtech Dayforward", "publisher": "The Royal Gazette", "kind": "secondary", "date": "2026-09-28", "url": "https://www.royalgazette.com/reinsurance/business/article/20260928/fortitude-re-acquires-insurtech-dayforward/"},
+        {"label": "Fortitude Re advances long-term strategy with Dayforward acquisition", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/fortitude-re-advances-long-term-strategy-with-dayforward-acquisition/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "prismic-prudential-5b-2026",
+      "title": "Prismic to reinsure a further $5bn of Prudential's Japanese whole life",
+      "type": "block_reinsurance",
+      "status": "pending",
+      "announced": "2026-10-05",
+      "region": "Japan",
+      "parties": [
+        {"name": "Prismic Life Re", "role": "reinsurer"},
+        {"name": "Prudential Financial", "role": "cedant"}
+      ],
+      "size": {"usd_bn": 5, "basis": "reserves", "text": "~$5bn reserves (USD-denominated Japanese whole life)"},
+      "summary": "Prismic will reinsure about $5bn of reserves backing USD-denominated Japanese whole life policies written by Prudential's Japanese affiliates; Prudential keeps its policyholder obligations and administration. Prismic expects to manage about $25bn of assets supporting assumed liabilities once it closes. Subject to regulatory approvals.",
+      "sources": [
+        {"label": "Prismic Life Announces $5 Billion Reinsurance Agreement with Prudential Financial", "publisher": "Prudential Financial", "kind": "primary", "date": "2026-10-05", "url": "https://news.prudential.com/us-en/latest-news/prudential-news/2026/Q4/Prismic-Life-Announces-5-Billion-Reinsurance-Agreement-with-Prudential-Financial"},
+        {"label": "Investor relations copy", "publisher": "Prudential Financial", "kind": "primary", "date": "2026-10-05", "url": "https://investor.prudential.com/news/detail/2645/prismic-life-announces-5-billion-reinsurance-agreement-with-prudential-financial"},
+        {"label": "Prismic expands Japanese business with $5bn deal", "publisher": "The Royal Gazette", "kind": "secondary", "date": "2026-10-05", "url": "https://www.royalgazette.com/reinsurance/business/article/20261005/prismic-expands-japanese-business-with-5bn-deal/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "wilton-sunlife-windsor-2026",
+      "title": "Sun Life and Wilton Re form the Windsor Life Re partnership",
+      "type": "sidecar",
+      "status": "pending",
+      "announced": "2026-08-25",
+      "region": "US",
+      "parties": [
+        {"name": "Wilton Re", "role": "sponsor"},
+        {"name": "Sun Life", "role": "investor"}
+      ],
+      "size": {"usd_bn": 0.9, "basis": "capital", "text": "~$900m equity; ~$1.7bn initial in-force block"},
+      "summary": "Wilton Re will set up and manage Windsor Life Re, a US- and Bermuda-domiciled reinsurer supporting its in-force life and annuity block origination in the US, with Sun Life's SLC Management as lead asset manager. About $900m of equity, with Sun Life and Wilton Re each contributing roughly a third; expected to start with a ~$1.7bn in-force block and grow to ~$10bn of assets at scale.",
+      "note": "Launch expected in the first half of 2027, subject to regulatory approvals.",
+      "sources": [
+        {"label": "Sun Life and Wilton Re announce a strategic partnership", "publisher": "Sun Life", "kind": "primary", "date": "2026-08-25", "url": "https://www.sunlife.com/en/newsroom/news-releases/announcement/sun-life-and-wilton-re-announce-a-strategic-partnership-combining-depth-and-breadth-of-capabilities-across-life-and-annuity-reinsurance-and-asset-management/124124/"},
+        {"label": "Wilton Re copy of the release", "publisher": "Wilton Re", "kind": "primary", "date": "2026-08-25", "url": "https://www.wiltonre.com/news-release-sun-life-wilton-re/"},
+        {"label": "Wilton Re and Sun Life partner on new life & annuity reinsurance vehicle", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/wilton-re-and-sun-life-partner-on-new-life-annuity-reinsurance-vehicle/"},
+        {"label": "Sun Life and Wilton Re in strategic partnership", "publisher": "The Royal Gazette", "kind": "secondary", "date": "2026-08-25", "url": "https://www.royalgazette.com/reinsurance/business/article/20260825/sun-life-and-wilton-re-in-strategic-partnership/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "sixth-street-monument-2026",
+      "title": "Sixth Street to become majority shareholder of Monument Re",
+      "type": "m_and_a",
+      "status": "pending",
+      "announced": "2026-06-29",
+      "region": "Europe",
+      "parties": [
+        {"name": "Sixth Street", "role": "acquirer"},
+        {"name": "Monument Re", "role": "target"},
+        {"name": "Hannover Re", "role": "continuing shareholder"}
+      ],
+      "size": null,
+      "summary": "Vehicles managed or advised by Sixth Street agreed to take a majority stake in the Bermuda-based pan-European insurance consolidator, bringing fresh capital. Hannover Re stays a key shareholder and Monument keeps operating as a standalone company.",
+      "note": "Financial terms not disclosed. Expected to close by the end of 2026, subject to regulatory approvals.",
+      "sources": [
+        {"label": "Sixth Street to Become Majority Shareholder of Monument Re", "publisher": "Monument Re", "kind": "primary", "date": "2026-06-29", "url": "https://www.monumentregroup.com/sixth-street-to-become-majority-shareholder-of-monument-re/"},
+        {"label": "Sixth Street copy of the release", "publisher": "Sixth Street", "kind": "primary", "date": "2026-06-29", "url": "https://sixthstreet.com/investment_announce/sixth-street-to-become-majority-shareholder-of-monument-re/"},
+        {"label": "Sixth Street agrees to take majority stake in Monument Re", "publisher": "The Royal Gazette", "kind": "secondary", "date": "2026-06-29", "url": "https://www.royalgazette.com/reinsurance/business/article/20260629/sixth-street-agrees-to-take-majority-stake-in-monument-re/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "prismic-capital-raise-2026",
+      "title": "Prismic Life closes $1.9bn oversubscribed capital raise",
+      "type": "capital",
+      "status": "closed",
+      "announced": "2026-05-20",
+      "closed": "2026-05-20",
+      "region": "Bermuda",
+      "parties": [
+        {"name": "Prismic Life", "role": "issuer"}
+      ],
+      "size": {"usd_bn": 1.9, "basis": "capital", "text": "~$1.9bn of commitments vs a $1.6bn target"},
+      "summary": "Prismic, the Bermuda reinsurer sponsored by Prudential and Warburg Pincus, closed its raise at about $1.9bn of total commitments, above its original $1.6bn target. It says it has now raised more than $3.3bn in total and manages over $17bn of liabilities, including Prudential's US and Japanese blocks and third-party business such as the Dai-ichi Life transaction.",
+      "sources": [
+        {"label": "Prismic Life announces completion of oversubscribed capital raise", "publisher": "Prudential Financial", "kind": "primary", "date": "2026-05-20", "url": "https://news.prudential.com/us-en/latest-news/prudential-news/2026/q2/Prismic-Life-announces-completion-of-oversubscribed-capital-raise"},
+        {"label": "Business Wire release", "publisher": "Prismic Life via Business Wire", "kind": "primary", "date": "2026-05-20", "url": "https://www.businesswire.com/news/home/20260520537530/en/Prismic-Life-Announces-Completion-of-Oversubscribed-Capital-Raise"},
+        {"label": "Prismic raises $1.9b as life reinsurance platform expands", "publisher": "The Royal Gazette", "kind": "secondary", "date": "2026-05-22", "url": "https://www.royalgazette.com/reinsurance/business/article/20260522/prismic-raises-1-9b-as-life-reinsurance-platform-expands/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "prismic-daiichi-2026",
+      "title": "Dai-ichi Life reinsures a yen whole life and annuity block with Prismic",
+      "type": "block_reinsurance",
+      "status": "pending",
+      "announced": "2026-04-09",
+      "region": "Japan",
+      "parties": [
+        {"name": "Prismic Life Re", "role": "reinsurer"},
+        {"name": "Dai-ichi Life", "role": "cedant"}
+      ],
+      "size": null,
+      "summary": "Prismic Life Reinsurance International agreed to reinsure an in-force, yen-denominated block of whole life and annuity policies from Dai-ichi Life, which keeps its policyholder obligations and administration. Prismic's May 2026 capital-raise release cites the Dai-ichi transaction.",
+      "note": "Size not disclosed. Announcement date from Reinsurance News coverage; completion not confirmed in a source.",
+      "sources": [
+        {"label": "Prismic capital-raise release (cites the Dai-ichi Life transaction)", "publisher": "Prismic Life via Business Wire", "kind": "primary", "date": "2026-05-20", "url": "https://www.businesswire.com/news/home/20260520537530/en/Prismic-Life-Announces-Completion-of-Oversubscribed-Capital-Raise"},
+        {"label": "Daiichi to reinsure block of whole life and annuity policies with Prismic Life", "publisher": "Reinsurance News", "kind": "secondary", "date": "2026-04-09", "url": "https://www.reinsurancene.ws/daiichi-to-reinsure-block-of-whole-life-and-annuity-policies-with-prismic-life/"},
+        {"label": "Prismic strikes Daiichi reinsurance deal", "publisher": "The Royal Gazette", "kind": "secondary", "date": "2026-04-13", "url": "https://www.royalgazette.com/reinsurance/business/article/20260413/prismic-strikes-daiichi-reinsurance-deal/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "bws-just-group-2025",
+      "title": "Brookfield Wealth Solutions acquires Just Group",
+      "type": "m_and_a",
+      "status": "closed",
+      "announced": "2025-07-31",
+      "closed": "2026-04-01",
+      "region": "UK",
+      "parties": [
+        {"name": "Brookfield Wealth Solutions", "role": "acquirer"},
+        {"name": "Just Group", "role": "target"}
+      ],
+      "size": {"usd_bn": 3.2, "basis": "purchase price", "text": "£2.4bn ($3.2bn), 220p a share in cash"},
+      "summary": "BWS bought UK pension risk transfer and retirement specialist Just Group plc by court-sanctioned scheme of arrangement, at a ~75% premium to the undisturbed price. Shareholders approved on 19 Sep 2025 and the PRA and FCA cleared it. BWS plans to combine Just with its UK insurer Blumont under the Just brand; Brookfield says the deal adds about $40bn of insurance assets.",
+      "milestones": [
+        {"date": "2025-07-31", "event": "Rule 2.7 offer announcement"},
+        {"date": "2025-09-19", "event": "Shareholders approve the scheme"},
+        {"date": "2026-04-01", "event": "Completed; Just delisted from the LSE"}
+      ],
+      "sources": [
+        {"label": "Rule 2.7 announcement (filed as SEC exhibit 2.1)", "publisher": "SEC EDGAR", "kind": "primary", "date": "2025-07-31", "url": "https://www.sec.gov/Archives/edgar/data/0001837429/000119312525169827/d92864dex21.htm"},
+        {"label": "Brookfield Wealth Solutions Completes Acquisition of Just Group", "publisher": "Brookfield", "kind": "primary", "date": "2026-04-01", "url": "https://bnt.brookfield.com/press-releases/brookfield-wealth-solutions-completes-acquisition-just-group"},
+        {"label": "Brookfield Wealth Solutions completes acquisition of Just Group", "publisher": "Pensions Age", "kind": "secondary", "url": "https://pensionsage.com/pa/Brookfield-completes-acquisition-of-Just-Group.php"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "talcott-japan-post-2026",
+      "title": "Talcott adds ¥100bn to its Japan Post Insurance block",
+      "type": "block_reinsurance",
+      "status": "closed",
+      "announced": "2026-03-31",
+      "closed": "2026-03-31",
+      "region": "Japan",
+      "parties": [
+        {"name": "Talcott Financial Group", "role": "reinsurer"},
+        {"name": "Japan Post Insurance", "role": "cedant"}
+      ],
+      "size": {"usd_bn": 0.625, "basis": "liabilities", "text": "¥100bn (~$625m) of in-force payout annuities"},
+      "summary": "Expansion of the 2025 transaction: Talcott reinsures an additional ¥100bn block of in-force payout annuities from Japan Post Insurance, effective 31 Mar 2026. Japan Post Insurance continues to service and administer the policies.",
+      "sources": [
+        {"label": "Talcott Financial Group Expands Block Reinsurance Transaction with Japan Post Insurance by ¥100 Billion", "publisher": "Talcott via Business Wire", "kind": "primary", "date": "2026-03-31", "url": "https://www.businesswire.com/news/home/20260331002402/en/Talcott-Financial-Group-Expands-Block-Reinsurance-Transaction-with-Japan-Post-Insurance-by-%C2%A5100-Billion"},
+        {"label": "Asian deals fuel Bermuda's life reinsurance growth", "publisher": "The Royal Gazette", "kind": "secondary", "date": "2026-04-02", "url": "https://www.royalgazette.com/reinsurance/business/article/20260402/asian-deals-fuel-bermudas-life-reinsurance-growth/"},
+        {"label": "Talcott expands block reinsurance agreement with Japan Post Insurance", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/talcott-expands-block-reinsurance-agreement-with-japan-post-insurance/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "athora-pic-2025",
+      "title": "Athora acquires Pension Insurance Corporation",
+      "type": "m_and_a",
+      "status": "closed",
+      "announced": "2025-07-03",
+      "closed": "2026-03-27",
+      "region": "UK",
+      "parties": [
+        {"name": "Athora", "role": "acquirer"},
+        {"name": "Pension Insurance Corporation", "role": "target"}
+      ],
+      "size": {"basis": "purchase price", "text": "~£5.7bn"},
+      "summary": "Athora, the Apollo-affiliated European savings and retirement group, bought 100% of Pension Insurance Corporation Group, a top-three UK pension risk transfer insurer that keeps its brand. PRA approval came on 6 Mar 2026. Athora also plans to move its corporate and legal headquarters from Bermuda to the UK by late 2027, subject to approvals.",
+      "milestones": [
+        {"date": "2025-07-03", "event": "Agreement announced"},
+        {"date": "2026-03-06", "event": "PRA approval"},
+        {"date": "2026-03-27", "event": "Completed"}
+      ],
+      "sources": [
+        {"label": "Athora to acquire Pension Insurance Corporation Group", "publisher": "Pension Insurance Corporation", "kind": "primary", "date": "2025-07-03", "url": "https://www.pensioncorporation.com/news-insights/press-releases/2025/athora-to-acquire-pension-insurance-corporation-group"},
+        {"label": "Athora to acquire Pension Insurance Corporation Group", "publisher": "Athora", "kind": "primary", "date": "2025-07-03", "url": "https://www.athora.com/news/athora-to-acquire-PIC"},
+        {"label": "Athora completes acquisition of PIC, plans to relocate headquarters to UK", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/athora-completes-acquisition-of-pic-plans-to-relocate-headquarters-to-uk/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "corebridge-equitable-merger-2026",
+      "title": "Corebridge and Equitable agree an all-stock merger",
+      "type": "m_and_a",
+      "status": "pending",
+      "announced": "2026-03-26",
+      "region": "US",
+      "parties": [
+        {"name": "Corebridge Financial", "role": "merger party"},
+        {"name": "Equitable Holdings", "role": "merger party"}
+      ],
+      "size": {"usd_bn": 22, "basis": "equity value", "text": "~$22bn combined equity value (all-stock)"},
+      "summary": "The two will combine under a new parent operating as Equitable (NYSE: EQH): 1.0 new share per Corebridge share and 1.55516 per Equitable share, for about 51% / 49% ownership. Combined ~$1.5tn of assets under management and administration and 12m+ customers, with over $500m of synergies targeted by 2028.",
+      "note": "Expected to close by year-end 2026; regulatory approvals outstanding as of the stockholder-approval release.",
+      "milestones": [
+        {"date": "2026-03-26", "event": "Merger agreement announced"},
+        {"date": "2026-07-30", "event": "Both sets of stockholders approve"}
+      ],
+      "sources": [
+        {"label": "Corebridge Financial and Equitable Holdings Announce Transformational Merger", "publisher": "Corebridge Financial", "kind": "primary", "date": "2026-03-26", "url": "https://investors.corebridgefinancial.com/news/news-details/2026/Corebridge-Financial-and-Equitable-Holdings-Announce-Transformational-Merger/default.aspx"},
+        {"label": "Corebridge Financial and Equitable Holdings Stockholders Approve Merger", "publisher": "Equitable Holdings", "kind": "primary", "date": "2026-07-30", "url": "https://ir.equitableholdings.com/news-and-events/investor-releases/news-details/2026/Corebridge-Financial-and-Equitable-Holdings-Stockholders-Approve-Merger/default.aspx"},
+        {"label": "Corebridge, Equitable agree $22 billion merger", "publisher": "Insurance Business", "kind": "secondary", "url": "https://www.insurancebusinessmag.com/us/news/mergers-acquisitions/corebridge-equitable-agree-22-billion-merger-570077.aspx"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "fg-ancient-2026",
+      "title": "Ancient Financial buys F&G Life Re",
+      "type": "m_and_a",
+      "status": "closed",
+      "announced": "2026-02-19",
+      "closed": "2026-03-01",
+      "region": "Bermuda",
+      "parties": [
+        {"name": "Ancient Financial", "role": "acquirer"},
+        {"name": "F&G Annuities & Life", "role": "seller"}
+      ],
+      "size": {"usd_bn": 1.8, "basis": "liabilities", "text": "$1.8bn in-force block ceded with the entity"},
+      "summary": "Newly launched Ancient Financial bought F&G's Bermuda reinsurer F&G Life Re Ltd, renamed Ancient Re, taking the remaining $1.8bn in-force block with it. F&G adds Ancient Re as a forward-flow reinsurance partner; F&G said the unit was no longer needed to support its reinsurance strategy.",
+      "sources": [
+        {"label": "Ancient Financial Launches ... Announces Agreement to Acquire F&G Life Re Ltd.", "publisher": "Ancient Financial via Business Wire", "kind": "primary", "date": "2026-02-19", "url": "https://www.businesswire.com/news/home/20260219942227/en/Ancient-Financial-Launches-as-a-Strategic-Asset-Management-and-Reinsurance-Holding-Company-Announces-Agreement-to-Acquire-FG-Life-Re-Ltd."},
+        {"label": "F&G first quarter 2026 results (confirms 1 March closing)", "publisher": "F&G Annuities & Life", "kind": "primary", "url": "https://investors.fglife.com/news/news-details/2026/FG-Annuities--Life-Reports-First-Quarter-2026-Results/default.aspx"},
+        {"label": "Representing Ancient Financial on its acquisition of FG Life Re", "publisher": "Walkers (Ancient's Bermuda counsel)", "kind": "secondary", "url": "https://www.walkersglobal.com/en/About-us/News/2026/03/Representing-Ancient-Financial-on-its-acquisition-of-FG-Life-Re"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "sagicor-caribbean-2025",
+      "title": "Sagicor combines Sagicor Group Jamaica and Sagicor Life Inc.",
+      "type": "restructuring",
+      "status": "pending",
+      "announced": "2025-12-16",
+      "region": "Caribbean",
+      "parties": [
+        {"name": "Sagicor Financial", "role": "parent"},
+        {"name": "Sagicor Group Jamaica", "role": "merger party"},
+        {"name": "Sagicor Life Inc.", "role": "merger party"}
+      ],
+      "size": {"usd_bn": 6.9, "basis": "assets", "text": "US$6.9bn pro forma total assets"},
+      "summary": "Sagicor Financial agreed to combine two subsidiaries under a new holding company, Sagicor Group Caribbean, with about US$6.9bn of pro forma assets and US$1.3bn of revenues; SFC expects to own about 55%. Conditions include regulatory approvals, SGJ shareholder approval and SGJ raising financing, including new investment from Pan Jamaica Group.",
+      "note": "SGJ shareholders meet on 28 Oct 2026; management has said closing could slip into the first half of 2027.",
+      "sources": [
+        {"label": "Sagicor Financial Announces Proposed Simplified Organizational Structure", "publisher": "Sagicor", "kind": "primary", "date": "2025-12-16", "url": "https://www.sagicor.com/en/news/sagicor-financial-announces-proposed-simplified-organizational-structure"},
+        {"label": "Newswire copy of the release", "publisher": "Sagicor via Newswire", "kind": "primary", "date": "2025-12-16", "url": "https://www.newswire.ca/news-releases/sagicor-financial-announces-proposed-simplified-organizational-structure-868362215.html"},
+        {"label": "Sagicor's Caribbean deal heads to shareholder vote", "publisher": "Jamaica Observer", "kind": "secondary", "date": "2026-10-18", "url": "https://www.jamaicaobserver.com/2026/10/18/sagicors-caribbean-deal-heads-shareholder-vote/"},
+        {"label": "Sagicor Caribbean merger could stretch into 2027", "publisher": "Jamaica Observer", "kind": "secondary", "date": "2026-08-19", "url": "https://www.jamaicaobserver.com/2026/08/19/sagicor-caribbean-merger-stretch-2027/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "metlife-talcott-va-2025",
+      "title": "Talcott reinsures $10bn of MetLife US retail variable annuities",
+      "type": "block_reinsurance",
+      "status": "closed",
+      "announced": "2025-04-30",
+      "closed": "2025-12-01",
+      "region": "US",
+      "parties": [
+        {"name": "Talcott Financial Group", "role": "reinsurer"},
+        {"name": "MetLife", "role": "cedant"}
+      ],
+      "size": {"usd_bn": 10, "basis": "reserves", "text": "~$10bn VA and rider reserves"},
+      "summary": "Talcott Resolution Life Insurance Company reinsures about $10bn of MetLife's US retail variable annuity and rider reserves on a modco and funds-withheld basis; MetLife keeps administration. MetLife valued the deal at about $250m (ceding commission plus capital released over time) and said it cuts VA account values by about 40%.",
+      "sources": [
+        {"label": "MetLife Announces $10 Billion Variable Annuity Risk Transfer Transaction", "publisher": "MetLife", "kind": "primary", "date": "2025-04-30", "url": "https://www.metlife.com/about-us/newsroom/2025/april/metlife-announces-10billion-variable-annuity-risk-transfer-transaction/"},
+        {"label": "MetLife Completes $10 Billion Variable Annuity Risk Transfer Transaction", "publisher": "MetLife", "kind": "primary", "date": "2025-12-01", "url": "https://www.metlife.com/about-us/newsroom/2025/december/metlife-completes-10-billion-variable-annuity-risk-transfer-transaction/"},
+        {"label": "Talcott enters into $10bn reinsurance agreement with MetLife", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/talcott-enters-into-10bn-reinsurance-agreement-with-metlife/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "aquarian-brighthouse-2025",
+      "title": "Aquarian to take Brighthouse Financial private",
+      "type": "m_and_a",
+      "status": "pending",
+      "announced": "2025-11-06",
+      "region": "US",
+      "parties": [
+        {"name": "Aquarian Capital", "role": "acquirer"},
+        {"name": "Brighthouse Financial", "role": "target"}
+      ],
+      "size": {"usd_bn": 4.1, "basis": "purchase price", "text": "~$4.1bn, $70 a share in cash"},
+      "summary": "Aquarian, parent of Bermuda reinsurer Somerset Re, agreed to buy Brighthouse for $70 a share in cash; Brighthouse keeps its name, Charlotte headquarters and CEO. Stockholders approved on 12 Feb 2026, the HSR waiting period expired, and FINRA and CFIUS cleared it.",
+      "note": "As of the Q2 2026 10-Q only insurance approvals in Delaware, New York and Massachusetts remained; the outside date extends automatically to 6 Dec 2026.",
+      "milestones": [
+        {"date": "2025-11-06", "event": "Merger agreement announced"},
+        {"date": "2026-02-12", "event": "Stockholders approve"},
+        {"date": "2026-06-18", "event": "CFIUS review concluded"}
+      ],
+      "sources": [
+        {"label": "Aquarian Capital to Acquire Brighthouse Financial", "publisher": "Brighthouse / Aquarian via Business Wire", "kind": "primary", "date": "2025-11-06", "url": "https://www.businesswire.com/news/home/20251106216739/en/Aquarian-Capital-to-Acquire-Brighthouse-Financial"},
+        {"label": "Brighthouse Financial Stockholders Approve Merger with Aquarian Capital", "publisher": "Brighthouse via Business Wire", "kind": "primary", "date": "2026-02-12", "url": "https://www.businesswire.com/news/home/20260212418449/en/Brighthouse-Financial-Stockholders-Approve-Merger-with-Aquarian-Capital"},
+        {"label": "Brighthouse Q2 2026 10-Q (remaining approvals)", "publisher": "SEC EDGAR", "kind": "primary", "url": "https://www.sec.gov/Archives/edgar/data/0001685040/000168504026000028/bhf-20260630.htm"},
+        {"label": "Aquarian Capital to acquire Brighthouse Financial in $4.1B deal", "publisher": "InvestmentNews", "kind": "secondary", "url": "https://www.investmentnews.com/retirement-planning/aquarian-capital-to-acquire-brighthouse-financial-in-41b-deal/262930"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "nippon-resolution-life-2024",
+      "title": "Nippon Life takes full ownership of Resolution Life",
+      "type": "m_and_a",
+      "status": "closed",
+      "announced": "2024-12-11",
+      "closed": "2025-10-31",
+      "region": "Global",
+      "parties": [
+        {"name": "Nippon Life", "role": "acquirer"},
+        {"name": "Resolution Life", "role": "target"}
+      ],
+      "size": {"usd_bn": 8.2, "basis": "purchase price", "text": "$8.2bn for the remaining shares (values Resolution Life at $10.6bn)"},
+      "summary": "Nippon Life, already a minority shareholder, bought the rest of Resolution Life from its investment limited partnership. The US, UK, Bermuda and Singapore institutional business becomes a Nippon Life subsidiary; the Australasian business merges with Nippon's MLC to form the Acenda joint venture. Sir Clive Cowdery stays as chair and CEO.",
+      "sources": [
+        {"label": "Resolution Life announces acquisition by Nippon Life", "publisher": "Resolution Life", "kind": "primary", "date": "2024-12-11", "url": "https://www.resolutionlife.com/news-and-insights/resolution-life-announces-acquisition-by-nippon-life/"},
+        {"label": "Resolution Life confirms completion of acquisition by Nippon Life", "publisher": "Resolution Life", "kind": "primary", "date": "2025-10-31", "url": "https://www.resolutionlife.com/news-and-insights/resolution-life-confirms-completion-of-acquisition-by-nippon-life/"},
+        {"label": "Nippon Life announcement (PDF)", "publisher": "Nippon Life", "kind": "primary", "date": "2024-12-11", "url": "https://www.nissay.co.jp/global/news/pdf/20241211.pdf"},
+        {"label": "Nippon Life completes acquisition of Resolution Life", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/nippon-life-completes-acquisition-of-resolution-life/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "athene-sony-life-2025",
+      "title": "Athene to reinsure a Sony Life US-dollar whole life block",
+      "type": "block_reinsurance",
+      "status": "pending",
+      "announced": "2025-09-29",
+      "region": "Japan",
+      "parties": [
+        {"name": "Athene", "role": "reinsurer"},
+        {"name": "Sony Life", "role": "cedant"},
+        {"name": "Swiss Re", "role": "retrocessionaire"}
+      ],
+      "size": null,
+      "summary": "Athene intends to reinsure an in-force block of USD-denominated whole life policies from Sony Life and retrocede all of the block's mortality risk to Swiss Re. It is Athene's eighth reinsurance transaction across seven cedents and its second block deal with a Japanese insurer, taking its Japan cedant volume to about $19bn.",
+      "note": "Block size not disclosed separately. No completion announcement found.",
+      "sources": [
+        {"label": "Athene Announces Block Reinsurance Transaction with Sony Life in Japan", "publisher": "Athene", "kind": "primary", "date": "2025-09-29", "url": "https://ir.athene.com/news-events/press-releases/detail/196/athene-announces-block-reinsurance-transaction-with-sony-life-in-japan"},
+        {"label": "Athene announces block reinsurance transaction with Japanese insurer Sony Life", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/athene-announces-block-reinsurance-transaction-with-japanese-insurer-sony-life/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "fg-fort-greene-2025",
+      "title": "F&G starts a flow partnership with Blackstone-backed Fort Greene Re",
+      "type": "sidecar",
+      "status": "closed",
+      "announced": "2025-08-06",
+      "closed": "2025-08-01",
+      "region": "US",
+      "parties": [
+        {"name": "Fort Greene Re", "role": "reinsurer"},
+        {"name": "F&G Annuities & Life", "role": "cedant"},
+        {"name": "Blackstone-managed funds", "role": "investor"}
+      ],
+      "size": {"usd_bn": 1, "basis": "capital", "text": "~$1bn of anticipated capital commitments"},
+      "summary": "F&G cedes certain fixed indexed annuities on a coinsurance funds-withheld quota share basis, and certain funding agreements on a modco basis, to Fort Greene Reinsurance SPC (Segregated Portfolio No. 1), effective 1 Aug 2025. F&G holds no stake in the vehicle, which supports its shift to a capital-light model.",
+      "note": "Agreement effective 1 Aug 2025, announced 6 Aug. Artemis reports the vehicle is Cayman Islands-based.",
+      "sources": [
+        {"label": "F&G Announces Strategic Partnership With New Reinsurer Backed by Blackstone Managed Funds", "publisher": "F&G Annuities & Life", "kind": "primary", "date": "2025-08-06", "url": "https://investors.fglife.com/news/news-details/2025/FG-Annuities--Life-Announces-Strategic-Partnership-With-New-Reinsurer-Backed-by-Blackstone-Managed-Funds/default.aspx"},
+        {"label": "F&G Q3 2025 10-Q (reinsurance note)", "publisher": "SEC EDGAR", "kind": "primary", "url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000072/fg-20250930.htm"},
+        {"label": "Blackstone backs F&G annuity reinsurance sidecar with $1bn of private capital", "publisher": "Artemis", "kind": "secondary", "url": "https://www.artemis.bm/news/blackstone-backs-fg-annuity-reinsurance-sidecar-with-1bn-of-private-capital/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "global-atlantic-japan-post-2025",
+      "title": "Japan Post Insurance commits $2bn to a Global Atlantic co-investment vehicle",
+      "type": "sidecar",
+      "status": "pending",
+      "announced": "2025-07-30",
+      "region": "Global",
+      "parties": [
+        {"name": "Global Atlantic", "role": "sponsor"},
+        {"name": "Japan Post Insurance", "role": "investor"}
+      ],
+      "size": {"usd_bn": 2, "basis": "capital", "text": "$2bn commitment (over half of the vehicle)"},
+      "summary": "Japan Post Insurance, KKR and Global Atlantic signed definitive agreements for Japan Post Insurance to invest $2bn in a new Global Atlantic-sponsored vehicle, over half its capital, to take part in insurance, reinsurance and strategic transactions. KKR's 10-Q confirms the $2bn commitment; trade press names the investor.",
+      "note": "Vehicle expected to start operating in the first half of 2026, subject to regulatory approval; start not confirmed in a source.",
+      "sources": [
+        {"label": "KKR Q2 2025 10-Q (subsequent events: $2bn commitment)", "publisher": "SEC EDGAR", "kind": "primary", "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000032/kkr-20250630.htm"},
+        {"label": "Japan Post Insurance invests $2bn in Global Atlantic reinsurance sidecar", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/japan-post-insurance-invests-2bn-in-global-atlantic-reinsurance-sidecar/"},
+        {"label": "Japan Post Insurance makes $2bn investment into Global Atlantic reinsurance sidecar", "publisher": "Artemis", "kind": "secondary", "url": "https://www.artemis.bm/news/japan-post-insurance-makes-2bn-investment-into-global-atlantic-reinsurance-sidecar"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "corebridge-venerable-va-2025",
+      "title": "Venerable reinsures Corebridge's Individual Retirement variable annuities",
+      "type": "block_reinsurance",
+      "status": "closed",
+      "announced": "2025-06-25",
+      "closed": "2026-01-02",
+      "region": "US",
+      "parties": [
+        {"name": "Venerable", "role": "reinsurer"},
+        {"name": "Corebridge Financial", "role": "cedant"}
+      ],
+      "size": {"usd_bn": 51, "basis": "account value", "text": "$51bn account value; ~$2.8bn ceding commission + capital release (pre-tax)"},
+      "summary": "Venerable's Corporate Solutions Life Reinsurance Company reinsures Corebridge's entire Individual Retirement VA in-force book, mainly GMWB contracts, and buys SunAmerica Asset Management; Corebridge keeps administration and adds VA flow reinsurance with Venerable. Corebridge expects about $2.1bn of after-tax distributable proceeds.",
+      "milestones": [
+        {"date": "2025-06-25", "event": "Agreement announced"},
+        {"date": "2025-08-04", "event": "First closing: American General Life book (~90% of value)"},
+        {"date": "2026-01-02", "event": "Final closing: US Life reinsurance and SAAMCo sale"}
+      ],
+      "sources": [
+        {"label": "Corebridge Financial Announces Transformative Individual Retirement Variable Annuity Transaction with Venerable", "publisher": "Corebridge Financial", "kind": "primary", "date": "2025-06-25", "url": "https://investors.corebridgefinancial.com/news/news-details/2025/Corebridge-Financial-Announces-Transformative-Individual-Retirement-Variable-Annuity-Transaction-with-Venerable/default.aspx"},
+        {"label": "Venerable Commences Flow Reinsurance with Corebridge Financial and Closes Reinsurance Transaction", "publisher": "Venerable via Business Wire", "kind": "primary", "date": "2025-08-04", "url": "https://www.businesswire.com/news/home/20250804006853/en/Venerable-Commences-Flow-Reinsurance-with-Corebridge-Financial-and-Closes-Reinsurance-Transaction"},
+        {"label": "Corebridge Financial Closes on Individual Retirement Variable Annuity Transaction with Venerable", "publisher": "Corebridge Financial", "kind": "primary", "date": "2026-01-05", "url": "https://investors.corebridgefinancial.com/news/news-details/2026/Corebridge-Financial-Closes-on-Individual-Retirement-Variable-Annuity-Transaction-with-Venerable/default.aspx"},
+        {"label": "Corebridge closes Individual Retirement variable annuity deal with Venerable", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/corebridge-closes-individual-retirement-variable-annuity-deal-with-venerable/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "metlife-chariot-re-2024",
+      "title": "MetLife cedes ~$10bn to new Bermuda reinsurer Chariot Re",
+      "type": "sidecar",
+      "status": "closed",
+      "announced": "2024-12-11",
+      "closed": "2025-07-01",
+      "region": "US",
+      "parties": [
+        {"name": "Chariot Re", "role": "reinsurer"},
+        {"name": "MetLife", "role": "cedant"},
+        {"name": "General Atlantic", "role": "sponsor"},
+        {"name": "Chubb", "role": "investor"}
+      ],
+      "size": {"usd_bn": 10, "basis": "liabilities", "text": "~$10bn of liabilities"},
+      "summary": "Chariot Re, a Bermuda Class E life and annuity reinsurer co-sponsored by MetLife and General Atlantic (about 15% each) with Chubb as lead investor, launched by reinsuring about $10bn of MetLife structured settlement and PRT-related group annuity liabilities. MetLife Investment Management and General Atlantic are its exclusive asset managers; MetLife keeps all customer functions.",
+      "sources": [
+        {"label": "MetLife and General Atlantic Announce the Formation of Chariot Re", "publisher": "MetLife", "kind": "primary", "date": "2024-12-11", "url": "https://www.metlife.com/about-us/newsroom/2024/december/metlife-and-general-atlantic-announce-the-formation-of-chariot-re/"},
+        {"label": "Chariot Re Launches with Co-Sponsorship by MetLife and General Atlantic", "publisher": "MetLife", "kind": "primary", "date": "2025-07-01", "url": "https://www.metlife.com/about-us/newsroom/2025/july/chariot-re-launches-with-co-sponsorship-by-metlife-and-general-atlantic/"},
+        {"label": "Chariot Re launches with $10bn MetLife deal", "publisher": "The Royal Gazette", "kind": "secondary", "date": "2025-07-04", "url": "https://www.royalgazette.com/local-business/business/article/20250704/chariot-re-launches-with-10bn-metlife-deal/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "talcott-japan-post-2025",
+      "title": "Talcott reinsures ¥550bn of Japan Post Insurance payout annuities",
+      "type": "block_reinsurance",
+      "status": "closed",
+      "announced": "2025-03-28",
+      "closed": "2025-03-31",
+      "region": "Japan",
+      "parties": [
+        {"name": "Talcott Financial Group", "role": "reinsurer"},
+        {"name": "Japan Post Insurance", "role": "cedant"}
+      ],
+      "size": {"usd_bn": 3.6, "basis": "liabilities", "text": "¥550bn (~$3.6bn) of in-force payout annuities"},
+      "summary": "Talcott Life Re, Talcott's Bermuda reinsurer, reinsures a ¥550bn block of in-force payout annuities from Japan Post Insurance, which keeps servicing and administration. Effective 31 Mar 2025; Talcott's second transaction with a Japanese insurer. AM Best left the Talcott subsidiaries' ratings unchanged.",
+      "sources": [
+        {"label": "Talcott Financial Group Announces Block Reinsurance Transaction with Japan Post Insurance", "publisher": "Talcott Financial Group", "kind": "primary", "date": "2025-03-28", "url": "https://talcott.com/articles/talcott-financial-group-announces-block-reinsurance-transaction-with-japan-post-insurance/"},
+        {"label": "AM Best comments on Talcott subsidiaries' ratings after the transaction", "publisher": "AM Best via Business Wire", "kind": "secondary", "date": "2025-04-01", "url": "https://www.businesswire.com/news/home/20250401032535/en/AM-Best-Comments-on-the-Credit-Ratings-of-Talcott-Financial-Group-Ltd.s-Subsidiaries-Following-Announced-Reinsurance-Transaction-With-Japan-Post-Insurance-Co.-Ltd."},
+        {"label": "Talcott enters major reinsurance agreement with Japan Post Insurance", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/talcott-enters-major-reinsurance-agreement-with-japan-post-insurance/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rga-equitable-2025",
+      "title": "RGA reinsures 75% of Equitable's in-force individual life block",
+      "type": "block_reinsurance",
+      "status": "closed",
+      "announced": "2025-02-24",
+      "closed": "2025-07-31",
+      "region": "US",
+      "parties": [
+        {"name": "RGA", "role": "reinsurer"},
+        {"name": "Equitable Holdings", "role": "cedant"}
+      ],
+      "size": {"usd_bn": 32, "basis": "reserves", "text": "$32bn reserves (~$18bn general account + ~$14bn separate account)"},
+      "summary": "RGA reinsures 75% of Equitable's in-force individual life liabilities and widens the partnership into underwriting, product, distribution and investment management. RGA expected to deploy about $1.5bn of capital at closing; Equitable said the deal frees over $2bn of deployable capital. The coinsurance agreements are effective 1 Apr 2025.",
+      "sources": [
+        {"label": "RGA Announces Reinsurance Transaction with Equitable Holdings", "publisher": "RGA", "kind": "primary", "date": "2025-02-24", "url": "https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2025/02/24/rga-announces-reinsurance-transaction-with-equitable-holdings"},
+        {"label": "Equitable Holdings Reinsures 75% of its Individual Life Block with RGA", "publisher": "Equitable Holdings", "kind": "primary", "date": "2025-02-24", "url": "https://ir.equitableholdings.com/news-and-events/investor-releases/news-details/2025/Equitable-Holdings-Reinsures-75-of-its-Individual-Life-Block-with-RGA-Enhancing-Focus-on-Growth-in-Retirement-Asset-Management-and-Wealth-Management/default.aspx"},
+        {"label": "RGA Closes $32 Billion Reinsurance Transaction with Equitable Holdings", "publisher": "RGA via Business Wire", "kind": "primary", "date": "2025-07-31", "url": "https://www.businesswire.com/news/home/20250731499183/en/RGA-Closes-$32-Billion-Reinsurance-Transaction-with-Equitable-Holdings"},
+        {"label": "RGA completes $32bn reinsurance transaction with Equitable", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/rga-completes-32bn-reinsurance-transaction-with-equitable/"}
+      ],
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "prudential-prismic-7b-2025",
+      "title": "Prudential reinsures a $7bn Japanese whole life block with Prismic",
+      "type": "block_reinsurance",
+      "status": "closed",
+      "announced": "2025-01-22",
+      "closed": "2025-03-01",
+      "region": "Japan",
+      "parties": [
+        {"name": "Prismic Life Re", "role": "reinsurer"},
+        {"name": "Prudential Financial", "role": "cedant"}
+      ],
+      "size": {"usd_bn": 7, "basis": "reserves", "text": "~$7bn reserves (USD-denominated Japanese whole life)"},
+      "summary": "Prismic, the Bermuda reinsurer sponsored by Prudential and Warburg Pincus, reinsures about $7bn of reserves on USD-denominated whole life policies written by Prudential's Japanese affiliates. Prudential invested about $100m more in Prismic to keep its ~20% stake, alongside ~$400m from other investors.",
+      "note": "Prudential's 2025 annual report says the transaction completed in March 2025, effective 1 March.",
+      "sources": [
+        {"label": "Prudential Financial to Reinsure $7B Japanese Whole Life Block with Prismic Life", "publisher": "Prudential Financial", "kind": "primary", "date": "2025-01-22", "url": "https://investor.prudential.com/news/news-details/2025/Prudential-Financial-to-Reinsure-7B-Japanese-Whole-Life-Block-with-Prismic-Life/default.aspx"},
+        {"label": "Prudential 2025 Annual Report (completion, effective 1 March 2025)", "publisher": "SEC EDGAR", "kind": "primary", "url": "https://www.sec.gov/Archives/edgar/data/1137774/000110465926035169/tm2524222d2_ars.pdf"},
+        {"label": "Prudential Financial to reinsure $7bn Japanese Whole Life Block with Prismic", "publisher": "Reinsurance News", "kind": "secondary", "url": "https://www.reinsurancene.ws/prudential-financial-to-reinsure-7bn-japanese-whole-life-block-with-prismic/"}
+      ],
+      "verified": "2026-10-20"
+    }
+  ]
+}

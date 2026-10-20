@@ -11,6 +11,7 @@ on:
       - 'index.html'
       - 'package*.json'
       - 'requirements.txt'
+      - 'data/deals.json'
       - '.github/workflows/tests.yml'
 
 permissions:
@@ -52,6 +53,7 @@ jobs:
           node scripts/test_annuity_moneyness.mjs
           node scripts/test_ticker_tape.mjs
           node scripts/test_reinsurer_spreads_ui.mjs
+          node scripts/test_deals.mjs
 
       - name: Build
         run: npm run build

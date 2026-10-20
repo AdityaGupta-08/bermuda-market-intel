@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T08:35:10Z",
+  "updated": "2026-10-20T14:21:12Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -118,10 +118,22 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVGTXo3cEFmUXNDdkRWcW9pM2Z2Ym5lQ0lNdEhwTXUwNlowM3lGbDBtdUJXTFRuc19wTEh4QmhrR3NFekctZXRNUHotaXRYYVE1Y050SldRMnNYbmhFVE1DZGI5LUM2OTdzMXUwOEVZVGN4bDNmSE5qYk8wX1ZRTDkyb0pDa0RHbFZFM3FucUQ0U3llYlV6bTNNZ3ZjSWFTUUN0bjNCWUg?oc=5",
       "source": "theinsurer.com",
       "feed": "Google News: Catalina",
-      "date": "2026-10-20T06:58:46Z",
+      "date": "2026-10-20T10:21:50Z",
       "summary": "",
       "companies": [
         "Catalina"
+      ]
+    },
+    {
+      "id": "a5d26abaf08b",
+      "title": "Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High - What's Next?",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXpDc01ZSXlrM0I2blhCWjhhUW1Lb0FXenZDMDVDN3RCbzFVMDJiVmVRUEw1TldtNEhYRkkyaHZOUTI4ZzdxX2V6RGNBZXNaNnN6NjRZd29rbEZLUklubEdjUDhpREI3MDRvVldIZk5nN2pGcGM4bG9kZThIRWJxSU92bVdLUlA3WTZyNjdoVVhaZnlkWXl1SnhwMW9CUmxybXNELWpHNGdycnZXcW9TRUFnZWEzSVJ4cUVfNVZtU2FLS1NReGJYU1Q1ZmM?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-20T09:16:11Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -382,7 +394,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjNBUHBvTjJxUXB2QlE4Si1FRk8zb19jXzVGSmdiNGVRaDlEaGZOdUd1NUJCUENSV1R5Zzk2bnRuUWczXzlpRElBbFc0TkkwNVMwaXNLUFJCMVVLY1NTZnhPQTlZVUhnNWhaMHQxMms2b0pwQ1diSXpLbnRZb3h3NjZoeng3UXEtZFdqbG1ieDdMOUN0aGpSVW9Ia09CcjJpOHFoSDlwWGZ1NW1OSGV0STJWVXpsUHRpdGEyTDNzSE00SVlvbDdnd0hrMTU1WU9RZWxldjVFbDBFcS1mWWfSAeMBQVVfeXFMTXpweVRKWGIyMWRaYkllUGJGQllBX01kWGFRLU9PRzQxbUtkZW9PTnZ4bFBhelZjUDlERnRvMFJQa3NzZ29LVjhlYm05V21WVEJPX0JlQng4VmdvSF9xMUNPQ0ttQ2RRMjJxbjNTczdueWY1LTh3V25BbW5yV01VbTduRTl0MUlUVzRmZ0lQZ2RtV2RrVXE5TmRHZTNMS2pyd2Q0bEpkN1U2MkduSURTbDMwLU1xQk94UDBJdXhjOURrOTMweHdRRWtOOUZnUmNzNXJwTkd0TERmbjFWOGhuZWtuUXM?oc=5",
       "source": "Simply Wall Street",
       "feed": "Google News: RGA",
-      "date": "2026-10-10T11:33:30Z",
+      "date": "2026-10-10T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

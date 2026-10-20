@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T08:35:07Z",
+  "updated": "2026-10-20T14:21:08Z",
   "naic": [
     {
       "id": "cb21fa3406cc",
@@ -254,6 +254,16 @@
   ],
   "bma": [
     {
+      "id": "c4bb9c0774a5",
+      "title": "Christa Schweizer: The day we stop checking",
+      "date": "2026-10-20",
+      "cat": "General",
+      "summary": "",
+      "source": "Royal Gazette | Bermuda",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEdtZGNBeFhkLXhBbWlOSm1JN1VrUFItbHJ6QW56bk81Y1Vxc1hkb2RyZUVRZHJ4WGk5OUdDTHRoZ0VYOHp0UUp2dnE2Ym5lWnhkMWprRk5tX2ZDSlhLZ0k0MTE0YnVSUllKc1VyMnNmbW92NDlNX0tmQWJqOWhUeWFvQmNwblpRNDVJNG1ManktYUkxVGF3OGJoVWI0R1c3eGdNaDd4OWttdw?oc=5",
+      "isNew": true
+    },
+    {
       "id": "45283834d1fa",
       "title": "Bermuda digital assets - October 2026 update",
       "date": "2026-10-19",
@@ -491,16 +501,6 @@
       "summary": "",
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1lGemdXaEtnZnJpNXNMeHR1dU41NWhTUlZOOTJFaFlmYWFQTXp6Zm1Yd1JIZF83NjB2NWVFT0MzZ0F4djdXelcyOHVjTVNaRXhpVFowZzlUdzQ0dENnNkJHeFVSdnJZazdsMFlWUUZJSVN4dWdlZHVTOFA4R0JDSWlHVnRYdmVXNWNadU14M2g5eGpLYkxMNFZocUI?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "66ff73270577",
-      "title": "BMA issues stablecoin consultation paper",
-      "date": "2026-07-22",
-      "cat": "General",
-      "summary": "",
-      "source": "Captive International",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbENnbmtsM0pnWjdtZWFkeXNXVUVTQ2x4N1Z0SlI4YmJhRTFtdUpRWDBEWTBkcnp5WEJGejBLdkZJWmxYQk9oTWMxM09FblYzQXo5eG1BNWg4V2hNdk5SaXd5MUxHVWF3b1pwQnBBWDN1c1BPa3VVeXN5eW5mUkRqdTJoMA?oc=5",
       "isNew": false
     }
   ],

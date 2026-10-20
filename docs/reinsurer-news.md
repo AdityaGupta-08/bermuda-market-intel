@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 24 items
-Generated Tue 20 Oct 2026, 05:35 ADT
+Bermuda life & annuity watchlist — last 14 days — 23 items
+Generated Tue 20 Oct 2026, 11:21 ADT
 
 ## Feed status
 
@@ -13,7 +13,6 @@ Generated Tue 20 Oct 2026, 05:35 ADT
 
 - **2026-10-19** — Yahoo Finance — [Athene Announces Third Quarter 2026 Fixed Income Investor Call](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzROWDdIa0hQemZlWVVuSHBfSG1sWUFLZXlPMmxoeU41ZndzUWlROHdocDJLbjR0aHBRUDNIZ0Y2UTNQSU10ZU1RYWFTTEVqVWY2QzUzcE8wb2ctZ0ozeUdtYWFRcEV2N0UxZUx4RDhOTkczOV9VLWt1eTlqT2ZhUzRKeGx3VHJRd1kyNWNHZkRueS1wajBhdWo4NGR2SjZ6b0E?oc=5)
 - **2026-10-13** — Pensions & Investments — [What Athene’s investments can tell asset managers about where insurance portfolios are heading](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5)
-- **2026-10-06** — Stock Titan — [Athene Hldg (ATH) Stock Price, News & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5)
 
 ## Talcott
 
@@ -29,6 +28,7 @@ Generated Tue 20 Oct 2026, 05:35 ADT
 
 ## RGA
 
+- **2026-10-20** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High - What's Next?](https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXpDc01ZSXlrM0I2blhCWjhhUW1Lb0FXenZDMDVDN3RCbzFVMDJiVmVRUEw1TldtNEhYRkkyaHZOUTI4ZzdxX2V6RGNBZXNaNnN6NjRZd29rbEZLUklubEdjUDhpREI3MDRvVldIZk5nN2pGcGM4bG9kZThIRWJxSU92bVdLUlA3WTZyNjdoVVhaZnlkWXl1SnhwMW9CUmxybXNELWpHNGdycnZXcW9TRUFnZWEzSVJ4cUVfNVZtU2FLS1NReGJYU1Q1ZmM?oc=5)
 - **2026-10-19** — Simply Wall Street — [Reinsurance Group of America (RGA) Nears Argus Target As Its Undervalued Narrative Holds](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSFBtMDhCZkU1Ukp4SHdkdXdmeFNwWngyQW9JUTZrbXJ4SGFzUU5na1RNMXlHR0tiSmo2TnIxQ0ltYXhKd0FKT0pvc2N5WEVFMm9tQlpwOGgxZUZ1bUVUaUJBMXhNaUFwZXRyYkw0bEtybm9YaWZCcmhDM1pCVEROQXBwcldUZXRwVS1kTWRGOG1uTFJ2dXg3NHROcmdmaUN4XzlZb044V1hCVERLdFNtU0FzN2VZaThCRFJGbVhJTU01YjBuS2ljNUpCTzEtOVl0b0VtOWo4aC1OQmtKdXhpbFZmTdIB4wFBVV95cUxQSFBtMDhCZkU1Ukp4SHdkdXdmeFNwWngyQW9JUTZrbXJ4SGFzUU5na1RNMXlHR0tiSmo2TnIxQ0ltYXhKd0FKT0pvc2N5WEVFMm9tQlpwOGgxZUZ1bUVUaUJBMXhNaUFwZXRyYkw0bEtybm9YaWZCcmhDM1pCVEROQXBwcldUZXRwVS1kTWRGOG1uTFJ2dXg3NHROcmdmaUN4XzlZb044V1hCVERLdFNtU0FzN2VZaThCRFJGbVhJTU01YjBuS2ljNUpCTzEtOVl0b0VtOWo4aC1OQmtKdXhpbFZmTQ?oc=5)
 - **2026-10-18** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5)
 - **2026-10-17** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
@@ -40,7 +40,6 @@ Generated Tue 20 Oct 2026, 05:35 ADT
 - **2026-10-14** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Hits New 1-Year High - What's Next?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjN4b0pFSFg3T1lab2haUU1IQUl3clJiSzAyaFB0TXNCdC1tRndEZ0NnNGJsTC16QlNTcFdYeVRFX0szTFczU0xMa0VUSjRjV281Z09JOU9YemUwZXRvOVV1Y2pxVWRoYWFrdm5FZXdzOHUwS1Q3WnlBbV9uWklaMHhkLTN4YnVXUndVbHBrcFFMRjlERWNfYWE1aWxlTWFmYk5wYkRyZF9ZTS1VNnlqQWhOSVlHUVA2eTJQQkhRaFpteU5FVFpvXw?oc=5)
 - **2026-10-13** — The Globe and Mail — [Wells Fargo Reaffirms Their Buy Rating on Reinsurance Group (RGA)](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW45TjZHa0pCY2l2TUJfZ1NGaTNKTlkwYmtYb0xkUXhpNkdscmNrUlFGMFFRR1lXMFcyaF9EOGwzWnhiMUVyLVVNVzhJZ2tEbm5za0RIWkdDaTBtRDg4WURMSV9Dem91REpaM1B1VFJCcERUUk9GdXJVOXp1MWdGOUdJVXg5YjJ1bmF2ZHlocDBqZENxdHJzczhEWHpjRlRCNEhra3FZdnB0a2NYTDNSZG96Njk3enBGM28tRmhwbkkzcjY2SldlSUVIWTFOcmlURVJtSHg2bkdpeTBHQVZfNmh0aw?oc=5)
 - **2026-10-12** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Given New $292.00 Price Target at Wells Fargo & Company](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFBDSjdNemtxWmg3Z0tjamxmUk04X21UTU0xZVNYbHVhdGlVbHk3R1FkVlhQeWRHQ0ppMXAyOTgtNTJqa3g3bkxIWmJ0UmhVOTFiZUMwSWU5NEI0R21wb3JlTGk0bjcxWlNFUXYtZDNJQUQ5MHJOUXV1MkFxaWhlNWdrZExBdm9uSUJSZ0kzREJfNHF0WWJCM0NNSDRnbEdycEZOaVRGVURQRnU3QWJQdzJUbjhQQkhncXFqVHVCZ0lrNEJ1NzRfZ2JzLXNDbXBSWGRPNnViU3N6bnNoZ3hDYVZaYU56QQ?oc=5)
-- **2026-10-12** — Moomoo — [Wells Fargo Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $292](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2dGN01KY3Q2VDNoMFhLY2QzaUZxRlpuR29yYlJEWVp5M0xsdi1FT3JmbDhwekY1REF0RlkwejdpYXNxMmx1SzF2UmtMVG14aTVGZEJpS3RaMDR6NkZjRzRpR290ZnZFS0UtUkQ1cnAwRkk3LXp1SU5zQVVUZXIyYmZZYV85Z2UzaTlseVZmSkFZdmVubFg2cko3QW9wNEhyOGVqTU1YdDhCOVh6aXc?oc=5)
 
 ## Sagicor
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T20:38:34Z",
+  "updated": "2026-10-20T00:23:32Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "Google News: Monument Re",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "source": "Pensions & Investments",
-      "feed": "Google News: Athene",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-10-13T13:00:00Z",
       "summary": "",
       "companies": [
@@ -1235,18 +1235,6 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-09-05T07:43:52Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "4ae0c89f19e3",
-      "title": "Will Reinsurance Group of America's Earnings Outperformance and Upward Revisions Change RGA's Narrative?",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeFFYMlZkQmZiUWxueHNPaFIyLWJVNTZHaGxiUnpTMXRzYlJCelRaSWwwU1FaWnZuUkpQek1FajBoRl80MUNXRlQtS25tOVE1SGtwMk1Sb1R3TC1Ua2YtWGdtLWhiNmRIdF9KUTNtbTRYTDEyY2tBQjhrN0ttVW5LSWYtcXM3bkdDNWVjejlkb21SZU51dkxKUS1Zc0R4OVhWNlJkU1dYcnBVRVhHQWFjWWRRRzBlZ3NFZHZMTnhhUFE2aUtyejE0bGhxQnJaam1CdnpRUVU3RXhjemh4TXfSAeMBQVVfeXFMTkd2R3l2OFRtb0drNFVlNnZJb2F1U1RmWnRyMC1QQ1RuTXZCYmtlSkFBLUJPWDVsMlIyODBvOGxiVm41dW9aaVlzZFFtbHJOMkRGalJjNGdNYjByQ3JhQS1CNnlnckp4bEg2REUwUENTLWptczZaMXVnVS1NbXFzMVRSc1BXU3BENkM2TWx2Y3lnZm5oR2RlS0pNRDNtcEF1UlpsNTMwYnBpUWZtX2pCUl9hbnlxb3lzLUdEcGNnRW51QkRkSUYzSUFLby0xWFpiYUpxbTdTaEdZRHQ5cnBsYjJzR0E?oc=5",
-      "source": "simplywall.st",
-      "feed": "Google News: RGA",
-      "date": "2026-09-04T22:31:44Z",
       "summary": "",
       "companies": [
         "RGA"

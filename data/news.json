@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:19:14Z",
+  "updated": "2026-10-20T23:55:13Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,13 +8,23 @@
   ],
   "items": [
     {
+      "id": "234c6db42501",
+      "title": "Tankers, Talk and Trade-offs: Interest Rate Drivers",
+      "source": "TD Economics",
+      "date": "2026-10-20T18:22:02Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiRDVza3NxYTJPX19XSGdBQjhmaEFfZ3JNaDlDY2FKTzc5TVNCX3F5Uk9EaDVud0FUbDZtaTJkX2o0MG54bTJPQUl1M0dXalB4dHh2MWZma1JYV3ZfVmNHVg?oc=5",
+      "isNew": false
+    },
+    {
       "id": "c6acf62587fa",
       "title": "KPMG in Bermuda promotes Ranchod to audit partner",
       "source": "Captive Insurance Times",
       "date": "2026-10-20T16:08:01Z",
       "topic": "Insurance AM",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOW1mYndMRXVJdlFzbFhLeE5HOWplN3poRHJYSFVjOGRPMHVQeEFXUjJhMG84MnY2Yk1LUE85UXUwelJ0WTliSlNiNE9hVE5mS09ia0tCdFl0ajVIV2pUN0tIem9reWlta0toY3lpVC04RzZ3RXFaVzJYaXhhb2pBUzh4SURPRlBuR3lfRUU1aWVSb2dZX2hOLXpkYzM3blFoaFNsckpzZUQ0VFhxUXhJUnY1ZzE0dHlncEhWWV9TUDBEMHdmRnFKMjN4ZDhadFdHMTFoREZPakduaWVfTkNVQWh3MEkyaXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTEdZMHAzbWk0WWY0ekh1Ym1velhwUjdSUlMyVnhKamUxQTJSYXVYemdMTUtMYWl0bzRKRXo1OWhpb052Wk5zQnNSd0pXTktXQ1Mxa2pmLVU3dlBhU3EwQ3JYQ0xqNmJlUHhscDBKSUQyUWZsZDJaSGZMYUpNRmZCVlBDOGtnbVJ5cXB4TDFsaDdxaFVHd0k3dm9VUzYwV1EtV3VhcmxXYmRxVUpzTWVId19lUlBnZ1UyRzA5ekczeVBncjZpN0d2SHVXV3dVeUl3bF8yZ3ZPemViTkw0WUo0MWxB?oc=5",
       "isNew": false
     },
     {
@@ -295,16 +305,6 @@
       "topic": "Structured Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONm5Lc1JqY3h2dkxuek9IQnpYU3luYlJfeTRRLWkxWE1TclpZLWtvMHZZQ0VSaTh2YW5BUHlGY01TZW0yZDBXLXJaNWUtRW12aVdqaFVWZDNQVk5lREhkSF9WUTFrT1N4SS1jYVJ3MFkyV3puSC1sTVIzYkVNMGJfd1Y4bVZjRENncTFQNnJtS3JWQ1J6d2o3TTZLV3lmRkE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "918aea258ca2",
-      "title": "Rising bond yields, softer labour data buy central banks time",
-      "source": "RBC",
-      "date": "2026-10-14T00:40:57Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0twUTJIZHRYeTMtRXBKU3JKWExlVkFhMDM4QjJTOWhETmtVYlNOdmVQOUVtd0M5VzdYOFdJVVM2UXFaSVl6TWhzSDJMRkhGTnFuMUF3RFZrR1dXTFpzWDJya2Ruc1VKWTZYbDdJc3JuRUYxUUVIMmljSWx3NldzRk1LV1hORTMwejkyLVM0YkFXS0F2aGJjVzV3c19vYldJdGJPXzI0VG1DRmJBQU1sTWdEMHZHbTI0LXBUM3FBdGowQlkxZ05LRkN3cmFScWoxZVU0WkE3RzloS0tR?oc=5",
       "isNew": false
     }
   ]

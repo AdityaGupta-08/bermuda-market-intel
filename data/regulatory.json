@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:19:14Z",
+  "updated": "2026-10-20T23:55:13Z",
   "naic": [
     {
       "id": "cb21fa3406cc",
@@ -254,6 +254,16 @@
   ],
   "bma": [
     {
+      "id": "60e5f92b94fa",
+      "title": "The day we stop checking",
+      "date": "2026-10-20",
+      "cat": "General",
+      "summary": "",
+      "source": "Royal Gazette | Bermuda",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEdtZGNBeFhkLXhBbWlOSm1JN1VrUFItbHJ6QW56bk81Y1Vxc1hkb2RyZUVRZHJ4WGk5OUdDTHRoZ0VYOHp0UUp2dnE2Ym5lWnhkMWprRk5tX2ZDSlhLZ0k0MTE0YnVSUllKc1VyMnNmbW92NDlNX0tmQWJqOWhUeWFvQmNwblpRNDVJNG1ManktYUkxVGF3OGJoVWI0R1c3eGdNaDd4OWttdw?oc=5",
+      "isNew": true
+    },
+    {
       "id": "c4bb9c0774a5",
       "title": "Christa Schweizer: The day we stop checking",
       "date": "2026-10-20",
@@ -492,19 +502,19 @@
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1lGemdXaEtnZnJpNXNMeHR1dU41NWhTUlZOOTJFaFlmYWFQTXp6Zm1Yd1JIZF83NjB2NWVFT0MzZ0F4djdXelcyOHVjTVNaRXhpVFowZzlUdzQ0dENnNkJHeFVSdnJZazdsMFlWUUZJSVN4dWdlZHVTOFA4R0JDSWlHVnRYdmVXNWNadU14M2g5eGpLYkxMNFZocUI?oc=5",
       "isNew": false
-    },
-    {
-      "id": "b543b79b2e95",
-      "title": "BMA warns of payment scam",
-      "date": "2026-07-22",
-      "cat": "General",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1lGemdXaEtnZnJpNXNMeHR1dU41NWhTUlZOOTJFaFlmYWFQTXp6Zm1Yd1JIZF83NjB2NWVFT0MzZ0F4djdXelcyOHVjTVNaRXhpVFowZzlUdzQ0dENnNkJHeFVSdnJZazdsMFlWUUZJSVN4dWdlZHVTOFA4R0JDSWlHVnRYdmVXNWNadU14M2g5eGpLYkxMNFZocUI?oc=5",
-      "isNew": false
     }
   ],
   "cayman": [
+    {
+      "id": "e9458f5d4158",
+      "title": "Cayman Islands digital assets - October 2026 update",
+      "date": "2026-10-20",
+      "cat": "Investment",
+      "summary": "",
+      "source": "JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYV9NcVlvMDZtZnJCbHlPZDB3QXR2NERHalRTNFg5UDk2dTI2ODB0M3YzYkIzbVNtalNWcHI5N2xfLWx4dlplWVhFTVdvM0FWZDk5elE1YVpjdXhZVWZIWnd2N0VSTm5iUktCREtzZ2FzN0wxcXNXaGtHRHIzTXpGTjRTYjRqUUE?oc=5",
+      "isNew": true
+    },
     {
       "id": "f76375888f43",
       "title": "New CIMA AML Rule and Sanctions Rule: what regulated funds need to consider",

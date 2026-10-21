@@ -16,7 +16,7 @@
       "name": "AAA Corp",
       "spread": 42,
       "prior": 41,
-      "series_id": "",
+      "series_id": "BAMLC0A1CAAA",
       "date": "2026-10-19",
       "source": "credit.json"
     },
@@ -24,7 +24,7 @@
       "name": "AA Corp",
       "spread": 63,
       "prior": 61,
-      "series_id": "",
+      "series_id": "BAMLC0A2CAA",
       "date": "2026-10-19",
       "source": "credit.json"
     },
@@ -32,7 +32,7 @@
       "name": "A Corp",
       "spread": 73,
       "prior": 71,
-      "series_id": "",
+      "series_id": "BAMLC0A3CA",
       "date": "2026-10-19",
       "source": "credit.json"
     },
@@ -40,7 +40,7 @@
       "name": "BBB Corp",
       "spread": 108,
       "prior": 106,
-      "series_id": "",
+      "series_id": "BAMLC0A4CBBB",
       "date": "2026-10-19",
       "source": "credit.json"
     },
@@ -48,7 +48,7 @@
       "name": "BB Corp",
       "spread": 200,
       "prior": 203,
-      "series_id": "",
+      "series_id": "BAMLH0A1HYBB",
       "date": "2026-10-19",
       "source": "credit.json"
     },
@@ -56,7 +56,7 @@
       "name": "B Corp",
       "spread": 336,
       "prior": 335,
-      "series_id": "",
+      "series_id": "BAMLH0A2HYB",
       "date": "2026-10-19",
       "source": "credit.json"
     },
@@ -64,11 +64,11 @@
       "name": "CCC Corp",
       "spread": 1310,
       "prior": 1297,
-      "series_id": "",
+      "series_id": "BAMLH0A3HYC",
       "date": "2026-10-19",
       "source": "credit.json"
     }
   },
   "sector": {},
-  "_fetched": "2026-10-21T11:50:50.125861Z"
+  "_fetched": "2026-10-21T17:15:22.448501Z"
 }

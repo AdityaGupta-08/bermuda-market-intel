@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T11:52:21Z",
+  "updated": "2026-10-21T17:20:26Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 17,
+      "count": 18,
       "error": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -175,10 +175,10 @@
     {
       "id": "16c4f6cc2718",
       "title": "Reinsurance Group of America (RGA) Nears Argus Target As Its Undervalued Narrative Holds",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVpjZVJxdVZpeVA2enQtN2tBTHNMSkt4S1R5VENrQTkybTJFMll2ajNILS1QaWJ5aGV2ckV5TjNTdXBtOS03UEFDd3FVc2dFeHZFdTdOYVlKQUUwVnkxTGY0UndqYVVlcEVZV0dZVVQ2YjJaX1lucW93enBlMHdfZHF2THJqT2xqYWRwdkR3dF85ekF4a1liazNQVVFMaWZvY09zT1R4UjBXcWRibW1JNGxvZnhDWjNNTDJSZW1mRFQ2Q2ZKd2o4REdCeExWOXhJYVd2UGJzODJoYWVlMWfSAeMBQVVfeXFMUEhQbTA4QmZFNVJKeEh3ZHV3ZnhTcFp4MkFvSVE2a21yeEhhc1FOZ2tUTTF5R0dLYkpqNk5yMUNJbWF4SndBSk9Kb3NjeVhFRTJvbUJacDhoMWVGdW1FVGlCQTF4TWlBcGV0cmJMNGxLcm5vWGlmQnJoQzNaQlRETkFwcHJXVGV0cFUtZE1kRjhtbkxSdnV4NzR0TnJnZmlDeF85WW9OOFdYQlRES3RTbVNBczdlWWk4QkRSRm1YSU1NNWIwbktpYzVKQk8xLTlZdG9FbTlqOGgtTkJrSnV4aWxWZk0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSFBtMDhCZkU1Ukp4SHdkdXdmeFNwWngyQW9JUTZrbXJ4SGFzUU5na1RNMXlHR0tiSmo2TnIxQ0ltYXhKd0FKT0pvc2N5WEVFMm9tQlpwOGgxZUZ1bUVUaUJBMXhNaUFwZXRyYkw0bEtybm9YaWZCcmhDM1pCVEROQXBwcldUZXRwVS1kTWRGOG1uTFJ2dXg3NHROcmdmaUN4XzlZb044V1hCVERLdFNtU0FzN2VZaThCRFJGbVhJTU01YjBuS2ljNUpCTzEtOVl0b0VtOWo4aC1OQmtKdXhpbFZmTdIB4wFBVV95cUxQSFBtMDhCZkU1Ukp4SHdkdXdmeFNwWngyQW9JUTZrbXJ4SGFzUU5na1RNMXlHR0tiSmo2TnIxQ0ltYXhKd0FKT0pvc2N5WEVFMm9tQlpwOGgxZUZ1bUVUaUJBMXhNaUFwZXRyYkw0bEtybm9YaWZCcmhDM1pCVEROQXBwcldUZXRwVS1kTWRGOG1uTFJ2dXg3NHROcmdmaUN4XzlZb044V1hCVERLdFNtU0FzN2VZaThCRFJGbVhJTU01YjBuS2ljNUpCTzEtOVl0b0VtOWo4aC1OQmtKdXhpbFZmTQ?oc=5",
       "source": "Simply Wall Street",
       "feed": "Google News: RGA",
-      "date": "2026-10-19T07:35:23Z",
+      "date": "2026-10-19T07:35:24Z",
       "summary": "",
       "companies": [
         "RGA"

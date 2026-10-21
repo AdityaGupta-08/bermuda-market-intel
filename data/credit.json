@@ -2,10 +2,10 @@
   "date": "2026-10-19",
   "source": "FRED / ICE BofA Indices",
   "url": "https://fred.stlouisfed.org/release?rid=209",
-  "status": "ok",
-  "fresh_count": 9,
+  "status": "cached",
+  "fresh_count": 0,
   "stale_count": 0,
-  "cache_count": 0,
+  "cache_count": 9,
   "max_fresh_age_days": 7,
   "spreads": {
     "ig": {
@@ -13,7 +13,7 @@
       "spread": 87,
       "prior": 85,
       "bucket": "IG",
-      "source": "fred",
+      "source": "cache",
       "series_id": "BAMLC0A0CM",
       "date": "2026-10-19",
       "prior_date": "2026-10-16",
@@ -24,7 +24,7 @@
       "spread": 42,
       "prior": 41,
       "bucket": "AAA",
-      "source": "fred",
+      "source": "cache",
       "series_id": "BAMLC0A1CAAA",
       "date": "2026-10-19",
       "prior_date": "2026-10-16",
@@ -35,7 +35,7 @@
       "spread": 63,
       "prior": 61,
       "bucket": "AA",
-      "source": "fred",
+      "source": "cache",
       "series_id": "BAMLC0A2CAA",
       "date": "2026-10-19",
       "prior_date": "2026-10-16",
@@ -46,7 +46,7 @@
       "spread": 73,
       "prior": 71,
       "bucket": "A",
-      "source": "fred",
+      "source": "cache",
       "series_id": "BAMLC0A3CA",
       "date": "2026-10-19",
       "prior_date": "2026-10-16",
@@ -57,7 +57,7 @@
       "spread": 108,
       "prior": 106,
       "bucket": "BBB",
-      "source": "fred",
+      "source": "cache",
       "series_id": "BAMLC0A4CBBB",
       "date": "2026-10-19",
       "prior_date": "2026-10-16",
@@ -68,7 +68,7 @@
       "spread": 329,
       "prior": 331,
       "bucket": "HY",
-      "source": "fred",
+      "source": "cache",
       "series_id": "BAMLH0A0HYM2",
       "date": "2026-10-19",
       "prior_date": "2026-10-16",
@@ -79,7 +79,7 @@
       "spread": 200,
       "prior": 203,
       "bucket": "BB",
-      "source": "fred",
+      "source": "cache",
       "series_id": "BAMLH0A1HYBB",
       "date": "2026-10-19",
       "prior_date": "2026-10-16",
@@ -90,7 +90,7 @@
       "spread": 336,
       "prior": 335,
       "bucket": "B",
-      "source": "fred",
+      "source": "cache",
       "series_id": "BAMLH0A2HYB",
       "date": "2026-10-19",
       "prior_date": "2026-10-16",
@@ -101,7 +101,7 @@
       "spread": 1310,
       "prior": 1297,
       "bucket": "CCC",
-      "source": "fred",
+      "source": "cache",
       "series_id": "BAMLH0A3HYC",
       "date": "2026-10-19",
       "prior_date": "2026-10-16",
@@ -123,7 +123,7 @@
         "b": 316,
         "ccc": 1179
       },
-      "source": "fred"
+      "source": "cache"
     },
     {
       "quarter": "2026 Q2",
@@ -139,7 +139,7 @@
         "b": 299,
         "ccc": 970
       },
-      "source": "fred"
+      "source": "cache"
     },
     {
       "quarter": "2026 Q1",
@@ -155,7 +155,7 @@
         "b": 361,
         "ccc": 994
       },
-      "source": "fred"
+      "source": "cache"
     },
     {
       "quarter": "2025 Q4",
@@ -171,9 +171,9 @@
         "b": 301,
         "ccc": 885
       },
-      "source": "fred"
+      "source": "cache"
     }
   ],
-  "note": "ICE BofA option-adjusted spreads from FRED. Uses bounded CSV and graph API fallbacks over a recent window; cache is used only where FRED data is unavailable. Values are basis points.",
-  "_fetched": "2026-10-21T11:52:04.090385Z"
+  "note": "ICE BofA option-adjusted spreads from FRED. Uses bounded CSV and graph API fallbacks over a recent window; cache is used only where FRED data is unavailable. Values are basis points. Status=cached: fresh=0, stale=0, cached=9.",
+  "_fetched": "2026-10-21T17:20:08.536990Z"
 }

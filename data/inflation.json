@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T11:51:52.016384Z",
+  "updated": "2026-10-21T17:18:46.402008Z",
   "countries": {
     "us": {
       "series": "CPIAUCSL",
@@ -7,7 +7,8 @@
       "yoy": 4.02,
       "mom": 0.649,
       "trend": "up",
-      "date": "2026-09-01"
+      "date": "2026-09-01",
+      "stale": true
     },
     "jp": {
       "series": "JPNCPIALLMINMEI",
@@ -33,7 +34,8 @@
       "yoy": 3.75,
       "mom": 0.608,
       "trend": "up",
-      "date": "2026-09-01"
+      "date": "2026-09-01",
+      "stale": true
     },
     "in": {
       "series": "INDCPIALLMINMEI",
@@ -45,5 +47,5 @@
       "source": "OECD SDMX (FRED series discontinued)"
     }
   },
-  "_fetched": "2026-10-21T11:51:52.016387Z"
+  "_fetched": "2026-10-21T17:18:46.402015Z"
 }

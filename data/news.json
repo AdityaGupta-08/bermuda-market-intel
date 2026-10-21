@@ -1,10 +1,9 @@
 {
-  "updated": "2026-10-21T04:51:34Z",
+  "updated": "2026-10-21T11:52:17Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
-    "Rates & Macro",
-    "Structured Credit"
+    "Rates & Macro"
   ],
   "items": [
     {
@@ -25,6 +24,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTEdZMHAzbWk0WWY0ekh1Ym1velhwUjdSUlMyVnhKamUxQTJSYXVYemdMTUtMYWl0bzRKRXo1OWhpb052Wk5zQnNSd0pXTktXQ1Mxa2pmLVU3dlBhU3EwQ3JYQ0xqNmJlUHhscDBKSUQyUWZsZDJaSGZMYUpNRmZCVlBDOGtnbVJ5cXB4TDFsaDdxaFVHd0k3dm9VUzYwV1EtV3VhcmxXYmRxVUpzTWVId19lUlBnZ1UyRzA5ekczeVBncjZpN0d2SHVXV3dVeUl3bF8yZ3ZPemViTkw0WUo0MWxB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "05df3f1e068f",
+      "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+      "source": "Reuters",
+      "date": "2026-10-20T13:27:27Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
       "isNew": false
     },
     {
@@ -174,7 +183,7 @@
       "date": "2026-10-16T04:00:00Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTld6aWRsWmtoX2VGYVpFVmRFbXpLZDF5UUt5XzZ2VmNzQ0t3NVlIWWhkTFBRRm5YM1kxN25udS1UN2dhOXVpU3RwSG1iWUIyNC1OT05HaXlfNVNIM3FHenhHTFNoX2Yzb0hkaUY4c2owYzFlWGloY2pRRTFxTERObFBuRlpaTEo0NWpsNW5wRTRHbXA1Z3JJY1ZsVDVpTGhEZ3FaUFFOVTVCeXBrd2xCQUdwR2dIazJoRFlUbVJ1aWJmREx1?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV045Q3J2Wi1GMXl2bmJiRmpZM3lpcWRoWjlVTXJaLWluUGtqZEE3Z3pzTHJLakV3VU9uaVhILWFINjBvWkRjMVJacjhiVUxmWFoxV24zaXM4dWRaZ3FiaFFEVTI1UkJQLUt3U19PM0dGSzl5dDJPbFY5QnRLdnpvbF9nUDZoUFZ4cDVVS1M1blhGZVBpRXIxVlVMcjV5WE1uQ1p5bkpwZWpvTFVfSy1LQ3l6ZXZ5cURwYS1WVEkta2FOWC1qcE43cg?oc=5",
       "isNew": false
     },
     {
@@ -295,16 +304,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUXBMbk9OandNR3R6Mmo1Y2ZZY2F2MXI5aWNoOVhQZEJfRHRtdV9fdG8tckdadVR6aC1oWmQ5VkRNRENDWk5kNElYcVVDUWVfT0VIRE9OdTJvSXE1eV8yZk5Yc1h2dzM5TFJYeDNzakRLYlFwWlpHeEJFZnNNbVp0NDJ4LWFIOU1QaFhNcFRDRUg4RkxUTUlxaEY3VnE2dm1aNklvOFAwWjdieks1OXpnbnZOSWNBajBWaDhhX3RJVEpJa0NaYy1vdjhtdDNpdldT?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "82d6d1ddf421",
-      "title": "Solvency II: What 2027 securitisation reform means for insurers",
-      "source": "Invesco",
-      "date": "2026-10-14T07:00:00Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONm5Lc1JqY3h2dkxuek9IQnpYU3luYlJfeTRRLWkxWE1TclpZLWtvMHZZQ0VSaTh2YW5BUHlGY01TZW0yZDBXLXJaNWUtRW12aVdqaFVWZDNQVk5lREhkSF9WUTFrT1N4SS1jYVJ3MFkyV3puSC1sTVIzYkVNMGJfd1Y4bVZjRENncTFQNnJtS3JWQ1J6d2o3TTZLV3lmRkE?oc=5",
       "isNew": false
     }
   ]

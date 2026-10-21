@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T17:20:26Z",
+  "updated": "2026-10-21T21:50:31Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {

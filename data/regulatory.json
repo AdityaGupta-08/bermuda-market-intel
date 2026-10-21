@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T17:20:23Z",
+  "updated": "2026-10-21T21:50:28Z",
   "naic": [
     {
       "id": "cb21fa3406cc",
@@ -505,6 +505,16 @@
     }
   ],
   "cayman": [
+    {
+      "id": "224e21858992",
+      "title": "CI now a leader in global insurance industry",
+      "date": "2026-10-21",
+      "cat": "General",
+      "summary": "",
+      "source": "Cayman News Service",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNl9ZTnl2NnA2ZHMyY2ZwZVotN3dxaHZsRlgwLVlEZkFzWEFzZ0pIUmpTTnE2ZHJCUWJrT0l1UjlXb0Q4bnZjR1phOHBkdjVDLThmbjFDc3lpVHdTWXhtVzFPUjZDa3lOd2N0YlZ4MkVKM1VmR0s3VzBkam5qYmRhYVptRTBzcEdtdUk4?oc=5",
+      "isNew": true
+    },
     {
       "id": "e9458f5d4158",
       "title": "Cayman Islands digital assets - October 2026 update",

@@ -7,12 +7,13 @@ import {
   Shield, Newspaper, BarChart3, ChevronRight, ExternalLink,
   Clock, RefreshCw, Activity, DollarSign, Percent, ArrowUpRight,
   ArrowDownRight, Minus, AlertTriangle, Loader, Landmark, TrendingUp, Gem,
-  Copy, Check, Layers, Gauge, Building2
+  Copy, Check, Layers, Gauge, Building2, Handshake
 } from "lucide-react";
 import structuresHtml from "./reinsurance_structures.html?raw";
 import TickerTape from "./TickerTape.jsx";
 import AnnuityMoneynessSection, { AnnuityMoneynessTile } from "./AnnuityMoneyness.jsx";
 import ReinsurerSpreadsSection from "./ReinsurerSpreads.jsx";
+import DealsSection, { DealsTile } from "./Deals.jsx";
 
 const PLATFORM_NAME = "GENESIS";
 const TOOL_NAME = "GENESIS // CORE";
@@ -1427,10 +1428,11 @@ const PAGES = [
   { id: "credit", label: "Credit Spreads", icon: Percent },
   { id: "cds", label: "CDS Spreads", icon: BarChart3 },
   { id: "pe_reinsurers", label: "PE Reinsurers", icon: Building2 },
+  { id: "deals", label: "Deals", icon: Handshake },
   { id: "news", label: "News", icon: Newspaper }, { id: "bma", label: "Regulatory", icon: Shield },
   { id: "structures", label: "RI Structures", icon: Layers },
 ];
-const FILES = { ust: "ust.json", jgb: "jgb.json", gilt: "gilt.json", eiopa: "eur.json", india: "india.json", credit: "credit.json", cds: "cds.json", sofr: "sofr.json", bma_rates: "bma_rates.json", commodities: "commodities.json", debt_maturity: "debt_maturity.json", news: "news.json", regulatory: "regulatory.json", inflation: "inflation.json", myga: "myga_spreads.json", reinsurer_spreads: "reinsurer_spreads.json", reinsurer_commentary: "reinsurer_commentary.json" };
+const FILES = { ust: "ust.json", jgb: "jgb.json", gilt: "gilt.json", eiopa: "eur.json", india: "india.json", credit: "credit.json", cds: "cds.json", sofr: "sofr.json", bma_rates: "bma_rates.json", commodities: "commodities.json", debt_maturity: "debt_maturity.json", news: "news.json", regulatory: "regulatory.json", inflation: "inflation.json", myga: "myga_spreads.json", reinsurer_spreads: "reinsurer_spreads.json", reinsurer_commentary: "reinsurer_commentary.json", deals: "deals.json" };
 
 // ── Source health (data/source_health.json written by the pipeline) ──
 const HEALTH_COLORS = { active: "#4ade80", fallback: "#fbbf24", stagnant: "#f87171" };
@@ -1531,6 +1533,7 @@ export default function App() {
       case "credit": return <CreditSection data={data.credit} loading={ls.credit} error={errs.credit} />;
       case "cds": return <CDSSection data={data.cds} loading={ls.cds} error={errs.cds} />;
       case "pe_reinsurers": return <ReinsurerSpreadsSection data={data.reinsurer_spreads} commentary={data.reinsurer_commentary} loading={ls.reinsurer_spreads} />;
+      case "deals": return <DealsSection data={data.deals} loading={ls.deals} error={errs.deals} />;
       case "news": return <NewsSection data={data.news} loading={ls.news} error={errs.news} />;
       case "bma": return <RegulatorySection data={data.regulatory} loading={ls.regulatory} error={errs.regulatory} />;
       case "structures": return <StructuresSection />;
@@ -1604,6 +1607,9 @@ export default function App() {
             {REG_TABS.flatMap(t => regItems(data.regulatory, t.key).map(it => ({ ...it, reg: t.label, regColor: t.color }))).sort((a, b) => (b.date || "").localeCompare(a.date || "")).slice(0, 4).map(item => <div key={item.reg + item.id} style={{ padding: "10px 22px", borderBottom: "1px solid #151820" }}><div style={{ display: "flex", gap: 6, alignItems: "center", marginBottom: 3 }}><Badge color={item.regColor}>{item.reg}</Badge>{item.isNew && <Badge color="#4ade80">NEW</Badge>}<span style={{ fontSize: 11, color: "#64748b" }}>{item.date}</span></div><div style={{ fontSize: 13, fontWeight: 600, color: "#f1f5f9", lineHeight: 1.4 }}><ItemTitle title={item.title} link={item.link} /></div></div>)}
           </div>
         </div>
+
+        {/* Vetted deals — latest activity, each linked to its primary source */}
+        <DealsTile data={data.deals} onOpen={() => setPage("deals")} />
       </div>);
     }
   };

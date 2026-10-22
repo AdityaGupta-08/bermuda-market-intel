@@ -4,6 +4,56 @@ GENESIS (hosted at https://adityagupta-08.github.io/bermuda-market-intel/) marke
 pipeline. Everything refreshes and publishes from a single GitHub Actions
 workflow, `.github/workflows/deploy.yml`.
 
+## Deals tracker
+
+The **Deals** page (and the *Recent Deals* card on the Overview) lists vetted
+transactions involving the Bermuda life & annuity reinsurers, their sponsors and
+their cedants: block reinsurance, sidecars and flow partnerships, M&A, capital
+raises and restructurings.
+
+| | |
+|---|---|
+| Data | `data/deals.json` (hand-curated; the pipeline never writes it) |
+| Logic | `src/deals.js` (vetting rules, filters, stats) |
+| Page | `src/Deals.jsx` |
+| Checks | `node scripts/test_deals.mjs` (runs in the Tests workflow) |
+
+### Vetting rules
+
+Every deal must have:
+
+- at least one **primary** source: the company's own release, an SEC filing, or a
+  regulator document. Trade press and law-firm notes are listed as `secondary`
+  coverage and never count on their own;
+- direct `https` links to the publisher. Google News redirects and archive
+  wrappers are rejected;
+- a `verified` date that is not in the future, with no announced, closed or
+  milestone date after it;
+- a status that matches its sources: `closed` (with a `closed` date) only when a
+  **primary** source dated on or after the close confirms it, or a primary source
+  that states completion is marked `"confirms_closing": true` (e.g. a later 10-K or
+  results release). An announcement saying a deal *will* close doesn't count, and
+  neither does coverage. Otherwise the deal stays `pending`; a `terminated` date
+  only goes on a `terminated` deal.
+
+Reports of talks or exploratory sales are not listed until a party confirms a
+signed deal. `size.usd_bn` is filled only when a source states a US dollar
+figure (`$`, `US$`, `USD`); nothing is converted, and C$, A$, HK$ and similar
+are left as text. The *Liabilities reinsured* total sums only `reserves` and
+`liabilities` figures on closed deals.
+
+`scripts/test_deals.mjs` fails CI if any entry breaks a rule. The page applies
+the same rules in the browser and holds back any entry that fails rather than
+showing it without its sources. A pending deal whose `verified` date is more than
+45 days old is flagged on its card for a re-check.
+
+### Adding or updating a deal
+
+Add an object to `deals` in `data/deals.json` (copy an existing one), then run
+`node scripts/test_deals.mjs`. When a pending deal closes, set `status` to
+`closed`, add the `closed` date and the closing release (with its `date`) to
+`sources`, and bump `verified` (and the file's `updated`).
+
 ## Reinsurer news monitor
 
 Tracks recent news about the Bermuda life & annuity reinsurers on a watchlist

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:19:16Z",
+  "updated": "2026-10-22T21:38:41Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 17,
+      "count": 18,
       "error": null
     },
     {

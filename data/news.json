@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T04:51:13Z",
+  "updated": "2026-10-22T11:55:36Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -17,13 +17,23 @@
       "isNew": false
     },
     {
-      "id": "234c6db42501",
-      "title": "Tankers, Talk and Trade-offs: Interest Rate Drivers",
-      "source": "TD Economics",
-      "date": "2026-10-20T18:22:02Z",
-      "topic": "Rates & Macro",
+      "id": "ab6cbbcdca5a",
+      "title": "Madison Dearborn runs CV-on-CV for insurance asset",
+      "source": "PEI Secondaries Investor",
+      "date": "2026-10-21T14:59:30Z",
+      "topic": "Insurance AM",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiRDVza3NxYTJPX19XSGdBQjhmaEFfZ3JNaDlDY2FKTzc5TVNCX3F5Uk9EaDVud0FUbDZtaTJkX2o0MG54bTJPQUl1M0dXalB4dHh2MWZma1JYV3ZfVmNHVg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaElVY2VHVDc5YmlNamFXX0hldHliTFVEWHB1cTZvT2I0OUwzS0o3cW1jSGFGYjIydGtiSzhzeFB2ZnU1cW1zLUpFN0RrUXI1MDdjeUIzcW5jTHJEemFmVzRfLTBYc28zbENsRHlMWk5JNnpqTGowRU1mM1FvN1VPTjZoRm9hR1BjX3o2Y1FpRFljYTM0QXc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f8a206dd834b",
+      "title": "Someone Has to Take the AI Risk",
+      "source": "Bloomberg.com",
+      "date": "2026-10-20T18:31:14Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG9rcllyNlV4blhqWFFNMUtWbW5WYVVIckd3ZTFPYm9yYjFDdmpMUmFOMlVQTWVxSXAyWmphVTljUnJnWFVEOFJnV1c4N3J4NmhDc2lkYWxGNE10M0l4LTllclZXcFBCcUN5RjFLdlprdEQ2T2VuTXRkVEhuRUV6WkpneS1YRlRiNFI5ZnhIaGE2UQ?oc=5",
       "isNew": false
     },
     {
@@ -44,6 +54,16 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORll1WVZ6SG9sUXo3emFpZUY4RGF6WnV2bWxZRVlyVndBNG9IX2lHV3NLb094NlY5R183NGdlU2hlU0NOQmNHRUpjdzNqWkVJN2N4Y3UtY1EyZ0lCM3FVY0xOSDFrZ2ptR0dSRi1BeUs3RnZja1hDd3N5ZHdxR2VPQ3FiU1hEcUtLcWRSaElPdlVBQXZfOVBnYThLZ1pnajBMQTh0VTg4dw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "234c6db42501",
+      "title": "Tankers, Talk and Trade-offs: Interest Rate Drivers",
+      "source": "TD Economics",
+      "date": "2026-10-20T13:29:28Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GcldNcEZBdFotT2k4TkxpTFNKSXpmTWNldFZZOUhYMThGdHJWWWVuaDBRVGFURF9haWs0NkxscG5TZkdVTlJDT1lMUGdqUkd6bTA4aFB3REY5YXJQXzB1Zw?oc=5",
       "isNew": false
     },
     {
@@ -117,6 +137,16 @@
       "isNew": false
     },
     {
+      "id": "265c62b66f4a",
+      "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+      "source": "WSJ",
+      "date": "2026-10-19T19:27:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "a2702afc583b",
       "title": "Spain | Rising interest rates, less fragility",
       "source": "BBVA Research",
@@ -162,6 +192,16 @@
       "source": "BlackRock",
       "date": "2026-10-18T07:00:00Z",
       "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "5e312cdb4692",
+      "title": "Weekly market commentary",
+      "source": "BlackRock",
+      "date": "2026-10-18T07:00:00Z",
+      "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
       "isNew": false
@@ -264,46 +304,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0xNV0hzUFN3bnR4TlhLZlhxdWtJdWVPd3JqNnNfRERoaGotVGVCOEptd3J3R1dma0FKVUR2Vm1yZDczd2dBNXRjTHR3WE1SMVlseDIxV0ZvX0liRGlmVmttOGRvT1BiOVhOekd0RE04UmQzcE84X3VlcEZEYmJTbHlobi1xaHFmRTVBQWY1ckI5TmNqNDhNdTJWZ19GUHpQbE9idg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4583ff88d5e9",
-      "title": "Japanese insurers are poised to bring money back home - gradually",
-      "source": "Reuters",
-      "date": "2026-10-15T04:22:58Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjI1OEszZURMdjBTOVNCOHEwY2JadDUtcGNQVFFRcmxRSzNGNjBnVVQxY1VXR3FxeDRCNGtuSE4xTC1QeElmNFNCZ3p6R0lWZ0tNSklYMXpKMGI0UWN2OW0wTU03bVdIbktXNFJydzdrc0dZNFlEQnBjMGp2X0VSRGMzNXJrR3BwdE9UZm5zZ01WY0VGb0FSa2lGakZSam1KaHYwU1lSUExDUW0wTnVydlBSRQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "5e30bf497cd4",
-      "title": "New York Life Investment Management Names Rupal Shah As Head Of Insurance Solutions",
-      "source": "Pulse 2.0",
-      "date": "2026-10-14T20:03:04Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEFCZlpHTEdNNkMyazlRT200OWt4N01OX2dFUWN0UHBibkh1eTVaUFk3MTdianBBVWhlbmlNZHAxZGJkVC1KX1J4dmVVZVBZUElQOUtQXzE0X01wUmYtRlFRUllYbzRDOWx4S0RNb2xOX2lBdmtTaU5XRjBiQzVXMnpRampYRERHSDBzTFhyUloyUmtwZW82VDd3eWwyUUtjNklUdkNn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ec191a769464",
-      "title": "New York Life Investment Management Appoints Rupal Shah Head of Insurance Solutions",
-      "source": "citybiz",
-      "date": "2026-10-14T18:58:14Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTNLT0tqb21za25vaDRvbURZQUg5WVFBQWV1MTk4MEhYY085dFEwa1VzdHdNRkJnUzdMTjZWUUpFcGEyWVdCVWxkZTZxYmp1V3NPV2owWEtGRTR3X3NzMkVNTDFxYWVGdkFzdkdySHNaMjdRRjZpS1hRS1FCZHFKaEtOMmxsRDZfbUgybE9JdS1YM25VVHBrN041VThhTkt2NEU1eEVhcHFEWGRleWhRcU5EVXhyWWVfX2VocU5Iaw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "755b934e5a73",
-      "title": "Will the Fed hike rates in October? 50 basis points in total hikes expected, but Fed officials say there's 'no need for urgency'",
-      "source": "Chase Bank",
-      "date": "2026-10-14T18:55:53Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVjZzbXEwdE1HWHlZdlJsckVxdFhvQ2pyMjVQdTYzd0VQUWV6QmNZY2E3V29aa0x4MUVRWU1uSExZRTZfZjg2RzRKOGlkWTlObnVqUFcxVWxUazVOSW83NjF5eUNjdHRNc1J5WmU3d3NPclB4eE5QVlc3aE0zMXR1TUo2YWlWc2ctek1ReHd4cDRkTUZPT0VmNzh1dW1DZ3Y5aU9nUHhKU25kZXZsblRpZk01UDQtVE1HQjF5RWpjX21jcHlFcmVCVzBHcUxjR2E5R2VF?oc=5",
       "isNew": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T04:51:18Z",
+  "updated": "2026-10-22T11:55:39Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 6,
+      "count": 3,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 18,
+      "count": 16,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 9,
+      "count": 5,
       "error": null
     },
     {
@@ -1226,18 +1226,6 @@
       "summary": "",
       "companies": [
         "Sagicor"
-      ]
-    },
-    {
-      "id": "8133f9c6c76b",
-      "title": "Aspida Re names Brian Lewis as CFO",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnRKa1g4eTlyRWN3dmFQdnFCZzFoZzNnVFE1ZVBELXBtZ2prYmhaTVNRRUYwaV9walRVOVBxNk9UcXYtN1JNX1JrQ08yaHZvT3dxaWxJX0lzZGFraXpJUE5GOU8zaUlJcVN0cUVhVXh0UnBrVEEwYjFoM1M4aS1XRlhUdlluWjI1SUpJdV9WUDFsZFVtTzRpUlpKWVM4TV9KSzJSMA?oc=5",
-      "source": "Royal Gazette | Bermuda",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-09-07T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "Aspida"
       ]
     }
   ]

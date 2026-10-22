@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T21:50:31Z",
+  "updated": "2026-10-22T04:51:18Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -269,6 +269,18 @@
       ]
     },
     {
+      "id": "2fdc1c528866",
+      "title": "Wells Fargo Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $292",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2dGN01KY3Q2VDNoMFhLY2QzaUZxRlpuR29yYlJEWVp5M0xsdi1FT3JmbDhwekY1REF0RlkwejdpYXNxMmx1SzF2UmtMVG14aTVGZEJpS3RaMDR6NkZjRzRpR290ZnZFS0UtUkQ1cnAwRkk3LXp1SU5zQVVUZXIyYmZZYV85Z2UzaTlseVZmSkFZdmVubFg2cko3QW9wNEhyOGVqTU1YdDhCOVh6aXc?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News: RGA",
+      "date": "2026-10-15T11:41:35Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "1afa5ded1043",
       "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHNtT1RXSE5CZGtUYVBzZ09xVDFtdFVFQk1TMGtaUXBYNWdBeE5WdU1YU20tNzk5YktxRmtFVk1TQ0FTd1duRDFlREtxYXRuRVVVUWtOd1YydTZ6RTlMMkl5a3ZMR2cwTEsxS2hDYVdrcTVxR0tKSlJqbUQtNU9YbDZjRjR1N05GT1NoR1JLQQ?oc=5",
@@ -353,18 +365,6 @@
       ]
     },
     {
-      "id": "2fdc1c528866",
-      "title": "Wells Fargo Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $292",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2dGN01KY3Q2VDNoMFhLY2QzaUZxRlpuR29yYlJEWVp5M0xsdi1FT3JmbDhwekY1REF0RlkwejdpYXNxMmx1SzF2UmtMVG14aTVGZEJpS3RaMDR6NkZjRzRpR290ZnZFS0UtUkQ1cnAwRkk3LXp1SU5zQVVUZXIyYmZZYV85Z2UzaTlseVZmSkFZdmVubFg2cko3QW9wNEhyOGVqTU1YdDhCOVh6aXc?oc=5",
-      "source": "Moomoo",
-      "feed": "Google News: RGA",
-      "date": "2026-10-12T13:33:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "6dced9ddd384",
       "title": "Reinsurance Group of America (NYSE:RGA) Given New $292.00 Price Target at Wells Fargo & Company",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFBDSjdNemtxWmg3Z0tjamxmUk04X21UTU0xZVNYbHVhdGlVbHk3R1FkVlhQeWRHQ0ppMXAyOTgtNTJqa3g3bkxIWmJ0UmhVOTFiZUMwSWU5NEI0R21wb3JlTGk0bjcxWlNFUXYtZDNJQUQ5MHJOUXV1MkFxaWhlNWdrZExBdm9uSUJSZ0kzREJfNHF0WWJCM0NNSDRnbEdycEZOaVRGVURQRnU3QWJQdzJUbjhQQkhncXFqVHVCZ0lrNEJ1NzRfZ2JzLXNDbXBSWGRPNnViU3N6bnNoZ3hDYVZaYU56QQ?oc=5",
@@ -437,24 +437,24 @@
       ]
     },
     {
-      "id": "170b4b6ac3ae",
-      "title": "Reinsurance Group of America Announces Third Quarter Earnings Release Date, Webcast",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWxQRHVEY2xMZGtCemFHSk9LMmM4ZHdEcjh0cEliVHEwT2RtYm5qeEJMSFVhZnc2WGZ5bkhGVzJKVW1NM2owZGs0a2xoVjBxdEQtcjNLX3g1V0tjTWp5SE4zWXVFZW90cTZSVFQ4TWFUQ2NOZVlOdTdQQ1FYWUlqNktuNUhfc0pPRDZzSEEzdW5vOGpFUnVHOFF2Z29tYS0wMFliNDVJSVNHRnIwVkNKYmRiMmpRSy1sV2x6aTVvb1J6OHo5N1MwSDFjVzZvRUxnTXR1Nm9n?oc=5",
-      "source": "Business Wire",
-      "feed": "Google News: RGA",
-      "date": "2026-10-08T20:15:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "8e952f783824",
       "title": "Reinsurance Group of America (NYSE:RGA) Sets New 1-Year High - Here's Why",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUs5TF9ObG9wcUFjQ3BUQms5UW82cmJMODk0clR3ZUxpbUdYekhVd2xUeE4wZWtnaXhndi1GTzBhQlNkN3BJODI1RXozSHYzOUd0ZkNJekxCbzNBSHRTYWJZUGh0a0NTYkZjeGxIa2lzQ0xSc2FlV0dlNlpzVXVPWjdsejh1QnFoMXVnT3VqYjF4T05ZRmFIN2pKbHZOZzQxbWhiN25tMDNpeXVhb1pRNnBIRkg5bThULVZkVUVWNmR3NDJOd2hr?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-08T19:17:35Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "170b4b6ac3ae",
+      "title": "Reinsurance Group of America Announces Third Quarter Earnings Release Date, Webcast",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWxQRHVEY2xMZGtCemFHSk9LMmM4ZHdEcjh0cEliVHEwT2RtYm5qeEJMSFVhZnc2WGZ5bkhGVzJKVW1NM2owZGs0a2xoVjBxdEQtcjNLX3g1V0tjTWp5SE4zWXVFZW90cTZSVFQ4TWFUQ2NOZVlOdTdQQ1FYWUlqNktuNUhfc0pPRDZzSEEzdW5vOGpFUnVHOFF2Z29tYS0wMFliNDVJSVNHRnIwVkNKYmRiMmpRSy1sV2x6aTVvb1J6OHo5N1MwSDFjVzZvRUxnTXR1Nm9n?oc=5",
+      "source": "Business Wire",
+      "feed": "Google News: RGA",
+      "date": "2026-10-08T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

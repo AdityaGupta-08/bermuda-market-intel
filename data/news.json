@@ -1,11 +1,21 @@
 {
-  "updated": "2026-10-21T21:50:28Z",
+  "updated": "2026-10-22T04:51:13Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
     "Rates & Macro"
   ],
   "items": [
+    {
+      "id": "565b61e975d9",
+      "title": "Japan's Takaichi presses central bank to buy more bonds",
+      "source": "upi",
+      "date": "2026-10-22T01:31:39Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLU9kV1dmX1lmbEpfeVNmaVRjRWVKb0ZEdVVYekxTdE1ZT1Z4cE0wOUhaRnhVZTR4VzlfRUVNVElKSHVzaGh1UWh6MGp6TEQ4WUJBMF81bVdSUTI4U09faUUzYW5VbEgxMWZPSXhNNWFHSURLRmI4QUI1am1lZnd1dENBVFdUZHpsQTdTb1FfMW9hQV8wOEVXa0VRb3RJY2Y3Z2lrQWFkT1NjV01QZXdOSzlqZVdvUWvSAbwBQVVfeXFMTkZpRzlRbElVNTRHdTNUQ1djamtIcG9JQXFqT0ctckNDMWpZYUl2NUc3QVpQSVlqOTh6aDdoX0hXZ2o3aTRqaVRVcC1Ob21pU3p4c0J6VDk3Tmp3Und0Q3JKSDNIa3M4dURTOTE0X2NhV1hfR2FvYUFLc0RBQmZYdDFsT3ZsakstbkhwcU1iUFd5U01uVmhpUlNpVUkzaHc3RzhrRVRtWUdmUkVMQm04czIxUnJhQkdpN3Nad04?oc=5",
+      "isNew": false
+    },
     {
       "id": "234c6db42501",
       "title": "Tankers, Talk and Trade-offs: Interest Rate Drivers",
@@ -294,16 +304,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVjZzbXEwdE1HWHlZdlJsckVxdFhvQ2pyMjVQdTYzd0VQUWV6QmNZY2E3V29aa0x4MUVRWU1uSExZRTZfZjg2RzRKOGlkWTlObnVqUFcxVWxUazVOSW83NjF5eUNjdHRNc1J5WmU3d3NPclB4eE5QVlc3aE0zMXR1TUo2YWlWc2ctek1ReHd4cDRkTUZPT0VmNzh1dW1DZ3Y5aU9nUHhKU25kZXZsblRpZk01UDQtVE1HQjF5RWpjX21jcHlFcmVCVzBHcUxjR2E5R2VF?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "38a82d7c8ce7",
-      "title": "Private Equity\u2019s Growing Role in U.S. Life Insurance",
-      "source": "The American Action Forum",
-      "date": "2026-10-14T15:14:02Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczU0S0hCNmdzUkNpMFNOdF85cGtaekRqOExEdHZVbko3SUFIeVp3RmVaT2NsNzAzZlZSVWlkaW5CQTIzQ2QxcF9XNFg2OG5oMFJVNzRYV2VCaDVMQ3lUVWV2Vl8zUnJSaHk0RWY3Uk8yTTNnZmNZYWpRSXlucDdwaGNBM1luOEp1QW55bkRLRE51RHdneHVTOXZvVQ?oc=5",
       "isNew": false
     }
   ]

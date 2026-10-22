@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "source": "FRED ICE BofA / TradingEconomics",
   "status": "partial",
   "sovereign": {
@@ -15,60 +15,60 @@
     "aaa": {
       "name": "AAA Corp",
       "spread": 42,
-      "prior": 41,
-      "series_id": "BAMLC0A1CAAA",
-      "date": "2026-10-19",
+      "prior": 42,
+      "series_id": "",
+      "date": "2026-10-20",
       "source": "credit.json"
     },
     "aa": {
       "name": "AA Corp",
       "spread": 63,
-      "prior": 61,
-      "series_id": "BAMLC0A2CAA",
-      "date": "2026-10-19",
+      "prior": 63,
+      "series_id": "",
+      "date": "2026-10-20",
       "source": "credit.json"
     },
     "a": {
       "name": "A Corp",
       "spread": 73,
-      "prior": 71,
-      "series_id": "BAMLC0A3CA",
-      "date": "2026-10-19",
+      "prior": 73,
+      "series_id": "",
+      "date": "2026-10-20",
       "source": "credit.json"
     },
     "bbb": {
       "name": "BBB Corp",
       "spread": 108,
-      "prior": 106,
-      "series_id": "BAMLC0A4CBBB",
-      "date": "2026-10-19",
+      "prior": 108,
+      "series_id": "",
+      "date": "2026-10-20",
       "source": "credit.json"
     },
     "bb": {
       "name": "BB Corp",
-      "spread": 200,
-      "prior": 203,
-      "series_id": "BAMLH0A1HYBB",
-      "date": "2026-10-19",
+      "spread": 202,
+      "prior": 200,
+      "series_id": "",
+      "date": "2026-10-20",
       "source": "credit.json"
     },
     "b": {
       "name": "B Corp",
-      "spread": 336,
-      "prior": 335,
-      "series_id": "BAMLH0A2HYB",
-      "date": "2026-10-19",
+      "spread": 338,
+      "prior": 336,
+      "series_id": "",
+      "date": "2026-10-20",
       "source": "credit.json"
     },
     "ccc": {
       "name": "CCC Corp",
-      "spread": 1310,
-      "prior": 1297,
-      "series_id": "BAMLH0A3HYC",
-      "date": "2026-10-19",
+      "spread": 1327,
+      "prior": 1310,
+      "series_id": "",
+      "date": "2026-10-20",
       "source": "credit.json"
     }
   },
   "sector": {},
-  "_fetched": "2026-10-21T21:45:26.035082Z"
+  "_fetched": "2026-10-22T04:49:03.499080Z"
 }

@@ -1,17 +1,17 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 22 items
-Generated Fri 23 Oct 2026, 14:10 ADT
+Generated Fri 23 Oct 2026, 18:27 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 45 items
+- ✅ **Google News (16 of 16 companies)** — 48 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
 
-- **2026-10-23** — Seeking Alpha — [Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlaeHJpUDI2dmNGeWNlWkpqSklWOHotWFU5SmxwSEY2RHJMbkxEMWh6OHFleUlSRld5QmRZZmRYM0Z1UE11TnJ3ZUNOYU1naWhMUGNpQnZXa19LWlhwYzR6N3FsNE1NUWZpam56dzhVWHZmY2lBdHFYcGlWT3Q5Qk40a2RKcGd6R25zLUY0WjRkUHlnYnZPM3RMMEIxajB1ak53cmZ4NlEtOWhSV2Y0Z1Bmb2JleTU3Q2c?oc=5)
+- **2026-10-23** — Seeking Alpha — [Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)](https://news.google.com/rss/articles/CBMiugJBVV95cUxQczNBZmZvQVdXYUhoZnJNWHF2R2oyRFNoS0ZnMkVSdFFRRUlkMjdWZVZJQUs5REFYUWU2Wm9VMzF2QmdYOWFVbkM3X0R4U0Q3WEJXSGFqOFJyNlVJT0cxTmg3eEcxZUs2amlVRm5DT3NYXzNSY3N4dXNaSnAyS3psbnAzU0hMaVJyTGlPbV9nQkwxNDcxNGFKYW5tMU1VVXZ4YnBaTy1KdWdlSzdtSGFMa0VfU1BRY3Z0ZGwzQ2pwSUV0czRqUEVPZEtxckR1ZU1xdENQalJpRWxnY096MEZWanlkSWRSV1hoRWRGSkhaclA5d2xNUTNtME43QzF6TklueGhKM0tUdkozdm9Lc1NyaFZBOE9FUUE5Tmo4N0g5RTM4ZThkUG9rai1ESEVmN2Y0TUNxaHFzNGVZQQ?oc=5)
 - **2026-10-19** — Yahoo Finance — [Athene Announces Third Quarter 2026 Fixed Income Investor Call](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzROWDdIa0hQemZlWVVuSHBfSG1sWUFLZXlPMmxoeU41ZndzUWlROHdocDJLbjR0aHBRUDNIZ0Y2UTNQSU10ZU1RYWFTTEVqVWY2QzUzcE8wb2ctZ0ozeUdtYWFRcEV2N0UxZUx4RDhOTkczOV9VLWt1eTlqT2ZhUzRKeGx3VHJRd1kyNWNHZkRueS1wajBhdWo4NGR2SjZ6b0E?oc=5)
 - **2026-10-13** — Pensions & Investments — [What Athene’s investments can tell asset managers about where insurance portfolios are heading](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5)
 

@@ -1,11 +1,31 @@
 {
-  "updated": "2026-10-23T11:42:37Z",
+  "updated": "2026-10-23T17:10:20Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
     "Rates & Macro"
   ],
   "items": [
+    {
+      "id": "700fd420cc04",
+      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+      "source": "WSJ",
+      "date": "2026-10-23T16:23:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "9a293b7bd2a3",
+      "title": "Partners Group Closed a $510 Million Rated Feeder for Its Evergreen Private Credit Strategy",
+      "source": "HedgeCo.Net",
+      "date": "2026-10-23T10:14:52Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NsV1FKX2xwSVZIMzBPMjZQM0NYQ0MyZWlKRTNvOVBQZ3BBTTluMFBMOEVDdkc5SmQzWmdUaENVRG5EUWhPZTgzVUdnbVZOcTdBZGVoMXo5YlBILWY2TVZoYzM0NTJvUnlva2tIQ3dRc2NpaWJ4cVpnSmNqRWh2Qkc3QkY3cThvbWI4T1FtTjdRT1NEUFVzdkVEQktjZmN5X3FPVHhrUTZTaU9fRWhUbjdZdGVQOGI3YU8xQUZhVG5qVW5RWV9j?oc=5",
+      "isNew": false
+    },
     {
       "id": "47c4d9521c4f",
       "title": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America",
@@ -120,10 +140,10 @@
       "id": "c6acf62587fa",
       "title": "KPMG in Bermuda promotes Ranchod to audit partner",
       "source": "Captive Insurance Times",
-      "date": "2026-10-20T16:08:01Z",
+      "date": "2026-10-20T15:32:42Z",
       "topic": "Insurance AM",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTEdZMHAzbWk0WWY0ekh1Ym1velhwUjdSUlMyVnhKamUxQTJSYXVYemdMTUtMYWl0bzRKRXo1OWhpb052Wk5zQnNSd0pXTktXQ1Mxa2pmLVU3dlBhU3EwQ3JYQ0xqNmJlUHhscDBKSUQyUWZsZDJaSGZMYUpNRmZCVlBDOGtnbVJ5cXB4TDFsaDdxaFVHd0k3dm9VUzYwV1EtV3VhcmxXYmRxVUpzTWVId19lUlBnZ1UyRzA5ekczeVBncjZpN0d2SHVXV3dVeUl3bF8yZ3ZPemViTkw0WUo0MWxB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX3p0aDNNaEwwT1ZiUmduc1VlVHFnYXE4TmU0YzFwVzdqOHlmbThVZFFGRzdVbnRpOVlWdGZJTzRKR1lpVXQ3U3dVcGtGb3NKYTJGZWRCbS01Zi1ZcFN0bXladHZVeFpxMVV0SHR0NXYzOTVLYnRvMjZ3a19KRWtkc25JVVRUUjQxN2thSmFxWFZCbWRQSG16VTBpYlF1emtPbDFEMUVlcW8tVW1BUHdUQ0x6ci1sZkZwcTY3MWh2UWZDRi1SRmItV3ZfMmduZVZlVzh2V0xsS1lkZTRCWnB6Qg?oc=5",
       "isNew": false
     },
     {
@@ -284,26 +304,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "5e312cdb4692",
-      "title": "Weekly market commentary",
-      "source": "BlackRock",
-      "date": "2026-10-18T07:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "2d1ceb2229d5",
-      "title": "ECB's Lagarde says bond selloff will slow inflation",
-      "source": "Reuters",
-      "date": "2026-10-17T08:01:43Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnNpbWFQTVJFZTQ1NDEzNVA1QlMyNThGdl8tR19Bd0UtQTAyVnBGRFBldDVOMFFnRHR0WkRHaS1CODVMSUFvSTZJdzN5a2NSbHFLbHA2bnZ0ZVBXYUprYS1oeGN6eF9lakVpVmRTSVB6VkpwUzlOVXZCME5ldGVmNmZPTUtuSGVnRTZzbENrQ1pGcFlScVZ1Sl9rQ1pHWUo1c1l4VUJn?oc=5",
       "isNew": false
     }
   ]

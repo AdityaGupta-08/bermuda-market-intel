@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T11:42:40Z",
+  "updated": "2026-10-23T17:10:23Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 18,
+      "count": 19,
       "error": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -113,6 +113,42 @@
   ],
   "items": [
     {
+      "id": "e507ef3876e7",
+      "title": "Reinsurance Group of America, Incorporated Estimates \u2013 NYSE:RGA",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxMGJ1RHkzQlFTNmppUHhqRDNaVjBiUU5pWkNaZjFLSGdPbW5qRDNBbk1UMXlZcVlxQ0ZMZDNzMGhDeTdRVlFUNlZTUThsM3Q4QnQ0c3p5MGw2ZnY0NUJmRU4tUXZsT2twNGxWWnlWVFl0S2hL?oc=5",
+      "source": "TradingView",
+      "feed": "Google News: RGA",
+      "date": "2026-10-23T14:24:26Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "a04c69d03360",
+      "title": "How Earnings Estimate Upgrades Will Impact Reinsurance Group Of America Stock",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmtRQ3RocENNV1E5U1pvTjVVd0hxdFJYSGkzTW1hMVNMa2l3RjVjRWxMNnZtMjRiUExzc3RLMDZoZkdEVGZ1dGVldlVHRDFYNmIwOGFUN0l5TGJrQ2dtN3lnUm9JVjdBSVp0Zlhuak9vQkFic3g4ZlFRVER4UEVyVnppeUt5Xy1DWV9aX1IyOEZTZkhtX25JSHd3SmpxYU83VTVmbFBWNkJSLW1OeXFnaHlkejdIeExLY3pVLXgxTXdZS1dUa0ZhTkl4bXhJanZhOUhQMVkwcVdJQ0lFU2fSAeMBQVVfeXFMTjQtZERCdlZnSU95M1d6RXRUMER0YUtWNU9yMWR5bGczdF9TWU5XTjFDc0RuYnRCX0tRc0czOVB1WklNYzVKVTctRjQ0SXZybkJYNGVoTUFnYmY3V0FOS2pTTXNPVFJ2WktfSDhoWnV2Sk9OUkk4M1l1bDFhT1N5ck8wSlZJTUJPcjhYX2oyeEpnVlhsR2MzTTYtMlh5eE9tcDNBcmJXckFMTDRta3oyY05aLWs3bnd1M0RvODRtMERsWjA2Vi1kQXhGbjY4QkU0YUk2VU01cUZ1QUlpX3ZYNVRrOG8?oc=5",
+      "source": "Simply Wall Street",
+      "feed": "Google News: RGA",
+      "date": "2026-10-23T12:49:50Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "16408ad5e63e",
+      "title": "Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlaeHJpUDI2dmNGeWNlWkpqSklWOHotWFU5SmxwSEY2RHJMbkxEMWh6OHFleUlSRld5QmRZZmRYM0Z1UE11TnJ3ZUNOYU1naWhMUGNpQnZXa19LWlhwYzR6N3FsNE1NUWZpam56dzhVWHZmY2lBdHFYcGlWT3Q5Qk40a2RKcGd6R25zLUY0WjRkUHlnYnZPM3RMMEIxajB1ak53cmZ4NlEtOWhSV2Y0Z1Bmb2JleTU3Q2c?oc=5",
+      "source": "Seeking Alpha",
+      "feed": "Google News: Athene",
+      "date": "2026-10-23T12:00:00Z",
+      "summary": "",
+      "companies": [
+        "Athene"
+      ]
+    },
+    {
       "id": "bc4a2674805b",
       "title": "An error led a director to return 27 stock-linked units to Reinsurance Group of America (RGA).",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU9MVGRLWkpFME1wQ2t6c2tiN29odEgzNjU5S200a3R0X1NiSEZFenp4ZmNnd3BZbGJuSVY1dm5fZkg3MGFOaFhwN3J0WlhhOWQ4N3hIY3IwWDRNS0k4MmJxWTBqTFM3WmlOUmw2Wlo0bU5rdUFBdVExWXpZWkI3VGJYcmwwYkQxeE9kRDJOWEhZSFZhVTBzZEg2MTBka3JDbERQTkF5cGdJUHZtMHZVRnM2SVRfTEEwdjlBeUtFbE9zY1E?oc=5",
@@ -125,24 +161,24 @@
       ]
     },
     {
-      "id": "6d932a44981a",
-      "title": "Reinsurance Group (RGA) Is Up 4.21% in One Week: What You Should Know",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHdmNWc0THNvajNEXzAyTnVDN0hHVFlqaGUxSER4STY5aWdjZ05RZFFTVHByYzZwZml2SXZuTnQxS2FzVGR1UWlHUFhEbm16emU5MkJEcUIxMGpjR3hZWkxIUDBfY1V1dklRMTFEVlp1cXYtWGU5VFVBNElibkJnOEtCQV9Pakx5YVBDNzJneVJuOGRkZUE?oc=5",
-      "source": "Yahoo Finance",
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-22T15:00:02Z",
+      "date": "2026-10-22T18:44:17Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
+      "id": "6d932a44981a",
+      "title": "Reinsurance Group (RGA) Is Up 4.21% in One Week: What You Should Know",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHdmNWc0THNvajNEXzAyTnVDN0hHVFlqaGUxSER4STY5aWdjZ05RZFFTVHByYzZwZml2SXZuTnQxS2FzVGR1UWlHUFhEbm16emU5MkJEcUIxMGpjR3hZWkxIUDBfY1V1dklRMTFEVlp1cXYtWGU5VFVBNElibkJnOEtCQV9Pakx5YVBDNzJneVJuOGRkZUE?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-10-21T11:07:09Z",
+      "date": "2026-10-22T15:00:02Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1226,18 +1262,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "16eb4c470995",
-      "title": "Francisco Prat Appointed Executive Vice President and Chief Human Resources Officer at Athene",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdURaeHg5ZFZRZnkxRWI2RndnMk9OanZjUVdfRFdrM2Zpb3Q1WTlEN0N1SnFtZjdwV3dxS0cyNEV0WTVwNkJCSnhfSXBWYlhSbVhYbF93TWNfYXZFLThPTkh3ZERpRUNQQWtkSndoaWplRHdSTE13a05WWmNobDQzNk1vUnBROVlNTzc2TlUxUTJ6YktWdTBjSjRmMVV2ZGg0cEo4YS1kUVJIMFA5OXpkS2ZrRQ?oc=5",
-      "source": "hrtoday.in",
-      "feed": "Google News: Athene",
-      "date": "2026-09-08T12:17:21Z",
-      "summary": "",
-      "companies": [
-        "Athene"
       ]
     }
   ]

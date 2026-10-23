@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-23T04:52:29Z",
+  "updated": "2026-10-23T11:42:37Z",
   "naic": [
+    {
+      "id": "59cd95a9f3e4",
+      "title": "NAIC: Top home insurers by premiums, market share in 2025",
+      "date": "2026-10-22",
+      "cat": "General",
+      "summary": "",
+      "source": "PropertyCasualty360",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUZDdVhEb2p6M2pQOWI1NmZ0Q1N5WDQ4emVHLVVFMzhHM2FyWkI5RlBjRmI3TkdNWUhBRjNmSkwxLUxkRWNKdENTOUY4RUoxeG5TaEtEcEszamNyUWhPbzNfSmNCOGVGak1yTmJRTmhtUjFTSmRTSzlEcklvOU9fLXdLNUxJejlwdWZjOFNMcjdMX1dLWjg3SkljM1NqU2JZZ0ZNTVFR?oc=5",
+      "isNew": true
+    },
     {
       "id": "cb21fa3406cc",
       "title": "NAIC seeks public comment on producer licensing handbook revisions",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "Forvis Mazars US",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0xFLWxoTldIWWtjeEtVekpHSUpOQWZ0V0U0Snk4OHcxY1FtYzg3ZjgzOXJ5SnlTc1Bob0JXYVFDU1dabG9Mb0JHUTVRV2hyQ3hJQ1dTVW1FcXI1UVVfM3gzbS1Tc2VQbXBmdHVULWNkT1dVMDNrQjBnbTVxcmdxcHlEdW9vUQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "e0596a092e18",
-      "title": "NAIC working group pressed to accelerate annuity illustration overhaul",
-      "date": "2026-09-03",
-      "cat": "General",
-      "summary": "",
-      "source": "InsuranceNewsNet",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQm1rbXZMUzBQV2ZFWkpFbGFEdmU0SS1oaWV2MTNmdkZ2aTJqWEVNR2k0QkJEbXlWUkZpLVc5ZE1PS0hZSTBjSU1TU1hTalhuX21EM3JkV1hPbGRmMFVhbWtvQ2ptV2J6QVpncm1Gbm10Vlp3RTNwWEdjdDlaSVZYM3M3R19DNElZVGllRFFiY0F2TDV3SFZ5OFBwVVJzWTk1dVh3SEJWdzkydzlFWTFv?oc=5",
       "isNew": false
     }
   ],

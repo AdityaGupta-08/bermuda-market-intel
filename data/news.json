@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:38:38Z",
+  "updated": "2026-10-23T04:52:29Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -187,6 +187,16 @@
       "isNew": false
     },
     {
+      "id": "f3094ba2c8d5",
+      "title": "China's central bank studies making overnight rate its main policy rate",
+      "source": "Tacoma News Tribune",
+      "date": "2026-10-19T10:02:06Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2ZkSUg5V0c1eGh0a2hhUHRBWjk0dzRFQlAxU3dLQmFWaGRGeEJFT25jOUhWQXQzbFdPMUc4S1JsZTkwQVdUNm45ajlpU2hUR0JES050OVJWM1ZDb0xXYmhMUTJmWkJoVkpqSWkzYlllaDRIaVZzeTFuUWhuTDNIWjJnUUlRdw?oc=5",
+      "isNew": false
+    },
+    {
       "id": "a2702afc583b",
       "title": "Spain | Rising interest rates, less fragility",
       "source": "BBVA Research",
@@ -294,16 +304,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmtMb0hDdGlwWDdUUDVxdkphWXVsMWZCQXJQbGlER3dUU3U2MF92RnpkUGdvZmQyZXZLdmg2SHp2UGU4Zkw2VnVHNW9VU0dTNWdLS1RRUzNzdjhac1ZjMjhGeG1TYmRmbE01TENTQVBreU82RjJJUTdCcWpPaTdmZktlUDhudw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "651d989664cf",
-      "title": "After the AI Bubble Bursts",
-      "source": "Social Europe",
-      "date": "2026-10-16T05:00:00Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1ekFxLUZVVnNJdWU0TVNGZDEwdjZ1NlNXMVNZd0hVZnBHVHpIT3BpZ2FYOTVxNmdQZFJKTlE0TUFfeDlta3dQVUZ3LXczdFBOcmFfeEI2aVllbXI2eWVVRTRMb1I?oc=5",
       "isNew": false
     }
   ]

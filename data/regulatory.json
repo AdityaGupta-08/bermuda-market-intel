@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T11:03:41Z",
+  "updated": "2026-10-24T15:59:03Z",
   "naic": [
     {
       "id": "59cd95a9f3e4",
@@ -59,6 +59,16 @@
       "summary": "",
       "source": "Beinsure",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wSHNjUlZOUzh4eDFqajFON3BXRkM0NWpEWHBkdk5aV0xKdXVhQ25idnNhMlByR19UeWx1Vy1QS0dHYWtuWnVMd2ZTWE1POHU4eUhtXzM4aTZfRG0wclZ1bGtJNW5PMTNWOW1PckFSa0ZFdjVxRVZkb1lB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "aebf0bfefef6",
+      "title": "NAIC seeks comment on ABS issues",
+      "date": "2026-10-08",
+      "cat": "General",
+      "summary": "",
+      "source": "Herbert Smith Freehills Kramer",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenB6VXFoMHFRSExPanc3b1d2dXdralZhTUd3UzVueXlKdGtjVldlRVZ1VkxxTnpscjVPa3pPVWdqcVpOSE84ZXY1NjdldlE3RXVVRHBPbmZPamtLWVJ5cnNFdFRfYWlCa0JLcWFlNWI1TlE5c3lJSkZBSGlXVHc0cQ?oc=5",
       "isNew": false
     },
     {
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "Digital Insurance",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVJZMzR5bFk0N3lMWktMYmV5NC1aT05qLTBEWjNLRFdOaGduSEtZWWRvY25helFxT2Rqb2E2ZldmVEdoaXdPZmJKUGtYYmplZndoYjAxZkFxeTVMZFpRamFGSi16bFZ4Zk1VQjBSaXRvNnFTTU55QnNFbXhzUmV1M0NuVWpiRU85Qmc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4b6fc7851ff7",
-      "title": "Opinion | America\u2019s Unaccountable Insurance Regulator",
-      "date": "2026-09-04",
-      "cat": "General",
-      "summary": "",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN0VvUUJZQnpDbXBhdTc5bnN5MFVpaWdnakNXc3dzS3FYbV8tRTNRNVd4cEdNU0pRclJyeE1ZN2luVER2T0F2RWhLckdoNXFBcHhWNnptMllPbjA5Sm1wZjZRRkFNNFA2RENfWlFFMmtBQ1VNQUVCbU9oVTIzQ0NXNl9xZWdjZw?oc=5",
       "isNew": false
     }
   ],

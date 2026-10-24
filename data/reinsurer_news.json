@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T11:03:43Z",
+  "updated": "2026-10-24T15:59:07Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -113,6 +113,18 @@
   ],
   "items": [
     {
+      "id": "3253b261809f",
+      "title": "Reinsurance Group of America, Incorporated $RGA Holdings Lessened by Inspire Investing LLC",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmNwNTZuUkstT1NxWGFhNnlnQXhhdmktQVQ0MUxERnBobnJ6REtFNVNzdFFNLVFtak0zN21fYzZIZGkwYUFHbWpoMWtUZThTOWZGVVhDWnhkdjVnbUZnRnd1T0JPOEZGb29sUTgwTVZQVE9nREQ0RWRhRlBOLTUyYmNRaUs4bHZ2RG9YMGlFTUpQTlRldlE5SjhSUTI2eXMzNTc2eWNOVk9KbXJScjlzVGdhNUNMOUp3QXROLU5OcEV0bVJEbktwOEo4Ym5fNmR5dTJpUy1jQk1iM1JvQXZHWTNUVQ?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-24T13:55:29Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "e507ef3876e7",
       "title": "Reinsurance Group of America, Incorporated Estimates \u2013 NYSE:RGA",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxMGJ1RHkzQlFTNmppUHhqRDNaVjBiUU5pWkNaZjFLSGdPbW5qRDNBbk1UMXlZcVlxQ0ZMZDNzMGhDeTdRVlFUNlZTUThsM3Q4QnQ0c3p5MGw2ZnY0NUJmRU4tUXZsT2twNGxWWnlWVFl0S2hL?oc=5",
@@ -179,6 +191,18 @@
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-10-22T15:00:02Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "1afa5ded1043",
+      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmNTWkVHUzRudTlsVWJNWl9fR2xyLUZXS1pzQXJtR1MzSDR2cEY2Y1R3NWpuMXRhcXB4NDRQN0pxSHNSZGxfbGgxbldGdnl2OUs2b3VUc25JQ0hNNUh1aUNwQ3JQcUNpNk1qV05URnlrS05uODRLVjlCQVlFYW1jZ0hrWUlfLU5yYXM3OVZ1RQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-10-22T10:31:47Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -341,18 +365,6 @@
       ]
     },
     {
-      "id": "1afa5ded1043",
-      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHNtT1RXSE5CZGtUYVBzZ09xVDFtdFVFQk1TMGtaUXBYNWdBeE5WdU1YU20tNzk5YktxRmtFVk1TQ0FTd1duRDFlREtxYXRuRVVVUWtOd1YydTZ6RTlMMkl5a3ZMR2cwTEsxS2hDYVdrcTVxR0tKSlJqbUQtNU9YbDZjRjR1N05GT1NoR1JLQQ?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-14T23:06:42Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "2f7280eca5f3",
       "title": "Talcott seeks to renew bid for US life insurer Brighthouse",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlJPRkpTSEVrR0lHWEhRYWJGWDRFVXpBa1hQV29lOHAwd1YyQzAxQU5lLUpJSnZ3OE93VzE2Z2VDU3dadm9JX3NHeEpaNnBlMTNMVkdBcGI5dzdUbkVwb1NlS2FIQ0tUVEF4cnUxRHFaM3V1dzIxSG9IbXZONFR0bHg0TEZRTzM1Uy1wdGR3b2VmZUM0Z3VrNGNnR25qSkZnc3JkeFZFRVdQaHcwRUV6RUVWQS15U3ZpVS1rZ3hlNDFiTXFn?oc=5",
@@ -405,7 +417,7 @@
       "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "source": "Pensions & Investments",
-      "feed": "Google News: Athene",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-10-13T13:00:00Z",
       "summary": "",
       "companies": [

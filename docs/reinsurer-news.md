@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 22 items
-Generated Sat 24 Oct 2026, 12:59 ADT
+Generated Sat 24 Oct 2026, 17:52 ADT
 
 ## Feed status
 
@@ -27,6 +27,7 @@ Generated Sat 24 Oct 2026, 12:59 ADT
 
 ## RGA
 
+- **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5)
 - **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Holdings Lessened by Inspire Investing LLC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmNwNTZuUkstT1NxWGFhNnlnQXhhdmktQVQ0MUxERnBobnJ6REtFNVNzdFFNLVFtak0zN21fYzZIZGkwYUFHbWpoMWtUZThTOWZGVVhDWnhkdjVnbUZnRnd1T0JPOEZGb29sUTgwTVZQVE9nREQ0RWRhRlBOLTUyYmNRaUs4bHZ2RG9YMGlFTUpQTlRldlE5SjhSUTI2eXMzNTc2eWNOVk9KbXJScjlzVGdhNUNMOUp3QXROLU5OcEV0bVJEbktwOEo4Ym5fNmR5dTJpUy1jQk1iM1JvQXZHWTNUVQ?oc=5)
 - **2026-10-23** — TradingView — [Reinsurance Group of America, Incorporated Estimates – NYSE:RGA](https://news.google.com/rss/articles/CBMidEFVX3lxTFAxMGJ1RHkzQlFTNmppUHhqRDNaVjBiUU5pWkNaZjFLSGdPbW5qRDNBbk1UMXlZcVlxQ0ZMZDNzMGhDeTdRVlFUNlZTUThsM3Q4QnQ0c3p5MGw2ZnY0NUJmRU4tUXZsT2twNGxWWnlWVFl0S2hL?oc=5)
 - **2026-10-23** — Simply Wall Street — [How Earnings Estimate Upgrades Will Impact Reinsurance Group Of America Stock](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmtRQ3RocENNV1E5U1pvTjVVd0hxdFJYSGkzTW1hMVNMa2l3RjVjRWxMNnZtMjRiUExzc3RLMDZoZkdEVGZ1dGVldlVHRDFYNmIwOGFUN0l5TGJrQ2dtN3lnUm9JVjdBSVp0Zlhuak9vQkFic3g4ZlFRVER4UEVyVnppeUt5Xy1DWV9aX1IyOEZTZkhtX25JSHd3SmpxYU83VTVmbFBWNkJSLW1OeXFnaHlkejdIeExLY3pVLXgxTXdZS1dUa0ZhTkl4bXhJanZhOUhQMVkwcVdJQ0lFU2fSAeMBQVVfeXFMTjQtZERCdlZnSU95M1d6RXRUMER0YUtWNU9yMWR5bGczdF9TWU5XTjFDc0RuYnRCX0tRc0czOVB1WklNYzVKVTctRjQ0SXZybkJYNGVoTUFnYmY3V0FOS2pTTXNPVFJ2WktfSDhoWnV2Sk9OUkk4M1l1bDFhT1N5ck8wSlZJTUJPcjhYX2oyeEpnVlhsR2MzTTYtMlh5eE9tcDNBcmJXckFMTDRta3oyY05aLWs3bnd1M0RvODRtMERsWjA2Vi1kQXhGbjY4QkU0YUk2VU01cUZ1QUlpX3ZYNVRrOG8?oc=5)
@@ -38,7 +39,6 @@ Generated Sat 24 Oct 2026, 12:59 ADT
 - **2026-10-19** — Simply Wall Street — [Reinsurance Group of America (RGA) Nears Argus Target As Its Undervalued Narrative Holds](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVpjZVJxdVZpeVA2enQtN2tBTHNMSkt4S1R5VENrQTkybTJFMll2ajNILS1QaWJ5aGV2ckV5TjNTdXBtOS03UEFDd3FVc2dFeHZFdTdOYVlKQUUwVnkxTGY0UndqYVVlcEVZV0dZVVQ2YjJaX1lucW93enBlMHdfZHF2THJqT2xqYWRwdkR3dF85ekF4a1liazNQVVFMaWZvY09zT1R4UjBXcWRibW1JNGxvZnhDWjNNTDJSZW1mRFQ2Q2ZKd2o4REdCeExWOXhJYVd2UGJzODJoYWVlMWfSAeMBQVVfeXFMUEhQbTA4QmZFNVJKeEh3ZHV3ZnhTcFp4MkFvSVE2a21yeEhhc1FOZ2tUTTF5R0dLYkpqNk5yMUNJbWF4SndBSk9Kb3NjeVhFRTJvbUJacDhoMWVGdW1FVGlCQTF4TWlBcGV0cmJMNGxLcm5vWGlmQnJoQzNaQlRETkFwcHJXVGV0cFUtZE1kRjhtbkxSdnV4NzR0TnJnZmlDeF85WW9OOFdYQlRES3RTbVNBczdlWWk4QkRSRm1YSU1NNWIwbktpYzVKQk8xLTlZdG9FbTlqOGgtTkJrSnV4aWxWZk0?oc=5)
 - **2026-10-18** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5)
 - **2026-10-17** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
-- **2026-10-15** — Moomoo — [J.P. Morgan Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $297](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNU1BVE1RQlY0c212OFg5Mk95ZHZlWUg5NzFjdk9RcXpueHRITGVuaE84T3ZvVUFDN0x2d2VHZEpQRFRMSzA2YWhfTm5lTkhKai1NWmtHVkFhM2hqdFg0a0VocWUtMi12YjR2aDdfUWdFcDA0MlhHYUdjZnIxaHlOLUhYakdPd2t1Mm94djhVRVpUcldiaElsTU9xWVU4NVAyanRPLXgydGIzbUE?oc=5)
 
 ## Sagicor
 

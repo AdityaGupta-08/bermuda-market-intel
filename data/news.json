@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T04:39:45Z",
+  "updated": "2026-10-24T11:03:41Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,10 +7,20 @@
   ],
   "items": [
     {
+      "id": "86d41faabd66",
+      "title": "ECB Rate Decision: What to Expect on Thursday",
+      "source": "Morningstar",
+      "date": "2026-10-24T06:18:23Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZHhPNzhScGNTVTVVcXVZQkY2QTktdzhUaHI2RGRnc1BNaE1TUE5JZEhzMDlhWm5GV0NVejhsdlZhMHFvbGIyY1NvWVptbkYxbDFDMzYyVkIxUFoza21vell0NzVNUEJsZnRsWVQ0MDJnVTFycDdCTy1na1JsRFRGaV9CcjFvOVYxWWttalJB?oc=5",
+      "isNew": false
+    },
+    {
       "id": "9a293b7bd2a3",
       "title": "Partners Group Closed a $510 Million Rated Feeder for Its Evergreen Private Credit Strategy",
       "source": "HedgeCo.Net",
-      "date": "2026-10-23T21:45:00Z",
+      "date": "2026-10-23T21:45:35Z",
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NsV1FKX2xwSVZIMzBPMjZQM0NYQ0MyZWlKRTNvOVBQZ3BBTTluMFBMOEVDdkc5SmQzWmdUaENVRG5EUWhPZTgzVUdnbVZOcTdBZGVoMXo5YlBILWY2TVZoYzM0NTJvUnlva2tIQ3dRc2NpaWJ4cVpnSmNqRWh2Qkc3QkY3cThvbWI4T1FtTjdRT1NEUFVzdkVEQktjZmN5X3FPVHhrUTZTaU9fRWhUbjdZdGVQOGI3YU8xQUZhVG5qVW5RWV9j?oc=5",
@@ -39,7 +49,7 @@
     {
       "id": "cd2de9a6f500",
       "title": "ECB Set to Raise Rates in December After Pause, Economists Say",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-10-23T04:15:00Z",
       "topic": "Rates & Macro",
       "summary": "",
@@ -117,6 +127,16 @@
       "isNew": false
     },
     {
+      "id": "c6acf62587fa",
+      "title": "KPMG in Bermuda promotes Ranchod to audit partner",
+      "source": "Captive Insurance Times",
+      "date": "2026-10-20T20:20:34Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOW1mYndMRXVJdlFzbFhLeE5HOWplN3poRHJYSFVjOGRPMHVQeEFXUjJhMG84MnY2Yk1LUE85UXUwelJ0WTliSlNiNE9hVE5mS09ia0tCdFl0ajVIV2pUN0tIem9reWlta0toY3lpVC04RzZ3RXFaVzJYaXhhb2pBUzh4SURPRlBuR3lfRUU1aWVSb2dZX2hOLXpkYzM3blFoaFNsckpzZUQ0VFhxUXhJUnY1ZzE0dHlncEhWWV9TUDBEMHdmRnFKMjN4ZDhadFdHMTFoREZPakduaWVfTkNVQWh3MEkyaXc?oc=5",
+      "isNew": false
+    },
+    {
       "id": "f8a206dd834b",
       "title": "Someone Has to Take the AI Risk",
       "source": "Bloomberg.com",
@@ -134,16 +154,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2JNdFc0M2pIZ0NiSG1nUWwyLWFGaVdIZUV0V3ZVeno5YW04ZkFZcWc4VjgxbC04XzNnUF9WM0IyVzZYemlEd3dyamFGY21WMExKdmxxUnpua1Z0bjZqT3pZdlF2RW1hNnVmM0tjclRuTWJqcExVYXNMRVlWSXcycTZxSEN2S3Roa1hWRFhaQ0VkMGl6dUdCLVdrUVFCelFJeUZaS3FhMW42N0k4UDhn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c6acf62587fa",
-      "title": "KPMG in Bermuda promotes Ranchod to audit partner",
-      "source": "Captive Insurance Times",
-      "date": "2026-10-20T15:32:42Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX3p0aDNNaEwwT1ZiUmduc1VlVHFnYXE4TmU0YzFwVzdqOHlmbThVZFFGRzdVbnRpOVlWdGZJTzRKR1lpVXQ3U3dVcGtGb3NKYTJGZWRCbS01Zi1ZcFN0bXladHZVeFpxMVV0SHR0NXYzOTVLYnRvMjZ3a19KRWtkc25JVVRUUjQxN2thSmFxWFZCbWRQSG16VTBpYlF1emtPbDFEMUVlcW8tVW1BUHdUQ0x6ci1sZkZwcTY3MWh2UWZDRi1SRmItV3ZfMmduZVZlVzh2V0xsS1lkZTRCWnB6Qg?oc=5",
       "isNew": false
     },
     {
@@ -294,16 +304,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUlPaThzNFplTl9JQ0oxQjlBY1VFT0N4ZnBGY09mTXZRaG9yeko1M1pzXzNfZ0Zla1RpZlNrVUd1dHRDMzY2cGNmUU13VzNmY2RFTW1VTW5kdDI1NEJsZTBxZ2Y0MHcxTTQweThkSUpZbmRyV1pLMEtpcXc3VWxmd3FqWmhmbzYya1lvSnEwa0J3QXQtMllSTjlfMWlIWVlpQV9KZnFBcDVaRkMtM2R1M1hVb2VJejdUYWRR?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f2889ac3a4ce",
-      "title": "Weekly market commentary",
-      "source": "BlackRock",
-      "date": "2026-10-18T07:00:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
       "isNew": false
     }
   ]

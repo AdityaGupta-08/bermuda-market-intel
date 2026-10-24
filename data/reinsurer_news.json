@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T04:39:48Z",
+  "updated": "2026-10-24T11:03:43Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 20,
+      "count": 19,
       "error": null
     },
     {
@@ -139,7 +139,7 @@
     {
       "id": "16408ad5e63e",
       "title": "Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQczNBZmZvQVdXYUhoZnJNWHF2R2oyRFNoS0ZnMkVSdFFRRUlkMjdWZVZJQUs5REFYUWU2Wm9VMzF2QmdYOWFVbkM3X0R4U0Q3WEJXSGFqOFJyNlVJT0cxTmg3eEcxZUs2amlVRm5DT3NYXzNSY3N4dXNaSnAyS3psbnAzU0hMaVJyTGlPbV9nQkwxNDcxNGFKYW5tMU1VVXZ4YnBaTy1KdWdlSzdtSGFMa0VfU1BRY3Z0ZGwzQ2pwSUV0czRqUEVPZEtxckR1ZU1xdENQalJpRWxnY096MEZWanlkSWRSV1hoRWRGSkhaclA5d2xNUTNtME43QzF6TklueGhKM0tUdkozdm9Lc1NyaFZBOE9FUUE5Tmo4N0g5RTM4ZThkUG9rai1ESEVmN2Y0TUNxaHFzNGVZQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlaeHJpUDI2dmNGeWNlWkpqSklWOHotWFU5SmxwSEY2RHJMbkxEMWh6OHFleUlSRld5QmRZZmRYM0Z1UE11TnJ3ZUNOYU1naWhMUGNpQnZXa19LWlhwYzR6N3FsNE1NUWZpam56dzhVWHZmY2lBdHFYcGlWT3Q5Qk40a2RKcGd6R25zLUY0WjRkUHlnYnZPM3RMMEIxajB1ak53cmZ4NlEtOWhSV2Y0Z1Bmb2JleTU3Q2c?oc=5",
       "source": "Seeking Alpha",
       "feed": "Google News: Athene",
       "date": "2026-10-23T12:00:00Z",
@@ -149,24 +149,24 @@
       ]
     },
     {
-      "id": "bc4a2674805b",
-      "title": "An error led a director to return 27 stock-linked units to Reinsurance Group of America (RGA).",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU9MVGRLWkpFME1wQ2t6c2tiN29odEgzNjU5S200a3R0X1NiSEZFenp4ZmNnd3BZbGJuSVY1dm5fZkg3MGFOaFhwN3J0WlhhOWQ4N3hIY3IwWDRNS0k4MmJxWTBqTFM3WmlOUmw2Wlo0bU5rdUFBdVExWXpZWkI3VGJYcmwwYkQxeE9kRDJOWEhZSFZhVTBzZEg2MTBka3JDbERQTkF5cGdJUHZtMHZVRnM2SVRfTEEwdjlBeUtFbE9zY1E?oc=5",
-      "source": "Stock Titan",
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-22T20:08:25Z",
+      "date": "2026-10-23T06:34:59Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
+      "id": "bc4a2674805b",
+      "title": "An error led a director to return 27 stock-linked units to Reinsurance Group of America (RGA).",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU9MVGRLWkpFME1wQ2t6c2tiN29odEgzNjU5S200a3R0X1NiSEZFenp4ZmNnd3BZbGJuSVY1dm5fZkg3MGFOaFhwN3J0WlhhOWQ4N3hIY3IwWDRNS0k4MmJxWTBqTFM3WmlOUmw2Wlo0bU5rdUFBdVExWXpZWkI3VGJYcmwwYkQxeE9kRDJOWEhZSFZhVTBzZEg2MTBka3JDbERQTkF5cGdJUHZtMHZVRnM2SVRfTEEwdjlBeUtFbE9zY1E?oc=5",
+      "source": "Stock Titan",
       "feed": "Google News: RGA",
-      "date": "2026-10-22T18:44:17Z",
+      "date": "2026-10-22T20:08:25Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1247,18 +1247,6 @@
       "source": "simplywall.st",
       "feed": "Google News: RGA",
       "date": "2026-09-10T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "b9661577d6b1",
-      "title": "Are You Looking for a Top Momentum Pick? Why Reinsurance Group (RGA) is a Great Choice",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE9WLVhYcU1ZSkx3a294b1FVejcwWnNrTFlmQWNldTZFYy1IdHAwVHljeFNLSE15Y0RLdnJmYTdxY1lCUmRqaXVDb2NDTjlQREUxbzR4MVJ6TFVmMWJma1Q2TzBla09xSUZGdkhSaFpfcEFRT2sxend6WGdJVUlyeWVsR3dRUk9GN1JISmtzcGVrNU9pcHVIa21R?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-09-09T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T20:52:16Z",
+  "updated": "2026-10-24T23:17:20Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 20,
+      "count": 21,
       "error": null
     },
     {
@@ -203,18 +203,6 @@
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-10-22T15:00:02Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "1afa5ded1043",
-      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmNTWkVHUzRudTlsVWJNWl9fR2xyLUZXS1pzQXJtR1MzSDR2cEY2Y1R3NWpuMXRhcXB4NDRQN0pxSHNSZGxfbGgxbldGdnl2OUs2b3VUc25JQ0hNNUh1aUNwQ3JQcUNpNk1qV05URnlrS05uODRLVjlCQVlFYW1jZ0hrWUlfLU5yYXM3OVZ1RQ?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-22T10:31:47Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -371,6 +359,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-15T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "1afa5ded1043",
+      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHNtT1RXSE5CZGtUYVBzZ09xVDFtdFVFQk1TMGtaUXBYNWdBeE5WdU1YU20tNzk5YktxRmtFVk1TQ0FTd1duRDFlREtxYXRuRVVVUWtOd1YydTZ6RTlMMkl5a3ZMR2cwTEsxS2hDYVdrcTVxR0tKSlJqbUQtNU9YbDZjRjR1N05GT1NoR1JLQQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-10-14T23:06:42Z",
       "summary": "",
       "companies": [
         "RGA"

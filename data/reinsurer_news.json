@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T21:27:19Z",
+  "updated": "2026-10-24T04:39:48Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 21,
+      "count": 20,
       "error": null
     },
     {
@@ -305,18 +305,6 @@
       ]
     },
     {
-      "id": "9a001d915dec",
-      "title": "Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEROMHJzQTFEVnotcl9DWlM2eGhNX1h5cjZfc2FIcHRMQXJzNDY5ejBoVkUyZVZlOTFHbzE1dk11QkUzb29GUExuYnJaTDNXNkxjY1l1cFBTbm5reGVJM1JiV1lpYXpvWVljQWVHRlkwd1UzTDhjX0t4T0dLMXhRSzR2YTAwWEZxRzFncXNqZ0JkdC05ZFpEU2R2ck9Id1V3c2FrUlpuMFFUZXVGWGVPX29FeFZsaXlaWERJOWU4VDVuZDdkek5xM2ZZQl9iVEZERFFWd1NKbE4tUDNVZHFDTnZ5Vl9yQTJQaXZvQWJKTE0?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-15T15:51:05Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "53a46545e2b1",
       "title": "J.P. Morgan Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $297",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNU1BVE1RQlY0c212OFg5Mk95ZHZlWUg5NzFjdk9RcXpueHRITGVuaE84T3ZvVUFDN0x2d2VHZEpQRFRMSzA2YWhfTm5lTkhKai1NWmtHVkFhM2hqdFg0a0VocWUtMi12YjR2aDdfUWdFcDA0MlhHYUdjZnIxaHlOLUhYakdPd2t1Mm94djhVRVpUcldiaElsTU9xWVU4NVAyanRPLXgydGIzbUE?oc=5",
@@ -335,6 +323,18 @@
       "source": "Moomoo",
       "feed": "Google News: RGA",
       "date": "2026-10-15T11:41:35Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "9a001d915dec",
+      "title": "Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEROMHJzQTFEVnotcl9DWlM2eGhNX1h5cjZfc2FIcHRMQXJzNDY5ejBoVkUyZVZlOTFHbzE1dk11QkUzb29GUExuYnJaTDNXNkxjY1l1cFBTbm5reGVJM1JiV1lpYXpvWVljQWVHRlkwd1UzTDhjX0t4T0dLMXhRSzR2YTAwWEZxRzFncXNqZ0JkdC05ZFpEU2R2ck9Id1V3c2FrUlpuMFFUZXVGWGVPX29FeFZsaXlaWERJOWU4VDVuZDdkek5xM2ZZQl9iVEZERFFWd1NKbE4tUDNVZHFDTnZ5Vl9yQTJQaXZvQWJKTE0?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-15T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

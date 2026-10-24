@@ -1,11 +1,21 @@
 {
-  "updated": "2026-10-23T21:27:16Z",
+  "updated": "2026-10-24T04:39:45Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
     "Rates & Macro"
   ],
   "items": [
+    {
+      "id": "9a293b7bd2a3",
+      "title": "Partners Group Closed a $510 Million Rated Feeder for Its Evergreen Private Credit Strategy",
+      "source": "HedgeCo.Net",
+      "date": "2026-10-23T21:45:00Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NsV1FKX2xwSVZIMzBPMjZQM0NYQ0MyZWlKRTNvOVBQZ3BBTTluMFBMOEVDdkc5SmQzWmdUaENVRG5EUWhPZTgzVUdnbVZOcTdBZGVoMXo5YlBILWY2TVZoYzM0NTJvUnlva2tIQ3dRc2NpaWJ4cVpnSmNqRWh2Qkc3QkY3cThvbWI4T1FtTjdRT1NEUFVzdkVEQktjZmN5X3FPVHhrUTZTaU9fRWhUbjdZdGVQOGI3YU8xQUZhVG5qVW5RWV9j?oc=5",
+      "isNew": false
+    },
     {
       "id": "700fd420cc04",
       "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
@@ -14,16 +24,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "9a293b7bd2a3",
-      "title": "Partners Group Closed a $510 Million Rated Feeder for Its Evergreen Private Credit Strategy",
-      "source": "HedgeCo.Net",
-      "date": "2026-10-23T10:14:52Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NsV1FKX2xwSVZIMzBPMjZQM0NYQ0MyZWlKRTNvOVBQZ3BBTTluMFBMOEVDdkc5SmQzWmdUaENVRG5EUWhPZTgzVUdnbVZOcTdBZGVoMXo5YlBILWY2TVZoYzM0NTJvUnlva2tIQ3dRc2NpaWJ4cVpnSmNqRWh2Qkc3QkY3cThvbWI4T1FtTjdRT1NEUFVzdkVEQktjZmN5X3FPVHhrUTZTaU9fRWhUbjdZdGVQOGI3YU8xQUZhVG5qVW5RWV9j?oc=5",
       "isNew": false
     },
     {
@@ -39,7 +39,7 @@
     {
       "id": "cd2de9a6f500",
       "title": "ECB Set to Raise Rates in December After Pause, Economists Say",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-23T04:15:00Z",
       "topic": "Rates & Macro",
       "summary": "",

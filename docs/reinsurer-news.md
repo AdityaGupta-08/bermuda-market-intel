@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 22 items
-Generated Fri 23 Oct 2026, 18:27 ADT
+Generated Sat 24 Oct 2026, 01:39 ADT
 
 ## Feed status
 
@@ -36,9 +36,9 @@ Generated Fri 23 Oct 2026, 18:27 ADT
 - **2026-10-19** — Simply Wall Street — [Reinsurance Group of America (RGA) Nears Argus Target As Its Undervalued Narrative Holds](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVpjZVJxdVZpeVA2enQtN2tBTHNMSkt4S1R5VENrQTkybTJFMll2ajNILS1QaWJ5aGV2ckV5TjNTdXBtOS03UEFDd3FVc2dFeHZFdTdOYVlKQUUwVnkxTGY0UndqYVVlcEVZV0dZVVQ2YjJaX1lucW93enBlMHdfZHF2THJqT2xqYWRwdkR3dF85ekF4a1liazNQVVFMaWZvY09zT1R4UjBXcWRibW1JNGxvZnhDWjNNTDJSZW1mRFQ2Q2ZKd2o4REdCeExWOXhJYVd2UGJzODJoYWVlMWfSAeMBQVVfeXFMUEhQbTA4QmZFNVJKeEh3ZHV3ZnhTcFp4MkFvSVE2a21yeEhhc1FOZ2tUTTF5R0dLYkpqNk5yMUNJbWF4SndBSk9Kb3NjeVhFRTJvbUJacDhoMWVGdW1FVGlCQTF4TWlBcGV0cmJMNGxLcm5vWGlmQnJoQzNaQlRETkFwcHJXVGV0cFUtZE1kRjhtbkxSdnV4NzR0TnJnZmlDeF85WW9OOFdYQlRES3RTbVNBczdlWWk4QkRSRm1YSU1NNWIwbktpYzVKQk8xLTlZdG9FbTlqOGgtTkJrSnV4aWxWZk0?oc=5)
 - **2026-10-18** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5)
 - **2026-10-17** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5)
-- **2026-10-15** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEROMHJzQTFEVnotcl9DWlM2eGhNX1h5cjZfc2FIcHRMQXJzNDY5ejBoVkUyZVZlOTFHbzE1dk11QkUzb29GUExuYnJaTDNXNkxjY1l1cFBTbm5reGVJM1JiV1lpYXpvWVljQWVHRlkwd1UzTDhjX0t4T0dLMXhRSzR2YTAwWEZxRzFncXNqZ0JkdC05ZFpEU2R2ck9Id1V3c2FrUlpuMFFUZXVGWGVPX29FeFZsaXlaWERJOWU4VDVuZDdkek5xM2ZZQl9iVEZERFFWd1NKbE4tUDNVZHFDTnZ5Vl9yQTJQaXZvQWJKTE0?oc=5)
 - **2026-10-15** — Moomoo — [J.P. Morgan Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $297](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNU1BVE1RQlY0c212OFg5Mk95ZHZlWUg5NzFjdk9RcXpueHRITGVuaE84T3ZvVUFDN0x2d2VHZEpQRFRMSzA2YWhfTm5lTkhKai1NWmtHVkFhM2hqdFg0a0VocWUtMi12YjR2aDdfUWdFcDA0MlhHYUdjZnIxaHlOLUhYakdPd2t1Mm94djhVRVpUcldiaElsTU9xWVU4NVAyanRPLXgydGIzbUE?oc=5)
 - **2026-10-15** — Moomoo — [Wells Fargo Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $292](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2dGN01KY3Q2VDNoMFhLY2QzaUZxRlpuR29yYlJEWVp5M0xsdi1FT3JmbDhwekY1REF0RlkwejdpYXNxMmx1SzF2UmtMVG14aTVGZEJpS3RaMDR6NkZjRzRpR290ZnZFS0UtUkQ1cnAwRkk3LXp1SU5zQVVUZXIyYmZZYV85Z2UzaTlseVZmSkFZdmVubFg2cko3QW9wNEhyOGVqTU1YdDhCOVh6aXc?oc=5)
+- **2026-10-15** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEROMHJzQTFEVnotcl9DWlM2eGhNX1h5cjZfc2FIcHRMQXJzNDY5ejBoVkUyZVZlOTFHbzE1dk11QkUzb29GUExuYnJaTDNXNkxjY1l1cFBTbm5reGVJM1JiV1lpYXpvWVljQWVHRlkwd1UzTDhjX0t4T0dLMXhRSzR2YTAwWEZxRzFncXNqZ0JkdC05ZFpEU2R2ck9Id1V3c2FrUlpuMFFUZXVGWGVPX29FeFZsaXlaWERJOWU4VDVuZDdkek5xM2ZZQl9iVEZERFFWd1NKbE4tUDNVZHFDTnZ5Vl9yQTJQaXZvQWJKTE0?oc=5)
 
 ## Sagicor
 

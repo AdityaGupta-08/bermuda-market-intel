@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T04:43:51Z",
+  "updated": "2026-10-25T11:34:18Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -10,99 +10,99 @@
     },
     {
       "name": "Google News: Aspida",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Athene",
-      "ok": true,
-      "count": 8,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Catalina",
-      "ok": true,
-      "count": 2,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Fortitude Re",
-      "ok": true,
-      "count": 2,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Global Atlantic",
-      "ok": true,
-      "count": 7,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Kuvare",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Martello Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Monument Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Prismic Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: RGA",
-      "ok": true,
-      "count": 21,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Resolution Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Sagicor",
-      "ok": true,
-      "count": 2,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Somerset Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Talcott",
-      "ok": true,
-      "count": 4,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Venerable",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Wilton Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Reinsurance News",
@@ -1259,18 +1259,6 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-09-11T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "29fc670e9cf3",
-      "title": "How Investors Are Reacting To Reinsurance Group Of America Stock After Earnings Estimate Upgrades",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcC0xQlNQSTloaFBOUDRybUM0enlXbldxRkFBSHpiVDBKOVlQTXRiUExIeWFJYlJJQVotSXFjNklfVjlJMHhiTnRvMXgxYk00QlBjQXI0cmhKQk9GcHptVW1TLUEtaWNPWHlSX3k2Y0tkRTB4T21hc1NfN0FPbWlIS0JVMnZrQTg5c0lnWXU3dGdwZl90Y0ZnUTZSdmpPNzFPM1hpSXYzNjNlRk92blgzMDJ5dWRLblM4NW1MLTFWbWl0T3BpUGpJNU8yQzJTeGM2VXFfZHVQZHNLZFU0LVHSAeMBQVVfeXFMTmV0SmVyV2tCYmxxVjVXREx1VFlPTGw2aHlpZ2VLb3FtU25QdXp6QUwxY2hUMlJja3o4c1ZjeEhrLXA4SldBc2dLVVh4SlJNbnJGaURQN0hlQ2pteGNkeDIwTTllQ2RDYVpWSk5wYVpHeGI2bkcybWFEaEJPR2FTdFNqWEVtM3ljUHRZZDluUHVvcE9FUGxybXFJNjN0ekJ5Mk1MbXlsaXFydnhwYjFFM01BZklJM2ZSUTVTSl9mNDh4eXQ3R2xRWW8zX0UySV8wNXpHcmNYNk1ITlV1aW5fLXBqV0U?oc=5",
-      "source": "simplywall.st",
-      "feed": "Google News: RGA",
-      "date": "2026-09-10T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

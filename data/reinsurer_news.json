@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T16:22:31Z",
+  "updated": "2026-10-25T20:53:27Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 17,
+      "count": 18,
       "error": null
     },
     {
@@ -113,6 +113,18 @@
   ],
   "items": [
     {
+      "id": "2b63a6b2b108",
+      "title": "Seeking Value: How Talcott compressed an insurance launch into one year",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU21SQXRtUmdXWGtSYzIyNmQ5ZzhVUlgzQWlWSXJWN0thZzhIV0lFby1ncGNsX0FHZ3dlWjNzMFVFaHpWanBYR1F6MDFXaG1qdVBDa0ZVeUNzek1jNmpvQzdkQmRKREdla09ZcFdDVkJlVjFMWGgwTTlHT2ZmZHZjXw?oc=5",
+      "source": "Newsweek",
+      "feed": "Google News: Talcott",
+      "date": "2026-10-25T17:43:00Z",
+      "summary": "",
+      "companies": [
+        "Talcott"
+      ]
+    },
+    {
       "id": "c758a026209d",
       "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5",
@@ -131,6 +143,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-24T13:55:29Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-10-23T18:19:25Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -170,18 +194,6 @@
       "summary": "",
       "companies": [
         "Athene"
-      ]
-    },
-    {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-10-23T06:34:59Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {

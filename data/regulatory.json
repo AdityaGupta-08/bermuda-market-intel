@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T11:33:52Z",
+  "updated": "2026-10-25T16:22:28Z",
   "naic": [
     {
       "id": "59cd95a9f3e4",
@@ -107,7 +107,7 @@
       "date": "2026-09-27",
       "cat": "General",
       "summary": "",
-      "source": "Mispriced Assets",
+      "source": "Mispriced Assets | Nick Nemeth",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDX0tUdGVEbGNRNk10eEpTcDNVbTZxMkM3Y3RLTGJEVTVZUVRvMHJUeHZfZUJYY01rb3VmZ2JScHJqMFBuLVhVN00tdlc0VXJuaEhQakV4QlJPMVpSVFU1eUl0cmhpalhhZzRULWlyc28tTUx1MXdsT3BNWG1aNzg?oc=5",
       "isNew": false
     },
@@ -533,6 +533,16 @@
       "summary": "",
       "source": "JD Supra",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUFaeEdfal9ScWxTZFRsT21BT1V5M196WWIyb1owa2o3aWFWdWhEOF9lLW11VzJ6QUxjWlZXaWV4eEQxXzBMcjZkelgwXzBQN0VSRFBYWXo3cUQ0dmJBSWlWLUFhcW0wdUR3VE1TVTJENXl5dVdqajB3VDN1UWlQMjl0RVU4QQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "a6e0af326a69",
+      "title": "CIMA warns of external risks in stability report",
+      "date": "2026-10-15",
+      "cat": "General",
+      "summary": "",
+      "source": "Cayman News Service",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNWtQR25DUlFIMWV0d25acjVVTWtncDFkSE0tdDZ0a281dDBMaHYwUFpKaHl5OU95ZHBYQktXZVJqV1pseDV5ZGk0MzZ0YjlRTmRCdGZLRndJcmZaMnRyVFhxTEhXb1pvcFhoNmNIbFJVYmNtQmo4RWU2ZjhBM2Y5ci01SjB1QjloMUU4and2WTk?oc=5",
       "isNew": false
     },
     {

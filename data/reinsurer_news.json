@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T20:53:27Z",
+  "updated": "2026-10-25T23:18:31Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 18,
+      "count": 19,
       "error": null
     },
     {
@@ -194,6 +194,18 @@
       "summary": "",
       "companies": [
         "Athene"
+      ]
+    },
+    {
+      "id": "6163bfc64c2c",
+      "title": "Reinsurance Group of America (RGA) Dividend Yield 2026 & History $RGA",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NNjliMU9KS21nMW1EZGgxTExYWFl1VFhONl9zTUYzbUJTSm9peDBRZ0pnd1R2VVRDMUNqcFRzV25rVGtJYzlEaGcxQUdmd0ZHazFhclVPQUpFcTZ3S04yTTVR?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-23T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -453,7 +465,7 @@
       "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
       "source": "Pensions & Investments",
-      "feed": "Google News: Athene",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-10-13T13:00:00Z",
       "summary": "",
       "companies": [

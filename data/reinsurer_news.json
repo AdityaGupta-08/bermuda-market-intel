@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T23:18:31Z",
+  "updated": "2026-10-26T04:49:53Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -119,6 +119,18 @@
       "source": "Newsweek",
       "feed": "Google News: Talcott",
       "date": "2026-10-25T17:43:00Z",
+      "summary": "",
+      "companies": [
+        "Talcott"
+      ]
+    },
+    {
+      "id": "2f66c80f38d4",
+      "title": "LNC Stock Pops On Report Of Lincoln National\u2019s Potential $5B Reinsurance Deal With Talcott",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5",
+      "source": "Stocktwits",
+      "feed": "Google News: Talcott",
+      "date": "2026-10-24T17:55:37Z",
       "summary": "",
       "companies": [
         "Talcott"
@@ -245,18 +257,6 @@
       ]
     },
     {
-      "id": "6dced9ddd384",
-      "title": "Reinsurance Group of America (NYSE:RGA) Given New $250.00 Price Target at TD Cowen",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUm9BZUpUN3VHX3lpN0JjUmxBSWh3dVpmbE9OR2s2N2ZTUlBMSGkxVnpyWlFnVGFOM0wxQm5IZ3d3Q3hFMlZZcEJNanRfVHc3MTBFOGszZkJJSk85QkZNWks5X3FqR3VNN2xsZ20zVWl2ZHZTNFd5bkN0QnEtZU4wdjZPcTh4cHdubWlGdVRJWGk3SG93cXJwUkRUMUhlaHdfektpYkFlbm9wQTh4aFgtTnNRQWtqLTk2R005V1k1Rk5OX2taWEZqM2RoanU5c0l3bUJQWGR1RQ?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-21T13:52:23Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "b09d51d99fb8",
       "title": "Exclusive: Apollo explores sale of Catalina Holdings' UK arm",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVGTXo3cEFmUXNDdkRWcW9pM2Z2Ym5lQ0lNdEhwTXUwNlowM3lGbDBtdUJXTFRuc19wTEh4QmhrR3NFekctZXRNUHotaXRYYVE1Y050SldRMnNYbmhFVE1DZGI5LUM2OTdzMXUwOEVZVGN4bDNmSE5qYk8wX1ZRTDkyb0pDa0RHbFZFM3FucUQ0U3llYlV6bTNNZ3ZjSWFTUUN0bjNCWUg?oc=5",
@@ -350,18 +350,6 @@
       "summary": "",
       "companies": [
         "Sagicor"
-      ]
-    },
-    {
-      "id": "2f66c80f38d4",
-      "title": "LNC Stock Pops On Report Of Lincoln National\u2019s Potential $5B Reinsurance Deal With Talcott",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5",
-      "source": "Stocktwits",
-      "feed": "Google News: Talcott",
-      "date": "2026-10-17T22:24:11Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
       ]
     },
     {
@@ -482,6 +470,18 @@
       "summary": "",
       "companies": [
         "Talcott"
+      ]
+    },
+    {
+      "id": "6dced9ddd384",
+      "title": "Reinsurance Group of America (NYSE:RGA) Given New $292.00 Price Target at Wells Fargo & Company",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFBDSjdNemtxWmg3Z0tjamxmUk04X21UTU0xZVNYbHVhdGlVbHk3R1FkVlhQeWRHQ0ppMXAyOTgtNTJqa3g3bkxIWmJ0UmhVOTFiZUMwSWU5NEI0R21wb3JlTGk0bjcxWlNFUXYtZDNJQUQ5MHJOUXV1MkFxaWhlNWdrZExBdm9uSUJSZ0kzREJfNHF0WWJCM0NNSDRnbEdycEZOaVRGVURQRnU3QWJQdzJUbjhQQkhncXFqVHVCZ0lrNEJ1NzRfZ2JzLXNDbXBSWGRPNnViU3N6bnNoZ3hDYVZaYU56QQ?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-12T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {

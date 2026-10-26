@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 23 items
-Generated Sun 25 Oct 2026, 20:18 ADT
+Generated Mon 26 Oct 2026, 01:49 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 46 items
+- ✅ **Google News (16 of 16 companies)** — 47 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -18,7 +18,7 @@ Generated Sun 25 Oct 2026, 20:18 ADT
 ## Talcott
 
 - **2026-10-25** — Newsweek — [Seeking Value: How Talcott compressed an insurance launch into one year](https://news.google.com/rss/articles/CBMigAFBVV95cUxOU21SQXRtUmdXWGtSYzIyNmQ5ZzhVUlgzQWlWSXJWN0thZzhIV0lFby1ncGNsX0FHZ3dlWjNzMFVFaHpWanBYR1F6MDFXaG1qdVBDa0ZVeUNzek1jNmpvQzdkQmRKREdla09ZcFdDVkJlVjFMWGgwTTlHT2ZmZHZjXw?oc=5)
-- **2026-10-17** — Stocktwits — [LNC Stock Pops On Report Of Lincoln National’s Potential $5B Reinsurance Deal With Talcott](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5)
+- **2026-10-24** — Stocktwits — [LNC Stock Pops On Report Of Lincoln National’s Potential $5B Reinsurance Deal With Talcott](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5)
 - **2026-10-14** — Royal Gazette | Bermuda — [Talcott seeks to renew bid for US life insurer Brighthouse](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlJPRkpTSEVrR0lHWEhRYWJGWDRFVXpBa1hQV29lOHAwd1YyQzAxQU5lLUpJSnZ3OE93VzE2Z2VDU3dadm9JX3NHeEpaNnBlMTNMVkdBcGI5dzdUbkVwb1NlS2FIQ0tUVEF4cnUxRHFaM3V1dzIxSG9IbXZONFR0bHg0TEZRTzM1Uy1wdGR3b2VmZUM0Z3VrNGNnR25qSkZnc3JkeFZFRVdQaHcwRUV6RUVWQS15U3ZpVS1rZ3hlNDFiTXFn?oc=5)
 - **2026-10-12** — Traders Union — [Talcott ratings affirmed as Fitch keeps outlook stable](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTRMT0dEUE1xY3dNYXRTS1NJUE9yZUFNdnVSTDZkSGE5VFQwUGJYRUFYMFNBLU9KLWRvcExIa3l2d2Z3WkNvd012STdLaXJHWWhxSjRRNEpvcFpxR3ZtWWR4eUw2U2dEYkM4aEdTdlM1Uk9KbzZVWmJVTzdsSE9MMERQOTZDdW1UZmVRdEpoRFNFOVZjRkUxQXhndw?oc=5)
 
@@ -37,9 +37,9 @@ Generated Sun 25 Oct 2026, 20:18 ADT
 - **2026-10-22** — Stock Titan — [An error led a director to return 27 stock-linked units to Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU9MVGRLWkpFME1wQ2t6c2tiN29odEgzNjU5S200a3R0X1NiSEZFenp4ZmNnd3BZbGJuSVY1dm5fZkg3MGFOaFhwN3J0WlhhOWQ4N3hIY3IwWDRNS0k4MmJxWTBqTFM3WmlOUmw2Wlo0bU5rdUFBdVExWXpZWkI3VGJYcmwwYkQxeE9kRDJOWEhZSFZhVTBzZEg2MTBka3JDbERQTkF5cGdJUHZtMHZVRnM2SVRfTEEwdjlBeUtFbE9zY1E?oc=5)
 - **2026-10-22** — Yahoo Finance — [Reinsurance Group (RGA) Is Up 4.21% in One Week: What You Should Know](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHdmNWc0THNvajNEXzAyTnVDN0hHVFlqaGUxSER4STY5aWdjZ05RZFFTVHByYzZwZml2SXZuTnQxS2FzVGR1UWlHUFhEbm16emU5MkJEcUIxMGpjR3hZWkxIUDBfY1V1dklRMTFEVlp1cXYtWGU5VFVBNElibkJnOEtCQV9Pakx5YVBDNzJneVJuOGRkZUE?oc=5)
 - **2026-10-22** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmNTWkVHUzRudTlsVWJNWl9fR2xyLUZXS1pzQXJtR1MzSDR2cEY2Y1R3NWpuMXRhcXB4NDRQN0pxSHNSZGxfbGgxbldGdnl2OUs2b3VUc25JQ0hNNUh1aUNwQ3JQcUNpNk1qV05URnlrS05uODRLVjlCQVlFYW1jZ0hrWUlfLU5yYXM3OVZ1RQ?oc=5)
-- **2026-10-21** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Given New $250.00 Price Target at TD Cowen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUm9BZUpUN3VHX3lpN0JjUmxBSWh3dVpmbE9OR2s2N2ZTUlBMSGkxVnpyWlFnVGFOM0wxQm5IZ3d3Q3hFMlZZcEJNanRfVHc3MTBFOGszZkJJSk85QkZNWks5X3FqR3VNN2xsZ20zVWl2ZHZTNFd5bkN0QnEtZU4wdjZPcTh4cHdubWlGdVRJWGk3SG93cXJwUkRUMUhlaHdfektpYkFlbm9wQTh4aFgtTnNRQWtqLTk2R005V1k1Rk5OX2taWEZqM2RoanU5c0l3bUJQWGR1RQ?oc=5)
 - **2026-10-20** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High - What's Next?](https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXpDc01ZSXlrM0I2blhCWjhhUW1Lb0FXenZDMDVDN3RCbzFVMDJiVmVRUEw1TldtNEhYRkkyaHZOUTI4ZzdxX2V6RGNBZXNaNnN6NjRZd29rbEZLUklubEdjUDhpREI3MDRvVldIZk5nN2pGcGM4bG9kZThIRWJxSU92bVdLUlA3WTZyNjdoVVhaZnlkWXl1SnhwMW9CUmxybXNELWpHNGdycnZXcW9TRUFnZWEzSVJ4cUVfNVZtU2FLS1NReGJYU1Q1ZmM?oc=5)
 - **2026-10-19** — Simply Wall Street — [Reinsurance Group of America (RGA) Nears Argus Target As Its Undervalued Narrative Holds](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVpjZVJxdVZpeVA2enQtN2tBTHNMSkt4S1R5VENrQTkybTJFMll2ajNILS1QaWJ5aGV2ckV5TjNTdXBtOS03UEFDd3FVc2dFeHZFdTdOYVlKQUUwVnkxTGY0UndqYVVlcEVZV0dZVVQ2YjJaX1lucW93enBlMHdfZHF2THJqT2xqYWRwdkR3dF85ekF4a1liazNQVVFMaWZvY09zT1R4UjBXcWRibW1JNGxvZnhDWjNNTDJSZW1mRFQ2Q2ZKd2o4REdCeExWOXhJYVd2UGJzODJoYWVlMWfSAeMBQVVfeXFMUEhQbTA4QmZFNVJKeEh3ZHV3ZnhTcFp4MkFvSVE2a21yeEhhc1FOZ2tUTTF5R0dLYkpqNk5yMUNJbWF4SndBSk9Kb3NjeVhFRTJvbUJacDhoMWVGdW1FVGlCQTF4TWlBcGV0cmJMNGxLcm5vWGlmQnJoQzNaQlRETkFwcHJXVGV0cFUtZE1kRjhtbkxSdnV4NzR0TnJnZmlDeF85WW9OOFdYQlRES3RTbVNBczdlWWk4QkRSRm1YSU1NNWIwbktpYzVKQk8xLTlZdG9FbTlqOGgtTkJrSnV4aWxWZk0?oc=5)
+- **2026-10-18** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5)
 
 ## Sagicor
 

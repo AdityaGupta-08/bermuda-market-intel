@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 23 items
-Generated Mon 26 Oct 2026, 01:49 ADT
+Generated Mon 26 Oct 2026, 10:07 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 47 items
+- ✅ **Google News (16 of 16 companies)** — 48 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -28,6 +28,8 @@ Generated Mon 26 Oct 2026, 01:49 ADT
 
 ## RGA
 
+- **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stake Lifted by Sterling Capital Management LLC](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPakxmVU9ac2pncWs0VVF4RHdCcUhEa21MMHlidW1tUFgzTXZ6R1lVVGJCZUlfMjFKcVRoQVU3ZU9hLXdVQmdyM29VZWpBX0FaMjQ4VEZzb1ZzemtDdUlnSWN1UVdxbmlKZHJhZXp4U3VMZXdhVWEwcjRpR1BrWS1hRlpZX0dkTFZUOFNqN042Ty0xZUI0VUVUd1VxXzlUMm14M0JFZURMbHhmZUdKTzlSRGdKdUJTSzZwZHdzb242ODRZMXFKa1JTZzRMVEFDbmI2NTNYLU90bHJIdXhzMmRiTzFkWnJObVNsRmc?oc=5)
+- **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Rated "Buy" by Sell-Side Analysts](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUY4NDlhT2NxeEZpMmZfU0g2TVMzVkZnbngwWng1NzVBS190Q0lFdm9HRjFTY2RJc2JwRGtaVC1NOTlWQjBFSGFZRGE1TzJXWDhWdFhQQUNTbzFxOEoySmY2dFFsSmlUbjFsZ0lVa3pJZ0V2a21OUVIxaUtLTUZXOUFDTWFQS3VqS1ZzRmdIeXNZZi1xMXZfN1hiUXYySWNMamstX1E4Uk4zb191bnE4eDcwc3ZWRUFfSFV6bTZlbUZBaUdrd2tzcW5VUHRyZmhLSkVCSDFEVGlwakVPdXVlRjI4cXdBTDQ?oc=5)
 - **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5)
 - **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Holdings Lessened by Inspire Investing LLC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmNwNTZuUkstT1NxWGFhNnlnQXhhdmktQVQ0MUxERnBobnJ6REtFNVNzdFFNLVFtak0zN21fYzZIZGkwYUFHbWpoMWtUZThTOWZGVVhDWnhkdjVnbUZnRnd1T0JPOEZGb29sUTgwTVZQVE9nREQ0RWRhRlBOLTUyYmNRaUs4bHZ2RG9YMGlFTUpQTlRldlE5SjhSUTI2eXMzNTc2eWNOVk9KbXJScjlzVGdhNUNMOUp3QXROLU5OcEV0bVJEbktwOEo4Ym5fNmR5dTJpUy1jQk1iM1JvQXZHWTNUVQ?oc=5)
 - **2026-10-23** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
@@ -37,9 +39,7 @@ Generated Mon 26 Oct 2026, 01:49 ADT
 - **2026-10-22** — Stock Titan — [An error led a director to return 27 stock-linked units to Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU9MVGRLWkpFME1wQ2t6c2tiN29odEgzNjU5S200a3R0X1NiSEZFenp4ZmNnd3BZbGJuSVY1dm5fZkg3MGFOaFhwN3J0WlhhOWQ4N3hIY3IwWDRNS0k4MmJxWTBqTFM3WmlOUmw2Wlo0bU5rdUFBdVExWXpZWkI3VGJYcmwwYkQxeE9kRDJOWEhZSFZhVTBzZEg2MTBka3JDbERQTkF5cGdJUHZtMHZVRnM2SVRfTEEwdjlBeUtFbE9zY1E?oc=5)
 - **2026-10-22** — Yahoo Finance — [Reinsurance Group (RGA) Is Up 4.21% in One Week: What You Should Know](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHdmNWc0THNvajNEXzAyTnVDN0hHVFlqaGUxSER4STY5aWdjZ05RZFFTVHByYzZwZml2SXZuTnQxS2FzVGR1UWlHUFhEbm16emU5MkJEcUIxMGpjR3hZWkxIUDBfY1V1dklRMTFEVlp1cXYtWGU5VFVBNElibkJnOEtCQV9Pakx5YVBDNzJneVJuOGRkZUE?oc=5)
 - **2026-10-22** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmNTWkVHUzRudTlsVWJNWl9fR2xyLUZXS1pzQXJtR1MzSDR2cEY2Y1R3NWpuMXRhcXB4NDRQN0pxSHNSZGxfbGgxbldGdnl2OUs2b3VUc25JQ0hNNUh1aUNwQ3JQcUNpNk1qV05URnlrS05uODRLVjlCQVlFYW1jZ0hrWUlfLU5yYXM3OVZ1RQ?oc=5)
-- **2026-10-20** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High - What's Next?](https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXpDc01ZSXlrM0I2blhCWjhhUW1Lb0FXenZDMDVDN3RCbzFVMDJiVmVRUEw1TldtNEhYRkkyaHZOUTI4ZzdxX2V6RGNBZXNaNnN6NjRZd29rbEZLUklubEdjUDhpREI3MDRvVldIZk5nN2pGcGM4bG9kZThIRWJxSU92bVdLUlA3WTZyNjdoVVhaZnlkWXl1SnhwMW9CUmxybXNELWpHNGdycnZXcW9TRUFnZWEzSVJ4cUVfNVZtU2FLS1NReGJYU1Q1ZmM?oc=5)
-- **2026-10-19** — Simply Wall Street — [Reinsurance Group of America (RGA) Nears Argus Target As Its Undervalued Narrative Holds](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVpjZVJxdVZpeVA2enQtN2tBTHNMSkt4S1R5VENrQTkybTJFMll2ajNILS1QaWJ5aGV2ckV5TjNTdXBtOS03UEFDd3FVc2dFeHZFdTdOYVlKQUUwVnkxTGY0UndqYVVlcEVZV0dZVVQ2YjJaX1lucW93enBlMHdfZHF2THJqT2xqYWRwdkR3dF85ekF4a1liazNQVVFMaWZvY09zT1R4UjBXcWRibW1JNGxvZnhDWjNNTDJSZW1mRFQ2Q2ZKd2o4REdCeExWOXhJYVd2UGJzODJoYWVlMWfSAeMBQVVfeXFMUEhQbTA4QmZFNVJKeEh3ZHV3ZnhTcFp4MkFvSVE2a21yeEhhc1FOZ2tUTTF5R0dLYkpqNk5yMUNJbWF4SndBSk9Kb3NjeVhFRTJvbUJacDhoMWVGdW1FVGlCQTF4TWlBcGV0cmJMNGxLcm5vWGlmQnJoQzNaQlRETkFwcHJXVGV0cFUtZE1kRjhtbkxSdnV4NzR0TnJnZmlDeF85WW9OOFdYQlRES3RTbVNBczdlWWk4QkRSRm1YSU1NNWIwbktpYzVKQk8xLTlZdG9FbTlqOGgtTkJrSnV4aWxWZk0?oc=5)
-- **2026-10-18** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5)
+- **2026-10-21** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Given New $250.00 Price Target at TD Cowen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUm9BZUpUN3VHX3lpN0JjUmxBSWh3dVpmbE9OR2s2N2ZTUlBMSGkxVnpyWlFnVGFOM0wxQm5IZ3d3Q3hFMlZZcEJNanRfVHc3MTBFOGszZkJJSk85QkZNWks5X3FqR3VNN2xsZ20zVWl2ZHZTNFd5bkN0QnEtZU4wdjZPcTh4cHdubWlGdVRJWGk3SG93cXJwUkRUMUhlaHdfektpYkFlbm9wQTh4aFgtTnNRQWtqLTk2R005V1k1Rk5OX2taWEZqM2RoanU5c0l3bUJQWGR1RQ?oc=5)
 
 ## Sagicor
 

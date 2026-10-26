@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-26T04:49:50Z",
+  "updated": "2026-10-26T13:07:01Z",
   "naic": [
+    {
+      "id": "a33a968aa8d4",
+      "title": "Cayman closes in on NAIC status as reinsurance volumes climb",
+      "date": "2026-10-26",
+      "cat": "General",
+      "summary": "",
+      "source": "Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdGlEdDdnaGZYeUVVdEE3SXN5ZVNhRUFhNkhfX2cxT2VPQmNJekRCUG16YnFJQ3g1Uk1BV1huYUhmVnJ5RGY5TW5yREVTbmI4VjNVMTZQeDlQTVlIS3Y1UnlOZUNQYVlvQkhDYmI2ZHBZempIckVvd01ncHA4UVk4b3JKR0Noc0t2a3JoX3BCRTRsd0E5OFE0czRXbFVsX2NmYjB2bXNnZEwtdjYxMFg1SW5iNm1wdzJuNDNFLXdnTzMyenh0VE5IWkZzVWdrY1lKOVFaM24tRQ?oc=5",
+      "isNew": true
+    },
     {
       "id": "59cd95a9f3e4",
       "title": "NAIC: Top home insurers by premiums, market share in 2025",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSHpHV05NaFhoTTAxOVNkMFBBTVNBVGpCU2hCMEo3Q0lObzd0ZkJjOGpOSU9ocmc5cW5xRmZidHVqREpYOGdQcmhzbUdBZk51b1pJUWwyVHdJVE5JN3puUV9BckwyLW1EUDFRcjhVOVlRTjRsdDM0bE9mRFF6VVh2QnB3SndJaGYtbUx5TGJIcURIVmpFLVN2MEE4c1F5MlBhcExxb2FUdUZ1ZUwzN0pfenVBMEF5S2RUbFc5NFRrUk4wdTJhQzFFVUJ6YnFSbDdOdGZsaGlLcXRlX0FYQkVKQV9ob2laQjExQ2YtTzVLVW1zWTlLVE5F?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "6b4416d0ab31",
-      "title": "NAIC to make insurers show AI use in claims and models",
-      "date": "2026-09-11",
-      "cat": "Governance",
-      "summary": "",
-      "source": "Digital Insurance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVJZMzR5bFk0N3lMWktMYmV5NC1aT05qLTBEWjNLRFdOaGduSEtZWWRvY25helFxT2Rqb2E2ZldmVEdoaXdPZmJKUGtYYmplZndoYjAxZkFxeTVMZFpRamFGSi16bFZ4Zk1VQjBSaXRvNnFTTU55QnNFbXhzUmV1M0NuVWpiRU85Qmc?oc=5",
       "isNew": false
     }
   ],
@@ -505,6 +505,16 @@
     }
   ],
   "cayman": [
+    {
+      "id": "af0a8bbdbd4a",
+      "title": "Cayman closes in on NAIC status as reinsurance volumes climb",
+      "date": "2026-10-26",
+      "cat": "General",
+      "summary": "",
+      "source": "Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdGlEdDdnaGZYeUVVdEE3SXN5ZVNhRUFhNkhfX2cxT2VPQmNJekRCUG16YnFJQ3g1Uk1BV1huYUhmVnJ5RGY5TW5yREVTbmI4VjNVMTZQeDlQTVlIS3Y1UnlOZUNQYVlvQkhDYmI2ZHBZempIckVvd01ncHA4UVk4b3JKR0Noc0t2a3JoX3BCRTRsd0E5OFE0czRXbFVsX2NmYjB2bXNnZEwtdjYxMFg1SW5iNm1wdzJuNDNFLXdnTzMyenh0VE5IWkZzVWdrY1lKOVFaM24tRQ?oc=5",
+      "isNew": true
+    },
     {
       "id": "224e21858992",
       "title": "CI now a leader in global insurance industry",

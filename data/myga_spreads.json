@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "state": "FL",
   "premium": 100000,
   "source": "My Annuity Store rate marketplace (AnnuityRateWatch data)",
@@ -55,7 +55,7 @@
       "terms": {
         "3": {
           "median_bp": 75.0,
-          "top_quartile_bp": 90.0,
+          "top_quartile_bp": 91.3,
           "best_bp": 105.6,
           "n": 16,
           "ust_pct": 4.75
@@ -87,8 +87,8 @@
       "label": "A++ / A+",
       "terms": {
         "3": {
-          "median_bp": 62.5,
-          "top_quartile_bp": 82.5,
+          "median_bp": 60.0,
+          "top_quartile_bp": 73.8,
           "best_bp": 100.0,
           "n": 10,
           "ust_pct": 4.75
@@ -180,5 +180,5 @@
       "ust_pct": 5.0
     }
   },
-  "_fetched": "2026-10-25T11:33:04.546227Z"
+  "_fetched": "2026-10-26T13:06:39.561409Z"
 }

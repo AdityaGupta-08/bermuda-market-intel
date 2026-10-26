@@ -1,11 +1,42 @@
 {
-  "updated": "2026-10-26T04:49:50Z",
+  "updated": "2026-10-26T13:07:01Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
-    "Rates & Macro"
+    "Rates & Macro",
+    "Structured Credit"
   ],
   "items": [
+    {
+      "id": "700fd420cc04",
+      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+      "source": "WSJ",
+      "date": "2026-10-26T11:55:37Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "1e730c112629",
+      "title": "AAA CLOs: Insurers take a fresh look",
+      "source": "Invesco",
+      "date": "2026-10-26T10:57:16Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVpPN09ERmp4RHlSaFNOU2o1NHFwaHFybTE2S2hpa0d4eWtJYTRlNWstaG1wSHlSWjNuaW11a1pDSmY5cF9nQWtyQXdJWHVNelNvSGVEWjkycVlZcjkxOEM1enFMaE5fVUFpZVZiR25qSnlGUksxNTFnektFQlJmTGxZQjF2OS1qRU5FWmdMLUV0UQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "eea86e9d34be",
+      "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+      "source": "WSJ",
+      "date": "2026-10-26T07:22:10Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5",
+      "isNew": false
+    },
     {
       "id": "86d41faabd66",
       "title": "ECB Rate Decision: What to Expect on Thursday",
@@ -24,16 +55,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NsV1FKX2xwSVZIMzBPMjZQM0NYQ0MyZWlKRTNvOVBQZ3BBTTluMFBMOEVDdkc5SmQzWmdUaENVRG5EUWhPZTgzVUdnbVZOcTdBZGVoMXo5YlBILWY2TVZoYzM0NTJvUnlva2tIQ3dRc2NpaWJ4cVpnSmNqRWh2Qkc3QkY3cThvbWI4T1FtTjdRT1NEUFVzdkVEQktjZmN5X3FPVHhrUTZTaU9fRWhUbjdZdGVQOGI3YU8xQUZhVG5qVW5RWV9j?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "700fd420cc04",
-      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-      "source": "WSJ",
-      "date": "2026-10-23T16:23:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
       "isNew": false
     },
     {
@@ -127,6 +148,16 @@
       "isNew": false
     },
     {
+      "id": "89dd218537a0",
+      "title": "France's interest rates hit 5%, a self-inflicted sanction",
+      "source": "Le Monde.fr",
+      "date": "2026-10-21T16:00:05Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHoweTl6MDBsLU52RnRNRmNyNDRodzNqX2JDUlFUdUlIN3BGUWNwalBEY1RNUHhCbi12MWFuTV9CN250Z2ZFNkxScjBaU21FUW85QzVWQXBONGJxUFk3QkNaanV0Y3JsamFIcndBbFRBZTVkejBjQ1M3V3ZHRDdPbDFPMzNsck9MWEF4VU5tcDZuQTl5SzBmaVJlS1R5VnF2X1VLQkl4WDZhcFJXRVcyaEF0OFE4YzVXMm5GVW94Y3I0SEUyUXo2SXhZVQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "ab6cbbcdca5a",
       "title": "Madison Dearborn runs CV-on-CV for insurance asset",
       "source": "PEI Secondaries Investor",
@@ -134,6 +165,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaElVY2VHVDc5YmlNamFXX0hldHliTFVEWHB1cTZvT2I0OUwzS0o3cW1jSGFGYjIydGtiSzhzeFB2ZnU1cW1zLUpFN0RrUXI1MDdjeUIzcW5jTHJEemFmVzRfLTBYc28zbENsRHlMWk5JNnpqTGowRU1mM1FvN1VPTjZoRm9hR1BjX3o2Y1FpRFljYTM0QXc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "3ba1593e2a56",
+      "title": "Bonds: Treasury Yields and Interest Rates",
+      "source": "Investopedia",
+      "date": "2026-10-21T07:00:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idVlpeXBFd0F4VVVjdDM2RmVueHVDTlZKYUVDM2liNURMWGlxeFRZdzQtMjdBNV8xQVNNeWIxUmlwdHNINFlQazFLd2Q4TDFVcGsyT2pFdUZCbGlOTTZRYQ?oc=5",
       "isNew": false
     },
     {
@@ -253,7 +294,7 @@
       "date": "2026-10-19T20:35:26Z",
       "topic": "Insurance AM",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWWNJUVpzZmxZNC01cVlmQnhEcF9Kdk5tZVJzTUtPbFJ0UjROZnJSN1l6OG9kLVBjRE12U082SVRKbVVWSUNLb2M0US1URUU3c2N5YnlnZERqS21mTHhLUVQ0VlVRTnRWZmlDMEYxMzBSVUpqdGdTbTBud1ZuSmh4Y0p1OEE4cHM5bjRZNkRuU1NfT1hBY09oSGVtLUhmVGtlZlJFa0haNWVDQkcyX0ZyQURoSkpHaWk4aEN5SW05dWxYWW1IUThuM295R2F2SU1BTFFfSDl6S1VTc2x6b3QzN1hkS1UtS2piQVhvVkln?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRmh5V1o5emJoWlYzN2ZRNTlRSDFLYTJaa0dqaHF1NTg1LW5fTEFlTmR2RHVteHNMQ2xwcXJpN1lRT3R0a2VkZjR4VjVWMkotZjRvT25lTWtoZmNHc1R1OGlXRHoxcldvZUVyNkxlUUtfZ1ZpbnRMbXE5NG5RbllSNWVvbVo4elNZVVZ2TmZKb0cxWmhMWks3YmpiSDRlVmxHc0p3X21PZFM4RTRwRk9fd1ZtNWtsLWVMNVRZLWNPcXhLVzVNOXBLbk1oWmdmM0dNMWZiempUTkp6MldpUEdiSGVsalhVZXdsenpnRmh6OHdUMkU?oc=5",
       "isNew": false
     },
     {
@@ -264,46 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f3094ba2c8d5",
-      "title": "China's central bank studies making overnight rate its main policy rate",
-      "source": "Tacoma News Tribune",
-      "date": "2026-10-19T10:02:06Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2ZkSUg5V0c1eGh0a2hhUHRBWjk0dzRFQlAxU3dLQmFWaGRGeEJFT25jOUhWQXQzbFdPMUc4S1JsZTkwQVdUNm45ajlpU2hUR0JES050OVJWM1ZDb0xXYmhMUTJmWkJoVkpqSWkzYlllaDRIaVZzeTFuUWhuTDNIWjJnUUlRdw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "a2702afc583b",
-      "title": "Spain | Rising interest rates, less fragility",
-      "source": "BBVA Research",
-      "date": "2026-10-19T08:00:32Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOejhqVDJiblZhTFpMcGxiRnFSY1Q1S1BzVFh1M2t2RFp1d09qYlZ0d2hSMFBrbmFUQmhhbDNJNzI5S1VSQXJsWnhFX1FXb1picFJZVUVkVTZfejZwa29vNHl4NW5vOWMwcjBmb25walhodnNBNi1VaEpxVllfbWJKcXl0d25MRXY2UWtMaFYwb1pVMzA?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ffb165364a17",
-      "title": "Walter\u2019s Insurers Skirted Capital Rules With \u2018Rolling\u2019 Loophole",
-      "source": "Claims Journal",
-      "date": "2026-10-19T05:00:03Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByQTR1NG9wMTZPSGFfN2M1SS1vemlLX1N1ell2WGlfcW1iQ2FDZEZrS3g4ZWI0WVF4cGdaT3FtSjBqQWpTUDhIWVJfcktqQlJacDJIWGlFY3B6Z3FPR0NnQUhkcm8xZ25zZTd6WVE0aVRSWUk?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8b7f5c1a62a2",
-      "title": "Gold edges lower as firm dollar, elevated yields weigh",
-      "source": "CNBC",
-      "date": "2026-10-19T04:23:04Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXUxeVVHc0hZNU4zazIxT2JkM2Vxd3I3N0wyemRBd3M3dkVSY0hmSGhiS3JPTkhseEU5TlRqZWg4aXl5N0ZWRE01SjgwSXpBZXNyUFllbHdHNHd6SkYzNEMxTURyYkE5blNfLXU5V0N2RkRaS1B2cEtqMG03YWlqeDIyWlBhNHJPT2NpdTh0QXhGNl91UjgxZjhB0gGfAUFVX3lxTE1JMkc3czdPbDRmdlB2VENWaGU1SE5hVXY2WmM0QmNmNVlualhDQThsTnMwaEdhYVMtM2taemNfZmdWWEZXUjlTdTV2ZXlOWXQ5dTlyalBtc05SN0tHTlc4akpsY1psaHdvd0owMl81cXBJNUFRN0NheGoyTU54TVFkWDBXUkl0NHpTd3kzdlc3NnR0WlBqYi1LQ2hMVVlZWQ?oc=5",
       "isNew": false
     }
   ]

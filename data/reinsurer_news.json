@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T13:07:04Z",
+  "updated": "2026-10-26T20:31:08Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 2,
+      "count": 5,
       "error": null
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "Google News: Kuvare",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -186,11 +186,11 @@
     },
     {
       "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
+      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVVZXVmxhZ254QmlxZldRZzBKVUdwejdOUDl4cGNJM0ZhV3RmZm96cDVkbzVGRmRSaFhSUVJlNkFKMS01R1cxdXhFd3kzOHdL?oc=5",
+      "source": "Yahoo Finance Australia",
       "feed": "Google News: RGA",
-      "date": "2026-10-23T18:19:25Z",
+      "date": "2026-10-23T21:05:09Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -365,18 +365,6 @@
       ]
     },
     {
-      "id": "48052574ff22",
-      "title": "Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-18T07:37:14Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "f6065ee34602",
       "title": "Sagicor\u2019s Caribbean deal heads to shareholder vote",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNckRJeFFyMXNUUHBTUmRmUERlWkl6bXZNdXAxTG00VWw1MVpoSFNteUZvaEhJNG5kTGtXUE1XSi0teURIYUV0UTl3ajB3cmJPTjFMcWJqcmhHOE55Tmc2WExNVTc2OVlTNjRwTnBER043X0hMUVh0X1lDanpJV3hfS2NheTk1WUVEeHZSYTdKLVkwY3BU?oc=5",
@@ -389,12 +377,36 @@
       ]
     },
     {
+      "id": "48052574ff22",
+      "title": "Reinsurance Group of America, Incorporated $RGA Shares Newly Acquired by Assenagon Asset Management S.A.",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0twQzhQTVp0U0hBQXlJTnZXSEMyY1RnT1l0eTBqS0dWMU9qN09sTE1FTW9fLTNvc0x3VVE1YmR0Wll6V1EyNXROV2pvOGd0WW5GUnUxNUNIN2U5dkhmeURDX0ZmYzVScDlEZHBtdm5GemxJX0Y4d28zQWhMeEVJT1pOdGprMk5DNDdNTVRBcVppVlUyQk1BbmQxTnVtYXdhV1RzaUNoUkFDMURCai0wOXphUVJLUThOSDExbzdEU3ItdFpSaWtST3FXc1pmelc3WjJpNHZzY0Fick5Rb3doV21EcFNFemxHdU9GNTdDejdZdm8?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-18T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "64bdca379950",
       "title": "Reinsurance Group of America, Incorporated (RGA) latest stock news and headlines",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdHFXVjBaOUtpRG1uM296dngxVElqR0x6cFZ2NjVySDAyaUZSQkpGdmRxWkk2U3VNR3lFQUxxeTdvbmxWQ3lybXM4cmVvN3VIcGJHS3pWNA?oc=5",
       "source": "Yahoo Finance Australia",
       "feed": "Google News: RGA",
       "date": "2026-10-17T21:45:12Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "72c206f43896",
+      "title": "RGA Q2 2026 Earnings: EPS of $8.89 Clears Consensus Estimate by 35% - ROE Trend Analysis",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnNaSi1sbXdDaElBMTE1RmZ5NzZlY244amRhU25IX1BrcUI3Smp1d1hKSkwweEg3UlZsVjI0eUUtZUh6RWlXTFVMZXFqaWZKNVhCMlVVMXdITHM2eGQ0QzZjSktPV0lldEhjZG9rNzk2c3dTcnVoUFMtd2xaamI0MXgycmVlMUMwUDVMWHlTRU93cEUzUkQ3TDZBY2c2akNOeHYyenJJUHU?oc=5",
+      "source": "www.dars.gov.et",
+      "feed": "Google News: RGA",
+      "date": "2026-10-17T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1274,18 +1286,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "7f4e3ea7b53c",
-      "title": "Sagicor Financial Company Ltd. Class A (TSX:SFC) Gains Momentum as Insurance Growth Strategy and Capital Optimisation Support Investor Confidence",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU180cVdraE4wQUVYZVhaZFZIZ1hjWm9UZ1VkdVQwZ2Jqd3dxWmx0Nnk1T2pETTFUY1JFMUtDLUtTTk9TTFhhaF9FTFhpX2NrVFREelVhUFhmOTFwWnFBdi15U2dOSEJNc1V5LXdzLUF3OUcxbDhUdkdPQ0duVGNhTktLQUJiVGlybEpRNFFTN3RpX0VZU0Z6eXdaY0tHWG85ZjRhUkdJWDFVYWRpZjlMOGROekRzZV96elUwQXhrQS1WZ0lDQlMxQUZiSHNzU2p5LURtbEkyX21wbFdKdS1hcmRrYmxsOF9mWUdaSzM1LTZMYjlOWWZKNjdhV3l1cllBRjNSUTNB?oc=5",
-      "source": "kalkine.ca",
-      "feed": "Google News: Sagicor",
-      "date": "2026-09-11T14:08:00Z",
-      "summary": "",
-      "companies": [
-        "Sagicor"
       ]
     }
   ]

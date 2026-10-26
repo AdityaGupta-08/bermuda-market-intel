@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T13:06:35.130558Z",
+  "updated": "2026-10-26T20:30:39.550016Z",
   "countries": {
     "us": {
       "series": "CPIAUCSL",
@@ -21,10 +21,10 @@
     "uk": {
       "series": "GBRCPIALLMINMEI",
       "label": "UK CPI all items (OECD)",
-      "yoy": 3.3,
+      "yoy": 3.6,
       "mom": null,
       "trend": null,
-      "date": "2026-08-01",
+      "date": "2026-09-01",
       "source": "OECD SDMX (FRED series discontinued)"
     },
     "eur": {
@@ -45,5 +45,5 @@
       "source": "OECD SDMX (FRED series discontinued)"
     }
   },
-  "_fetched": "2026-10-26T13:06:35.130561Z"
+  "_fetched": "2026-10-26T20:30:39.550019Z"
 }

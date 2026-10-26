@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T13:07:01Z",
+  "updated": "2026-10-26T20:31:04Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,33 +8,73 @@
   ],
   "items": [
     {
+      "id": "ba8042638dd7",
+      "title": "Treasury Yields Little Changed, French Bonds Outperform",
+      "source": "WSJ",
+      "date": "2026-10-26T19:34:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk45NGlORUMtZ2RfUVBDZ2lTODZTT3lyaGpqZTJXd3hzb1NBNTdPVnlNc0p2QlI5cFZSUjNRYzhoY2E2cFlvNWNBNldoaE82X0N2bkpNZlctVnY0M1NCVnVoc2tBYThRYzlYMDVERTJiQ0JKX1dYMVU2RDdzTUVycUNCTUpEMkpCSHIzbGJvNkVKNzZYS0JYN3MwVmtRQjRFTmNFLXQzVlVTS3ZqQVI0d3ZGbw?oc=5",
+      "isNew": false
+    },
+    {
       "id": "700fd420cc04",
       "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
       "source": "WSJ",
-      "date": "2026-10-26T11:55:37Z",
+      "date": "2026-10-26T19:25:40Z",
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
       "isNew": false
     },
     {
+      "id": "44290164bda5",
+      "title": "Mariner Re launches with $750m TIAA investment to support Symetra\u2019s annuity growth",
+      "source": "Reinsurance News",
+      "date": "2026-10-26T17:01:37Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnZtekg4OTBIMVpQUkxDc3R5WGJadThuZU14S1drQ0FVa1FtbXV4ZXB5bjM1UEdtVFdhNkZ3QklHZjVlRDN1Wlc0czk2U0U1LVl1MGczS2p5eTF1RUp6TERmTkpfT2VUTWdUYWxGblQtOGMwOHUwZHdPZE1lYnp4VFEzWjVnS2ktd3kyQXdpVDl1d2tmYzlOT1Ewd1hxUFFBanZkVW5FUThOdWR1cUw4?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "d0ba22978557",
+      "title": "Mortgage rates above 7% are the 'new normal'\u2014here's why",
+      "source": "CNBC",
+      "date": "2026-10-26T14:00:01Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2VZU0twVGt2Z2lyS2NxNzA4Ym9PZG5DYWx0cEZrVU00ZlRNOFpGM2trdjZMYXBJanVXQjFBWTFSTDlxYTI1aXlKS2hCcFJmeDJGY3JsQzJTa3ZFUHBmUlV4R2Y5OThwU29Rb0R3YlVPMGhFUC1ZSkxMeVBMWE9lNExCSTB4c1d0RXVQcEQyRDZrRElFS2Z1OGtoNkYxeTdkRFNZdtIBqgFBVV95cUxOVFMwWGlhczAyWE5OMFkxVkFfRWpIX1VJZzFYSndSOGFkV1hMVHpfOE9NblhZZW5SSVpyenhENkVLVkVibDR6VHl0TUF4QW9VWDl2ZGFjWlBIWklSWEdnOUVGdU1aWGpLTWQ2U3BqMUtFUXlLYjdPQXdwODFNbEItSERjcDZOVlhWajBneTgxZmVfOFBCeG1fQ3Zkd3FrdUY3SnF0c0Q2dUg4QQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "1e730c112629",
       "title": "AAA CLOs: Insurers take a fresh look",
       "source": "Invesco",
-      "date": "2026-10-26T10:57:16Z",
+      "date": "2026-10-26T10:44:38Z",
       "topic": "Structured Credit",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVpPN09ERmp4RHlSaFNOU2o1NHFwaHFybTE2S2hpa0d4eWtJYTRlNWstaG1wSHlSWjNuaW11a1pDSmY5cF9nQWtyQXdJWHVNelNvSGVEWjkycVlZcjkxOEM1enFMaE5fVUFpZVZiR25qSnlGUksxNTFnektFQlJmTGxZQjF2OS1qRU5FWmdMLUV0UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnhxRHRpS193M21Ua3o5eVZpLXcweWw3Q2FXYVplVVhXOFJwTHctUlRYbW5ORGNrSmVkRzlZWFhENlpKSUpieHZQa2dUQUNVeHJLYkJnTmFPNXNkM2xSY3NqWTdxWTFWNS15MEw3THhRWEloYjFRZkFNdXQ2aUdBLWdLQXllSllldGdaaFBIWVBZQQ?oc=5",
       "isNew": false
     },
     {
       "id": "eea86e9d34be",
       "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
       "source": "WSJ",
-      "date": "2026-10-26T07:22:10Z",
+      "date": "2026-10-26T08:19:00Z",
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "0596322ebff7",
+      "title": "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
+      "source": "CNBC",
+      "date": "2026-10-26T07:49:09Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnVMeHR0cjdhVXpVQk9hZWdUUkVoMjAwX3g5OG5iWWprMW5XeEJoaC1CaTlDUVZSZ1ZjZnE4SFpsLWlCMXFXWE1lNnRoNzBKU1NqM2J1QmNUSVNhRzB4MUJxdXpMR0dQRUpNeGFOdDJ6Z25fcjA2QmVvczUxQko5RHc0d0tycDdIZGxIaGlqM3Z3OWhKeEhGMUxB0gGfAUFVX3lxTFA4SUxwS3ZmSEZwWmtRM0VkOUtZQUlSN0djS0JYRkxhMnF1VFhpVzdRWU91b1BoTjBhUm5HVkt4OHhMNElOR0JHYXpGTm5Md0NRa0lmTC1MRzNmWlAwb1lzX2hYbWgzSExzS0pZRXNfd01LNktjbVZBYTJwa2t2d0M5NUxqd2ZMVXJIam9lRHJrN09hcmlyVEpUYVptZzM0VQ?oc=5",
       "isNew": false
     },
     {
@@ -265,46 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3I3ZnI4cU10UFZLd1prcjAzRDBrWUI5eklqaXZTMkJFMW56bzNwZ3Mxd081aXBEQ2FVc1c1Y0VSWEFQN3djSEFLQUUyc2Y4cFpUYng2Y2pqNlZCNGluLUxiZm93dW9oNWVCY2U1RzVBUGF3b05Nem5BYldHWGluVElQTjlZbWlUM2NfV2dfdUNaeXVtX1Q5bGVoX3lvZw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "383720320288",
-      "title": "The New Insurance Playbook: Scale, Specialization And Smarter Capital",
-      "source": "Seeking Alpha",
-      "date": "2026-10-20T09:40:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVqUFZfM1B3M1I1QzFTTGVwWFVRMkwxUUtvUmhyazJ6Q09mQVhkLTZ5ek1uOF9mUVdVdHJ5YVlZMERyX29FU285MWRxXzFpV3Nmejd3cm16eXRGNjVnT0Z4bXktWVJwQTVJWDc5V0RBWVVIQ0dIazl0ZDA0dnh2YkNrZ2xjWGhTVEJLaWdSamtrTDBuSjJsbTA4d1puSmFUQWNGYjVUUQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "45e97f4667c0",
-      "title": "Moody\u2019s forecasts further growth in German insurers\u2019 private credit investments",
-      "source": "Reinsurance News",
-      "date": "2026-10-20T06:01:27Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzlZb01vLTl4bFFmZFpxVVd0dUVUaUFjQnRnLWpYXzhoeDJGX2tYeFFfT1VKYjZmaEJwdFJZU1FlS3k4RkZQN2dZRjdqN0pmeEpQeTRKQXdGanAyWGFqRmxoLVM1YU5SRlY1eDdwSndLTURVdWtXMkh1X1NWOTBXeEhkbjB1ZmlLQnh3NVg2NTlOWXdjTXNmQzZIcmlzSEV3T3VUN29CeGRTMHc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "543d542ba2a7",
-      "title": "The New Insurance Playbook: Scale, Specialization and Smarter Capital",
-      "source": "AllianceBernstein",
-      "date": "2026-10-19T20:35:26Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRmh5V1o5emJoWlYzN2ZRNTlRSDFLYTJaa0dqaHF1NTg1LW5fTEFlTmR2RHVteHNMQ2xwcXJpN1lRT3R0a2VkZjR4VjVWMkotZjRvT25lTWtoZmNHc1R1OGlXRHoxcldvZUVyNkxlUUtfZ1ZpbnRMbXE5NG5RbllSNWVvbVo4elNZVVZ2TmZKb0cxWmhMWks3YmpiSDRlVmxHc0p3X21PZFM4RTRwRk9fd1ZtNWtsLWVMNVRZLWNPcXhLVzVNOXBLbk1oWmdmM0dNMWZiempUTkp6MldpUEdiSGVsalhVZXdsenpnRmh6OHdUMkU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "265c62b66f4a",
-      "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
-      "source": "WSJ",
-      "date": "2026-10-19T19:27:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
       "isNew": false
     }
   ]

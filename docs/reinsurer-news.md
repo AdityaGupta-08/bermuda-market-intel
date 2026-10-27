@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 23 items
-Generated Tue 27 Oct 2026, 06:02 ADT
+Generated Tue 27 Oct 2026, 12:23 ADT
 
 ## Feed status
 
@@ -13,7 +13,6 @@ Generated Tue 27 Oct 2026, 06:02 ADT
 
 - **2026-10-23** — Seeking Alpha — [Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlaeHJpUDI2dmNGeWNlWkpqSklWOHotWFU5SmxwSEY2RHJMbkxEMWh6OHFleUlSRld5QmRZZmRYM0Z1UE11TnJ3ZUNOYU1naWhMUGNpQnZXa19LWlhwYzR6N3FsNE1NUWZpam56dzhVWHZmY2lBdHFYcGlWT3Q5Qk40a2RKcGd6R25zLUY0WjRkUHlnYnZPM3RMMEIxajB1ak53cmZ4NlEtOWhSV2Y0Z1Bmb2JleTU3Q2c?oc=5)
 - **2026-10-19** — Yahoo Finance — [Athene Announces Third Quarter 2026 Fixed Income Investor Call](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzROWDdIa0hQemZlWVVuSHBfSG1sWUFLZXlPMmxoeU41ZndzUWlROHdocDJLbjR0aHBRUDNIZ0Y2UTNQSU10ZU1RYWFTTEVqVWY2QzUzcE8wb2ctZ0ozeUdtYWFRcEV2N0UxZUx4RDhOTkczOV9VLWt1eTlqT2ZhUzRKeGx3VHJRd1kyNWNHZkRueS1wajBhdWo4NGR2SjZ6b0E?oc=5)
-- **2026-10-13** — Pensions & Investments — [What Athene’s investments can tell asset managers about where insurance portfolios are heading](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5)
 
 ## Wilton Re
 
@@ -46,6 +45,7 @@ Generated Tue 27 Oct 2026, 06:02 ADT
 
 ## Sagicor
 
+- **2026-10-27** — kalkine.ca — [How Well Do Sagicor Financial’s (TSX:SFC) Core Earnings Cover Its US Dollar Dividend?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVRHQzYtUmRBNlVjUGJhajFTdnFKZlNINHZ5eWVaOVBicHkzMW1aNkZ5ZnNoS3ZnVHRzZDhzQlhqemx4Q2Fma2xMZmVwSGJDbXpNOG5Vc1JNNG1zbGltaU1LMEJ4QUpTTE5OcnRYUzFXVjM3TE53UEh6b2FQNXM3MFpOR2lEQVJPVlFWWFFJSHdCanJyeXZ5WnBobmtBOC1DdVE3ODhCa2tidWRxcXJrSkxLd0N0Mzh1V2FuMA?oc=5)
 - **2026-10-19** — Traders Union — [Sagicor ratings affirmed by Fitch with stable outlook](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDFUa0F5dFRmRlNVNWR4bGV1Q3A0QlNWbURLR0JmZEU4VkhKVWNRc0x3cU0teEFQUURlOVVMa25wdVpCaEpiUmlyYi0tcGhjMUFPOFdhYm5vRkViYlpqa1FJZHk3V3NJdEY5UVJZVjMzRzdBdi1kRVpTMmNnSHBhZG43TEpqTmJYR3BmRy1mN0NTbkFN?oc=5)
 - **2026-10-18** — Jamaica Observer — [Sagicor’s Caribbean deal heads to shareholder vote](https://news.google.com/rss/articles/CBMilAFBVV95cUxNckRJeFFyMXNUUHBTUmRmUERlWkl6bXZNdXAxTG00VWw1MVpoSFNteUZvaEhJNG5kTGtXUE1XSi0teURIYUV0UTl3ajB3cmJPTjFMcWJqcmhHOE55Tmc2WExNVTc2OVlTNjRwTnBER043X0hMUVh0X1lDanpJV3hfS2NheTk1WUVEeHZSYTdKLVkwY3BU?oc=5)
 

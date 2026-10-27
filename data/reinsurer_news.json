@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:02:42Z",
+  "updated": "2026-10-27T15:23:24Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "79a04b7dac82",
+      "title": "How Well Do Sagicor Financial\u2019s (TSX:SFC) Core Earnings Cover Its US Dollar Dividend?",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVRHQzYtUmRBNlVjUGJhajFTdnFKZlNINHZ5eWVaOVBicHkzMW1aNkZ5ZnNoS3ZnVHRzZDhzQlhqemx4Q2Fma2xMZmVwSGJDbXpNOG5Vc1JNNG1zbGltaU1LMEJ4QUpTTE5OcnRYUzFXVjM3TE53UEh6b2FQNXM3MFpOR2lEQVJPVlFWWFFJSHdCanJyeXZ5WnBobmtBOC1DdVE3ODhCa2tidWRxcXJrSkxLd0N0Mzh1V2FuMA?oc=5",
+      "source": "kalkine.ca",
+      "feed": "Google News: Sagicor",
+      "date": "2026-10-27T13:56:00Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
     {
       "id": "ae476b692fc7",
       "title": "Wilton Re modernises 400,000 insurance policies through Cloud transformation with DXC",

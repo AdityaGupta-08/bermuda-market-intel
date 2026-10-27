@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:02:39Z",
+  "updated": "2026-10-27T15:23:21Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "6883b7c3429d",
+      "title": "2026 Global Insurance Report",
+      "source": "BlackRock",
+      "date": "2026-10-27T11:36:32Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGZsTG5XZm9xNDhzVUw1ZmtzUUVKS2I2cjFTcXVLczZhdWZaVzd4UUxNS0pXSWJWTTJ4NktUeGYxRXAzOHRWMmNYTVRPQnhnSDJIVHoxQXlrc1M1eVVHTHZYaWJLYW1wR1ZPTmMxOXZRZTc2LU1yNnRRQVEyOXA3cEhneHRBQzh6c1EtUjlrUkNhRXlKY3gxQVVnMk4?oc=5",
+      "isNew": false
+    },
     {
       "id": "cde30038954a",
       "title": "Symetra and TIAA launch Bermuda-based Mariner Re with $750 mn investment",
@@ -98,6 +108,16 @@
       "isNew": false
     },
     {
+      "id": "aa53a16e1601",
+      "title": "Nvidia Credit Stress Could Lift Hannover Re Stock And Other AI Insurance Names",
+      "source": "Yahoo Finance",
+      "date": "2026-10-24T19:09:24Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMndMTWQ2WkRmcXlmMG93d3NhZEh2eG1lbDFBYkIya2ZVTUc1VmF3bkdfT1dnWXJneGpHM2tCNURadldZM3JZc1JZbHNqb28xaF9nVEFjQW1XVHdRMUt1U1BmWW1rWjFWVEdicEo0OTE1WU83T05DMG9hT1JCMS10N0F1TlhDYVZ5OHp0c2dHMm1qemp4WlREZ3BjNWU?oc=5",
+      "isNew": false
+    },
+    {
       "id": "86d41faabd66",
       "title": "ECB Rate Decision: What to Expect on Thursday",
       "source": "Morningstar",
@@ -125,6 +145,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "84387d82e19a",
+      "title": "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
+      "source": "Bipartisan Policy Center",
+      "date": "2026-10-23T13:54:32Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOUU2cHpmUHR0MENYcUVSbUF6THFBOE52b3l4T1RUakI2RkkwQ1I4bEdiZndtVnRHd1FfVEh3SnczeG1UcmJiSG1hMjIzLV9QMUpzZWNpOHRtaTYyTnNVMFMzTl8zVEhwRXd2c2dlS0ZiX3Y5VElESnpJNE5neDVHbGtuVXBfbXlkd3VaSXc3dldJaVZHY1E?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG9rcllyNlV4blhqWFFNMUtWbW5WYVVIckd3ZTFPYm9yYjFDdmpMUmFOMlVQTWVxSXAyWmphVTljUnJnWFVEOFJnV1c4N3J4NmhDc2lkYWxGNE10M0l4LTllclZXcFBCcUN5RjFLdlprdEQ2T2VuTXRkVEhuRUV6WkpneS1YRlRiNFI5ZnhIaGE2UQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "234c6db42501",
-      "title": "Tankers, Talk and Trade-offs: Interest Rate Drivers",
-      "source": "TD Economics",
-      "date": "2026-10-20T18:22:02Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiRDVza3NxYTJPX19XSGdBQjhmaEFfZ3JNaDlDY2FKTzc5TVNCX3F5Uk9EaDVud0FUbDZtaTJkX2o0MG54bTJPQUl1M0dXalB4dHh2MWZma1JYV3ZfVmNHVg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "53f32f2af522",
-      "title": "How IFC is Mobilizing Insurance Capacity to Boost Local Currency Financing in Asia",
-      "source": "International Finance Corporation (IFC)",
-      "date": "2026-10-20T17:14:59Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2JNdFc0M2pIZ0NiSG1nUWwyLWFGaVdIZUV0V3ZVeno5YW04ZkFZcWc4VjgxbC04XzNnUF9WM0IyVzZYemlEd3dyamFGY21WMExKdmxxUnpua1Z0bjZqT3pZdlF2RW1hNnVmM0tjclRuTWJqcExVYXNMRVlWSXcycTZxSEN2S3Roa1hWRFhaQ0VkMGl6dUdCLVdrUVFCelFJeUZaS3FhMW42N0k4UDhn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "3dc193f77e54",
-      "title": "Life Insurers Turn to Rated Note Feeders for Private Credit Access",
-      "source": "https://www.connectmoney.com/",
-      "date": "2026-10-20T14:55:28Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORll1WVZ6SG9sUXo3emFpZUY4RGF6WnV2bWxZRVlyVndBNG9IX2lHV3NLb094NlY5R183NGdlU2hlU0NOQmNHRUpjdzNqWkVJN2N4Y3UtY1EyZ0lCM3FVY0xOSDFrZ2ptR0dSRi1BeUs3RnZja1hDd3N5ZHdxR2VPQ3FiU1hEcUtLcWRSaElPdlVBQXZfOVBnYThLZ1pnajBMQTh0VTg4dw?oc=5",
       "isNew": false
     }
   ]

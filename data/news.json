@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T20:31:04Z",
+  "updated": "2026-10-27T00:27:45Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,6 +8,26 @@
   ],
   "items": [
     {
+      "id": "cde30038954a",
+      "title": "Symetra and TIAA launch Bermuda-based Mariner Re with $750 mn investment",
+      "source": "Beinsure",
+      "date": "2026-10-26T21:26:57Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OUHhTMFpES1psLW9wc2dfOV9wWEYyU0dCcHA2YTJMb20zZnlCeFBhTzZoeGNPejlrMFJHNjNVc0YyV3g2WmZSa0ZBb3RqLTNDeU90S0ZFR3lWNkRCNXowZC1TMC1TSWhw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "700fd420cc04",
+      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+      "source": "WSJ",
+      "date": "2026-10-26T20:55:42Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "isNew": false
+    },
+    {
       "id": "ba8042638dd7",
       "title": "Treasury Yields Little Changed, French Bonds Outperform",
       "source": "WSJ",
@@ -15,16 +35,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk45NGlORUMtZ2RfUVBDZ2lTODZTT3lyaGpqZTJXd3hzb1NBNTdPVnlNc0p2QlI5cFZSUjNRYzhoY2E2cFlvNWNBNldoaE82X0N2bkpNZlctVnY0M1NCVnVoc2tBYThRYzlYMDVERTJiQ0JKX1dYMVU2RDdzTUVycUNCTUpEMkpCSHIzbGJvNkVKNzZYS0JYN3MwVmtRQjRFTmNFLXQzVlVTS3ZqQVI0d3ZGbw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "700fd420cc04",
-      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-      "source": "WSJ",
-      "date": "2026-10-26T19:25:40Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
       "isNew": false
     },
     {
@@ -45,6 +55,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2VZU0twVGt2Z2lyS2NxNzA4Ym9PZG5DYWx0cEZrVU00ZlRNOFpGM2trdjZMYXBJanVXQjFBWTFSTDlxYTI1aXlKS2hCcFJmeDJGY3JsQzJTa3ZFUHBmUlV4R2Y5OThwU29Rb0R3YlVPMGhFUC1ZSkxMeVBMWE9lNExCSTB4c1d0RXVQcEQyRDZrRElFS2Z1OGtoNkYxeTdkRFNZdtIBqgFBVV95cUxOVFMwWGlhczAyWE5OMFkxVkFfRWpIX1VJZzFYSndSOGFkV1hMVHpfOE9NblhZZW5SSVpyenhENkVLVkVibDR6VHl0TUF4QW9VWDl2ZGFjWlBIWklSWEdnOUVGdU1aWGpLTWQ2U3BqMUtFUXlLYjdPQXdwODFNbEItSERjcDZOVlhWajBneTgxZmVfOFBCeG1fQ3Zkd3FrdUY3SnF0c0Q2dUg4QQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "15b3645cf19d",
+      "title": "Meiji Yasuda to buy Man Group stake in asset management push",
+      "source": "The Japan Times",
+      "date": "2026-10-26T11:43:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ITWdIUF9FZ0FXbXdYTXpTZTR1YTNFa3ZYOG5sNVJ5cmlRZjZFdFM2ZjlKWVo0ZGZiZ1FxOE1xX3pnZnZKZEdqaDgtcExDeHVUV05pMWo5UGsteUtmMlVQYVphc2Z1WTk4LUNoOWU2UFZUUUxPYmJ6S2RTWEg?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDk4ZC1wYS13eklDXzVoTC1MLTBiMVdjbFE5ZG5UVFlpRVQ4WXllalJ4aFNPcmVmSzhkR25nMVF1VlRSU29uQ1hEb2dETkVHU3VSN3RuMkpSelp5cjA4OGNJa1h4ZGdQbVlrOHo4eklqSlZ6OGlvNG1SMFpBWTRHNXlHMkhNaWtwZFYyRUlIaw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c161ebe336b0",
-      "title": "Bank of America says 1% increase to interest rate would add $95 billion in national debt costs",
-      "source": "Fortune",
-      "date": "2026-10-20T13:04:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDk4ZC1wYS13eklDXzVoTC1MLTBiMVdjbFE5ZG5UVFlpRVQ4WXllalJ4aFNPcmVmSzhkR25nMVF1VlRSU29uQ1hEb2dETkVHU3VSN3RuMkpSelp5cjA4OGNJa1h4ZGdQbVlrOHo4eklqSlZ6OGlvNG1SMFpBWTRHNXlHMkhNaWtwZFYyRUlIaw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "08c74e31d3bd",
-      "title": "Moody\u2019s: German insurers pile into private credit",
-      "source": "Alternative Credit Investor",
-      "date": "2026-10-20T11:35:15Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3I3ZnI4cU10UFZLd1prcjAzRDBrWUI5eklqaXZTMkJFMW56bzNwZ3Mxd081aXBEQ2FVc1c1Y0VSWEFQN3djSEFLQUUyc2Y4cFpUYng2Y2pqNlZCNGluLUxiZm93dW9oNWVCY2U1RzVBUGF3b05Nem5BYldHWGluVElQTjlZbWlUM2NfV2dfdUNaeXVtX1Q5bGVoX3lvZw?oc=5",
       "isNew": false
     }
   ]

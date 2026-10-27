@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 22 items
-Generated Mon 26 Oct 2026, 21:27 ADT
+Bermuda life & annuity watchlist — last 14 days — 23 items
+Generated Tue 27 Oct 2026, 06:02 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 54 items
+- ✅ **Google News (16 of 16 companies)** — 56 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -14,6 +14,10 @@ Generated Mon 26 Oct 2026, 21:27 ADT
 - **2026-10-23** — Seeking Alpha — [Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlaeHJpUDI2dmNGeWNlWkpqSklWOHotWFU5SmxwSEY2RHJMbkxEMWh6OHFleUlSRld5QmRZZmRYM0Z1UE11TnJ3ZUNOYU1naWhMUGNpQnZXa19LWlhwYzR6N3FsNE1NUWZpam56dzhVWHZmY2lBdHFYcGlWT3Q5Qk40a2RKcGd6R25zLUY0WjRkUHlnYnZPM3RMMEIxajB1ak53cmZ4NlEtOWhSV2Y0Z1Bmb2JleTU3Q2c?oc=5)
 - **2026-10-19** — Yahoo Finance — [Athene Announces Third Quarter 2026 Fixed Income Investor Call](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzROWDdIa0hQemZlWVVuSHBfSG1sWUFLZXlPMmxoeU41ZndzUWlROHdocDJLbjR0aHBRUDNIZ0Y2UTNQSU10ZU1RYWFTTEVqVWY2QzUzcE8wb2ctZ0ozeUdtYWFRcEV2N0UxZUx4RDhOTkczOV9VLWt1eTlqT2ZhUzRKeGx3VHJRd1kyNWNHZkRueS1wajBhdWo4NGR2SjZ6b0E?oc=5)
 - **2026-10-13** — Pensions & Investments — [What Athene’s investments can tell asset managers about where insurance portfolios are heading](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5)
+
+## Wilton Re
+
+- **2026-10-26** — Intelligent CIO — [Wilton Re modernises 400,000 insurance policies through Cloud transformation with DXC](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRjB5R05yNV9KTmVRMWtfUkxEdThCT1VwR0l0OGJCSGRFUDRXcjBxdWFIdlVqMmpFaDMxNHQ2X1E1cF9MTWJEbC1HeDVIVXVaZ056c2t2N0Nfb2JHeU5kb3ZQZ0V1T3hoRHU3TzdCai11Yk9GVV9KSF9zQ0hjV2JlU1hCNldHT0VwV2NNTDJFRW9jbElCRHhoMS1YWEdmeU1GZndWTTdncFFGcTE1Y0Q4MTdZUXRyblJVZkkyU3NrNTlWemlMQWtZcnhTVFJGSWpfRDN2SV9JRnY?oc=5)
 
 ## Talcott
 
@@ -49,7 +53,7 @@ Generated Mon 26 Oct 2026, 21:27 ADT
 
 - **2026-10-20** — theinsurer.com — [Exclusive: Apollo explores sale of Catalina Holdings' UK arm](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVGTXo3cEFmUXNDdkRWcW9pM2Z2Ym5lQ0lNdEhwTXUwNlowM3lGbDBtdUJXTFRuc19wTEh4QmhrR3NFekctZXRNUHotaXRYYVE1Y050SldRMnNYbmhFVE1DZGI5LUM2OTdzMXUwOEVZVGN4bDNmSE5qYk8wX1ZRTDkyb0pDa0RHbFZFM3FucUQ0U3llYlV6bTNNZ3ZjSWFTUUN0bjNCWUg?oc=5)
 
-_No news in the window: Global Atlantic, Wilton Re, Fortitude Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare_
+_No news in the window: Global Atlantic, Fortitude Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare_
 
 ---
 

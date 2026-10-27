@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T00:27:45Z",
+  "updated": "2026-10-27T09:02:39Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -18,13 +18,13 @@
       "isNew": false
     },
     {
-      "id": "700fd420cc04",
-      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-      "source": "WSJ",
-      "date": "2026-10-26T20:55:42Z",
-      "topic": "Rates & Macro",
+      "id": "c91d0ac237bf",
+      "title": "Insurers Find Greater Use for ETFs",
+      "source": "Chief Investment Officer",
+      "date": "2026-10-26T21:09:58Z",
+      "topic": "Insurance AM",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPYVQyMVdFNGtKem0wa09tVnU0SVA5aEF2dW5sZl9tbUY0akZtSlJNMUxDbXowc1NxSW5zLUhCc2dkTXV4a3VRdkxTNV9hM3BKeHduNmE2NG1rTXFXVWRhSnBaemV4bVdpWXNzMm50b1I?oc=5",
       "isNew": false
     },
     {
@@ -118,6 +118,16 @@
       "isNew": false
     },
     {
+      "id": "700fd420cc04",
+      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+      "source": "WSJ",
+      "date": "2026-10-23T16:23:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "isNew": false
+    },
+    {
       "id": "47c4d9521c4f",
       "title": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America",
       "source": "Morningstar",
@@ -125,6 +135,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDhMcEtDZmhoQnJMSVBVUzFaWVBqeUczRlRZekhZc1RpYWU0ajVLWlNscVRjQ2UzSS1ZVFRsd3BsazVuR2FtVG5PQVQwRW8zY1FhVzlJeE9SVWEtS1VnZzZROWR0dXdNTVQ1X2pMTDZkdjBleGE0akJRSVpKTXRaWTdfTUJhaktpOFRlaHY5UHdtLUZMOE5HMXR2YkpGODBDU1RoaHFlcGFzeEpJMnc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "17bbfebb41f5",
+      "title": "Where Fed and ECB Rates Could Go Next, According to Bank of America\u2019s Preusser",
+      "source": "Morningstar",
+      "date": "2026-10-23T05:03:16Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVQ3X2tVczhmdWYzXzNtVWlNMUlRLVhrVm1BalJwb2VPTE94UkpEYmhEeGJtb2w5ZDNXT2ZrSHZzQUlxTmNkRnE2bzRXaDRTWkt1bFhpTnVPV2lYWHNfRWwxYktNZ2hEVHNLYU1Zc0w3QmNHYnUwX05hbEZGblY0b01wQkt2WURtLVBrMDE4dmVDME1XOUNzeWl0OXh1d0xQdzNxdHR4bWVXaW5fT25uUTZDWVJzNFJuOXc?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORll1WVZ6SG9sUXo3emFpZUY4RGF6WnV2bWxZRVlyVndBNG9IX2lHV3NLb094NlY5R183NGdlU2hlU0NOQmNHRUpjdzNqWkVJN2N4Y3UtY1EyZ0lCM3FVY0xOSDFrZ2ptR0dSRi1BeUs3RnZja1hDd3N5ZHdxR2VPQ3FiU1hEcUtLcWRSaElPdlVBQXZfOVBnYThLZ1pnajBMQTh0VTg4dw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "05df3f1e068f",
-      "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-      "source": "Reuters",
-      "date": "2026-10-20T13:27:27Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "783e403a3c5a",
-      "title": "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
-      "source": "Fortune",
-      "date": "2026-10-20T13:04:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDk4ZC1wYS13eklDXzVoTC1MLTBiMVdjbFE5ZG5UVFlpRVQ4WXllalJ4aFNPcmVmSzhkR25nMVF1VlRSU29uQ1hEb2dETkVHU3VSN3RuMkpSelp5cjA4OGNJa1h4ZGdQbVlrOHo4eklqSlZ6OGlvNG1SMFpBWTRHNXlHMkhNaWtwZFYyRUlIaw?oc=5",
       "isNew": false
     }
   ]

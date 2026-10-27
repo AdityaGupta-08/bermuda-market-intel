@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T00:27:47Z",
+  "updated": "2026-10-27T09:02:42Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "ae476b692fc7",
+      "title": "Wilton Re modernises 400,000 insurance policies through Cloud transformation with DXC",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRjB5R05yNV9KTmVRMWtfUkxEdThCT1VwR0l0OGJCSGRFUDRXcjBxdWFIdlVqMmpFaDMxNHQ2X1E1cF9MTWJEbC1HeDVIVXVaZ056c2t2N0Nfb2JHeU5kb3ZQZ0V1T3hoRHU3TzdCai11Yk9GVV9KSF9zQ0hjV2JlU1hCNldHT0VwV2NNTDJFRW9jbElCRHhoMS1YWEdmeU1GZndWTTdncFFGcTE1Y0Q4MTdZUXRyblJVZkkyU3NrNTlWemlMQWtZcnhTVFJGSWpfRDN2SV9JRnY?oc=5",
+      "source": "Intelligent CIO",
+      "feed": "Google News: Wilton Re",
+      "date": "2026-10-26T13:01:57Z",
+      "summary": "",
+      "companies": [
+        "Wilton Re"
+      ]
+    },
     {
       "id": "25887d2a3f5d",
       "title": "Reinsurance Group of America, Incorporated $RGA Stake Lifted by Sterling Capital Management LLC",
@@ -402,7 +414,7 @@
     },
     {
       "id": "72c206f43896",
-      "title": "RGA Q2 2026 Earnings: EPS of $8.89 Clears Consensus Estimate by 35% - Analyst Coverage Count",
+      "title": "RGA Q2 2026 Earnings: EPS of $8.89 Clears Consensus Estimate by 35% - EPS Estimate Trend",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnNaSi1sbXdDaElBMTE1RmZ5NzZlY244amRhU25IX1BrcUI3Smp1d1hKSkwweEg3UlZsVjI0eUUtZUh6RWlXTFVMZXFqaWZKNVhCMlVVMXdITHM2eGQ0QzZjSktPV0lldEhjZG9rNzk2c3dTcnVoUFMtd2xaamI0MXgycmVlMUMwUDVMWHlTRU93cEUzUkQ3TDZBY2c2akNOeHYyenJJUHU?oc=5",
       "source": "https://www.dars.gov.et/",
       "feed": "Google News: RGA",
@@ -1271,18 +1283,6 @@
       "source": "simplywall.st",
       "feed": "Google News: RGA",
       "date": "2026-09-13T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "ae911c65adbb",
-      "title": "Reinsurance Group of America, Incorporated $RGA Shares Bought by Engineers Gate Manager LP",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRTVvWWhHeTg5eTNreS1KcWQwVFNPSFBDNjFZcHpSSEFoNFhEUWI4UDNETXdlY1k4OXQ3MDVfclNUSlR5Z04wTEstQVdzc2h3S0dmVW9FWjdUNmVGU3Qwd0RseXc5VndJbERFNUhnWkFNRXpSRnZ3M2JJcUprZnFlZmNJckNhREdEWWswa0RXdWZYRFl2VUZxUTJHOFNYTnVhVW51UWZjMl9LamFvdWpjaUN2RmdEREhfdEZXcXRNQVNMWkpRNDgyTmpFb01YTWFCWGVlTVJ6dGRXMFpaMUFwRXlHNA?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-09-12T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

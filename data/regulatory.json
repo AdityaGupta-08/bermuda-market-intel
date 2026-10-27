@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-27T15:23:21Z",
+  "updated": "2026-10-27T22:16:33Z",
   "naic": [
+    {
+      "id": "1a538a85768e",
+      "title": "US insurance regulators back down on credit ratings scrutiny",
+      "date": "2026-10-27",
+      "cat": "Capital/Solvency",
+      "summary": "",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHhybHZRNlRfaWZCcXZ4Zm9pVjgwNHppTTM4UjdyMjFEcXJwWGlxU3ZEa0NFeWdoZFhCakd3eTVTcFR2eVd5ZGp5RjZHZnAwRU05S1AxOGFrTXlFa2RHMlJPN3lnTTl2SzVuWEw5ckpwSElSbXJNMGZFVkphZVlmTDBXSDc?oc=5",
+      "isNew": true
+    },
     {
       "id": "a33a968aa8d4",
       "title": "Cayman closes in on NAIC status as reinsurance volumes climb",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "Claims Journal",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqNFptM09aUHhyU0NmM2lmbFlsUHhCRDJRVkhqUy0wVzQxTlZEOURsazd1MS1rMU5zOXc3cVVueFFWb25wUWtCSjFMc1Ffd1BzRnpLSko1b2hDenB0ZHhmWUJsT2ZCR0F1RU5XcG9JYVVGQXM?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "a52470f83b73",
-      "title": "Warren presses insurance regulators for answers on private credit ties as Walter probe widens",
-      "date": "2026-09-11",
-      "cat": "Investment",
-      "summary": "",
-      "source": "Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSHpHV05NaFhoTTAxOVNkMFBBTVNBVGpCU2hCMEo3Q0lObzd0ZkJjOGpOSU9ocmc5cW5xRmZidHVqREpYOGdQcmhzbUdBZk51b1pJUWwyVHdJVE5JN3puUV9BckwyLW1EUDFRcjhVOVlRTjRsdDM0bE9mRFF6VVh2QnB3SndJaGYtbUx5TGJIcURIVmpFLVN2MEE4c1F5MlBhcExxb2FUdUZ1ZUwzN0pfenVBMEF5S2RUbFc5NFRrUk4wdTJhQzFFVUJ6YnFSbDdOdGZsaGlLcXRlX0FYQkVKQV9ob2laQjExQ2YtTzVLVW1zWTlLVE5F?oc=5",
       "isNew": false
     }
   ],

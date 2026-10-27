@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T15:23:24Z",
+  "updated": "2026-10-27T22:16:36Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -23,13 +23,13 @@
     {
       "name": "Google News: Catalina",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 18,
+      "count": 19,
       "error": null
     },
     {
@@ -215,6 +215,18 @@
       "source": "Yahoo Finance Australia",
       "feed": "Google News: RGA",
       "date": "2026-10-23T21:05:09Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "877eb3193c05",
+      "title": "RGA Q2 2026 Earnings: EPS Beats Estimate by 35% Despite Stock Pullback - Revenue Inflection Point",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd285cVRLN3VtN2tuc0tZcWZRQUhGd1luRzNoaE9sbmZxZ2t4OUpnUGg4NEpjTHlkV1NFdVhxVzdneHhqdmlZWTJpazU0YXN2NDhHTTRsdUVWbW40US1aVUxGUkRUQnRqdnBaQmIydUZqRDcyMHJEbUI3NktaSmtQUzZaM3F1d3pZSDMxbnhncjdNYVJ5b1NrVXVPdGxlZTdoT1psVUxOWExZeGRuY2tz?oc=5",
+      "source": "www.dars.gov.et",
+      "feed": "Google News: RGA",
+      "date": "2026-10-23T20:32:36Z",
       "summary": "",
       "companies": [
         "RGA"

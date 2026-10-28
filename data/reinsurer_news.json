@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T05:45:25Z",
+  "updated": "2026-10-28T12:58:06Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 20,
+      "count": 17,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 2,
+      "count": 4,
       "error": null
     },
     {
@@ -210,11 +210,11 @@
     },
     {
       "id": "877eb3193c05",
-      "title": "RGA Q2 2026 Earnings: EPS Beats Estimate by 35% Despite Stock Pullback - Cash Flow Report",
+      "title": "RGA Q2 2026 Earnings: EPS Beats Estimate by 35% Despite Stock Pullback - Earnings Surprise Score",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd285cVRLN3VtN2tuc0tZcWZRQUhGd1luRzNoaE9sbmZxZ2t4OUpnUGg4NEpjTHlkV1NFdVhxVzdneHhqdmlZWTJpazU0YXN2NDhHTTRsdUVWbW40US1aVUxGUkRUQnRqdnBaQmIydUZqRDcyMHJEbUI3NktaSmtQUzZaM3F1d3pZSDMxbnhncjdNYVJ5b1NrVXVPdGxlZTdoT1psVUxOWExZeGRuY2tz?oc=5",
       "source": "https://www.dars.gov.et/",
       "feed": "Google News: RGA",
-      "date": "2026-10-23T20:42:04Z",
+      "date": "2026-10-23T20:32:40Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1298,18 +1298,6 @@
       "summary": "",
       "companies": [
         "Aspida"
-      ]
-    },
-    {
-      "id": "9bef67d8d283",
-      "title": "Reinsurance Group Of America (RGA) Gets A Fresh Value Backing On Its Global Growth Story",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRm1FSHU4a1k2SFpWaEx4Z21lT1F0T29wZGpiR0g2bHV1X2xkQ0RBTGlHTTEwYjZXa3RzREhRcWhoOHBpTFUyUDI5bnFXY29udlp1RE9BbFpScUxBZzc1SHRHUFFXSjZYckdBSXBVNUE3SmVxSk96alVudTltZ3lmM28wUk0zVHFwZjMtN1YyU0xFVkRhN1RWM1Vaelh0Yld2ZHBPRk11c3AxV3ZGWjZyekN5aW9CTTdZZnloSl9jVXBqdUg5TTNUOUNSM1N4eWE4OGo1T011bHN2dkxy0gHiAUFVX3lxTE9jQ0UyZzhKY3VZMzgySXNGdlVYYXBWTGFyZWJtTEhZazktSDZMS2dXR0tCSjBDaUk2S0Nxa3NaczhEeE90aWc2YlU2dlRoQzhfN3NJR3hNd0p2NTdDX1N6a05INTR0YTg0eWctZnJ5Z1V0R2ZTRjBYM2Y2N1hTcFpiUXVvS2Z3X1lINWxHLUE5MmZEczNQUDBWNU1kOHI2dTE1WVlqcnA0UHNYdGdzY1lRQXBjdlo5WTZPODZkQWtoYkhnd0g5MlRjVlk0Tmc0SjZsOGlEcnhWYUZxb25fWVpzX3c?oc=5",
-      "source": "simplywall.st",
-      "feed": "Google News: RGA",
-      "date": "2026-09-13T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     }
   ]

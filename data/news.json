@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T05:45:22Z",
+  "updated": "2026-10-28T12:58:04Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,56 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "eea86e9d34be",
+      "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+      "source": "WSJ",
+      "date": "2026-10-28T11:50:53Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "7dc46f4e9c04",
+      "title": "COMMENTARY: ECB can cool rate bets, but may not want to yet",
+      "source": "Reuters",
+      "date": "2026-10-28T11:01:02Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaG8tZ1VDYmVRZ3M3MWFadDRTYXUyQ0tOeGtFenNJU0oyZXlrRHV3VHBMYUZNOHNiaE5QcFJZRHhkbERBbThSNUZGNjJ2b1ljLWdzcUxEWHk5QkNzWmtaeXZhSkZPd2ZwSE5OcWVFTWRpN1JNUi1KdE5lLUhCTGwxbm5YcnE5SGR2QklBYzI3dGU1SzltWHhDTHFaaVk0WllDV3BESVh4ajF5dHp5?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "7dc9ec72eb8c",
+      "title": "How will central banks react to higher bond yields?",
+      "source": "Oxford Economics",
+      "date": "2026-10-28T08:11:19Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUw0U2JJb00yVHVabFNsQmZjUkhONzR1cjZmOC0tUjJlSUJsb1RKZE5rZzVQT2tnN01XeDQxTkFnTThpc3pMckhCXzdOZGdIVUpCMUFkaENiZ2FoV0tsc3lJSlBsa29jTC1TUGstMEZCcUlFZHRLaWJZS3dtRkpyMHNSZkpxR2xVd3Q0aXhlVGZDbTZyOHJB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "12178cb62355",
+      "title": "2026 ABS East Conference Takeaways: Overcast Skies",
+      "source": "Seeking Alpha",
+      "date": "2026-10-28T07:05:00Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblJLWFRlbnhudWxva21jdHY0aHdoOE9NY0VSME9YTWFHX1l0TUxIZWR5c3V4T3ZHbmZIWVNQSXFHOEZOLVVoRkN0Y0w2OUE0clc0Ul9uLVppNFlQRW44LWJGaF81U0Q4UXRUY0RhOUFwNmgwUTZWMXhHV2EzbXQwcmNtWHQ3dC1pOHMyNEFLQUFRbDNv?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "700fd420cc04",
+      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+      "source": "WSJ",
+      "date": "2026-10-28T05:26:41Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "isNew": false
+    },
     {
       "id": "6883b7c3429d",
       "title": "2026 Global Insurance Report",
@@ -34,7 +84,7 @@
       "date": "2026-10-27T08:01:40Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93U3p6TnVQR283YWJJUmZZeU0yWHZmYlpjc1hDQUVqRHRiVFV4NGtjWk9tTG1jUWhDUG1jbDJtSjhsTUgxNjY4V2RIVjZHV1pHbkp5UExYQlItNFlWQkx0WWZTdzNJX0pnTkZfNXZVMVQtT0NtbWZrbmZfOWVUQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Smw3cmVhenJ0c3RmRjNIVl9KamRBZkFwMDJTMTYzRDZZRllWN0sxcmpwcURJdlMzeHpzY3pPc182ZzRYeFhkU19lVE1LZkRXV0FFaTFta3daQVVDSGJ2YklNQkVRNGl3c1cwVWVDWm9odWFLUFE?oc=5",
       "isNew": false
     },
     {
@@ -118,16 +168,6 @@
       "isNew": false
     },
     {
-      "id": "eea86e9d34be",
-      "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
-      "source": "WSJ",
-      "date": "2026-10-26T08:19:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5",
-      "isNew": false
-    },
-    {
       "id": "0596322ebff7",
       "title": "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
       "source": "CNBC",
@@ -165,16 +205,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NsV1FKX2xwSVZIMzBPMjZQM0NYQ0MyZWlKRTNvOVBQZ3BBTTluMFBMOEVDdkc5SmQzWmdUaENVRG5EUWhPZTgzVUdnbVZOcTdBZGVoMXo5YlBILWY2TVZoYzM0NTJvUnlva2tIQ3dRc2NpaWJ4cVpnSmNqRWh2Qkc3QkY3cThvbWI4T1FtTjdRT1NEUFVzdkVEQktjZmN5X3FPVHhrUTZTaU9fRWhUbjdZdGVQOGI3YU8xQUZhVG5qVW5RWV9j?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "700fd420cc04",
-      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-      "source": "WSJ",
-      "date": "2026-10-23T16:23:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLU9kV1dmX1lmbEpfeVNmaVRjRWVKb0ZEdVVYekxTdE1ZT1Z4cE0wOUhaRnhVZTR4VzlfRUVNVElKSHVzaGh1UWh6MGp6TEQ4WUJBMF81bVdSUTI4U09faUUzYW5VbEgxMWZPSXhNNWFHSURLRmI4QUI1am1lZnd1dENBVFdUZHpsQTdTb1FfMW9hQV8wOEVXa0VRb3RJY2Y3Z2lrQWFkT1NjV01QZXdOSzlqZVdvUWvSAbwBQVVfeXFMTkZpRzlRbElVNTRHdTNUQ1djamtIcG9JQXFqT0ctckNDMWpZYUl2NUc3QVpQSVlqOTh6aDdoX0hXZ2o3aTRqaVRVcC1Ob21pU3p4c0J6VDk3Tmp3Und0Q3JKSDNIa3M4dURTOTE0X2NhV1hfR2FvYUFLc0RBQmZYdDFsT3ZsakstbkhwcU1iUFd5U01uVmhpUlNpVUkzaHc3RzhrRVRtWUdmUkVMQm04czIxUnJhQkdpN3Nad04?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8778bdd6b9c8",
-      "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains",
-      "source": "Bloomberg.com",
-      "date": "2026-10-21T19:46:49Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1NpTjhYQmpDMUFOVUJRdC1WRTdYNFBRd0V4cl9KZFF4NDVjU3Nkbzdjblh4TXhDaDBQa2hicElLWXFjSlUzWTh0eHB2WHNwSXZnZ2RwTVdGVUpvRE04ZVpMQnB4blBGQlVkdW8yQWV4NXVUOUl4YVZVVU1xc205OGhwTHYxN1Q4M3JCUnlMRUszSzIzeXFmS2FUTURIakRHUGpjMWpXUng4OFY5M1l1MkswaEZ5QQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "89dd218537a0",
-      "title": "France's interest rates hit 5%, a self-inflicted sanction",
-      "source": "Le Monde.fr",
-      "date": "2026-10-21T16:00:05Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHoweTl6MDBsLU52RnRNRmNyNDRodzNqX2JDUlFUdUlIN3BGUWNwalBEY1RNUHhCbi12MWFuTV9CN250Z2ZFNkxScjBaU21FUW85QzVWQXBONGJxUFk3QkNaanV0Y3JsamFIcndBbFRBZTVkejBjQ1M3V3ZHRDdPbDFPMzNsck9MWEF4VU5tcDZuQTl5SzBmaVJlS1R5VnF2X1VLQkl4WDZhcFJXRVcyaEF0OFE4YzVXMm5GVW94Y3I0SEUyUXo2SXhZVQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ab6cbbcdca5a",
-      "title": "Madison Dearborn runs CV-on-CV for insurance asset",
-      "source": "PEI Secondaries Investor",
-      "date": "2026-10-21T15:13:54Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaElVY2VHVDc5YmlNamFXX0hldHliTFVEWHB1cTZvT2I0OUwzS0o3cW1jSGFGYjIydGtiSzhzeFB2ZnU1cW1zLUpFN0RrUXI1MDdjeUIzcW5jTHJEemFmVzRfLTBYc28zbENsRHlMWk5JNnpqTGowRU1mM1FvN1VPTjZoRm9hR1BjX3o2Y1FpRFljYTM0QXc?oc=5",
       "isNew": false
     }
   ]

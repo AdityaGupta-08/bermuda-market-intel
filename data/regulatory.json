@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:16:33Z",
+  "updated": "2026-10-28T05:45:22Z",
   "naic": [
     {
       "id": "1a538a85768e",
@@ -192,6 +192,16 @@
       "isNew": false
     },
     {
+      "id": "91fd005502cc",
+      "title": "Insurance Regulators Back State-Led Model in Reply to Warren",
+      "date": "2026-09-25",
+      "cat": "General",
+      "summary": "",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWR6a2k2NzgtRHBIeU5odmtHVFpfWmZSN0J2aWFfZ2NybEpBd3RRVDVmMGVnSmVxakhTSXRiX1E4WVlFb0pXSkxvZUh0d0NrUjB3QV9WaVB0cXRkcy14Y3pPeWdXMDU5bElmWENyelhJcFlkdFpjc1hQS1BicllNZy1rdlZJS2VLakM0WlZ3cFJGTjc4VVJ6MjdXS3Y0OFVGdGExd242UVhfNEtSLTM1OXBsUQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "9dcffecf88f0",
       "title": "NAIC Letter Details Proactive State Oversight of Evolving Insurance Landscape",
       "date": "2026-09-24",
@@ -199,16 +209,6 @@
       "summary": "",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmJiRzZ4MHBqTU1zanI0dEU4THVOd1BtTll4MmdvUEV2UXdHZU8wTG9QUGVDbFVubVRKUTVQZEQ3eGtfSF9uU1gtamluaDN2T2kwc0lwX1RfV1JqaFU3OUNqLTRybjk3NzltRENjam5PV2FEUk5Xa3FJV2JGTGVfZUZvekUyWkVZVTVsOXNkanBlM1h2WmFWTkQ3elplZHcwVkE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "91fd005502cc",
-      "title": "Insurance Regulators Back State-Led Model in Reply to Warren",
-      "date": "2026-09-24",
-      "cat": "General",
-      "summary": "",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWR6a2k2NzgtRHBIeU5odmtHVFpfWmZSN0J2aWFfZ2NybEpBd3RRVDVmMGVnSmVxakhTSXRiX1E4WVlFb0pXSkxvZUh0d0NrUjB3QV9WaVB0cXRkcy14Y3pPeWdXMDU5bElmWENyelhJcFlkdFpjc1hQS1BicllNZy1rdlZJS2VLakM0WlZ3cFJGTjc4VVJ6MjdXS3Y0OFVGdGExd242UVhfNEtSLTM1OXBsUQ?oc=5",
       "isNew": false
     },
     {
@@ -523,7 +523,7 @@
       "summary": "",
       "source": "Cayman News Service",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNl9ZTnl2NnA2ZHMyY2ZwZVotN3dxaHZsRlgwLVlEZkFzWEFzZ0pIUmpTTnE2ZHJCUWJrT0l1UjlXb0Q4bnZjR1phOHBkdjVDLThmbjFDc3lpVHdTWXhtVzFPUjZDa3lOd2N0YlZ4MkVKM1VmR0s3VzBkam5qYmRhYVptRTBzcEdtdUk4?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e9458f5d4158",

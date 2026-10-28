@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:16:36Z",
+  "updated": "2026-10-28T05:45:25Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 19,
+      "count": 20,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -209,24 +209,12 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVVZXVmxhZ254QmlxZldRZzBKVUdwejdOUDl4cGNJM0ZhV3RmZm96cDVkbzVGRmRSaFhSUVJlNkFKMS01R1cxdXhFd3kzOHdL?oc=5",
-      "source": "Yahoo Finance Australia",
-      "feed": "Google News: RGA",
-      "date": "2026-10-23T21:05:09Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "877eb3193c05",
-      "title": "RGA Q2 2026 Earnings: EPS Beats Estimate by 35% Despite Stock Pullback - Revenue Inflection Point",
+      "title": "RGA Q2 2026 Earnings: EPS Beats Estimate by 35% Despite Stock Pullback - Cash Flow Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd285cVRLN3VtN2tuc0tZcWZRQUhGd1luRzNoaE9sbmZxZ2t4OUpnUGg4NEpjTHlkV1NFdVhxVzdneHhqdmlZWTJpazU0YXN2NDhHTTRsdUVWbW40US1aVUxGUkRUQnRqdnBaQmIydUZqRDcyMHJEbUI3NktaSmtQUzZaM3F1d3pZSDMxbnhncjdNYVJ5b1NrVXVPdGxlZTdoT1psVUxOWExZeGRuY2tz?oc=5",
-      "source": "www.dars.gov.et",
+      "source": "https://www.dars.gov.et/",
       "feed": "Google News: RGA",
-      "date": "2026-10-23T20:32:36Z",
+      "date": "2026-10-23T20:42:04Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -266,6 +254,18 @@
       "summary": "",
       "companies": [
         "Athene"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yXy1Yd0VxYl81bGtMT0p2WXQ5QnVqQlRXSTk4UUROZlVMeXJMbnJ2VXI2dlZQREFtVDZEa25ETVBmMkxOUTdJTTAzR04tT0RY?oc=5",
+      "source": "Yahoo Finance UK",
+      "feed": "Google News: RGA",
+      "date": "2026-10-23T07:52:49Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -329,18 +329,6 @@
       ]
     },
     {
-      "id": "b09d51d99fb8",
-      "title": "Exclusive: Apollo explores sale of Catalina Holdings' UK arm",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVGTXo3cEFmUXNDdkRWcW9pM2Z2Ym5lQ0lNdEhwTXUwNlowM3lGbDBtdUJXTFRuc19wTEh4QmhrR3NFekctZXRNUHotaXRYYVE1Y050SldRMnNYbmhFVE1DZGI5LUM2OTdzMXUwOEVZVGN4bDNmSE5qYk8wX1ZRTDkyb0pDa0RHbFZFM3FucUQ0U3llYlV6bTNNZ3ZjSWFTUUN0bjNCWUg?oc=5",
-      "source": "theinsurer.com",
-      "feed": "Google News: Catalina",
-      "date": "2026-10-20T10:21:50Z",
-      "summary": "",
-      "companies": [
-        "Catalina"
-      ]
-    },
-    {
       "id": "a5d26abaf08b",
       "title": "Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High - What's Next?",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXpDc01ZSXlrM0I2blhCWjhhUW1Lb0FXenZDMDVDN3RCbzFVMDJiVmVRUEw1TldtNEhYRkkyaHZOUTI4ZzdxX2V6RGNBZXNaNnN6NjRZd29rbEZLUklubEdjUDhpREI3MDRvVldIZk5nN2pGcGM4bG9kZThIRWJxSU92bVdLUlA3WTZyNjdoVVhaZnlkWXl1SnhwMW9CUmxybXNELWpHNGdycnZXcW9TRUFnZWEzSVJ4cUVfNVZtU2FLS1NReGJYU1Q1ZmM?oc=5",
@@ -398,6 +386,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "b09d51d99fb8",
+      "title": "Exclusive: Apollo explores sale of Catalina Holdings' UK arm",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVGTXo3cEFmUXNDdkRWcW9pM2Z2Ym5lQ0lNdEhwTXUwNlowM3lGbDBtdUJXTFRuc19wTEh4QmhrR3NFekctZXRNUHotaXRYYVE1Y050SldRMnNYbmhFVE1DZGI5LUM2OTdzMXUwOEVZVGN4bDNmSE5qYk8wX1ZRTDkyb0pDa0RHbFZFM3FucUQ0U3llYlV6bTNNZ3ZjSWFTUUN0bjNCWUg?oc=5",
+      "source": "theinsurer.com",
+      "feed": "Google News: Catalina",
+      "date": "2026-10-19T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "Catalina"
       ]
     },
     {

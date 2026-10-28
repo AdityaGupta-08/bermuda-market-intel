@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T12:58:04Z",
+  "updated": "2026-10-28T20:17:53Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "bab1f6862481",
+      "title": "Fed\u2019s Rate Hold Sends Bond Yields in Different Directions",
+      "source": "WSJ",
+      "date": "2026-10-28T20:00:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+      "isNew": false
+    },
     {
       "id": "eea86e9d34be",
       "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
@@ -31,7 +41,7 @@
       "id": "7dc9ec72eb8c",
       "title": "How will central banks react to higher bond yields?",
       "source": "Oxford Economics",
-      "date": "2026-10-28T08:11:19Z",
+      "date": "2026-10-28T08:20:47Z",
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUw0U2JJb00yVHVabFNsQmZjUkhONzR1cjZmOC0tUjJlSUJsb1RKZE5rZzVQT2tnN01XeDQxTkFnTThpc3pMckhCXzdOZGdIVUpCMUFkaENiZ2FoV0tsc3lJSlBsa29jTC1TUGstMEZCcUlFZHRLaWJZS3dtRkpyMHNSZkpxR2xVd3Q0aXhlVGZDbTZyOHJB?oc=5",
@@ -48,13 +58,13 @@
       "isNew": false
     },
     {
-      "id": "700fd420cc04",
-      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-      "source": "WSJ",
-      "date": "2026-10-28T05:26:41Z",
-      "topic": "Rates & Macro",
+      "id": "ae02d6c230df",
+      "title": "Lumos Insurance Assumes Credit Insurance Business of Mountain Life and Kentucky Home Life",
+      "source": "Yahoo Finance",
+      "date": "2026-10-27T12:21:00Z",
+      "topic": "Private Credit",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclREQ2t4UUV5QzJKTlFpVEkzazJpejlJYi1KaTIxUk94eWtiX1o2aXZGd2c5ak56YTVuY1YwU3k0cU5CbkhldmRFdWx0cW45V2JkWTBRbk80VnYxekpXVWlXTUppOGthbGFGVWN3MXFpOE5QbTBWRFhaYmdLWUg0Ui1WQXBrdFZvbzByNWdneUE3SkgxT2wwMjk4WnctbjVYSXU0?oc=5",
       "isNew": false
     },
     {
@@ -148,6 +158,16 @@
       "isNew": false
     },
     {
+      "id": "1e730c112629",
+      "title": "AAA CLOs: Insurers take a fresh look",
+      "source": "Invesco",
+      "date": "2026-10-26T12:40:28Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakdRN25NaGZxN3RCOUYyYkdVUGJlaWFLTTNPRnhRTW9VZU1Xb1dDQUc3YmxaUXhpdTNCeEFUSDNXLThsQUNpQ2ZpMFpza3lDR0R4TG9rTlJLYWRNZlBQTXVuajNwZE1rUkVDRXgza2EyR3dfM05neWtybmhDdUNVcU5vV1o5ZzVjOTFTSlFpc3BFNUQ4?oc=5",
+      "isNew": false
+    },
+    {
       "id": "15b3645cf19d",
       "title": "Meiji Yasuda to buy Man Group stake in asset management push",
       "source": "The Japan Times",
@@ -158,13 +178,13 @@
       "isNew": false
     },
     {
-      "id": "1e730c112629",
-      "title": "AAA CLOs: Insurers take a fresh look",
-      "source": "Invesco",
-      "date": "2026-10-26T10:44:38Z",
-      "topic": "Structured Credit",
+      "id": "86d41faabd66",
+      "title": "ECB Rate Decision: What to Expect on Thursday",
+      "source": "Morningstar",
+      "date": "2026-10-26T09:43:31Z",
+      "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnhxRHRpS193M21Ua3o5eVZpLXcweWw3Q2FXYVplVVhXOFJwTHctUlRYbW5ORGNrSmVkRzlZWFhENlpKSUpieHZQa2dUQUNVeHJLYkJnTmFPNXNkM2xSY3NqWTdxWTFWNS15MEw3THhRWEloYjFRZkFNdXQ2aUdBLWdLQXllSllldGdaaFBIWVBZQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT01tV2tCQXBRcWhsUFhQOV94Rm9pNEs4OWI4MDVHQnR3TlFNVkpBRGtNTlZ3Y1dTRU5RYlBILWtVek5lMzVmU0tPRnpUSlBUUzBLd3owTV9FSEw0ejRYWFo2STRRQVVPQ1dYekdTNmQ1SmNyNXZiVURQcmlTa2E5cElUbjNDZko4bmlRempB?oc=5",
       "isNew": false
     },
     {
@@ -188,16 +208,6 @@
       "isNew": false
     },
     {
-      "id": "86d41faabd66",
-      "title": "ECB Rate Decision: What to Expect on Thursday",
-      "source": "Morningstar",
-      "date": "2026-10-24T05:10:49Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQclBBSTNoaHJwUHBPdC10Wm93YkNUenhzZ1FROHNJYUhEWEtNUGswdG1jUG1IckQybjk0YUFTcXZvY21Va0llWHZOdTk0eUNVQnB5UmR3cG5NWW1WWGg3YXUwSFk2cUxNOHZacUpZTkdXZGwwb2tWd1h5T1N3dEpGVkNJZzdFMVBfR2l2cFd3?oc=5",
-      "isNew": false
-    },
-    {
       "id": "9a293b7bd2a3",
       "title": "Partners Group Closed a $510 Million Rated Feeder for Its Evergreen Private Credit Strategy",
       "source": "HedgeCo.Net",
@@ -205,6 +215,16 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NsV1FKX2xwSVZIMzBPMjZQM0NYQ0MyZWlKRTNvOVBQZ3BBTTluMFBMOEVDdkc5SmQzWmdUaENVRG5EUWhPZTgzVUdnbVZOcTdBZGVoMXo5YlBILWY2TVZoYzM0NTJvUnlva2tIQ3dRc2NpaWJ4cVpnSmNqRWh2Qkc3QkY3cThvbWI4T1FtTjdRT1NEUFVzdkVEQktjZmN5X3FPVHhrUTZTaU9fRWhUbjdZdGVQOGI3YU8xQUZhVG5qVW5RWV9j?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "700fd420cc04",
+      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+      "source": "WSJ",
+      "date": "2026-10-23T16:23:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzFLV0tybkl4dWVsMUkxSktfM21ySHNmMW5wVGlzOEhpOEFYLVlReHZzUjlNZ0xVM01TZXM5OTVBWUZnUlVXTkQ2aVEzOG45ZjJCdE1obTQtYXFBa3QwLS1vUk1KcU9BanU5ZWJhNFNla2JPSllGQThrVE44Y0s2SklwUmVNeGFKSjlkVGg1RTVLRDJDZU53NjhLbGtYM05nZnFhOVJaZw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f67079120c21",
-      "title": "Market Minute: France is in a bind. Is there a way out?",
-      "source": "The Real Economy Blog",
-      "date": "2026-10-22T10:00:24Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGphaHUtVm1kblAwY21ieEpqWksyZUJXT1prRzRFUGNxbFRqZkZBRXNXQzRUYTNfSGZENDJNaWN3c1p5YWJwenUyb3JBTlFLQlBLQ3l4Q1d2ZmFSZElpNTB2XzBfVjlxZTlzWFh5ZDYyLTNBSjdocTd3TUR6bHFsZ1BrSW8wR1ROTDYw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "565b61e975d9",
-      "title": "Japan's Takaichi presses central bank to buy more bonds",
-      "source": "upi",
-      "date": "2026-10-22T01:31:39Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLU9kV1dmX1lmbEpfeVNmaVRjRWVKb0ZEdVVYekxTdE1ZT1Z4cE0wOUhaRnhVZTR4VzlfRUVNVElKSHVzaGh1UWh6MGp6TEQ4WUJBMF81bVdSUTI4U09faUUzYW5VbEgxMWZPSXhNNWFHSURLRmI4QUI1am1lZnd1dENBVFdUZHpsQTdTb1FfMW9hQV8wOEVXa0VRb3RJY2Y3Z2lrQWFkT1NjV01QZXdOSzlqZVdvUWvSAbwBQVVfeXFMTkZpRzlRbElVNTRHdTNUQ1djamtIcG9JQXFqT0ctckNDMWpZYUl2NUc3QVpQSVlqOTh6aDdoX0hXZ2o3aTRqaVRVcC1Ob21pU3p4c0J6VDk3Tmp3Und0Q3JKSDNIa3M4dURTOTE0X2NhV1hfR2FvYUFLc0RBQmZYdDFsT3ZsakstbkhwcU1iUFd5U01uVmhpUlNpVUkzaHc3RzhrRVRtWUdmUkVMQm04czIxUnJhQkdpN3Nad04?oc=5",
       "isNew": false
     }
   ]

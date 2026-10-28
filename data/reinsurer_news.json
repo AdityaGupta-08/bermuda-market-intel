@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T12:58:06Z",
+  "updated": "2026-10-28T20:17:55Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 17,
+      "count": 16,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 4,
+      "count": 6,
       "error": null
     },
     {
@@ -383,6 +383,18 @@
       "source": "Simply Wall Street",
       "feed": "Google News: RGA",
       "date": "2026-10-19T07:35:23Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "3adda5ba4d9d",
+      "title": "RGA Q2 2026 Earnings: EPS Tops Estimates by 35% Despite Modest Stock Slip - EPS Growth Rate",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWZXU3d0ckh1dG8za3lZS3huUHh1NzBDVzhLS2M1S0JmSkRnSlhqNmIyNy1POV9fcU9yd0lkRXJHT2tSTVZnbkMzLTczY3AwSkJtRzA1SXpCU25TNTFYVWNRejQwcXllWUl6cU80dFh0UE5IUl9uWmVfODVuSEg0M01tc05ac18xR1Y4NUE2MkJUeUFseExIWmFOUEZmS2laYldfOXhRYm1MdzNXY0VQMW5Fcw?oc=5",
+      "source": "https://www.dars.gov.et/",
+      "feed": "Google News: RGA",
+      "date": "2026-10-19T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

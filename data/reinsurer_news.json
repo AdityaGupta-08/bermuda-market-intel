@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T10:01:22Z",
+  "updated": "2026-10-29T18:30:45Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 15,
+      "count": 16,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "249e34fb3ed9",
+      "title": "Reinsurance Group (RGA) Reports Next Week: Wall Street Expects Earnings Growth",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHNVeUZzWWs5enJKdkNaTUJFcG91eHRFT0drbzB5clM3NGx2alNvN3F1dnBNcExSLVB6SXQ3SzB2aXAwWjNGU25qYWFTeWpBXzBFbnNiX09MX0pBYlM2MlBza1ZMRnJ1WTFlNlFXUm84eDFUT3pKdmtzS2N4MzNGNkxwV0dpNzNjeUNqTEUtN1lLVFR4bVNfSjJvRFBkcHRr?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-10-29T13:00:19Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "569da40392c9",
       "title": "Reinsurance Group of America (RGA) Projected to Announce Earnings on Thursday",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T10:01:20Z",
+  "updated": "2026-10-29T18:30:43Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,56 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "02792ca69ef3",
+      "title": "ECB flags December hike but sees yield rise hitting growth",
+      "source": "Reuters",
+      "date": "2026-10-29T17:31:08Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "df34a5175ef5",
+      "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
+      "source": "WSJ",
+      "date": "2026-10-29T15:23:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "192a50c53f6e",
+      "title": "ECB keeps rates unchanged; euro and bond yields fall",
+      "source": "Merced Sun-Star",
+      "date": "2026-10-29T14:48:07Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVFEVEJBNExRSlc3MFVlNE5YUThYdS1UWGEwaC1WSlZIT3M2V0lVTkYzRTdrWGFwNU1nRmt2RU51enZRVlJxY3h1SmRpOGppdnRlTHJVNzV4NDZTTF9scVROXzk2dUM3WmhqQlAwUC1yOFFTRlFuaF9kYnh5Um8yTEtTYjU?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "9bd0b68f5bce",
+      "title": "ECB Leaves Rates Unchanged as Challenges Mount for Lagarde\u2019s Successor",
+      "source": "WSJ",
+      "date": "2026-10-29T13:27:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG81Z2FUM3Y0clJEaWJ6SFhSRU5Ed3JuVUZGZXZpOXRBZVN4YmhWMUJ2eDZJNWttc1NCV0dxWFVWV0ppM2d5OE1zVDZ5V1RyMHFUbGdQcG9QelFheHQwMl9oRUwwX3V0SEpCdGxJcVVvbVFDTU5CeVdzSXA3WEhuT1pWa1JsWXdNTksxd2pPQjBmSmd0c3g3YjZlV1dxamF3eEQxOWp4YTVpRWE3UmRoT3lXZ2hfNzVOTFFCZzVPZw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "4d0f7200982f",
+      "title": "Fed highlights economic strength but muddies outlook for Treasuries",
+      "source": "Reuters",
+      "date": "2026-10-29T05:04:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF9GR2lXNExEVWlIMldlTk5QWXQyWTVIbHlzMnM1bTRhdUFzQ2NwQm9MYXdyaG92dlB1YTlJVW1ESG5iNmtkTDhnMG9IanBqeUJmOUQ2Sm45c3pHSzEtZ3lvZUxSRmNLc184eWhReTVvbEdhQ1AwTnF6akVFUlFyd2NJRFdIOWF6OHFISDAxZWMxOHFJcXJPRlp0RFVpZzB0MF9rNTh2TQ?oc=5",
+      "isNew": false
+    },
     {
       "id": "d15a75c97df0",
       "title": "ECB to hold rates as investors focus on French bonds, Lagarde's future",
@@ -40,11 +90,21 @@
     {
       "id": "a6e7d492c175",
       "title": "Barclays Turns to Insurers to Hedge Billions of Data Center Debt",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-28T14:00:28Z",
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDd5cW9oRGViV1dyRFVyd3NPdVp4RnlKek1CcUZSNTNpQWxaOFlZdWd5dVV2NGd6dkpfYXNfREZLTHJSVnItR1hYX2tWQUx1MjdMbTZUczdvNGZsMlVmS1FYdVRNdXZaanY5VDZBX1diZGVTYVIwX21zbG84ODZnamN3ZmtLN2xUenJ2c0tpcUNBaXYwYTV0d0hLbVdXM0xUeWlocTBFYW5HM2E0RWtmOURZNWtoZw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "68ba4f3b9718",
+      "title": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
+      "source": "CNBC",
+      "date": "2026-10-28T12:32:57Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YMzdkaWRXTFZ5U05JNi1rSVBUWkp3cS1hc0pIRzVzaFlHc2pRTzE4bzZ1WmNOcHJMM0R6dzNKWmZMTTZRandJMllBYjlQREtTTHFpVHJ3bkwzenpiRzRNay1Gbjd2SXVIWHVQMmE1OVZTcHRZ0gF6QVVfeXFMTWhNWmpvQmJ4dktiSGVHV2l1N3FuRjRXRjU4dGlxeWRTcWVjSC1QWlRyQTdFQ2F0WW1CLUpmSUcxbTAtLTJjc2VqUERQcDVKN0g1V2RuUkJKT2JXNDlpLUtFS0RsV0JUVmV0QjhhOC1rRkQwZHUxSlFxRUE?oc=5",
       "isNew": false
     },
     {
@@ -245,66 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NsV1FKX2xwSVZIMzBPMjZQM0NYQ0MyZWlKRTNvOVBQZ3BBTTluMFBMOEVDdkc5SmQzWmdUaENVRG5EUWhPZTgzVUdnbVZOcTdBZGVoMXo5YlBILWY2TVZoYzM0NTJvUnlva2tIQ3dRc2NpaWJ4cVpnSmNqRWh2Qkc3QkY3cThvbWI4T1FtTjdRT1NEUFVzdkVEQktjZmN5X3FPVHhrUTZTaU9fRWhUbjdZdGVQOGI3YU8xQUZhVG5qVW5RWV9j?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "700fd420cc04",
-      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-      "source": "WSJ",
-      "date": "2026-10-23T16:23:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "84387d82e19a",
-      "title": "What the Fed\u2019s Balance Sheet Could Mean for the Debt",
-      "source": "Bipartisan Policy Center",
-      "date": "2026-10-23T13:54:32Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOUU2cHpmUHR0MENYcUVSbUF6THFBOE52b3l4T1RUakI2RkkwQ1I4bEdiZndtVnRHd1FfVEh3SnczeG1UcmJiSG1hMjIzLV9QMUpzZWNpOHRtaTYyTnNVMFMzTl8zVEhwRXd2c2dlS0ZiX3Y5VElESnpJNE5neDVHbGtuVXBfbXlkd3VaSXc3dldJaVZHY1E?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "17bbfebb41f5",
-      "title": "Where Fed and ECB Rates Could Go Next, According to Bank of America\u2019s Preusser",
-      "source": "Morningstar",
-      "date": "2026-10-23T09:17:11Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDhMcEtDZmhoQnJMSVBVUzFaWVBqeUczRlRZekhZc1RpYWU0ajVLWlNscVRjQ2UzSS1ZVFRsd3BsazVuR2FtVG5PQVQwRW8zY1FhVzlJeE9SVWEtS1VnZzZROWR0dXdNTVQ1X2pMTDZkdjBleGE0akJRSVpKTXRaWTdfTUJhaktpOFRlaHY5UHdtLUZMOE5HMXR2YkpGODBDU1RoaHFlcGFzeEpJMnc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "47c4d9521c4f",
-      "title": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America",
-      "source": "Morningstar",
-      "date": "2026-10-23T09:17:11Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDhMcEtDZmhoQnJMSVBVUzFaWVBqeUczRlRZekhZc1RpYWU0ajVLWlNscVRjQ2UzSS1ZVFRsd3BsazVuR2FtVG5PQVQwRW8zY1FhVzlJeE9SVWEtS1VnZzZROWR0dXdNTVQ1X2pMTDZkdjBleGE0akJRSVpKTXRaWTdfTUJhaktpOFRlaHY5UHdtLUZMOE5HMXR2YkpGODBDU1RoaHFlcGFzeEpJMnc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8712179f196e",
-      "title": "US Fed to Raise Rates Twice More in 2026, Says Bank of America",
-      "source": "Morningstar",
-      "date": "2026-10-23T05:03:16Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVQ3X2tVczhmdWYzXzNtVWlNMUlRLVhrVm1BalJwb2VPTE94UkpEYmhEeGJtb2w5ZDNXT2ZrSHZzQUlxTmNkRnE2bzRXaDRTWkt1bFhpTnVPV2lYWHNfRWwxYktNZ2hEVHNLYU1Zc0w3QmNHYnUwX05hbEZGblY0b01wQkt2WURtLVBrMDE4dmVDME1XOUNzeWl0OXh1d0xQdzNxdHR4bWVXaW5fT25uUTZDWVJzNFJuOXc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "cd2de9a6f500",
-      "title": "ECB Set to Raise Rates in December After Pause, Economists Say",
-      "source": "Bloomberg.com",
-      "date": "2026-10-23T04:15:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEhTajNPZ3RPUmVuRTFxYjRmT08zWVZURDNQRHV0WF9xTXF4bHpqSXVhdjRiWkFJZFd1V2Q3djlLMndaWWZMaDZHWWJHalI5VS1Ka1Z4cUxkMTF3akRrZWVvY3NsdzEyU2xpYjhrYXpLSVY3Qm5mTGlMZDRzZnFWX3ctWEdDSDhJUG9LbUozMGVGREI1a1ZKcDJCRVg1WDNkXzhQeGpzeDdBWFZQNG5yWElB?oc=5",
       "isNew": false
     }
   ]

@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 22 items
-Generated Wed 28 Oct 2026, 21:59 ADT
+Generated Thu 29 Oct 2026, 07:01 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 56 items
+- ✅ **Google News (16 of 16 companies)** — 55 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -29,6 +29,7 @@ Generated Wed 28 Oct 2026, 21:59 ADT
 
 ## RGA
 
+- **2026-10-29** — MarketBeat — [Reinsurance Group of America (RGA) Projected to Announce Earnings on Thursday](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYV9YallUdndhbmdpREJHZUJUME1IbHN3c3hjV3hybnRaRTdrZGU1Uy1tU1RDUkVuV19MZ1lhUXdCTXRKYllyTE5rdVF1TDBQVUFzMUtSZVI5VUd5d1VyMG9iNG9kZ1l4TjBoMUdCVF9yWDdpaHpZRFpsdi1UQU5KOE9NbkFVOG1Wc3piWUlXQVk2MjFscDU2SEcyZmpjUDhVWGxaTUsyeFVBZkxqcjdRVUVneTVtNU5CMGM1Zk1NMEd0V055a3RJdWxWb3o1VTFGMHVuVw?oc=5)
 - **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stake Lifted by Sterling Capital Management LLC](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPakxmVU9ac2pncWs0VVF4RHdCcUhEa21MMHlidW1tUFgzTXZ6R1lVVGJCZUlfMjFKcVRoQVU3ZU9hLXdVQmdyM29VZWpBX0FaMjQ4VEZzb1ZzemtDdUlnSWN1UVdxbmlKZHJhZXp4U3VMZXdhVWEwcjRpR1BrWS1hRlpZX0dkTFZUOFNqN042Ty0xZUI0VUVUd1VxXzlUMm14M0JFZURMbHhmZUdKTzlSRGdKdUJTSzZwZHdzb242ODRZMXFKa1JTZzRMVEFDbmI2NTNYLU90bHJIdXhzMmRiTzFkWnJObVNsRmc?oc=5)
 - **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Rated "Buy" by Sell-Side Analysts](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUY4NDlhT2NxeEZpMmZfU0g2TVMzVkZnbngwWng1NzVBS190Q0lFdm9HRjFTY2RJc2JwRGtaVC1NOTlWQjBFSGFZRGE1TzJXWDhWdFhQQUNTbzFxOEoySmY2dFFsSmlUbjFsZ0lVa3pJZ0V2a21OUVIxaUtLTUZXOUFDTWFQS3VqS1ZzRmdIeXNZZi1xMXZfN1hiUXYySWNMamstX1E4Uk4zb191bnE4eDcwc3ZWRUFfSFV6bTZlbUZBaUdrd2tzcW5VUHRyZmhLSkVCSDFEVGlwakVPdXVlRjI4cXdBTDQ?oc=5)
 - **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5)
@@ -40,7 +41,6 @@ Generated Wed 28 Oct 2026, 21:59 ADT
 - **2026-10-23** — MarketBeat — [Reinsurance Group of America (RGA) Dividend Yield 2026 & History $RGA](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NNjliMU9KS21nMW1EZGgxTExYWFl1VFhONl9zTUYzbUJTSm9peDBRZ0pnd1R2VVRDMUNqcFRzV25rVGtJYzlEaGcxQUdmd0ZHazFhclVPQUpFcTZ3S04yTTVR?oc=5)
 - **2026-10-22** — Stock Titan — [An error led a director to return 27 stock-linked units to Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU9MVGRLWkpFME1wQ2t6c2tiN29odEgzNjU5S200a3R0X1NiSEZFenp4ZmNnd3BZbGJuSVY1dm5fZkg3MGFOaFhwN3J0WlhhOWQ4N3hIY3IwWDRNS0k4MmJxWTBqTFM3WmlOUmw2Wlo0bU5rdUFBdVExWXpZWkI3VGJYcmwwYkQxeE9kRDJOWEhZSFZhVTBzZEg2MTBka3JDbERQTkF5cGdJUHZtMHZVRnM2SVRfTEEwdjlBeUtFbE9zY1E?oc=5)
 - **2026-10-22** — Yahoo Finance — [Reinsurance Group (RGA) Is Up 4.21% in One Week: What You Should Know](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHdmNWc0THNvajNEXzAyTnVDN0hHVFlqaGUxSER4STY5aWdjZ05RZFFTVHByYzZwZml2SXZuTnQxS2FzVGR1UWlHUFhEbm16emU5MkJEcUIxMGpjR3hZWkxIUDBfY1V1dklRMTFEVlp1cXYtWGU5VFVBNElibkJnOEtCQV9Pakx5YVBDNzJneVJuOGRkZUE?oc=5)
-- **2026-10-22** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmNTWkVHUzRudTlsVWJNWl9fR2xyLUZXS1pzQXJtR1MzSDR2cEY2Y1R3NWpuMXRhcXB4NDRQN0pxSHNSZGxfbGgxbldGdnl2OUs2b3VUc25JQ0hNNUh1aUNwQ3JQcUNpNk1qV05URnlrS05uODRLVjlCQVlFYW1jZ0hrWUlfLU5yYXM3OVZ1RQ?oc=5)
 
 ## Sagicor
 

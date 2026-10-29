@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T00:59:12.447793Z",
+  "updated": "2026-10-29T10:00:46.297249Z",
   "countries": {
     "us": {
       "series": "CPIAUCSL",
@@ -12,10 +12,10 @@
     "jp": {
       "series": "JPNCPIALLMINMEI",
       "label": "Japan CPI all items (OECD)",
-      "yoy": 1.9,
+      "yoy": 2.1,
       "mom": null,
       "trend": null,
-      "date": "2026-07-01",
+      "date": "2026-09-01",
       "source": "BIS WS_LONG_CPI (FRED series discontinued)"
     },
     "uk": {
@@ -45,5 +45,5 @@
       "source": "OECD SDMX (FRED series discontinued)"
     }
   },
-  "_fetched": "2026-10-29T00:59:12.447796Z"
+  "_fetched": "2026-10-29T10:00:46.297252Z"
 }

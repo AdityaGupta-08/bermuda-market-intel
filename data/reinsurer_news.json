@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T00:59:36Z",
+  "updated": "2026-10-29T10:01:22Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 16,
+      "count": 15,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "569da40392c9",
+      "title": "Reinsurance Group of America (RGA) Projected to Announce Earnings on Thursday",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYV9YallUdndhbmdpREJHZUJUME1IbHN3c3hjV3hybnRaRTdrZGU1Uy1tU1RDUkVuV19MZ1lhUXdCTXRKYllyTE5rdVF1TDBQVUFzMUtSZVI5VUd5d1VyMG9iNG9kZ1l4TjBoMUdCVF9yWDdpaHpZRFpsdi1UQU5KOE9NbkFVOG1Wc3piWUlXQVk2MjFscDU2SEcyZmpjUDhVWGxaTUsyeFVBZkxqcjdRVUVneTVtNU5CMGM1Zk1NMEd0V055a3RJdWxWb3o1VTFGMHVuVw?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-29T05:23:14Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "79a04b7dac82",
       "title": "How Well Do Sagicor Financial\u2019s (TSX:SFC) Core Earnings Cover Its US Dollar Dividend?",
@@ -390,7 +402,7 @@
     },
     {
       "id": "3adda5ba4d9d",
-      "title": "RGA Q2 2026 Earnings: EPS Tops Estimates by 35% Despite Modest Stock Slip - EPS Growth Rate",
+      "title": "RGA Q2 2026 Earnings: EPS Tops Estimates by 35% Despite Modest Stock Slip - Earnings Power Value",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWZXU3d0ckh1dG8za3lZS3huUHh1NzBDVzhLS2M1S0JmSkRnSlhqNmIyNy1POV9fcU9yd0lkRXJHT2tSTVZnbkMzLTczY3AwSkJtRzA1SXpCU25TNTFYVWNRejQwcXllWUl6cU80dFh0UE5IUl9uWmVfODVuSEg0M01tc05ac18xR1Y4NUE2MkJUeUFseExIWmFOUEZmS2laYldfOXhRYm1MdzNXY0VQMW5Fcw?oc=5",
       "source": "https://www.dars.gov.et/",
       "feed": "Google News: RGA",
@@ -1274,42 +1286,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "c0599158f88d",
-      "title": "Corient Private Wealth LP Increases Stock Holdings in Reinsurance Group of America, Incorporated $RGA",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVjJ0M01Za1NrYTUwZ1Bvc09sa3JNVnAybU9LTjFlbGJaa0pBZFNwTEJNRTA1X0w5M2pfQnpKZFVYcnVXaklPazUzQkJCNG1BV1FVQ1d2QW9LQmIzQWcwYUdHclpHaEhEazhWblFGb2pXcFhRT1BGWkthT0o0V3gya21yenYzSWZTbks2SnVMM1JqbHEwTjc0YVNOYlFQMmt1MnFzYi1hRmlpa1NDNHpOclR2QUNJNmcxNnJFYlhTczZSLXZSTkJRTV9hT2h3bDVOTXFpLS1vSFVuOC0xbE9UVEpHTUNJWl9ndjd5NWs0RzJWZw?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-09-14T08:41:09Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "3cf38ff30348",
-      "title": "Is Reinsurance Group of America (RGA) Worth Its Price After 152% Gains?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlB5YU9uSnhLeThqVGlzR0xJay1sMjdxRkozT1NxVjlMa1VoWXVkWlBTclFJVDdmVk13LW1mc2F6MVd0Rk1XSWQ3VXo2ODZBd2FxajV2T28xRXZydUw5NFRvOHFBZWwtbUZPQ2d6Ty1WSHpLbXJWcXRBOGZJVWxncmZDc3dyZVdEVy1aRTNzZ0hiY3Fnanphak41dHRjSlkwMGc?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-09-14T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "56161ec89b77",
-      "title": "Aspida Appoints Aaron Sarfatti as Chief Risk Officer",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWRhdlItOHFLM3gxS1hJVU5JNkQwTXdWYWtwOXNhb28tQURtU3RLcGQxS0gyRktaU2VZUWdrUE9TbkstM0plb1N1NXZsM2dCOG9JVkJ0Rk1nVGptQTlESkpKZ0NMQmtOOXNWQ3lEVE82NER6M0FoSXZRYTVaRm9ucTI5ZnAxcll1NjdvcXNBWGFTUjZTQnZqZTBjZXJoc0pfXzZ5M0duQkp2U1dIZl9QbTlzRGJkWFFmMTZhOFlFMVpENlZh0gHKAUFVX3lxTE5Kd012QkZON3lzaHQtbldVdjhTeVpJcDZ2bnNfY3JHUV9GS0h6cHU4NW1fU3VoaWpSTHZtRzZrS3VBakxvclE4TXo1TVNaaHNKTTJBMkxnWnlyYUYzdUFya3pNLWpDZmdnaEphYnkyMUVEbVdpOW90eDkzRDlUTmdGVmF1TG9taWVoRkczc21nRHl6cXoxdDRPblpIR0Q5bzNRM0FGaTAwUDBlc2lEU0ZSRE1VZV9VMllYSnhTdnU0TUk3QzVmaGF5Z1E?oc=5",
-      "source": "The Manila Times",
-      "feed": "Google News: Aspida",
-      "date": "2026-09-14T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "Aspida"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T00:59:33Z",
+  "updated": "2026-10-29T10:01:20Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -18,6 +18,16 @@
       "isNew": false
     },
     {
+      "id": "6d5f1f076bdd",
+      "title": "ECB to keep rates steady as investors focus on French bonds, Lagarde's future",
+      "source": "Reuters",
+      "date": "2026-10-28T23:02:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZldaRFJxZExRTzZ2T1lfc1pYUWtpbFJwRHk0YmpCaHdkYXd4ZV9vbGpmellrN1Ztck8wallTMnphd1V6VWFLckM4bTRiX1c5VmZmSUZwdUROem02ZXlUY3NKT1poTEhFWDRQOThHcEQ5YkMzY1gxU1NoTm5mdFhVR2xWakJSYUFVSTRKS0Rva1JIR0FhOHFJck5Ic3AzNzNWQTJuMXFySnNFcDNIYXN0TWtn?oc=5",
+      "isNew": false
+    },
+    {
       "id": "bab1f6862481",
       "title": "Fed\u2019s Rate Hold Sends Bond Yields in Different Directions",
       "source": "WSJ",
@@ -25,6 +35,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "a6e7d492c175",
+      "title": "Barclays Turns to Insurers to Hedge Billions of Data Center Debt",
+      "source": "Bloomberg",
+      "date": "2026-10-28T14:00:28Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDd5cW9oRGViV1dyRFVyd3NPdVp4RnlKek1CcUZSNTNpQWxaOFlZdWd5dVV2NGd6dkpfYXNfREZLTHJSVnItR1hYX2tWQUx1MjdMbTZUczdvNGZsMlVmS1FYdVRNdXZaanY5VDZBX1diZGVTYVIwX21zbG84ODZnamN3ZmtLN2xUenJ2c0tpcUNBaXYwYTV0d0hLbVdXM0xUeWlocTBFYW5HM2E0RWtmOURZNWtoZw?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEhTajNPZ3RPUmVuRTFxYjRmT08zWVZURDNQRHV0WF9xTXF4bHpqSXVhdjRiWkFJZFd1V2Q3djlLMndaWWZMaDZHWWJHalI5VS1Ka1Z4cUxkMTF3akRrZWVvY3NsdzEyU2xpYjhrYXpLSVY3Qm5mTGlMZDRzZnFWX3ctWEdDSDhJUG9LbUozMGVGREI1a1ZKcDJCRVg1WDNkXzhQeGpzeDdBWFZQNG5yWElB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "766cb4bef840",
-      "title": "Japanese Bond Yields Fall as AI Jitters Spur Haven Demand",
-      "source": "Bloomberg.com",
-      "date": "2026-10-23T01:04:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0ItMTJyMGZaRmVnakhGLTNid3MwZVpKRnpPanVwbFRZMTlVNU15ZEgtcmlvSWM1UWJ1YlF2NXJrZEJSNHN6TDFkcHFCRHdXRXdqLXVCQ2VtWHlBZkMzVldYd21CcHZtb0RPbzdEaENlSERHMU0xQVBOV2tRQjFqaDBJb0YxTEtMamZVUUh3aEoxeFZqa0Fpb0IzZk1oZGZQc2psX3lRTUVYV0l2?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "35f0a9a9babb",
-      "title": "The Bank of Canada at an inflection point: Inflation fears live on",
-      "source": "RBC",
-      "date": "2026-10-22T16:24:51Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa1g0WWYybmp1ZVMxODFBMXNQenZmVXJITWM4Rk5uNnRwbnUwTlhqSkJ5NGpUZG9oYmF1bExxSTJHMGgzeFoxci0tRUEzVE1DT0pldHFiWmF4eElNQ0M5ZWtjOUxJU3V3d055eVdhT1J0a1k2WnFFRXFNQks3bldzWFhKMER3N1VpbVhVQUg1M2dkdlRTZ2VHTjkxREEtSG1aM291TXJXRzBQMzZvU3FzMzdwemljZXM?oc=5",
       "isNew": false
     }
   ]

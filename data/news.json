@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:17:53Z",
+  "updated": "2026-10-29T00:59:33Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,6 +8,16 @@
   ],
   "items": [
     {
+      "id": "d15a75c97df0",
+      "title": "ECB to hold rates as investors focus on French bonds, Lagarde's future",
+      "source": "Rock Hill Herald",
+      "date": "2026-10-28T23:14:08Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjFpZVVRRVhoRTVSdVV3dGdtM0Zwa21FZzdHWlpaZmJGUzZvNkVrU0FLMnZfa1doZWg4Q2oxRE9JZzN0T3k2TkcyOW1nMmZUbHBmYzhfc2E5Rk5IaFR2Q3MwMENJaDc1NEtVaU13MElJemR0bFBtMHMwLUlud2VueWhqYw?oc=5",
+      "isNew": false
+    },
+    {
       "id": "bab1f6862481",
       "title": "Fed\u2019s Rate Hold Sends Bond Yields in Different Directions",
       "source": "WSJ",
@@ -15,16 +25,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "eea86e9d34be",
-      "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
-      "source": "WSJ",
-      "date": "2026-10-28T11:50:53Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5",
       "isNew": false
     },
     {
@@ -188,6 +188,16 @@
       "isNew": false
     },
     {
+      "id": "eea86e9d34be",
+      "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+      "source": "WSJ",
+      "date": "2026-10-26T08:19:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5",
+      "isNew": false
+    },
+    {
       "id": "0596322ebff7",
       "title": "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
       "source": "CNBC",
@@ -295,16 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa1g0WWYybmp1ZVMxODFBMXNQenZmVXJITWM4Rk5uNnRwbnUwTlhqSkJ5NGpUZG9oYmF1bExxSTJHMGgzeFoxci0tRUEzVE1DT0pldHFiWmF4eElNQ0M5ZWtjOUxJU3V3d055eVdhT1J0a1k2WnFFRXFNQks3bldzWFhKMER3N1VpbVhVQUg1M2dkdlRTZ2VHTjkxREEtSG1aM291TXJXRzBQMzZvU3FzMzdwemljZXM?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "1d7ce56f9526",
-      "title": "Partners Group raises $510M insurer feeder for evergreen private credit",
-      "source": "Dealroom",
-      "date": "2026-10-22T13:43:56Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzFLV0tybkl4dWVsMUkxSktfM21ySHNmMW5wVGlzOEhpOEFYLVlReHZzUjlNZ0xVM01TZXM5OTVBWUZnUlVXTkQ2aVEzOG45ZjJCdE1obTQtYXFBa3QwLS1vUk1KcU9BanU5ZWJhNFNla2JPSllGQThrVE44Y0s2SklwUmVNeGFKSjlkVGg1RTVLRDJDZU53NjhLbGtYM05nZnFhOVJaZw?oc=5",
       "isNew": false
     }
   ]

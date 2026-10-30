@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:02:24Z",
+  "updated": "2026-10-30T10:03:37Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 18,
+      "count": 16,
       "error": null
     },
     {
@@ -382,7 +382,7 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXpDc01ZSXlrM0I2blhCWjhhUW1Lb0FXenZDMDVDN3RCbzFVMDJiVmVRUEw1TldtNEhYRkkyaHZOUTI4ZzdxX2V6RGNBZXNaNnN6NjRZd29rbEZLUklubEdjUDhpREI3MDRvVldIZk5nN2pGcGM4bG9kZThIRWJxSU92bVdLUlA3WTZyNjdoVVhaZnlkWXl1SnhwMW9CUmxybXNELWpHNGdycnZXcW9TRUFnZWEzSVJ4cUVfNVZtU2FLS1NReGJYU1Q1ZmM?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-10-20T09:16:11Z",
+      "date": "2026-10-20T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1310,18 +1310,6 @@
       "summary": "",
       "companies": [
         "Aspida"
-      ]
-    },
-    {
-      "id": "be5610e259be",
-      "title": "California State Teachers Retirement System Acquires 624 Shares of Reinsurance Group of America, Incorporated $RGA",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRENDRTUyZ1hLS3NnRjJGRXhycjVEeVpwVkI2RFVZc0ZtWVdraTlFVE1fWktieHQtc1ZhOTJMV0MtVVVWUUx2WHFwaThOelZVTkliMDZnYUZRVWJkdU9IYzlVeEMtdVpLUXNkV1NYcVhuVzBCSm1TWDNTLWtkUnhmVy12NVZ0NFVHN1QzTGY0NGhtQjhqeHJFRGJTNzJ6dDlWSk8xT0lNdkZoOUNpUW5aR3BNeU5sVFVmeDl4V1dVeldveXBleXRoclZQUjBveEdEZUhkeVNjVFByR2ZndzlVTnlOZFdfVXJTcVllaFpWMWNEZUdNN0dxbzU3b1BjclZ0bS1JMEp2cU1Pdw?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-09-15T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     }
   ]

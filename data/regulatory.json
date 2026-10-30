@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-30T10:03:34Z",
+  "updated": "2026-10-30T18:07:59Z",
   "naic": [
+    {
+      "id": "c47125f9ab1b",
+      "title": "NAIC adopts AG 55 guidance for reinsurance reserve reporting",
+      "date": "2026-10-30",
+      "cat": "Reporting",
+      "summary": "",
+      "source": "InsuranceNewsNet",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbXhoZDVpNUNNcVJ0U0Z0WVJEWWM4a01iLXRoa1JVckpHNU9DTV9scXZFdkg5eFRNX211cHg1UFl5VnJQYlBiR2pBNDRLUFUzQm9OS3hWX1E3OTBjQ1d3WUVURkFCT3I4eUF6SUtNbVB6UW96QW9vY0paNlBmZnFON09OWUl2WkRKTHVjNENkWnNCWlZXWWctWUlkci1ybUNOcEE?oc=5",
+      "isNew": true
+    },
     {
       "id": "1a538a85768e",
       "title": "US insurance regulators back down on credit ratings scrutiny",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "ThinkAdvisor",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3R4TmRVdjJqSXNxSHVUMDdINnpVY1lQRl9GbFpQazRNaDN6YkNDMDZQZlp3aUJLa0k0UnA2SGdyZlgwM2EtLWN0ZEloQkJBNk52WVdySnpReGFaWUxVMGtZQzc0LUNzQXpCUk0wbWM3dnctUTRfNXp2N01CcVFFS3JWUl93SVdvZGhFcmgybXhnaEpwWnpkdmhVN1hibWNpaFp0MVNVRTUzYWc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c4e9ab7557cb",
-      "title": "Warren Presses Insurance Watchdogs for Answers Amid Walter Probe",
-      "date": "2026-09-14",
-      "cat": "General",
-      "summary": "",
-      "source": "Claims Journal",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqNFptM09aUHhyU0NmM2lmbFlsUHhCRDJRVkhqUy0wVzQxTlZEOURsazd1MS1rMU5zOXc3cVVueFFWb25wUWtCSjFMc1Ffd1BzRnpLSko1b2hDenB0ZHhmWUJsT2ZCR0F1RU5XcG9JYVVGQXM?oc=5",
       "isNew": false
     }
   ],

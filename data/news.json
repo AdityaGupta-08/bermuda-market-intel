@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:03:34Z",
+  "updated": "2026-10-30T18:07:59Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,13 +8,33 @@
   ],
   "items": [
     {
+      "id": "0bf378436a53",
+      "title": "U.S. Treasury Yields Fall; Eurozone Bond Yields Mixed After GDP Data",
+      "source": "WSJ",
+      "date": "2026-10-30T10:50:09Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
+      "isNew": false
+    },
+    {
       "id": "700fd420cc04",
       "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
       "source": "WSJ",
-      "date": "2026-10-29T21:48:04Z",
+      "date": "2026-10-30T09:06:04Z",
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "faee4300cde5",
+      "title": "HSBC Holdings seeks credit risk insurance for AI data center loans",
+      "source": "Beinsure",
+      "date": "2026-10-30T00:04:31Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ05PVUtYdDFLUDJjeWhndzAwRk5VUFl0eUVjZGlpeURTSGxKalFNa09lX0tsN2d2emZtVnNYNWZpbDJ6Q3hHWF9uZzEtV0NQNkM3clh1LURmTUo5QjdSUGtRam5PRXZLTjVjZDhPQVlvMVdZbnhoVkVSRURrMEhoWGpzbFdFU3lDelJkXw?oc=5",
       "isNew": false
     },
     {
@@ -40,11 +60,11 @@
     {
       "id": "192a50c53f6e",
       "title": "ECB keeps rates unchanged; euro and bond yields fall",
-      "source": "Merced Sun-Star",
-      "date": "2026-10-29T14:48:07Z",
+      "source": "Yahoo Finance",
+      "date": "2026-10-29T14:03:27Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVFEVEJBNExRSlc3MFVlNE5YUThYdS1UWGEwaC1WSlZIT3M2V0lVTkYzRTdrWGFwNU1nRmt2RU51enZRVlJxY3h1SmRpOGppdnRlTHJVNzV4NDZTTF9scVROXzk2dUM3WmhqQlAwUC1yOFFTRlFuaF9kYnh5Um8yTEtTYjU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNNWEE2SXlXM282Q21ieUY1bVVoSm8yNm1NN0FZYzJTUnhaYWdsdW5oalhhTzFmMUd2NXBnYjJwT0VIRlpIX1VyX3RlSEJpNUMyS3B4R3ZzempnamlXSGwzX1FGYWZpR01mR29WejFYTHp2eVR0MG0yX0hEb3pqQWl1X2ZXXzA4MGpxbExTUmdGS2xTUjhpWWJDRQ?oc=5",
       "isNew": false
     },
     {
@@ -95,6 +115,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZldaRFJxZExRTzZ2T1lfc1pYUWtpbFJwRHk0YmpCaHdkYXd4ZV9vbGpmellrN1Ztck8wallTMnphd1V6VWFLckM4bTRiX1c5VmZmSUZwdUROem02ZXlUY3NKT1poTEhFWDRQOThHcEQ5YkMzY1gxU1NoTm5mdFhVR2xWakJSYUFVSTRKS0Rva1JIR0FhOHFJck5Ic3AzNzNWQTJuMXFySnNFcDNIYXN0TWtn?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "22e2a38d38cb",
+      "title": "Canadian dollar strengthens, bond yields rise after BoC's rate hike",
+      "source": "Reuters",
+      "date": "2026-10-28T20:44:49Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclpLdEx1LThWT3M0WnFzLXZvTk1aU2IzaE5RV29PdzlVR29oX29ya2dqWWt5bXJTMlF0LUtFbV9VWVNXcjhMN0UxZTZyUHl4TVpNSGdRNEk2SGNoYXlRbUlpRzdfb3A5TVZzRG5SRG1GTVZvOG5CQjVLSHhKMFlKdy16QmZ0eFJhLXpwTGYtbkZ5dEFmclNPa0xSMkhmOUh4dXFXY2NBX1ZmTzhraExN?oc=5",
       "isNew": false
     },
     {
@@ -158,13 +188,13 @@
       "isNew": false
     },
     {
-      "id": "faee4300cde5",
-      "title": "HSBC Holdings seeks credit risk insurance for AI data center loans",
-      "source": "Beinsure",
+      "id": "8d9d3c15baeb",
+      "title": "Fed Holds Rates as Interest Costs on the National Debt Top $1 Trillion",
+      "source": "Peter G. Peterson Foundation",
       "date": "2026-10-28T07:00:00Z",
-      "topic": "Private Credit",
+      "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ05PVUtYdDFLUDJjeWhndzAwRk5VUFl0eUVjZGlpeURTSGxKalFNa09lX0tsN2d2emZtVnNYNWZpbDJ6Q3hHWF9uZzEtV0NQNkM3clh1LURmTUo5QjdSUGtRam5PRXZLTjVjZDhPQVlvMVdZbnhoVkVSRURrMEhoWGpzbFdFU3lDelJkXw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDUwcVc3Rm02OE55el9YcGJxY3JYT3pGY2l3UWRZVk03MGlHVWhpd09MMUxPTExtTHplLVVjcDlfVGpiTEd6THBMaEZieElPZ0tBMks0YUpJVEltd3Q0bDMtcC0tblFDckdpUy1qSTFkcXFuRVpOUlUyZldpWGtWY1NNRmc2c3haN1VoVU5SQjV1N1RfU2hjcS1zdXhkNng5?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2VZU0twVGt2Z2lyS2NxNzA4Ym9PZG5DYWx0cEZrVU00ZlRNOFpGM2trdjZMYXBJanVXQjFBWTFSTDlxYTI1aXlKS2hCcFJmeDJGY3JsQzJTa3ZFUHBmUlV4R2Y5OThwU29Rb0R3YlVPMGhFUC1ZSkxMeVBMWE9lNExCSTB4c1d0RXVQcEQyRDZrRElFS2Z1OGtoNkYxeTdkRFNZdtIBqgFBVV95cUxOVFMwWGlhczAyWE5OMFkxVkFfRWpIX1VJZzFYSndSOGFkV1hMVHpfOE9NblhZZW5SSVpyenhENkVLVkVibDR6VHl0TUF4QW9VWDl2ZGFjWlBIWklSWEdnOUVGdU1aWGpLTWQ2U3BqMUtFUXlLYjdPQXdwODFNbEItSERjcDZOVlhWajBneTgxZmVfOFBCeG1fQ3Zkd3FrdUY3SnF0c0Q2dUg4QQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "1e730c112629",
-      "title": "AAA CLOs: Insurers take a fresh look",
-      "source": "Invesco",
-      "date": "2026-10-26T12:40:28Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakdRN25NaGZxN3RCOUYyYkdVUGJlaWFLTTNPRnhRTW9VZU1Xb1dDQUc3YmxaUXhpdTNCeEFUSDNXLThsQUNpQ2ZpMFpza3lDR0R4TG9rTlJLYWRNZlBQTXVuajNwZE1rUkVDRXgza2EyR3dfM05neWtybmhDdUNVcU5vV1o5ZzVjOTFTSlFpc3BFNUQ4?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "15b3645cf19d",
-      "title": "Meiji Yasuda to buy Man Group stake in asset management push",
-      "source": "The Japan Times",
-      "date": "2026-10-26T11:43:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ITWdIUF9FZ0FXbXdYTXpTZTR1YTNFa3ZYOG5sNVJ5cmlRZjZFdFM2ZjlKWVo0ZGZiZ1FxOE1xX3pnZnZKZEdqaDgtcExDeHVUV05pMWo5UGsteUtmMlVQYVphc2Z1WTk4LUNoOWU2UFZUUUxPYmJ6S2RTWEg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "86d41faabd66",
-      "title": "ECB Rate Decision: What to Expect on Thursday",
-      "source": "Morningstar",
-      "date": "2026-10-26T09:43:31Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT01tV2tCQXBRcWhsUFhQOV94Rm9pNEs4OWI4MDVHQnR3TlFNVkpBRGtNTlZ3Y1dTRU5RYlBILWtVek5lMzVmU0tPRnpUSlBUUzBLd3owTV9FSEw0ejRYWFo2STRRQVVPQ1dYekdTNmQ1SmNyNXZiVURQcmlTa2E5cElUbjNDZko4bmlRempB?oc=5",
       "isNew": false
     }
   ]

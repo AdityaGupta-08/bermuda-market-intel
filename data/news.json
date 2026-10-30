@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T18:30:43Z",
+  "updated": "2026-10-30T01:02:21Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,10 +8,20 @@
   ],
   "items": [
     {
+      "id": "700fd420cc04",
+      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+      "source": "WSJ",
+      "date": "2026-10-29T21:48:04Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "isNew": false
+    },
+    {
       "id": "02792ca69ef3",
       "title": "ECB flags December hike but sees yield rise hitting growth",
       "source": "Reuters",
-      "date": "2026-10-29T17:31:08Z",
+      "date": "2026-10-29T19:25:22Z",
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
@@ -30,11 +40,11 @@
     {
       "id": "192a50c53f6e",
       "title": "ECB keeps rates unchanged; euro and bond yields fall",
-      "source": "Merced Sun-Star",
-      "date": "2026-10-29T14:48:07Z",
+      "source": "Yahoo Finance",
+      "date": "2026-10-29T14:03:27Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVFEVEJBNExRSlc3MFVlNE5YUThYdS1UWGEwaC1WSlZIT3M2V0lVTkYzRTdrWGFwNU1nRmt2RU51enZRVlJxY3h1SmRpOGppdnRlTHJVNzV4NDZTTF9scVROXzk2dUM3WmhqQlAwUC1yOFFTRlFuaF9kYnh5Um8yTEtTYjU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNNWEE2SXlXM282Q21ieUY1bVVoSm8yNm1NN0FZYzJTUnhaYWdsdW5oalhhTzFmMUd2NXBnYjJwT0VIRlpIX1VyX3RlSEJpNUMyS3B4R3ZzempnamlXSGwzX1FGYWZpR01mR29WejFYTHp2eVR0MG0yX0hEb3pqQWl1X2ZXXzA4MGpxbExTUmdGS2xTUjhpWWJDRQ?oc=5",
       "isNew": false
     },
     {
@@ -45,6 +55,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG81Z2FUM3Y0clJEaWJ6SFhSRU5Ed3JuVUZGZXZpOXRBZVN4YmhWMUJ2eDZJNWttc1NCV0dxWFVWV0ppM2d5OE1zVDZ5V1RyMHFUbGdQcG9QelFheHQwMl9oRUwwX3V0SEpCdGxJcVVvbVFDTU5CeVdzSXA3WEhuT1pWa1JsWXdNTksxd2pPQjBmSmd0c3g3YjZlV1dxamF3eEQxOWp4YTVpRWE3UmRoT3lXZ2hfNzVOTFFCZzVPZw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "3cde02ea5fb3",
+      "title": "HSBC Seeks to Hedge Data Center Debt With Credit Risk Insurance",
+      "source": "Bloomberg.com",
+      "date": "2026-10-29T12:20:04Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFFVa1k4M0piYVUxbnl0RERBMS1XR0NKZ1JpX1NFV3R3em4zNGVGem1xZVV1ZTB3YWR6UkRnYTFqWDZKT1hjTk1VY3RxcHlsaTBjaDRaT2xBQVpjVHpzS0pNY1U2amdZSFB1VDhWdG96YWwxejNxZ1BZUjBxeE5BOUNsUzdEN21qalpmYzBYT1RvODljR0tXd2F6cTRIQWdjZmhQT3FtbmhSUnp3UFRkQUVmNDM?oc=5",
       "isNew": false
     },
     {
@@ -135,6 +155,26 @@
       "topic": "Structured Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblJLWFRlbnhudWxva21jdHY0aHdoOE9NY0VSME9YTWFHX1l0TUxIZWR5c3V4T3ZHbmZIWVNQSXFHOEZOLVVoRkN0Y0w2OUE0clc0Ul9uLVppNFlQRW44LWJGaF81U0Q4UXRUY0RhOUFwNmgwUTZWMXhHV2EzbXQwcmNtWHQ3dC1pOHMyNEFLQUFRbDNv?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "faee4300cde5",
+      "title": "HSBC Holdings seeks credit risk insurance for AI data center loans",
+      "source": "Beinsure",
+      "date": "2026-10-28T07:00:00Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ05PVUtYdDFLUDJjeWhndzAwRk5VUFl0eUVjZGlpeURTSGxKalFNa09lX0tsN2d2emZtVnNYNWZpbDJ6Q3hHWF9uZzEtV0NQNkM3clh1LURmTUo5QjdSUGtRam5PRXZLTjVjZDhPQVlvMVdZbnhoVkVSRURrMEhoWGpzbFdFU3lDelJkXw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f0d1c18f549c",
+      "title": "ALIRT Insurance Research Report Highlights Continued Growth in U.S. Life Insurer Holdings of Alternative Investments",
+      "source": "Yahoo Finance",
+      "date": "2026-10-27T12:46:00Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnV1RWt5bTVnUEJLamp0U1o3Y1FpRkVpaTRsbnlaTXVTd25xS2VvSzB3aG9IU2NBQkEtT2ZyczVtMy1ZVEo3bjJ2WVBEZmc5RzRnZUFZcjNLZFJIZUxxRk5qNVRvYU5OMDlxcURrMmc2TGlNQVVTNXdVUDhFV25DTFBoa1FqaGRMUXZZa1NmT1JpR29QdFhSQ0h2NWUzcnNlSFRnYk9LSGlZWlU?oc=5",
       "isNew": false
     },
     {
@@ -258,16 +298,6 @@
       "isNew": false
     },
     {
-      "id": "86d41faabd66",
-      "title": "ECB Rate Decision: What to Expect on Thursday",
-      "source": "Morningstar",
-      "date": "2026-10-26T09:43:31Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT01tV2tCQXBRcWhsUFhQOV94Rm9pNEs4OWI4MDVHQnR3TlFNVkpBRGtNTlZ3Y1dTRU5RYlBILWtVek5lMzVmU0tPRnpUSlBUUzBLd3owTV9FSEw0ejRYWFo2STRRQVVPQ1dYekdTNmQ1SmNyNXZiVURQcmlTa2E5cElUbjNDZko4bmlRempB?oc=5",
-      "isNew": false
-    },
-    {
       "id": "eea86e9d34be",
       "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
       "source": "WSJ",
@@ -275,36 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "0596322ebff7",
-      "title": "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
-      "source": "CNBC",
-      "date": "2026-10-26T07:49:09Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnVMeHR0cjdhVXpVQk9hZWdUUkVoMjAwX3g5OG5iWWprMW5XeEJoaC1CaTlDUVZSZ1ZjZnE4SFpsLWlCMXFXWE1lNnRoNzBKU1NqM2J1QmNUSVNhRzB4MUJxdXpMR0dQRUpNeGFOdDJ6Z25fcjA2QmVvczUxQko5RHc0d0tycDdIZGxIaGlqM3Z3OWhKeEhGMUxB0gGfAUFVX3lxTFA4SUxwS3ZmSEZwWmtRM0VkOUtZQUlSN0djS0JYRkxhMnF1VFhpVzdRWU91b1BoTjBhUm5HVkt4OHhMNElOR0JHYXpGTm5Md0NRa0lmTC1MRzNmWlAwb1lzX2hYbWgzSExzS0pZRXNfd01LNktjbVZBYTJwa2t2d0M5NUxqd2ZMVXJIam9lRHJrN09hcmlyVEpUYVptZzM0VQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "aa53a16e1601",
-      "title": "Nvidia Credit Stress Could Lift Hannover Re Stock And Other AI Insurance Names",
-      "source": "Yahoo Finance",
-      "date": "2026-10-24T19:09:24Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMndMTWQ2WkRmcXlmMG93d3NhZEh2eG1lbDFBYkIya2ZVTUc1VmF3bkdfT1dnWXJneGpHM2tCNURadldZM3JZc1JZbHNqb28xaF9nVEFjQW1XVHdRMUt1U1BmWW1rWjFWVEdicEo0OTE1WU83T05DMG9hT1JCMS10N0F1TlhDYVZ5OHp0c2dHMm1qemp4WlREZ3BjNWU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "9a293b7bd2a3",
-      "title": "Partners Group Closed a $510 Million Rated Feeder for Its Evergreen Private Credit Strategy",
-      "source": "HedgeCo.Net",
-      "date": "2026-10-23T21:45:35Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NsV1FKX2xwSVZIMzBPMjZQM0NYQ0MyZWlKRTNvOVBQZ3BBTTluMFBMOEVDdkc5SmQzWmdUaENVRG5EUWhPZTgzVUdnbVZOcTdBZGVoMXo5YlBILWY2TVZoYzM0NTJvUnlva2tIQ3dRc2NpaWJ4cVpnSmNqRWh2Qkc3QkY3cThvbWI4T1FtTjdRT1NEUFVzdkVEQktjZmN5X3FPVHhrUTZTaU9fRWhUbjdZdGVQOGI3YU8xQUZhVG5qVW5RWV9j?oc=5",
       "isNew": false
     }
   ]

@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 22 items
-Generated Fri 30 Oct 2026, 15:08 ADT
+Bermuda life & annuity watchlist — last 14 days — 23 items
+Generated Fri 30 Oct 2026, 19:22 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 56 items
+- ✅ **Google News (16 of 16 companies)** — 57 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -17,6 +17,10 @@ Generated Fri 30 Oct 2026, 15:08 ADT
 ## Wilton Re
 
 - **2026-10-26** — Intelligent CIO — [Wilton Re modernises 400,000 insurance policies through Cloud transformation with DXC](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRjB5R05yNV9KTmVRMWtfUkxEdThCT1VwR0l0OGJCSGRFUDRXcjBxdWFIdlVqMmpFaDMxNHQ2X1E1cF9MTWJEbC1HeDVIVXVaZ056c2t2N0Nfb2JHeU5kb3ZQZ0V1T3hoRHU3TzdCai11Yk9GVV9KSF9zQ0hjV2JlU1hCNldHT0VwV2NNTDJFRW9jbElCRHhoMS1YWEdmeU1GZndWTTdncFFGcTE1Y0Q4MTdZUXRyblJVZkkyU3NrNTlWemlMQWtZcnhTVFJGSWpfRDN2SV9JRnY?oc=5)
+
+## Fortitude Re
+
+- **2026-10-30** — finance.biggo.com — [[T&D Holdings FY2026 Q2 Earnings Call] Fortitude Re on Track to Reach $140 Billion in Liabilities by 2027; Adjusted Net Income Growing at 65% Pace](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoaDAwdmNhSDZITjVEbnJZb1dRZXVxTDBpbXV3eW5QZUNxWlN2VjBtZW9xeThSMUM4TlFfcjI5WGtXeGtacGc2RWNEUklvb2JESFFHdDBFUElkY2ZGU2RaeA?oc=5)
 
 ## Talcott
 
@@ -52,7 +56,7 @@ Generated Fri 30 Oct 2026, 15:08 ADT
 
 - **2026-10-19** — theinsurer.com — [Exclusive: Apollo explores sale of Catalina Holdings' UK arm](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVGTXo3cEFmUXNDdkRWcW9pM2Z2Ym5lQ0lNdEhwTXUwNlowM3lGbDBtdUJXTFRuc19wTEh4QmhrR3NFekctZXRNUHotaXRYYVE1Y050SldRMnNYbmhFVE1DZGI5LUM2OTdzMXUwOEVZVGN4bDNmSE5qYk8wX1ZRTDkyb0pDa0RHbFZFM3FucUQ0U3llYlV6bTNNZ3ZjSWFTUUN0bjNCWUg?oc=5)
 
-_No news in the window: Global Atlantic, Fortitude Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare_
+_No news in the window: Global Atlantic, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare_
 
 ---
 

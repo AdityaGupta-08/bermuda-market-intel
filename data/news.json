@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:07:59Z",
+  "updated": "2026-10-30T22:22:45Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "395696970d71",
+      "title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
+      "source": "WSJ",
+      "date": "2026-10-30T19:35:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
+      "isNew": false
+    },
     {
       "id": "0bf378436a53",
       "title": "U.S. Treasury Yields Fall; Eurozone Bond Yields Mixed After GDP Data",
@@ -60,11 +70,11 @@
     {
       "id": "192a50c53f6e",
       "title": "ECB keeps rates unchanged; euro and bond yields fall",
-      "source": "Yahoo Finance",
-      "date": "2026-10-29T14:03:27Z",
+      "source": "Merced Sun-Star",
+      "date": "2026-10-29T14:48:07Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNNWEE2SXlXM282Q21ieUY1bVVoSm8yNm1NN0FZYzJTUnhaYWdsdW5oalhhTzFmMUd2NXBnYjJwT0VIRlpIX1VyX3RlSEJpNUMyS3B4R3ZzempnamlXSGwzX1FGYWZpR01mR29WejFYTHp2eVR0MG0yX0hEb3pqQWl1X2ZXXzA4MGpxbExTUmdGS2xTUjhpWWJDRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVFEVEJBNExRSlc3MFVlNE5YUThYdS1UWGEwaC1WSlZIT3M2V0lVTkYzRTdrWGFwNU1nRmt2RU51enZRVlJxY3h1SmRpOGppdnRlTHJVNzV4NDZTTF9scVROXzk2dUM3WmhqQlAwUC1yOFFTRlFuaF9kYnh5Um8yTEtTYjU?oc=5",
       "isNew": false
     },
     {
@@ -165,6 +175,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaG8tZ1VDYmVRZ3M3MWFadDRTYXUyQ0tOeGtFenNJU0oyZXlrRHV3VHBMYUZNOHNiaE5QcFJZRHhkbERBbThSNUZGNjJ2b1ljLWdzcUxEWHk5QkNzWmtaeXZhSkZPd2ZwSE5OcWVFTWRpN1JNUi1KdE5lLUhCTGwxbm5YcnE5SGR2QklBYzI3dGU1SzltWHhDTHFaaVk0WllDV3BESVh4ajF5dHp5?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "a6cc121efc56",
+      "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+      "source": "Reuters",
+      "date": "2026-10-28T10:05:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnZtekg4OTBIMVpQUkxDc3R5WGJadThuZU14S1drQ0FVa1FtbXV4ZXB5bjM1UEdtVFdhNkZ3QklHZjVlRDN1Wlc0czk2U0U1LVl1MGczS2p5eTF1RUp6TERmTkpfT2VUTWdUYWxGblQtOGMwOHUwZHdPZE1lYnp4VFEzWjVnS2ktd3kyQXdpVDl1d2tmYzlOT1Ewd1hxUFFBanZkVW5FUThOdWR1cUw4?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ad36b80c5a7e",
-      "title": "Symetra partners with TIAA to launch sidecar-like life and annuity reinsurer Mariner Re",
-      "source": "Artemis.bm",
-      "date": "2026-10-26T15:54:38Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2xwZXhXeFloT0dnSlRubjZkR3J4dUR0clUxLXpXWk1uRTV0RndaU2tZTnpqbkhESzlVeGxsTll2Y2FsbVBTTUxlbzlQdjdjb2c0b2FHLXMyX3BZemtCOFFWLUF3Um95WHpRWTVOenFWa0ZrZ3pBeHVTVm9SX2Z4OUhGRTcyM3VfSXcyOTc5T05tbWk4S3RGUzZDY0N4NS1vU2dfbUgzbTNLb29uX1FBOVR5WGhCTGs?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d0ba22978557",
-      "title": "Mortgage rates above 7% are the 'new normal'\u2014here's why",
-      "source": "CNBC",
-      "date": "2026-10-26T14:00:01Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2VZU0twVGt2Z2lyS2NxNzA4Ym9PZG5DYWx0cEZrVU00ZlRNOFpGM2trdjZMYXBJanVXQjFBWTFSTDlxYTI1aXlKS2hCcFJmeDJGY3JsQzJTa3ZFUHBmUlV4R2Y5OThwU29Rb0R3YlVPMGhFUC1ZSkxMeVBMWE9lNExCSTB4c1d0RXVQcEQyRDZrRElFS2Z1OGtoNkYxeTdkRFNZdtIBqgFBVV95cUxOVFMwWGlhczAyWE5OMFkxVkFfRWpIX1VJZzFYSndSOGFkV1hMVHpfOE9NblhZZW5SSVpyenhENkVLVkVibDR6VHl0TUF4QW9VWDl2ZGFjWlBIWklSWEdnOUVGdU1aWGpLTWQ2U3BqMUtFUXlLYjdPQXdwODFNbEItSERjcDZOVlhWajBneTgxZmVfOFBCeG1fQ3Zkd3FrdUY3SnF0c0Q2dUg4QQ?oc=5",
       "isNew": false
     }
   ]

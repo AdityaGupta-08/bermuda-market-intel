@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:08:02Z",
+  "updated": "2026-10-30T22:22:47Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "82627b70675b",
+      "title": "[T&D Holdings FY2026 Q2 Earnings Call] Fortitude Re on Track to Reach $140 Billion in Liabilities by 2027; Adjusted Net Income Growing at 65% Pace",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoaDAwdmNhSDZITjVEbnJZb1dRZXVxTDBpbXV3eW5QZUNxWlN2VjBtZW9xeThSMUM4TlFfcjI5WGtXeGtacGc2RWNEUklvb2JESFFHdDBFUElkY2ZGU2RaeA?oc=5",
+      "source": "finance.biggo.com",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-10-30T20:14:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
     {
       "id": "502bb76b019e",
       "title": "Should Value Investors Buy Reinsurance Group of America (RGA) Stock?",

@@ -68,8 +68,8 @@
         "prior_3m": 4237.5,
         "prior_3m_date": "2026-07-31",
         "prior_3m_contract": "GCQ27",
-        "prior_1y": 4145.8,
-        "prior_1y_date": "2025-10-31",
+        "prior_1y": null,
+        "prior_1y_date": "",
         "prior_1y_contract": "GCV26",
         "prior_2y": null,
         "prior_2y_date": "",
@@ -360,7 +360,7 @@
         "prior_2y_contract": "INRV25"
       },
       "24M": {
-        "price": 99.04,
+        "price": 99.02,
         "price_date": "",
         "price_source": null,
         "expiry": "24M",
@@ -381,5 +381,5 @@
     }
   },
   "note": "Gold spot is physical XAU/USD (TradingEconomics, then Swissquote / gold-api.com), sanity-checked against the front-month future. WTI/Brent spot is the front-month future (Yahoo), with FRED's weekly EIA series as fallback. Spot priors come from the same series as spot (1d = previous session). Futures history is roll-aware by target date, backed by data/commodities_history.jsonl where Yahoo no longer lists expired contracts. USD/INR latest spot: FRED DEXINUS, then Yahoo INR=X / keyless FX APIs when FRED lags; forwards fall back to CIP derivation from India/UST curves when market quotes are unavailable.",
-  "_fetched": "2026-10-31T05:44:03.280534Z"
+  "_fetched": "2026-10-31T12:32:54.343520Z"
 }

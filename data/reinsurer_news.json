@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:22:47Z",
+  "updated": "2026-10-31T05:44:31Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 18,
+      "count": 20,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "bb3bcb515a9f",
+      "title": "Athene groups AI financing exposures by underlying counterparty credit",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjhyQzhVRGRzMmxUamFFTmh1MXU1YXJFYVdoVE56Nm1PUTRQaUpvLWRtZ2trZHFlY0hOY1dvTGZjNmJOeTZ4b2E0aTRWNWdqX1czd2N0bTV3TEZ6WUxVLWdQeklrODBaYVFlYkpQY21FbmhobXRzQ19fUFpHQkw0Q243R0xKR1N3b2RVLXZWaEh6NHNHVnVV?oc=5",
+      "source": "OpenTools",
+      "feed": "Google News: Athene",
+      "date": "2026-10-30T23:36:42Z",
+      "summary": "",
+      "companies": [
+        "Athene"
+      ]
+    },
     {
       "id": "82627b70675b",
       "title": "[T&D Holdings FY2026 Q2 Earnings Call] Fortitude Re on Track to Reach $140 Billion in Liabilities by 2027; Adjusted Net Income Growing at 65% Pace",
@@ -365,24 +377,24 @@
       ]
     },
     {
-      "id": "6d932a44981a",
-      "title": "Reinsurance Group (RGA) Is Up 4.21% in One Week: What You Should Know",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHdmNWc0THNvajNEXzAyTnVDN0hHVFlqaGUxSER4STY5aWdjZ05RZFFTVHByYzZwZml2SXZuTnQxS2FzVGR1UWlHUFhEbm16emU5MkJEcUIxMGpjR3hZWkxIUDBfY1V1dklRMTFEVlp1cXYtWGU5VFVBNElibkJnOEtCQV9Pakx5YVBDNzJneVJuOGRkZUE?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-22T15:00:02Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "1afa5ded1043",
       "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmNTWkVHUzRudTlsVWJNWl9fR2xyLUZXS1pzQXJtR1MzSDR2cEY2Y1R3NWpuMXRhcXB4NDRQN0pxSHNSZGxfbGgxbldGdnl2OUs2b3VUc25JQ0hNNUh1aUNwQ3JQcUNpNk1qV05URnlrS05uODRLVjlCQVlFYW1jZ0hrWUlfLU5yYXM3OVZ1RQ?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-10-22T10:31:47Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "6d932a44981a",
+      "title": "Reinsurance Group (RGA) Is Up 4.21% in One Week: What You Should Know",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHdmNWc0THNvajNEXzAyTnVDN0hHVFlqaGUxSER4STY5aWdjZ05RZFFTVHByYzZwZml2SXZuTnQxS2FzVGR1UWlHUFhEbm16emU5MkJEcUIxMGpjR3hZWkxIUDBfY1V1dklRMTFEVlp1cXYtWGU5VFVBNElibkJnOEtCQV9Pakx5YVBDNzJneVJuOGRkZUE?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-10-22T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

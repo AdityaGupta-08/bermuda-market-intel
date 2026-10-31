@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:22:45Z",
+  "updated": "2026-10-31T05:44:29Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -18,6 +18,26 @@
       "isNew": false
     },
     {
+      "id": "53bfe603ec9d",
+      "title": "The AI Data Center Boom Has A Wall Street Risk Problem",
+      "source": "Forbes",
+      "date": "2026-10-30T19:12:01Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZS04SHZ4TDhUOGNsQlprLXlyV2Z4cEZKX3N4cWNWcVdpTVpiN05vbjExUjZBbW1TamtYN1pMTXBiV0ktZ1FxbWJuX2w4Y1pXT0hkbUZLcTdER1Q0WC1qa1BwRVpiYXZxSHQ2aDU2SnVGeHZEazBiM210WkhkTTlRN29paHNZOUcwVzlqU2N1YlcydmFoXzZnUEpZdlBuNzJqQXlPZmw2VDlmdWk1em1mVE9ETmlRc1FzVnVjMg?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "477930c09350",
+      "title": "Money Managers Worry About AI-Linked Default Clauses as Private Equity Tries New Tactic",
+      "source": "Bloomberg.com",
+      "date": "2026-10-30T11:00:29Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVmtHTDVQc280TzlXblF3SjVyYlo3Yk90bUxkd01wLUhBbEY2UkVEZWZiVThNZkRYR3ltMmplUTM5NnpXMDZFMTJnMXFMQ2NtaHZtcnp2TGpfNFpMaldYZWliQ3BRbkdONi1yazFfSUFycmQ4UWR2cFRTemYzNHRoYkhFOThfVGFIUnMyMGJ3blJ5TW5LTEs3LUxMNU1IaVlkRkNxaGhNMmNLUmQyN1d3Z1ItTTQ4TXZYMVdfLTVFRmpiTlhPSG5RajJQOFJ3TzZzdkc0Ykp2T2U?oc=5",
+      "isNew": false
+    },
+    {
       "id": "0bf378436a53",
       "title": "U.S. Treasury Yields Fall; Eurozone Bond Yields Mixed After GDP Data",
       "source": "WSJ",
@@ -25,16 +45,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "700fd420cc04",
-      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-      "source": "WSJ",
-      "date": "2026-10-30T09:06:04Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
       "isNew": false
     },
     {
@@ -70,11 +80,11 @@
     {
       "id": "192a50c53f6e",
       "title": "ECB keeps rates unchanged; euro and bond yields fall",
-      "source": "Merced Sun-Star",
-      "date": "2026-10-29T14:48:07Z",
+      "source": "Yahoo Finance",
+      "date": "2026-10-29T14:03:27Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVFEVEJBNExRSlc3MFVlNE5YUThYdS1UWGEwaC1WSlZIT3M2V0lVTkYzRTdrWGFwNU1nRmt2RU51enZRVlJxY3h1SmRpOGppdnRlTHJVNzV4NDZTTF9scVROXzk2dUM3WmhqQlAwUC1yOFFTRlFuaF9kYnh5Um8yTEtTYjU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNNWEE2SXlXM282Q21ieUY1bVVoSm8yNm1NN0FZYzJTUnhaYWdsdW5oalhhTzFmMUd2NXBnYjJwT0VIRlpIX1VyX3RlSEJpNUMyS3B4R3ZzempnamlXSGwzX1FGYWZpR01mR29WejFYTHp2eVR0MG0yX0hEb3pqQWl1X2ZXXzA4MGpxbExTUmdGS2xTUjhpWWJDRQ?oc=5",
       "isNew": false
     },
     {
@@ -295,16 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk45NGlORUMtZ2RfUVBDZ2lTODZTT3lyaGpqZTJXd3hzb1NBNTdPVnlNc0p2QlI5cFZSUjNRYzhoY2E2cFlvNWNBNldoaE82X0N2bkpNZlctVnY0M1NCVnVoc2tBYThRYzlYMDVERTJiQ0JKX1dYMVU2RDdzTUVycUNCTUpEMkpCSHIzbGJvNkVKNzZYS0JYN3MwVmtRQjRFTmNFLXQzVlVTS3ZqQVI0d3ZGbw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "44290164bda5",
-      "title": "Mariner Re launches with $750m TIAA investment to support Symetra\u2019s annuity growth",
-      "source": "Reinsurance News",
-      "date": "2026-10-26T17:01:37Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnZtekg4OTBIMVpQUkxDc3R5WGJadThuZU14S1drQ0FVa1FtbXV4ZXB5bjM1UEdtVFdhNkZ3QklHZjVlRDN1Wlc0czk2U0U1LVl1MGczS2p5eTF1RUp6TERmTkpfT2VUTWdUYWxGblQtOGMwOHUwZHdPZE1lYnp4VFEzWjVnS2ktd3kyQXdpVDl1d2tmYzlOT1Ewd1hxUFFBanZkVW5FUThOdWR1cUw4?oc=5",
       "isNew": false
     }
   ]

@@ -1,16 +1,17 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 23 items
-Generated Fri 30 Oct 2026, 19:22 ADT
+Bermuda life & annuity watchlist — last 14 days — 24 items
+Generated Sat 31 Oct 2026, 02:44 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 57 items
+- ✅ **Google News (16 of 16 companies)** — 58 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
 
+- **2026-10-30** — OpenTools — [Athene groups AI financing exposures by underlying counterparty credit](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjhyQzhVRGRzMmxUamFFTmh1MXU1YXJFYVdoVE56Nm1PUTRQaUpvLWRtZ2trZHFlY0hOY1dvTGZjNmJOeTZ4b2E0aTRWNWdqX1czd2N0bTV3TEZ6WUxVLWdQeklrODBaYVFlYkpQY21FbmhobXRzQ19fUFpHQkw0Q243R0xKR1N3b2RVLXZWaEh6NHNHVnVV?oc=5)
 - **2026-10-23** — Seeking Alpha — [Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlaeHJpUDI2dmNGeWNlWkpqSklWOHotWFU5SmxwSEY2RHJMbkxEMWh6OHFleUlSRld5QmRZZmRYM0Z1UE11TnJ3ZUNOYU1naWhMUGNpQnZXa19LWlhwYzR6N3FsNE1NUWZpam56dzhVWHZmY2lBdHFYcGlWT3Q5Qk40a2RKcGd6R25zLUY0WjRkUHlnYnZPM3RMMEIxajB1ak53cmZ4NlEtOWhSV2Y0Z1Bmb2JleTU3Q2c?oc=5)
 - **2026-10-19** — Yahoo Finance — [Athene Announces Third Quarter 2026 Fixed Income Investor Call](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzROWDdIa0hQemZlWVVuSHBfSG1sWUFLZXlPMmxoeU41ZndzUWlROHdocDJLbjR0aHBRUDNIZ0Y2UTNQSU10ZU1RYWFTTEVqVWY2QzUzcE8wb2ctZ0ozeUdtYWFRcEV2N0UxZUx4RDhOTkczOV9VLWt1eTlqT2ZhUzRKeGx3VHJRd1kyNWNHZkRueS1wajBhdWo4NGR2SjZ6b0E?oc=5)
 

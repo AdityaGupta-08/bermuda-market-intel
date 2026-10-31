@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T12:33:30Z",
+  "updated": "2026-10-31T19:19:46Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 20,
+      "count": 21,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
       "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-31T07:40:18Z",
+      "date": "2026-10-31T04:44:05Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -341,18 +341,6 @@
       ]
     },
     {
-      "id": "16408ad5e63e",
-      "title": "Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlaeHJpUDI2dmNGeWNlWkpqSklWOHotWFU5SmxwSEY2RHJMbkxEMWh6OHFleUlSRld5QmRZZmRYM0Z1UE11TnJ3ZUNOYU1naWhMUGNpQnZXa19LWlhwYzR6N3FsNE1NUWZpam56dzhVWHZmY2lBdHFYcGlWT3Q5Qk40a2RKcGd6R25zLUY0WjRkUHlnYnZPM3RMMEIxajB1ak53cmZ4NlEtOWhSV2Y0Z1Bmb2JleTU3Q2c?oc=5",
-      "source": "Seeking Alpha",
-      "feed": "Google News: Athene",
-      "date": "2026-10-23T12:00:00Z",
-      "summary": "",
-      "companies": [
-        "Athene"
-      ]
-    },
-    {
       "id": "6163bfc64c2c",
       "title": "Reinsurance Group of America (RGA) Dividend Yield 2026 & History $RGA",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NNjliMU9KS21nMW1EZGgxTExYWFl1VFhONl9zTUYzbUJTSm9peDBRZ0pnd1R2VVRDMUNqcFRzV25rVGtJYzlEaGcxQUdmd0ZHazFhclVPQUpFcTZ3S04yTTVR?oc=5",
@@ -362,6 +350,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "16408ad5e63e",
+      "title": "Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlaeHJpUDI2dmNGeWNlWkpqSklWOHotWFU5SmxwSEY2RHJMbkxEMWh6OHFleUlSRld5QmRZZmRYM0Z1UE11TnJ3ZUNOYU1naWhMUGNpQnZXa19LWlhwYzR6N3FsNE1NUWZpam56dzhVWHZmY2lBdHFYcGlWT3Q5Qk40a2RKcGd6R25zLUY0WjRkUHlnYnZPM3RMMEIxajB1ak53cmZ4NlEtOWhSV2Y0Z1Bmb2JleTU3Q2c?oc=5",
+      "source": "Seeking Alpha",
+      "feed": "Google News: Athene",
+      "date": "2026-10-23T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "Athene"
       ]
     },
     {

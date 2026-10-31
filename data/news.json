@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T12:33:27Z",
+  "updated": "2026-10-31T19:19:44Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,13 +8,13 @@
   ],
   "items": [
     {
-      "id": "395696970d71",
-      "title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
-      "source": "WSJ",
-      "date": "2026-10-30T19:35:00Z",
-      "topic": "Rates & Macro",
+      "id": "477930c09350",
+      "title": "Money Managers Worry About AI-Linked Default Clauses as Private Equity Tries New Tactic",
+      "source": "Bloomberg.com",
+      "date": "2026-10-30T23:01:04Z",
+      "topic": "Private Credit",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVmtHTDVQc280TzlXblF3SjVyYlo3Yk90bUxkd01wLUhBbEY2UkVEZWZiVThNZkRYR3ltMmplUTM5NnpXMDZFMTJnMXFMQ2NtaHZtcnp2TGpfNFpMaldYZWliQ3BRbkdONi1yazFfSUFycmQ4UWR2cFRTemYzNHRoYkhFOThfVGFIUnMyMGJ3blJ5TW5LTEs3LUxMNU1IaVlkRkNxaGhNMmNLUmQyN1d3Z1ItTTQ4TXZYMVdfLTVFRmpiTlhPSG5RajJQOFJ3TzZzdkc0Ykp2T2U?oc=5",
       "isNew": false
     },
     {
@@ -28,6 +28,26 @@
       "isNew": false
     },
     {
+      "id": "395696970d71",
+      "title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
+      "source": "WSJ",
+      "date": "2026-10-30T18:03:46Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "d2042d961eaa",
+      "title": "Nordic insurers stand out on private debt and sustainability, BlackRock survey finds",
+      "source": "AMWatch",
+      "date": "2026-10-30T13:24:17Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yYU5SWk9fLVdteW5OcVlVR3VUbWpVSlk4Skh6ZHRtcEdSR3lCRmtZbGd0bWQxa0lMNWtjUFQ0bGxGWGJxYVFSUGRWQXAxSWdQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "010bf0ef4804",
       "title": "China Life's CNY 8 Billion Seven-Year Nuclear Power Bet: Equity Conversion Sets New Template for Insurer Long-Term Investment",
       "source": "BigGo Finance",
@@ -35,16 +55,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBubmNsY240TnlQR3VxLXhzWXFpMkpYSUlQYUppZUw0UHk0V2ZMNTZMUWNpazZQZG02T3R2WkRrQzNTbXh3T3hUNmZpT1hYZFFFX1NnSThkSWFBUzcwU3RQX2Q1NV9LdzZCUkJmRF9mLXdhaUN2SWc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "477930c09350",
-      "title": "Money Managers Worry About AI-Linked Default Clauses as Private Equity Tries New Tactic",
-      "source": "Bloomberg.com",
-      "date": "2026-10-30T11:00:29Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVmtHTDVQc280TzlXblF3SjVyYlo3Yk90bUxkd01wLUhBbEY2UkVEZWZiVThNZkRYR3ltMmplUTM5NnpXMDZFMTJnMXFMQ2NtaHZtcnp2TGpfNFpMaldYZWliQ3BRbkdONi1yazFfSUFycmQ4UWR2cFRTemYzNHRoYkhFOThfVGFIUnMyMGJ3blJ5TW5LTEs3LUxMNU1IaVlkRkNxaGhNMmNLUmQyN1d3Z1ItTTQ4TXZYMVdfLTVFRmpiTlhPSG5RajJQOFJ3TzZzdkc0Ykp2T2U?oc=5",
       "isNew": false
     },
     {
@@ -70,11 +80,11 @@
     {
       "id": "02792ca69ef3",
       "title": "ECB flags December hike but sees yield rise hitting growth",
-      "source": "Reuters",
-      "date": "2026-10-29T19:25:22Z",
+      "source": "Yahoo Finance",
+      "date": "2026-10-29T16:16:27Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUhycTZRdjJiYTF0dUhjNmVIa1lsN3lHU1FpSjBGTDVjVVM5TWNmTlMxYm1rMUEyMjNvMXpHeWk4QnYzdTlTUW9vVmtOVGdCQUl3T1pwUHlGdXVDMFlWb1JqZHV1aDJXbkhORy1DWFlCUGdramdrWHBoQWowZFc3ak5UUDNPMU9uWW0xeFVvNDR2MDdLSUotUjY0bXRjUQ?oc=5",
       "isNew": false
     },
     {
@@ -90,11 +100,11 @@
     {
       "id": "192a50c53f6e",
       "title": "ECB keeps rates unchanged; euro and bond yields fall",
-      "source": "Merced Sun-Star",
-      "date": "2026-10-29T14:48:07Z",
+      "source": "Yahoo Finance",
+      "date": "2026-10-29T14:03:27Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVFEVEJBNExRSlc3MFVlNE5YUThYdS1UWGEwaC1WSlZIT3M2V0lVTkYzRTdrWGFwNU1nRmt2RU51enZRVlJxY3h1SmRpOGppdnRlTHJVNzV4NDZTTF9scVROXzk2dUM3WmhqQlAwUC1yOFFTRlFuaF9kYnh5Um8yTEtTYjU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNNWEE2SXlXM282Q21ieUY1bVVoSm8yNm1NN0FZYzJTUnhaYWdsdW5oalhhTzFmMUd2NXBnYjJwT0VIRlpIX1VyX3RlSEJpNUMyS3B4R3ZzempnamlXSGwzX1FGYWZpR01mR29WejFYTHp2eVR0MG0yX0hEb3pqQWl1X2ZXXzA4MGpxbExTUmdGS2xTUjhpWWJDRQ?oc=5",
       "isNew": false
     },
     {
@@ -295,16 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Smw3cmVhenJ0c3RmRjNIVl9KamRBZkFwMDJTMTYzRDZZRllWN0sxcmpwcURJdlMzeHpzY3pPc182ZzRYeFhkU19lVE1LZkRXV0FFaTFta3daQVVDSGJ2YklNQkVRNGl3c1cwVWVDWm9odWFLUFE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "cde30038954a",
-      "title": "Symetra and TIAA launch Bermuda-based Mariner Re with $750 mn investment",
-      "source": "Beinsure",
-      "date": "2026-10-26T21:26:57Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OUHhTMFpES1psLW9wc2dfOV9wWEYyU0dCcHA2YTJMb20zZnlCeFBhTzZoeGNPejlrMFJHNjNVc0YyV3g2WmZSa0ZBb3RqLTNDeU90S0ZFR3lWNkRCNXowZC1TMC1TSWhw?oc=5",
       "isNew": false
     }
   ]

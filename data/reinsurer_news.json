@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:19:46Z",
+  "updated": "2026-11-01T00:09:51Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 21,
+      "count": 20,
       "error": null
     },
     {
@@ -203,6 +203,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-29T05:23:14Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "1afa5ded1043",
+      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekE3ZVpTbXRVQ0hSeXlvSGdtQi1xQjlwSnp4ZlgxeDQ5ajc2X05ta0VPQUN0NjVhU2J1MWpXVVY3Y0RBTE9WRllBTjBYTU1pLThHRFJOUU16Q3ZyM19xcHZIVU9pUXJmamRzU0d1bHItcDRicm9vUUNHSDhWWjJneXRMdUJ2bDM1ckFPM0RxZw?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-10-29T02:58:48Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -371,18 +383,6 @@
       "source": "Stock Titan",
       "feed": "Google News: RGA",
       "date": "2026-10-22T20:08:25Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "1afa5ded1043",
-      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmNTWkVHUzRudTlsVWJNWl9fR2xyLUZXS1pzQXJtR1MzSDR2cEY2Y1R3NWpuMXRhcXB4NDRQN0pxSHNSZGxfbGgxbldGdnl2OUs2b3VUc25JQ0hNNUh1aUNwQ3JQcUNpNk1qV05URnlrS05uODRLVjlCQVlFYW1jZ0hrWUlfLU5yYXM3OVZ1RQ?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-22T10:31:47Z",
       "summary": "",
       "companies": [
         "RGA"

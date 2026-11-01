@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:19:44Z",
+  "updated": "2026-11-01T00:09:48Z",
   "naic": [
     {
       "id": "c47125f9ab1b",
@@ -132,6 +132,16 @@
       "isNew": false
     },
     {
+      "id": "c4d185d08c00",
+      "title": "NAIC Review of Residential Mortgage Investments Could Reshape Insurer Classification, Reporting and Capital Requirements",
+      "date": "2026-09-28",
+      "cat": "Capital/Solvency",
+      "summary": "",
+      "source": "Dentons",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXo2MjJpbEVHV2NETFZXRElnakFoRHFTTnh1cTVILU5KdnpMOTNUYllKOWhwcTF0ZlI4aEx0NmpwdFdydVVpeXdkV3Z2ZWNyZEF5dFVCZ1owQXZpUEpyS2Z3Wmh5S3g2YW03S0s3YUFNV3VlZmVqRnFKRVFaQXJRNk9BYnVfQWh1SlhJTDFteUlWdGg0TnJIWkhvRGVEUlRNUnl2ZmpDRExIQmNR?oc=5",
+      "isNew": false
+    },
+    {
       "id": "7d406b36caf8",
       "title": "The NAIC\u2019s Answer Doesn\u2019t Hold Up",
       "date": "2026-09-27",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSlJvT1VVdzhPa2NSZnhTUHpQelc5Yl9HWEtiS3JBNFdPM2ZsRUNYWTJxeG5Bc0pnQWpzNEotcGI1UndubGh3WldMR2N0UFp4SVpnRUx4N1lqWGs1MDg4LWNVNzNjdUNnU1phNXZrMFZVelZCLUpfbWVrMEVhSEU4aDZMdTFIZG1JLTA3dzJlcExKOFc1aUY3Rlk1MVVIbHZvUzNIeklKMy1UdGNpdkFUZnQwN3hHejhuQk1BbHFqVWdKb1d5WkExSHYtT1NZcDNzamtreFNpT3BTdEoyZDdFRzZyeVMyVUNV?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "978ec4834502",
-      "title": "Sen. Warren Asks NAIC About How It Oversees Insurers' Private Assets",
-      "date": "2026-09-15",
-      "cat": "Investment",
-      "summary": "",
-      "source": "ThinkAdvisor",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3R4TmRVdjJqSXNxSHVUMDdINnpVY1lQRl9GbFpQazRNaDN6YkNDMDZQZlp3aUJLa0k0UnA2SGdyZlgwM2EtLWN0ZEloQkJBNk52WVdySnpReGFaWUxVMGtZQzc0LUNzQXpCUk0wbWM3dnctUTRfNXp2N01CcVFFS3JWUl93SVdvZGhFcmgybXhnaEpwWnpkdmhVN1hibWNpaFp0MVNVRTUzYWc?oc=5",
       "isNew": false
     }
   ],

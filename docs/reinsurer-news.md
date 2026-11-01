@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 24 items
-Generated Sat 31 Oct 2026, 16:19 ADT
+Generated Sat 31 Oct 2026, 21:09 ADT
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 63 items
+- ✅ **Google News (16 of 16 companies)** — 62 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -40,12 +40,12 @@ Generated Sat 31 Oct 2026, 16:19 ADT
 - **2026-10-29** — Yahoo Finance — [Reinsurance Group (RGA) Reports Next Week: Wall Street Expects Earnings Growth](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHNVeUZzWWs5enJKdkNaTUJFcG91eHRFT0drbzB5clM3NGx2alNvN3F1dnBNcExSLVB6SXQ3SzB2aXAwWjNGU25qYWFTeWpBXzBFbnNiX09MX0pBYlM2MlBza1ZMRnJ1WTFlNlFXUm84eDFUT3pKdmtzS2N4MzNGNkxwV0dpNzNjeUNqTEUtN1lLVFR4bVNfSjJvRFBkcHRr?oc=5)
 - **2026-10-29** — TradingView — [RGA Q3'26 Earnings: revenue estimate is 6.69B USD](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzJYLTVJUk9YbXN1NjJyOVJGdktRQkZsN1NrbWx2bzU1dGFVZWlvRTljM0lQeVYyZkRfMkJTekVGcXJ0M0lHT1A3U0hMRmlsMjlGVk1Fa2htTlR0dU1ad1hwbFNuMnpmbGtXQm9helRoWEpTb2d1d3o3Ty03NS1NSzd2bjBQTi1SZ2lpN043VS03VVd3aFRWQzM5WkllX3VMY3BBSjljLWZLSHY1UWtB?oc=5)
 - **2026-10-29** — MarketBeat — [Reinsurance Group of America (RGA) Projected to Announce Earnings on Thursday](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYV9YallUdndhbmdpREJHZUJUME1IbHN3c3hjV3hybnRaRTdrZGU1Uy1tU1RDUkVuV19MZ1lhUXdCTXRKYllyTE5rdVF1TDBQVUFzMUtSZVI5VUd5d1VyMG9iNG9kZ1l4TjBoMUdCVF9yWDdpaHpZRFpsdi1UQU5KOE9NbkFVOG1Wc3piWUlXQVk2MjFscDU2SEcyZmpjUDhVWGxaTUsyeFVBZkxqcjdRVUVneTVtNU5CMGM1Zk1NMEd0V055a3RJdWxWb3o1VTFGMHVuVw?oc=5)
+- **2026-10-28** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxQekE3ZVpTbXRVQ0hSeXlvSGdtQi1xQjlwSnp4ZlgxeDQ5ajc2X05ta0VPQUN0NjVhU2J1MWpXVVY3Y0RBTE9WRllBTjBYTU1pLThHRFJOUU16Q3ZyM19xcHZIVU9pUXJmamRzU0d1bHItcDRicm9vUUNHSDhWWjJneXRMdUJ2bDM1ckFPM0RxZw?oc=5)
 - **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stake Lifted by Sterling Capital Management LLC](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPakxmVU9ac2pncWs0VVF4RHdCcUhEa21MMHlidW1tUFgzTXZ6R1lVVGJCZUlfMjFKcVRoQVU3ZU9hLXdVQmdyM29VZWpBX0FaMjQ4VEZzb1ZzemtDdUlnSWN1UVdxbmlKZHJhZXp4U3VMZXdhVWEwcjRpR1BrWS1hRlpZX0dkTFZUOFNqN042Ty0xZUI0VUVUd1VxXzlUMm14M0JFZURMbHhmZUdKTzlSRGdKdUJTSzZwZHdzb242ODRZMXFKa1JTZzRMVEFDbmI2NTNYLU90bHJIdXhzMmRiTzFkWnJObVNsRmc?oc=5)
 - **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Rated "Buy" by Sell-Side Analysts](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUY4NDlhT2NxeEZpMmZfU0g2TVMzVkZnbngwWng1NzVBS190Q0lFdm9HRjFTY2RJc2JwRGtaVC1NOTlWQjBFSGFZRGE1TzJXWDhWdFhQQUNTbzFxOEoySmY2dFFsSmlUbjFsZ0lVa3pJZ0V2a21OUVIxaUtLTUZXOUFDTWFQS3VqS1ZzRmdIeXNZZi1xMXZfN1hiUXYySWNMamstX1E4Uk4zb191bnE4eDcwc3ZWRUFfSFV6bTZlbUZBaUdrd2tzcW5VUHRyZmhLSkVCSDFEVGlwakVPdXVlRjI4cXdBTDQ?oc=5)
 - **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5)
 - **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Holdings Lessened by Inspire Investing LLC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmNwNTZuUkstT1NxWGFhNnlnQXhhdmktQVQ0MUxERnBobnJ6REtFNVNzdFFNLVFtak0zN21fYzZIZGkwYUFHbWpoMWtUZThTOWZGVVhDWnhkdjVnbUZnRnd1T0JPOEZGb29sUTgwTVZQVE9nREQ0RWRhRlBOLTUyYmNRaUs4bHZ2RG9YMGlFTUpQTlRldlE5SjhSUTI2eXMzNTc2eWNOVk9KbXJScjlzVGdhNUNMOUp3QXROLU5OcEV0bVJEbktwOEo4Ym5fNmR5dTJpUy1jQk1iM1JvQXZHWTNUVQ?oc=5)
 - **2026-10-23** — https://www.dars.gov.et/ — [RGA Q2 2026 Earnings: EPS Beats Estimate by 35% Despite Stock Pullback - Earnings Surprise Score](https://news.google.com/rss/articles/CBMirwFBVV95cUxOd285cVRLN3VtN2tuc0tZcWZRQUhGd1luRzNoaE9sbmZxZ2t4OUpnUGg4NEpjTHlkV1NFdVhxVzdneHhqdmlZWTJpazU0YXN2NDhHTTRsdUVWbW40US1aVUxGUkRUQnRqdnBaQmIydUZqRDcyMHJEbUI3NktaSmtQUzZaM3F1d3pZSDMxbnhncjdNYVJ5b1NrVXVPdGxlZTdoT1psVUxOWExZeGRuY2tz?oc=5)
-- **2026-10-23** — TradingView — [Reinsurance Group of America, Incorporated Estimates – NYSE:RGA](https://news.google.com/rss/articles/CBMidEFVX3lxTFAxMGJ1RHkzQlFTNmppUHhqRDNaVjBiUU5pWkNaZjFLSGdPbW5qRDNBbk1UMXlZcVlxQ0ZMZDNzMGhDeTdRVlFUNlZTUThsM3Q4QnQ0c3p5MGw2ZnY0NUJmRU4tUXZsT2twNGxWWnlWVFl0S2hL?oc=5)
 
 ## Sagicor
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T00:09:48Z",
+  "updated": "2026-11-01T06:07:51Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "df34a5175ef5",
+      "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
+      "source": "WSJ",
+      "date": "2026-10-31T16:04:11Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3?oc=5",
+      "isNew": false
+    },
     {
       "id": "477930c09350",
       "title": "Money Managers Worry About AI-Linked Default Clauses as Private Equity Tries New Tactic",
@@ -80,21 +90,21 @@
     {
       "id": "02792ca69ef3",
       "title": "ECB flags December hike but sees yield rise hitting growth",
-      "source": "Yahoo Finance",
-      "date": "2026-10-29T16:16:27Z",
+      "source": "Reuters",
+      "date": "2026-10-29T19:25:22Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUhycTZRdjJiYTF0dUhjNmVIa1lsN3lHU1FpSjBGTDVjVVM5TWNmTlMxYm1rMUEyMjNvMXpHeWk4QnYzdTlTUW9vVmtOVGdCQUl3T1pwUHlGdXVDMFlWb1JqZHV1aDJXbkhORy1DWFlCUGdramdrWHBoQWowZFc3ak5UUDNPMU9uWW0xeFVvNDR2MDdLSUotUjY0bXRjUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
       "isNew": false
     },
     {
-      "id": "df34a5175ef5",
-      "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
-      "source": "WSJ",
-      "date": "2026-10-29T15:23:00Z",
+      "id": "192a50c53f6e",
+      "title": "ECB keeps rates unchanged; euro and bond yields fall",
+      "source": "Merced Sun-Star",
+      "date": "2026-10-29T14:48:07Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVFEVEJBNExRSlc3MFVlNE5YUThYdS1UWGEwaC1WSlZIT3M2V0lVTkYzRTdrWGFwNU1nRmt2RU51enZRVlJxY3h1SmRpOGppdnRlTHJVNzV4NDZTTF9scVROXzk2dUM3WmhqQlAwUC1yOFFTRlFuaF9kYnh5Um8yTEtTYjU?oc=5",
       "isNew": false
     },
     {
@@ -105,16 +115,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaW1qbHNSVGx1NmJLbWptNWFXbDIzd0kzcFZmMFF3THNVV1FHQzdLRkdMc0VPRHpEdkhjOHdpWGlfV2VwS0VKMndaU2dzLWJsRTJ6UUhtckpHMFZrREZGckl4M2szX1ZvSEs5Nzk3am00d05GWm1yWjN2aXg0NWVoZmxkSjF4WkFFZnhlQWZwZ2JfbkdCWHp2MUhFNWJzZUxj?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "192a50c53f6e",
-      "title": "ECB keeps rates unchanged; euro and bond yields fall",
-      "source": "Yahoo Finance",
-      "date": "2026-10-29T14:03:27Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNNWEE2SXlXM282Q21ieUY1bVVoSm8yNm1NN0FZYzJTUnhaYWdsdW5oalhhTzFmMUd2NXBnYjJwT0VIRlpIX1VyX3RlSEJpNUMyS3B4R3ZzempnamlXSGwzX1FGYWZpR01mR29WejFYTHp2eVR0MG0yX0hEb3pqQWl1X2ZXXzA4MGpxbExTUmdGS2xTUjhpWWJDRQ?oc=5",
       "isNew": false
     },
     {
@@ -130,11 +130,21 @@
     {
       "id": "3cde02ea5fb3",
       "title": "HSBC Seeks to Hedge Data Center Debt With Credit Risk Insurance",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-29T12:20:04Z",
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFFVa1k4M0piYVUxbnl0RERBMS1XR0NKZ1JpX1NFV3R3em4zNGVGem1xZVV1ZTB3YWR6UkRnYTFqWDZKT1hjTk1VY3RxcHlsaTBjaDRaT2xBQVpjVHpzS0pNY1U2amdZSFB1VDhWdG96YWwxejNxZ1BZUjBxeE5BOUNsUzdEN21qalpmYzBYT1RvODljR0tXd2F6cTRIQWdjZmhQT3FtbmhSUnp3UFRkQUVmNDM?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "c6e23b3a0e04",
+      "title": "Private credit: More Casper the Friendly Ghost than A Nightmare on Elm Street",
+      "source": "https://bondvigilantes.com/",
+      "date": "2026-10-29T11:30:37Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlNTMXB4Qi0wZWNET0N6SE96OUZUNTljWlhBdWh5eUNVYmNrMWxxMlNYVWFLcXVTYW1PTWdyay1OUWdVc0NNUzVEZUNpNHlOMG1BVjlvWFBoRDk5eTBDV2xJTnRFQWJTVmpRTlBINTlGa05NaUdEci1rTGFNUkZpaVh6cS1kTHktRGVfTzlzRFZ1YVZzb2Z5RzA0TDJ4c295UFQxOHVUUmVpZzk4RUxJYlN0b2prQk9X?oc=5",
       "isNew": false
     },
     {
@@ -295,16 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQm1wSW1OUF9iUVRabFdtUFBDaTl4TUthaHJqWUM3Tnc0Q05YTnZ4UWNGa0Y0Mk5aRWt6aXRvUVlnaVROcWZQNUVrLUtVa1dkbksybTY2UFVaVEtZbEdCWlAtUEhHNEkxR3JoSC1COTJvLTcxOFlySGZ4LVhvVkpqUldma19IY0JLb296aEJsWFRuQVI1akI5ZEJIYUZBSFFDMjJhc1RDTUYtQm8tSHhPalk4M0JXTGdwUWpzLQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "b2d7099a3546",
-      "title": "BlackRock survey highlights growing role of partnerships in insurers\u2019 operating models",
-      "source": "Reinsurance News",
-      "date": "2026-10-27T09:01:14Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUhsdllaNE9BMkQxWUVXZlBELXVIYzdURUZmaFRQb1ZINmp2TjRQdUxmQUxxeXV0bUIwanAxNW8wU05HWEM5TFp5UkNnQmNpNlMxQVQ5ZFNWMG9zS2ZxZU40a0tNRDJkandFU1NsZ2NxaE1IYVdaMXVFcG9EQzF0Z0xzZzNCaERZQ3VtUHFQV0FBeVZFOU0tQ1RwVk1KS1BLSVVPdkhaaHRpX3I0ZF9aelBkcVM0QQ?oc=5",
       "isNew": false
     }
   ]

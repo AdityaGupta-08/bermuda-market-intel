@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T00:09:51Z",
+  "updated": "2026-11-01T06:07:54Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -118,7 +118,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
       "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-31T04:44:05Z",
+      "date": "2026-10-31T01:05:24Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -401,22 +401,22 @@
       ]
     },
     {
-      "id": "6dced9ddd384",
-      "title": "Reinsurance Group of America (NYSE:RGA) Given New $250.00 Price Target at TD Cowen",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUm9BZUpUN3VHX3lpN0JjUmxBSWh3dVpmbE9OR2s2N2ZTUlBMSGkxVnpyWlFnVGFOM0wxQm5IZ3d3Q3hFMlZZcEJNanRfVHc3MTBFOGszZkJJSk85QkZNWks5X3FqR3VNN2xsZ20zVWl2ZHZTNFd5bkN0QnEtZU4wdjZPcTh4cHdubWlGdVRJWGk3SG93cXJwUkRUMUhlaHdfektpYkFlbm9wQTh4aFgtTnNRQWtqLTk2R005V1k1Rk5OX2taWEZqM2RoanU5c0l3bUJQWGR1RQ?oc=5",
-      "source": "MarketBeat",
+      "id": "74fc167508e2",
+      "title": "Reinsurance Group of America (NYSE:RGA) Stock Forecast & Analyst Predictions",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcXVZQktZLVBmSVlrX3JyLWgzaFBSZmY2ekYzei05OTJReW5FWXVHVHYybjFzNVh0ZUNaVnlpdnZraXV6WC1UcVJkc2Z6WXh4aDZHRlZyQTBYSUhTb2c2X25aLWcyWVJ5UFBFbHRFSThabUNXbHpDb1hvc1Q4TnY5OTVDWUVnYk9MMWhocFFlbw?oc=5",
+      "source": "Simply Wall St",
       "feed": "Google News: RGA",
-      "date": "2026-10-21T13:52:23Z",
+      "date": "2026-10-21T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "74fc167508e2",
-      "title": "Reinsurance Group of America (NYSE:RGA) Stock Forecast & Analyst Predictions",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcXVZQktZLVBmSVlrX3JyLWgzaFBSZmY2ekYzei05OTJReW5FWXVHVHYybjFzNVh0ZUNaVnlpdnZraXV6WC1UcVJkc2Z6WXh4aDZHRlZyQTBYSUhTb2c2X25aLWcyWVJ5UFBFbHRFSThabUNXbHpDb1hvc1Q4TnY5OTVDWUVnYk9MMWhocFFlbw?oc=5",
-      "source": "Simply Wall St",
+      "id": "6dced9ddd384",
+      "title": "Reinsurance Group of America (NYSE:RGA) Given New $250.00 Price Target at TD Cowen",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUm9BZUpUN3VHX3lpN0JjUmxBSWh3dVpmbE9OR2s2N2ZTUlBMSGkxVnpyWlFnVGFOM0wxQm5IZ3d3Q3hFMlZZcEJNanRfVHc3MTBFOGszZkJJSk85QkZNWks5X3FqR3VNN2xsZ20zVWl2ZHZTNFd5bkN0QnEtZU4wdjZPcTh4cHdubWlGdVRJWGk3SG93cXJwUkRUMUhlaHdfektpYkFlbm9wQTh4aFgtTnNRQWtqLTk2R005V1k1Rk5OX2taWEZqM2RoanU5c0l3bUJQWGR1RQ?oc=5",
+      "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-21T07:00:00Z",
       "summary": "",
@@ -1334,18 +1334,6 @@
       "summary": "",
       "companies": [
         "Athene"
-      ]
-    },
-    {
-      "id": "a992038e6b80",
-      "title": "Aspida Holdings welcomes Sarfatti as Chief Risk Officer",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaTZwXzUzNmRxS29Dcm45VVBwaHJveHRCV3pOVVdLQV9ZekM1dXFYdjZYWFd6c2hQMWxWX3l5YVR2VUJqZFhDMXgyX2JGSU1aNGdCUDB1M1ZaTGJfTTBpRXB5c2d4c2pmM0ZFU3IwOGNuR21STWJyRy1FNTREdW8wYlIzTTB2UnJIb3BhMld3?oc=5",
-      "source": "Reinsurance News",
-      "feed": "Google News: Aspida",
-      "date": "2026-09-17T05:02:15Z",
-      "summary": "",
-      "companies": [
-        "Aspida"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T13:27:45Z",
+  "updated": "2026-11-01T19:43:01Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -28,6 +28,16 @@
       "isNew": false
     },
     {
+      "id": "395696970d71",
+      "title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
+      "source": "WSJ",
+      "date": "2026-10-30T19:35:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
+      "isNew": false
+    },
+    {
       "id": "53bfe603ec9d",
       "title": "The AI Data Center Boom Has A Wall Street Risk Problem",
       "source": "Forbes",
@@ -35,16 +45,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZS04SHZ4TDhUOGNsQlprLXlyV2Z4cEZKX3N4cWNWcVdpTVpiN05vbjExUjZBbW1TamtYN1pMTXBiV0ktZ1FxbWJuX2w4Y1pXT0hkbUZLcTdER1Q0WC1qa1BwRVpiYXZxSHQ2aDU2SnVGeHZEazBiM210WkhkTTlRN29paHNZOUcwVzlqU2N1YlcydmFoXzZnUEpZdlBuNzJqQXlPZmw2VDlmdWk1em1mVE9ETmlRc1FzVnVjMg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "395696970d71",
-      "title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
-      "source": "WSJ",
-      "date": "2026-10-30T18:03:46Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
       "isNew": false
     },
     {

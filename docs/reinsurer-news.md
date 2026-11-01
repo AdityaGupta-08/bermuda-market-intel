@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 24 items
-Generated Sun 01 Nov 2026, 02:07 AST
+Bermuda life & annuity watchlist — last 14 days — 23 items
+Generated Sun 01 Nov 2026, 09:27 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 62 items
+- ✅ **Google News (16 of 16 companies)** — 58 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -51,7 +51,6 @@ Generated Sun 01 Nov 2026, 02:07 AST
 
 - **2026-10-27** — kalkine.ca — [How Well Do Sagicor Financial’s (TSX:SFC) Core Earnings Cover Its US Dollar Dividend?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVRHQzYtUmRBNlVjUGJhajFTdnFKZlNINHZ5eWVaOVBicHkzMW1aNkZ5ZnNoS3ZnVHRzZDhzQlhqemx4Q2Fma2xMZmVwSGJDbXpNOG5Vc1JNNG1zbGltaU1LMEJ4QUpTTE5OcnRYUzFXVjM3TE53UEh6b2FQNXM3MFpOR2lEQVJPVlFWWFFJSHdCanJyeXZ5WnBobmtBOC1DdVE3ODhCa2tidWRxcXJrSkxLd0N0Mzh1V2FuMA?oc=5)
 - **2026-10-19** — Traders Union — [Sagicor ratings affirmed by Fitch with stable outlook](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDFUa0F5dFRmRlNVNWR4bGV1Q3A0QlNWbURLR0JmZEU4VkhKVWNRc0x3cU0teEFQUURlOVVMa25wdVpCaEpiUmlyYi0tcGhjMUFPOFdhYm5vRkViYlpqa1FJZHk3V3NJdEY5UVJZVjMzRzdBdi1kRVpTMmNnSHBhZG43TEpqTmJYR3BmRy1mN0NTbkFN?oc=5)
-- **2026-10-18** — Jamaica Observer — [Sagicor’s Caribbean deal heads to shareholder vote](https://news.google.com/rss/articles/CBMilAFBVV95cUxNckRJeFFyMXNUUHBTUmRmUERlWkl6bXZNdXAxTG00VWw1MVpoSFNteUZvaEhJNG5kTGtXUE1XSi0teURIYUV0UTl3ajB3cmJPTjFMcWJqcmhHOE55Tmc2WExNVTc2OVlTNjRwTnBER043X0hMUVh0X1lDanpJV3hfS2NheTk1WUVEeHZSYTdKLVkwY3BU?oc=5)
 
 ## Catalina
 

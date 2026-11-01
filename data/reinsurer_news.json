@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T06:07:54Z",
+  "updated": "2026-11-01T13:27:47Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 20,
+      "count": 19,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T19:43:04Z",
+  "updated": "2026-11-02T00:46:39Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 19,
+      "count": 18,
       "error": null
     },
     {
@@ -293,24 +293,24 @@
       ]
     },
     {
-      "id": "c758a026209d",
-      "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-24T14:32:46Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "3253b261809f",
       "title": "Reinsurance Group of America, Incorporated $RGA Holdings Lessened by Inspire Investing LLC",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmNwNTZuUkstT1NxWGFhNnlnQXhhdmktQVQ0MUxERnBobnJ6REtFNVNzdFFNLVFtak0zN21fYzZIZGkwYUFHbWpoMWtUZThTOWZGVVhDWnhkdjVnbUZnRnd1T0JPOEZGb29sUTgwTVZQVE9nREQ0RWRhRlBOLTUyYmNRaUs4bHZ2RG9YMGlFTUpQTlRldlE5SjhSUTI2eXMzNTc2eWNOVk9KbXJScjlzVGdhNUNMOUp3QXROLU5OcEV0bVJEbktwOEo4Ym5fNmR5dTJpUy1jQk1iM1JvQXZHWTNUVQ?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-24T13:55:29Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "c758a026209d",
+      "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-10-24T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -437,18 +437,6 @@
       ]
     },
     {
-      "id": "9e7590227165",
-      "title": "Sagicor ratings affirmed by Fitch with stable outlook",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDFUa0F5dFRmRlNVNWR4bGV1Q3A0QlNWbURLR0JmZEU4VkhKVWNRc0x3cU0teEFQUURlOVVMa25wdVpCaEpiUmlyYi0tcGhjMUFPOFdhYm5vRkViYlpqa1FJZHk3V3NJdEY5UVJZVjMzRzdBdi1kRVpTMmNnSHBhZG43TEpqTmJYR3BmRy1mN0NTbkFN?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News: Sagicor",
-      "date": "2026-10-19T18:20:39Z",
-      "summary": "",
-      "companies": [
-        "Sagicor"
-      ]
-    },
-    {
       "id": "c521dbbf7c45",
       "title": "Athene Announces Third Quarter 2026 Fixed Income Investor Call",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzROWDdIa0hQemZlWVVuSHBfSG1sWUFLZXlPMmxoeU41ZndzUWlROHdocDJLbjR0aHBRUDNIZ0Y2UTNQSU10ZU1RYWFTTEVqVWY2QzUzcE8wb2ctZ0ozeUdtYWFRcEV2N0UxZUx4RDhOTkczOV9VLWt1eTlqT2ZhUzRKeGx3VHJRd1kyNWNHZkRueS1wajBhdWo4NGR2SjZ6b0E?oc=5",
@@ -482,6 +470,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "9e7590227165",
+      "title": "Sagicor ratings affirmed by Fitch with stable outlook",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDFUa0F5dFRmRlNVNWR4bGV1Q3A0QlNWbURLR0JmZEU4VkhKVWNRc0x3cU0teEFQUURlOVVMa25wdVpCaEpiUmlyYi0tcGhjMUFPOFdhYm5vRkViYlpqa1FJZHk3V3NJdEY5UVJZVjMzRzdBdi1kRVpTMmNnSHBhZG43TEpqTmJYR3BmRy1mN0NTbkFN?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News: Sagicor",
+      "date": "2026-10-19T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
       ]
     },
     {

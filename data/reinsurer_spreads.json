@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T11:10:19.372058Z",
+  "updated": "2026-11-02T21:44:28.683430Z",
   "quarters": 12,
   "parser_version": 2,
   "companies": [
@@ -1337,14 +1337,6 @@
           "unit": "usd_m",
           "points": [
             {
-              "quarter": "2023Q3",
-              "value": 813.0,
-              "filed": "2024-11-04",
-              "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000050/corebridgefinancial-pressr.htm",
-              "source": "sec"
-            },
-            {
               "quarter": "2023Q4",
               "value": 820.0,
               "filed": "2025-02-12",
@@ -1403,9 +1395,9 @@
             {
               "quarter": "2025Q3",
               "value": 654.0,
-              "filed": "2025-11-03",
+              "filed": "2026-11-02",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000156/corebridgefinancial-pressr.htm",
               "source": "sec"
             },
             {
@@ -1431,6 +1423,14 @@
               "form": "8-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
               "source": "sec"
+            },
+            {
+              "quarter": "2026Q3",
+              "value": 677.0,
+              "filed": "2026-11-02",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000156/corebridgefinancial-pressr.htm",
+              "source": "sec"
             }
           ]
         },
@@ -1438,14 +1438,6 @@
           "label": "Base spread income",
           "unit": "usd_m",
           "points": [
-            {
-              "quarter": "2023Q3",
-              "value": 918.0,
-              "filed": "2024-11-04",
-              "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000050/corebridgefinancial-pressr.htm",
-              "source": "sec"
-            },
             {
               "quarter": "2023Q4",
               "value": 987.0,
@@ -1505,9 +1497,9 @@
             {
               "quarter": "2025Q3",
               "value": 880.0,
-              "filed": "2025-11-03",
+              "filed": "2026-11-02",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000156/corebridgefinancial-pressr.htm",
               "source": "sec"
             },
             {
@@ -1532,6 +1524,14 @@
               "filed": "2026-08-04",
               "form": "8-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000137/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q3",
+              "value": 876.0,
+              "filed": "2026-11-02",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000156/corebridgefinancial-pressr.htm",
               "source": "sec"
             }
           ]
@@ -1559,7 +1559,8 @@
           "0001889539-23-000023": 2,
           "0001889539-23-000016": 2,
           "0001140361-23-023574": 2,
-          "0001140361-23-022946": 2
+          "0001140361-23-022946": 2,
+          "0001889539-26-000156": 2
         },
         "points": {
           "earnings": {
@@ -1607,9 +1608,9 @@
             },
             "2025Q3": {
               "value": 654.0,
-              "filed": "2025-11-03",
+              "filed": "2026-11-02",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000156/corebridgefinancial-pressr.htm",
               "source": "sec"
             },
             "2024Q3": {
@@ -1668,11 +1669,11 @@
               "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000003/corebridgefinancial-pressr.htm",
               "source": "sec"
             },
-            "2022Q2": {
-              "value": 611.0,
-              "filed": "2023-08-04",
+            "2026Q3": {
+              "value": 677.0,
+              "filed": "2026-11-02",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953923000016/corebridgefinancial-pressr.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000156/corebridgefinancial-pressr.htm",
               "source": "sec"
             }
           },
@@ -1721,9 +1722,9 @@
             },
             "2025Q3": {
               "value": 880.0,
-              "filed": "2025-11-03",
+              "filed": "2026-11-02",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000096/corebridgefinancial-pressr.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000156/corebridgefinancial-pressr.htm",
               "source": "sec"
             },
             "2024Q3": {
@@ -1766,6 +1767,13 @@
               "filed": "2024-07-31",
               "form": "8-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953924000027/corebridgefinancial-pressr.htm",
+              "source": "sec"
+            },
+            "2026Q3": {
+              "value": 876.0,
+              "filed": "2026-11-02",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1889539/000188953926000156/corebridgefinancial-pressr.htm",
               "source": "sec"
             }
           }

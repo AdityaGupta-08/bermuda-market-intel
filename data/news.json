@@ -1,12 +1,31 @@
 {
-  "updated": "2026-11-02T11:10:22Z",
+  "updated": "2026-11-02T21:44:32Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
-    "Rates & Macro",
-    "Structured Credit"
+    "Rates & Macro"
   ],
   "items": [
+    {
+      "id": "8914709ef1f2",
+      "title": "Are These 4 Insurance Stocks Set to Beat Q3 Earnings Estimates?",
+      "source": "TradingView",
+      "date": "2026-11-02T13:35:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYTFfYy1maHJuaFh3RmtUemVQWGk5TFRoTFQzOEVKNnJRZFJWbTdHTWI0N2ZSMjVRQ1doOFNuWGJ6R0ZybzFDcXd4cnRDeVltVXhRa2pMSkRQMTc0SS0wUXBiQTBsNENhd3lwRWRNRTV4OVloNkpEVUZlUFBHRUFUc1RKaHFzQnNEaGFHM0QtQ1dNTE9VVzVRcjlJRFFaNDFoNUx4WUFDS09wNXlEaVkwOXY3bVo1MFFxSWc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "29e809daeb8f",
+      "title": "Harel Insurance Investments and Financial Services to report third quarter 2026 financial results on November 23, 2026",
+      "source": "Morningstar",
+      "date": "2026-11-02T07:32:56Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZG0zLU14UWxPNmhJU3dpdDJqSW9kV2VSaXZBQ2Y4Z2YwUWxidGxHM1V1ekkyZS1XSGhFSlBuZ05SUVhHcGp4TzJSOWJEazJ4YktRZHdzeWZlRnQxZlRuak9QU3ROTldzYVkwcmxGRE05YVYwOEFZX1RnSG1DZUdpMEhWUnVoeG95S0wwWGdvWlZoVUt5aXVxb2VKUDRvUlhKUkwyVFVranJrcmt3MjlVNnN0bzhrOGZRT25rallNU3QxdXI0NXhTaTZXajAyNGRES3VRRG9BQXF1TXNlR1doTU9DRnpCc0g4aFRvc2xUYXBMZnVuV0JaeVd0d0FaV3dfaVZPUENGTkNudw?oc=5",
+      "isNew": false
+    },
     {
       "id": "4a696406f04e",
       "title": "MAS moves to spur infrastructure investments by easing capital requirements for insurers",
@@ -15,16 +34,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkppTmFzSXNzdXA4UWk1R3lxRHpDbjJhdnhUV2tUazdwcUFSUE54RXNMSmk4eThINFlYVXpFWmczSUdjV0p5SnB0b1FRSWVPMk9PcWQ0aGpUNjdXX29TSjJQRkFfcVVkcDIzRE5PSWU3aXdTVHllRWpicUNYOW5DWldiZFhaUEp5bi1HLVhIQTg4QzFjTlZkdjVNYUtESHdNWWhVVm82QWhEWl85VWFsNExTY0Z5QTJYSzJyZlhEcTF2aGZIRi1Wbg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "29e809daeb8f",
-      "title": "Harel Insurance Investments and Financial Services to report third quarter 2026 financial results on November 23, 2026",
-      "source": "TradingView",
-      "date": "2026-11-02T06:52:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTlRUTWNMTFlWYjg2amJxQjNMcEo1Y2tGVFJOTEl5dFhxeTFKeVVwRG5RYXJxRkJpbUxJTmhTUUNranNqd2RVckRZWVRxZjNfaExxWUtYV1BQNl8tS0MzeVc1bER0cHJfQ3F3dmF2aUtKQnZkanJLQjBxbHZ5c3hOdWNmQTZ2bkdSNnZyTjJvbmlrNzNtX3Y0WnlTMHVabE1McDFkN2JTQjBiTmNndnRxN19TOS1nVmJlZkhrZmFGTlppV0NDN2hYbDdiSTVlU3VZaUxOWVM3V1VTMVVfbkc1ZHJXQUpQVGlQa2xLamFSZDVkUV9NTGJSN2hfcEIxUkRrT2RNbHZtUF91dw?oc=5",
       "isNew": false
     },
     {
@@ -141,7 +150,7 @@
       "id": "192a50c53f6e",
       "title": "ECB keeps rates unchanged; euro and bond yields fall",
       "source": "Yahoo Finance",
-      "date": "2026-10-29T14:03:27Z",
+      "date": "2026-10-29T14:20:15Z",
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNNWEE2SXlXM282Q21ieUY1bVVoSm8yNm1NN0FZYzJTUnhaYWdsdW5oalhhTzFmMUd2NXBnYjJwT0VIRlpIX1VyX3RlSEJpNUMyS3B4R3ZzempnamlXSGwzX1FGYWZpR01mR29WejFYTHp2eVR0MG0yX0hEb3pqQWl1X2ZXXzA4MGpxbExTUmdGS2xTUjhpWWJDRQ?oc=5",
@@ -288,23 +297,13 @@
       "isNew": false
     },
     {
-      "id": "7dc9ec72eb8c",
-      "title": "How will central banks react to higher bond yields?",
-      "source": "Oxford Economics",
-      "date": "2026-10-28T08:20:47Z",
+      "id": "d89aa6a9ef29",
+      "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+      "source": "CNBC",
+      "date": "2026-10-28T09:22:26Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUw0U2JJb00yVHVabFNsQmZjUkhONzR1cjZmOC0tUjJlSUJsb1RKZE5rZzVQT2tnN01XeDQxTkFnTThpc3pMckhCXzdOZGdIVUpCMUFkaENiZ2FoV0tsc3lJSlBsa29jTC1TUGstMEZCcUlFZHRLaWJZS3dtRkpyMHNSZkpxR2xVd3Q0aXhlVGZDbTZyOHJB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "12178cb62355",
-      "title": "2026 ABS East Conference Takeaways: Overcast Skies",
-      "source": "Seeking Alpha",
-      "date": "2026-10-28T07:05:00Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblJLWFRlbnhudWxva21jdHY0aHdoOE9NY0VSME9YTWFHX1l0TUxIZWR5c3V4T3ZHbmZIWVNQSXFHOEZOLVVoRkN0Y0w2OUE0clc0Ul9uLVppNFlQRW44LWJGaF81U0Q4UXRUY0RhOUFwNmgwUTZWMXhHV2EzbXQwcmNtWHQ3dC1pOHMyNEFLQUFRbDNv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblEzWWhhd29Pcm51emZVLUtkQ0FHb3FFYTBBRTlsTU9MN1lKQVl5eDVGUjJPYnpfTm8tV2JteFlEbVkxbV9WNHhvbHdUQ0JYOWk4YkVObXhrUlRDQ0ZLTHhNcUtCRVdRLVU5TXYyN2RLUVFRMHR5SklNMXB5eUt4RnNaZknSAYoBQVVfeXFMT19ETGtYNWFfbnVCbTdXTkoxYVBJN25Vd0xUeE1zVmxVVXlHbFhMUHZOX2Q1VGNKTmx4aTNUd0R2WVloQXF1Y2JLUHRzc0ZRaXRKRjY2UGo2R29ucndXc05LczJQQU9pekw1TmhfT0YzTm9pbEhuRUl1WHRrRThBSWJWTmxISEd3WHJB?oc=5",
       "isNew": false
     }
   ]

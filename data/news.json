@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T00:46:37Z",
+  "updated": "2026-11-02T11:10:22Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,6 +8,26 @@
   ],
   "items": [
     {
+      "id": "4a696406f04e",
+      "title": "MAS moves to spur infrastructure investments by easing capital requirements for insurers",
+      "source": "The Business Times",
+      "date": "2026-11-02T07:02:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkppTmFzSXNzdXA4UWk1R3lxRHpDbjJhdnhUV2tUazdwcUFSUE54RXNMSmk4eThINFlYVXpFWmczSUdjV0p5SnB0b1FRSWVPMk9PcWQ0aGpUNjdXX29TSjJQRkFfcVVkcDIzRE5PSWU3aXdTVHllRWpicUNYOW5DWldiZFhaUEp5bi1HLVhIQTg4QzFjTlZkdjVNYUtESHdNWWhVVm82QWhEWl85VWFsNExTY0Z5QTJYSzJyZlhEcTF2aGZIRi1Wbg?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "29e809daeb8f",
+      "title": "Harel Insurance Investments and Financial Services to report third quarter 2026 financial results on November 23, 2026",
+      "source": "TradingView",
+      "date": "2026-11-02T06:52:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTlRUTWNMTFlWYjg2amJxQjNMcEo1Y2tGVFJOTEl5dFhxeTFKeVVwRG5RYXJxRkJpbUxJTmhTUUNranNqd2RVckRZWVRxZjNfaExxWUtYV1BQNl8tS0MzeVc1bER0cHJfQ3F3dmF2aUtKQnZkanJLQjBxbHZ5c3hOdWNmQTZ2bkdSNnZyTjJvbmlrNzNtX3Y0WnlTMHVabE1McDFkN2JTQjBiTmNndnRxN19TOS1nVmJlZkhrZmFGTlppV0NDN2hYbDdiSTVlU3VZaUxOWVM3V1VTMVVfbkc1ZHJXQUpQVGlQa2xLamFSZDVkUV9NTGJSN2hfcEIxUkRrT2RNbHZtUF91dw?oc=5",
+      "isNew": false
+    },
+    {
       "id": "df34a5175ef5",
       "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
       "source": "WSJ",
@@ -15,16 +35,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "477930c09350",
-      "title": "Money Managers Worry About AI-Linked Default Clauses as Private Equity Tries New Tactic",
-      "source": "Bloomberg.com",
-      "date": "2026-10-30T23:01:04Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVmtHTDVQc280TzlXblF3SjVyYlo3Yk90bUxkd01wLUhBbEY2UkVEZWZiVThNZkRYR3ltMmplUTM5NnpXMDZFMTJnMXFMQ2NtaHZtcnp2TGpfNFpMaldYZWliQ3BRbkdONi1yazFfSUFycmQ4UWR2cFRTemYzNHRoYkhFOThfVGFIUnMyMGJ3blJ5TW5LTEs3LUxMNU1IaVlkRkNxaGhNMmNLUmQyN1d3Z1ItTTQ4TXZYMVdfLTVFRmpiTlhPSG5RajJQOFJ3TzZzdkc0Ykp2T2U?oc=5",
       "isNew": false
     },
     {
@@ -68,6 +78,16 @@
       "isNew": false
     },
     {
+      "id": "477930c09350",
+      "title": "Money Managers Worry About AI-Linked Default Clauses as Private Equity Tries New Tactic",
+      "source": "Bloomberg.com",
+      "date": "2026-10-30T11:00:29Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVmtHTDVQc280TzlXblF3SjVyYlo3Yk90bUxkd01wLUhBbEY2UkVEZWZiVThNZkRYR3ltMmplUTM5NnpXMDZFMTJnMXFMQ2NtaHZtcnp2TGpfNFpMaldYZWliQ3BRbkdONi1yazFfSUFycmQ4UWR2cFRTemYzNHRoYkhFOThfVGFIUnMyMGJ3blJ5TW5LTEs3LUxMNU1IaVlkRkNxaGhNMmNLUmQyN1d3Z1ItTTQ4TXZYMVdfLTVFRmpiTlhPSG5RajJQOFJ3TzZzdkc0Ykp2T2U?oc=5",
+      "isNew": false
+    },
+    {
       "id": "0bf378436a53",
       "title": "U.S. Treasury Yields Fall; Eurozone Bond Yields Mixed After GDP Data",
       "source": "WSJ",
@@ -75,6 +95,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "8d9d3c15baeb",
+      "title": "Fed Holds Rates as Interest Costs on the National Debt Top $1 Trillion",
+      "source": "Peter G. Peterson Foundation",
+      "date": "2026-10-30T08:32:11Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDUwcVc3Rm02OE55el9YcGJxY3JYT3pGY2l3UWRZVk03MGlHVWhpd09MMUxPTExtTHplLVVjcDlfVGpiTEd6THBMaEZieElPZ0tBMks0YUpJVEltd3Q0bDMtcC0tblFDckdpUy1qSTFkcXFuRVpOUlUyZldpWGtWY1NNRmc2c3haN1VoVU5SQjV1N1RfU2hjcS1zdXhkNng5?oc=5",
       "isNew": false
     },
     {
@@ -98,16 +128,6 @@
       "isNew": false
     },
     {
-      "id": "192a50c53f6e",
-      "title": "ECB keeps rates unchanged; euro and bond yields fall",
-      "source": "Merced Sun-Star",
-      "date": "2026-10-29T14:48:07Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVFEVEJBNExRSlc3MFVlNE5YUThYdS1UWGEwaC1WSlZIT3M2V0lVTkYzRTdrWGFwNU1nRmt2RU51enZRVlJxY3h1SmRpOGppdnRlTHJVNzV4NDZTTF9scVROXzk2dUM3WmhqQlAwUC1yOFFTRlFuaF9kYnh5Um8yTEtTYjU?oc=5",
-      "isNew": false
-    },
-    {
       "id": "04b53ce8e331",
       "title": "Market Chatter: HSBC in Talks With Insurers to Offload Data Center Loan Risk",
       "source": "Yahoo Finance",
@@ -115,6 +135,16 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaW1qbHNSVGx1NmJLbWptNWFXbDIzd0kzcFZmMFF3THNVV1FHQzdLRkdMc0VPRHpEdkhjOHdpWGlfV2VwS0VKMndaU2dzLWJsRTJ6UUhtckpHMFZrREZGckl4M2szX1ZvSEs5Nzk3am00d05GWm1yWjN2aXg0NWVoZmxkSjF4WkFFZnhlQWZwZ2JfbkdCWHp2MUhFNWJzZUxj?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "192a50c53f6e",
+      "title": "ECB keeps rates unchanged; euro and bond yields fall",
+      "source": "Yahoo Finance",
+      "date": "2026-10-29T14:03:27Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNNWEE2SXlXM282Q21ieUY1bVVoSm8yNm1NN0FZYzJTUnhaYWdsdW5oalhhTzFmMUd2NXBnYjJwT0VIRlpIX1VyX3RlSEJpNUMyS3B4R3ZzempnamlXSGwzX1FGYWZpR01mR29WejFYTHp2eVR0MG0yX0hEb3pqQWl1X2ZXXzA4MGpxbExTUmdGS2xTUjhpWWJDRQ?oc=5",
       "isNew": false
     },
     {
@@ -145,6 +175,16 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlNTMXB4Qi0wZWNET0N6SE96OUZUNTljWlhBdWh5eUNVYmNrMWxxMlNYVWFLcXVTYW1PTWdyay1OUWdVc0NNUzVEZUNpNHlOMG1BVjlvWFBoRDk5eTBDV2xJTnRFQWJTVmpRTlBINTlGa05NaUdEci1rTGFNUkZpaVh6cS1kTHktRGVfTzlzRFZ1YVZzb2Z5RzA0TDJ4c295UFQxOHVUUmVpZzk4RUxJYlN0b2prQk9X?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "487e0996d83d",
+      "title": "Interest rates and monetary policy: Economic indicators",
+      "source": "The House of Commons Library",
+      "date": "2026-10-29T07:00:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92Wm8yQUtBUUMySFA5VHVva05qYlNhMkNTTHY5RThzOVE0VUdsZnRJOUFtYlcyODk3Y0RBWERCV2pSWXlST0xWWUpRX3B4V3JDX3k3am8wenJLcVdzTDh4MDhfM3VpUnllTW5QU19Nc3dCQQ?oc=5",
       "isNew": false
     },
     {
@@ -195,6 +235,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "26f1f1f413a7",
+      "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+      "source": "CNBC",
+      "date": "2026-10-28T19:02:45Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEVyM1lDY2RtTmtlRktDOHBrVzR3bGtFajBVSWZLc0xnNUFrbGRwYjR2allBWllLQlZtWlZZeVB2RnlOTGFCX3dINGF4d3d4OVZEWVRYUG1DNXJ2bG5oZFpRS0ZlTm9WQ1kxX1Ribm5KOURXUURBS1JfTUFERVZrS2tsWWlkQmNQUUVWZXJFZ29VZV9nQzJ1dVN5TEXSAaIBQVVfeXFMUHk1Nl9IWTFPaWtFSmJIUXVLVFlFa0NGR3J3WmE3VHhfMVpTZW80MEhDaTQtRmVjRWFSZWFxM2ZXUjRBSWtRV0JSZkRTeDhpUkFFRnlWSk80T0N0UFMwMmVfeUszVjJrOUkxNGhRTDMwbHJXcDN5cG1LajcwNTlxemNubkRFZTk3Q1dmLVhVdE5aSHI2X1kzMUp0dW5qQjJPQnN3?oc=5",
       "isNew": false
     },
     {
@@ -255,56 +305,6 @@
       "topic": "Structured Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblJLWFRlbnhudWxva21jdHY0aHdoOE9NY0VSME9YTWFHX1l0TUxIZWR5c3V4T3ZHbmZIWVNQSXFHOEZOLVVoRkN0Y0w2OUE0clc0Ul9uLVppNFlQRW44LWJGaF81U0Q4UXRUY0RhOUFwNmgwUTZWMXhHV2EzbXQwcmNtWHQ3dC1pOHMyNEFLQUFRbDNv?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8d9d3c15baeb",
-      "title": "Fed Holds Rates as Interest Costs on the National Debt Top $1 Trillion",
-      "source": "Peter G. Peterson Foundation",
-      "date": "2026-10-28T07:00:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDUwcVc3Rm02OE55el9YcGJxY3JYT3pGY2l3UWRZVk03MGlHVWhpd09MMUxPTExtTHplLVVjcDlfVGpiTEd6THBMaEZieElPZ0tBMks0YUpJVEltd3Q0bDMtcC0tblFDckdpUy1qSTFkcXFuRVpOUlUyZldpWGtWY1NNRmc2c3haN1VoVU5SQjV1N1RfU2hjcS1zdXhkNng5?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f0d1c18f549c",
-      "title": "ALIRT Insurance Research Report Highlights Continued Growth in U.S. Life Insurer Holdings of Alternative Investments",
-      "source": "Yahoo Finance",
-      "date": "2026-10-27T12:46:00Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnV1RWt5bTVnUEJLamp0U1o3Y1FpRkVpaTRsbnlaTXVTd25xS2VvSzB3aG9IU2NBQkEtT2ZyczVtMy1ZVEo3bjJ2WVBEZmc5RzRnZUFZcjNLZFJIZUxxRk5qNVRvYU5OMDlxcURrMmc2TGlNQVVTNXdVUDhFV25DTFBoa1FqaGRMUXZZa1NmT1JpR29QdFhSQ0h2NWUzcnNlSFRnYk9LSGlZWlU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ae02d6c230df",
-      "title": "Lumos Insurance Assumes Credit Insurance Business of Mountain Life and Kentucky Home Life",
-      "source": "Yahoo Finance",
-      "date": "2026-10-27T12:21:00Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclREQ2t4UUV5QzJKTlFpVEkzazJpejlJYi1KaTIxUk94eWtiX1o2aXZGd2c5ak56YTVuY1YwU3k0cU5CbkhldmRFdWx0cW45V2JkWTBRbk80VnYxekpXVWlXTUppOGthbGFGVWN3MXFpOE5QbTBWRFhaYmdLWUg0Ui1WQXBrdFZvbzByNWdneUE3SkgxT2wwMjk4WnctbjVYSXU0?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "6883b7c3429d",
-      "title": "2026 Global Insurance Report",
-      "source": "BlackRock",
-      "date": "2026-10-27T11:36:32Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGZsTG5XZm9xNDhzVUw1ZmtzUUVKS2I2cjFTcXVLczZhdWZaVzd4UUxNS0pXSWJWTTJ4NktUeGYxRXAzOHRWMmNYTVRPQnhnSDJIVHoxQXlrc1M1eVVHTHZYaWJLYW1wR1ZPTmMxOXZRZTc2LU1yNnRRQVEyOXA3cEhneHRBQzh6c1EtUjlrUkNhRXlKY3gxQVVnMk4?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "37b8efe8d1ae",
-      "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
-      "source": "The New York Times",
-      "date": "2026-10-27T09:03:48Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQm1wSW1OUF9iUVRabFdtUFBDaTl4TUthaHJqWUM3Tnc0Q05YTnZ4UWNGa0Y0Mk5aRWt6aXRvUVlnaVROcWZQNUVrLUtVa1dkbksybTY2UFVaVEtZbEdCWlAtUEhHNEkxR3JoSC1COTJvLTcxOFlySGZ4LVhvVkpqUldma19IY0JLb296aEJsWFRuQVI1akI5ZEJIYUZBSFFDMjJhc1RDTUYtQm8tSHhPalk4M0JXTGdwUWpzLQ?oc=5",
       "isNew": false
     }
   ]

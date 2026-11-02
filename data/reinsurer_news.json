@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T00:46:39Z",
+  "updated": "2026-11-02T11:10:24Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -23,7 +23,7 @@
     {
       "name": "Google News: Catalina",
       "ok": true,
-      "count": 3,
+      "count": 1,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 18,
+      "count": 19,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -95,13 +95,13 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -113,12 +113,24 @@
   ],
   "items": [
     {
+      "id": "773497fde28a",
+      "title": "Is Reinsurance Group of America (RGA) A Bargain After Its 30% Year To Date Gain?",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSnRQeVZKY1ZhMU9ZOElISEZMMXpUYUZBel9EcE5DVUEwdWYxckhwTUdvNnNubnJzUVNaa1JVVWMyQUlwOG1FNk01Wl9uTm1JLWpmS0dpYXNvN3lqNmhxbVRXbjJJdEhOWlVHRGhhbnlCeXdKaHI2NE00MW82bGRJVG9RbUtoYWZUdmE4ZXNNOEpZU2F0Q3Z1TXdPbVh0UTI2LW9wWUZpcjVsUHIwbTMtQkJOeWFhcVpFOG05cUFiVUdMZ3VVd1VpVjBpaFhoZWFKOWUyRURZWjFSM2pYRFHSAeMBQVVfeXFMUHRoQndaUTBrX0NvUUQ4cHkxWXo2ZndpUkk1YjExM1F1QXBtc1RUX3UybkxyVlRRU1NIdzhPbDlFZTNibkdwaE0yQjhFNmRNYm1NdmYyeGl2QU1CTWtocEp1cEtJVVJSZFp0SEpwRG9SbDZoWGdFRm5hZmFVMFp5QnktNUxlM2FzNjc0R3ZLZE9rYmJJdnd0c0U2TGlrbHY1d0NIcXVXVjdaZ2JmbDR3cThZc2FHUUdSRFB4cjY3T0otQ0ZkbnJvSVVoUmcwWWR0cmI3R3NoeWk3UGRSWThrNVJZbHc?oc=5",
+      "source": "Simply Wall St",
+      "feed": "Google News: RGA",
+      "date": "2026-11-02T02:46:56Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "9e0a35ca35eb",
       "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
       "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-10-31T01:05:24Z",
+      "date": "2026-10-31T07:11:20Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -293,24 +305,24 @@
       ]
     },
     {
-      "id": "3253b261809f",
-      "title": "Reinsurance Group of America, Incorporated $RGA Holdings Lessened by Inspire Investing LLC",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmNwNTZuUkstT1NxWGFhNnlnQXhhdmktQVQ0MUxERnBobnJ6REtFNVNzdFFNLVFtak0zN21fYzZIZGkwYUFHbWpoMWtUZThTOWZGVVhDWnhkdjVnbUZnRnd1T0JPOEZGb29sUTgwTVZQVE9nREQ0RWRhRlBOLTUyYmNRaUs4bHZ2RG9YMGlFTUpQTlRldlE5SjhSUTI2eXMzNTc2eWNOVk9KbXJScjlzVGdhNUNMOUp3QXROLU5OcEV0bVJEbktwOEo4Ym5fNmR5dTJpUy1jQk1iM1JvQXZHWTNUVQ?oc=5",
+      "id": "c758a026209d",
+      "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-10-24T13:55:29Z",
+      "date": "2026-10-24T14:32:46Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "c758a026209d",
-      "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5",
+      "id": "3253b261809f",
+      "title": "Reinsurance Group of America, Incorporated $RGA Holdings Lessened by Inspire Investing LLC",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmNwNTZuUkstT1NxWGFhNnlnQXhhdmktQVQ0MUxERnBobnJ6REtFNVNzdFFNLVFtak0zN21fYzZIZGkwYUFHbWpoMWtUZThTOWZGVVhDWnhkdjVnbUZnRnd1T0JPOEZGb29sUTgwTVZQVE9nREQ0RWRhRlBOLTUyYmNRaUs4bHZ2RG9YMGlFTUpQTlRldlE5SjhSUTI2eXMzNTc2eWNOVk9KbXJScjlzVGdhNUNMOUp3QXROLU5OcEV0bVJEbktwOEo4Ym5fNmR5dTJpUy1jQk1iM1JvQXZHWTNUVQ?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-10-24T07:00:00Z",
+      "date": "2026-10-24T13:55:29Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1322,18 +1334,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "032420a02f82",
-      "title": "Athene settles eight-year legal battle with former director",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTFc2VFFmVXFRWlR6RVFSb1M2US05M0pMa3FnMUNjQ3V5VlBVcUxhRDluWGxiRndHX1RZVFlCVlM5UHJDNjJDcGZJa1lmUHUyd2gtZVNXdkJMNEY0S3RmN0pXekotX3RwTDZBUWk1Umw2bGE5NXFXeldqZl9aVTF1S0dIaFpPcVlwNV9WQ0JWYXl0YmZncERTV0xkUDVobWRTa3g4XzdNNjFzY09NRGtIWUUwVlhuYV9Qd0ZpRG9OcHFsQ0VLcEE?oc=5",
-      "source": "Royal Gazette | Bermuda",
-      "feed": "Google News: Athene",
-      "date": "2026-09-18T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "Athene"
       ]
     }
   ]

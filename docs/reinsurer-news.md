@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 23 items
-Generated Sun 01 Nov 2026, 20:46 AST
+Bermuda life & annuity watchlist — last 14 days — 20 items
+Generated Mon 02 Nov 2026, 07:10 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 58 items
+- ✅ **Google News (16 of 16 companies)** — 53 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -28,13 +28,10 @@ Generated Sun 01 Nov 2026, 20:46 AST
 - **2026-10-25** — Newsweek — [Seeking Value: How Talcott compressed an insurance launch into one year](https://news.google.com/rss/articles/CBMigAFBVV95cUxOU21SQXRtUmdXWGtSYzIyNmQ5ZzhVUlgzQWlWSXJWN0thZzhIV0lFby1ncGNsX0FHZ3dlWjNzMFVFaHpWanBYR1F6MDFXaG1qdVBDa0ZVeUNzek1jNmpvQzdkQmRKREdla09ZcFdDVkJlVjFMWGgwTTlHT2ZmZHZjXw?oc=5)
 - **2026-10-24** — Stocktwits — [LNC Stock Pops On Report Of Lincoln National’s Potential $5B Reinsurance Deal With Talcott](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5)
 
-## Venerable
-
-- **2026-10-19** — Radio & Television Business Report — [A Venerable Beauty Brand Returns To Spot TV](https://news.google.com/rss/articles/CBMid0FVX3lxTE9id1ZXYjFnblhMNk03NTZiOFgyTkZYMGgxUjMtVVdiNURwajVsUVdyODVHWDJwbkpXUEc0QzVxOFZIODZsZ3J4QnhoRkNKSllWWVd5dERkQXZ0eGJLX2haZjRFZndVclNqQ21XZHpodVpyNnBVLU84?oc=5)
-
 ## RGA
 
-- **2026-10-30** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
+- **2026-11-01** — Simply Wall St — [Is Reinsurance Group of America (RGA) A Bargain After Its 30% Year To Date Gain?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSnRQeVZKY1ZhMU9ZOElISEZMMXpUYUZBel9EcE5DVUEwdWYxckhwTUdvNnNubnJzUVNaa1JVVWMyQUlwOG1FNk01Wl9uTm1JLWpmS0dpYXNvN3lqNmhxbVRXbjJJdEhOWlVHRGhhbnlCeXdKaHI2NE00MW82bGRJVG9RbUtoYWZUdmE4ZXNNOEpZU2F0Q3Z1TXdPbVh0UTI2LW9wWUZpcjVsUHIwbTMtQkJOeWFhcVpFOG05cUFiVUdMZ3VVd1VpVjBpaFhoZWFKOWUyRURZWjFSM2pYRFHSAeMBQVVfeXFMUHRoQndaUTBrX0NvUUQ4cHkxWXo2ZndpUkk1YjExM1F1QXBtc1RUX3UybkxyVlRRU1NIdzhPbDlFZTNibkdwaE0yQjhFNmRNYm1NdmYyeGl2QU1CTWtocEp1cEtJVVJSZFp0SEpwRG9SbDZoWGdFRm5hZmFVMFp5QnktNUxlM2FzNjc0R3ZLZE9rYmJJdnd0c0U2TGlrbHY1d0NIcXVXVjdaZ2JmbDR3cThZc2FHUUdSRFB4cjY3T0otQ0ZkbnJvSVVoUmcwWWR0cmI3R3NoeWk3UGRSWThrNVJZbHc?oc=5)
+- **2026-10-31** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-10-30** — Yahoo Finance — [Should Value Investors Buy Reinsurance Group of America (RGA) Stock?](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjdnQUptQ05ORk54cEV2aXNEeEpadEdZaW9yazh4YVdWLXpubUZPMnBiTnpLMkl0VG5XNjBDcTA4V1JfNVZ4VTl6U0tyUlRNWGdXTXppZ3J6UlFHWnZjWHpKWHNKM3FZXzN4LWxzNEFDMXI1MGRZbVhGRjk3QUVFYVY0dHdfcHBEWUZzN1ZyTzhpMjdBeVJfbVpXM1RnMUxVMGdMMg?oc=5)
 - **2026-10-30** — Yahoo Finance UK — [Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIUGlHLWdTTVZrX3JRcVFReDMwSlRySVRCaG55WXBZVW1xS1JTYjBrMERteXBuZUp5ZG5CTjg2OXZBMFVzVm1qdHFOVGtWM0VLY1VwY3M3dmtOaWhFU2tUUA?oc=5)
 - **2026-10-29** — Yahoo Finance — [Reinsurance Group (RGA) Reports Next Week: Wall Street Expects Earnings Growth](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHNVeUZzWWs5enJKdkNaTUJFcG91eHRFT0drbzB5clM3NGx2alNvN3F1dnBNcExSLVB6SXQ3SzB2aXAwWjNGU25qYWFTeWpBXzBFbnNiX09MX0pBYlM2MlBza1ZMRnJ1WTFlNlFXUm84eDFUT3pKdmtzS2N4MzNGNkxwV0dpNzNjeUNqTEUtN1lLVFR4bVNfSjJvRFBkcHRr?oc=5)
@@ -43,20 +40,14 @@ Generated Sun 01 Nov 2026, 20:46 AST
 - **2026-10-28** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxQekE3ZVpTbXRVQ0hSeXlvSGdtQi1xQjlwSnp4ZlgxeDQ5ajc2X05ta0VPQUN0NjVhU2J1MWpXVVY3Y0RBTE9WRllBTjBYTU1pLThHRFJOUU16Q3ZyM19xcHZIVU9pUXJmamRzU0d1bHItcDRicm9vUUNHSDhWWjJneXRMdUJ2bDM1ckFPM0RxZw?oc=5)
 - **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stake Lifted by Sterling Capital Management LLC](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPakxmVU9ac2pncWs0VVF4RHdCcUhEa21MMHlidW1tUFgzTXZ6R1lVVGJCZUlfMjFKcVRoQVU3ZU9hLXdVQmdyM29VZWpBX0FaMjQ4VEZzb1ZzemtDdUlnSWN1UVdxbmlKZHJhZXp4U3VMZXdhVWEwcjRpR1BrWS1hRlpZX0dkTFZUOFNqN042Ty0xZUI0VUVUd1VxXzlUMm14M0JFZURMbHhmZUdKTzlSRGdKdUJTSzZwZHdzb242ODRZMXFKa1JTZzRMVEFDbmI2NTNYLU90bHJIdXhzMmRiTzFkWnJObVNsRmc?oc=5)
 - **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Rated "Buy" by Sell-Side Analysts](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUY4NDlhT2NxeEZpMmZfU0g2TVMzVkZnbngwWng1NzVBS190Q0lFdm9HRjFTY2RJc2JwRGtaVC1NOTlWQjBFSGFZRGE1TzJXWDhWdFhQQUNTbzFxOEoySmY2dFFsSmlUbjFsZ0lVa3pJZ0V2a21OUVIxaUtLTUZXOUFDTWFQS3VqS1ZzRmdIeXNZZi1xMXZfN1hiUXYySWNMamstX1E4Uk4zb191bnE4eDcwc3ZWRUFfSFV6bTZlbUZBaUdrd2tzcW5VUHRyZmhLSkVCSDFEVGlwakVPdXVlRjI4cXdBTDQ?oc=5)
-- **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Holdings Lessened by Inspire Investing LLC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmNwNTZuUkstT1NxWGFhNnlnQXhhdmktQVQ0MUxERnBobnJ6REtFNVNzdFFNLVFtak0zN21fYzZIZGkwYUFHbWpoMWtUZThTOWZGVVhDWnhkdjVnbUZnRnd1T0JPOEZGb29sUTgwTVZQVE9nREQ0RWRhRlBOLTUyYmNRaUs4bHZ2RG9YMGlFTUpQTlRldlE5SjhSUTI2eXMzNTc2eWNOVk9KbXJScjlzVGdhNUNMOUp3QXROLU5OcEV0bVJEbktwOEo4Ym5fNmR5dTJpUy1jQk1iM1JvQXZHWTNUVQ?oc=5)
 - **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5)
-- **2026-10-23** — https://www.dars.gov.et/ — [RGA Q2 2026 Earnings: EPS Beats Estimate by 35% Despite Stock Pullback - Earnings Surprise Score](https://news.google.com/rss/articles/CBMirwFBVV95cUxOd285cVRLN3VtN2tuc0tZcWZRQUhGd1luRzNoaE9sbmZxZ2t4OUpnUGg4NEpjTHlkV1NFdVhxVzdneHhqdmlZWTJpazU0YXN2NDhHTTRsdUVWbW40US1aVUxGUkRUQnRqdnBaQmIydUZqRDcyMHJEbUI3NktaSmtQUzZaM3F1d3pZSDMxbnhncjdNYVJ5b1NrVXVPdGxlZTdoT1psVUxOWExZeGRuY2tz?oc=5)
+- **2026-10-24** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Holdings Lessened by Inspire Investing LLC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmNwNTZuUkstT1NxWGFhNnlnQXhhdmktQVQ0MUxERnBobnJ6REtFNVNzdFFNLVFtak0zN21fYzZIZGkwYUFHbWpoMWtUZThTOWZGVVhDWnhkdjVnbUZnRnd1T0JPOEZGb29sUTgwTVZQVE9nREQ0RWRhRlBOLTUyYmNRaUs4bHZ2RG9YMGlFTUpQTlRldlE5SjhSUTI2eXMzNTc2eWNOVk9KbXJScjlzVGdhNUNMOUp3QXROLU5OcEV0bVJEbktwOEo4Ym5fNmR5dTJpUy1jQk1iM1JvQXZHWTNUVQ?oc=5)
 
 ## Sagicor
 
 - **2026-10-27** — kalkine.ca — [How Well Do Sagicor Financial’s (TSX:SFC) Core Earnings Cover Its US Dollar Dividend?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVRHQzYtUmRBNlVjUGJhajFTdnFKZlNINHZ5eWVaOVBicHkzMW1aNkZ5ZnNoS3ZnVHRzZDhzQlhqemx4Q2Fma2xMZmVwSGJDbXpNOG5Vc1JNNG1zbGltaU1LMEJ4QUpTTE5OcnRYUzFXVjM3TE53UEh6b2FQNXM3MFpOR2lEQVJPVlFWWFFJSHdCanJyeXZ5WnBobmtBOC1DdVE3ODhCa2tidWRxcXJrSkxLd0N0Mzh1V2FuMA?oc=5)
-- **2026-10-19** — Traders Union — [Sagicor ratings affirmed by Fitch with stable outlook](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDFUa0F5dFRmRlNVNWR4bGV1Q3A0QlNWbURLR0JmZEU4VkhKVWNRc0x3cU0teEFQUURlOVVMa25wdVpCaEpiUmlyYi0tcGhjMUFPOFdhYm5vRkViYlpqa1FJZHk3V3NJdEY5UVJZVjMzRzdBdi1kRVpTMmNnSHBhZG43TEpqTmJYR3BmRy1mN0NTbkFN?oc=5)
 
-## Catalina
-
-- **2026-10-19** — theinsurer.com — [Exclusive: Apollo explores sale of Catalina Holdings' UK arm](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVGTXo3cEFmUXNDdkRWcW9pM2Z2Ym5lQ0lNdEhwTXUwNlowM3lGbDBtdUJXTFRuc19wTEh4QmhrR3NFekctZXRNUHotaXRYYVE1Y050SldRMnNYbmhFVE1DZGI5LUM2OTdzMXUwOEVZVGN4bDNmSE5qYk8wX1ZRTDkyb0pDa0RHbFZFM3FucUQ0U3llYlV6bTNNZ3ZjSWFTUUN0bjNCWUg?oc=5)
-
-_No news in the window: Global Atlantic, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare_
+_No news in the window: Global Atlantic, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Venerable, Catalina_
 
 ---
 

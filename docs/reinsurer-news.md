@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 19 items
-Generated Mon 02 Nov 2026, 17:44 AST
+Generated Tue 03 Nov 2026, 02:50 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 56 items
+- ✅ **Google News (16 of 16 companies)** — 58 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -20,7 +20,7 @@ Generated Mon 02 Nov 2026, 17:44 AST
 
 ## Fortitude Re
 
-- **2026-10-30** — finance.biggo.com — [[T&D Holdings FY2026 Q2 Earnings Call] Fortitude Re on Track to Reach $140 Billion in Liabilities by 2027; Adjusted Net Income Growing at 65% Pace](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoaDAwdmNhSDZITjVEbnJZb1dRZXVxTDBpbXV3eW5QZUNxWlN2VjBtZW9xeThSMUM4TlFfcjI5WGtXeGtacGc2RWNEUklvb2JESFFHdDBFUElkY2ZGU2RaeA?oc=5)
+- **2026-10-21** — finance.biggo.com — [[T&D Holdings FY2026 Q2 Earnings Call] Fortitude Re on Track to Reach $140 Billion in Liabilities by 2027; Adjusted Net Income Growing at 65% Pace](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoaDAwdmNhSDZITjVEbnJZb1dRZXVxTDBpbXV3eW5QZUNxWlN2VjBtZW9xeThSMUM4TlFfcjI5WGtXeGtacGc2RWNEUklvb2JESFFHdDBFUElkY2ZGU2RaeA?oc=5)
 
 ## Talcott
 
@@ -29,6 +29,8 @@ Generated Mon 02 Nov 2026, 17:44 AST
 
 ## RGA
 
+- **2026-11-02** — Yahoo Finance — [Is Reinsurance Group Of America (RGA) Priced Right On Earnings?](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkhBTmY0eXNmQUxOMUx5cllhODJsMGRjRWQtNGRLdm8xYkZ3Z3ZCeS1JajRGekQ5QXJxZjdyTUwyQW9aRW9UdUFsNjNDbzU4djhPLXNYYWp3QTFzUUtPWVk3QzhmUnBaVXViUFZkOUpSUnNEVTFMdG1KWHFpX3o0V184X1VjLUtEc3piUlhtNC1RUXRibzVVNzBqd1B5cHhPcHhj?oc=5)
+- **2026-11-02** — Yahoo Finance Singapore — [What Is Drawing Attention To Reinsurance Group of America (RGA)?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXBzZ29KNnhYS3JiWVNvM19CS2R1bGkwZTg2cTZXWlktUjNGeWN5OVlMeG5kUnlub2YxYVNsT2t6MjFYbTBqekZxanhUeTZDU0RtaFM2WGdpTVQ5TW9vTFdLa2NWUXFwOWNGR2dZNXJoS0wweFdfV0plN2ZGNW0yRXByanpzU2p6S0dUMUdtTkhkaTFtVTRz?oc=5)
 - **2026-11-02** — Yahoo Finance — [Will Reinsurance Group (RGA) Beat Estimates Again in Its Next Earnings Report?](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUwzbEMydzN4V25aZDN1c0ZPdXRMSmlFaEFKT2R3bExFMzg4ck44b3VNTEoxODVRNG1NUjVwV3R6OWZtMFJ0Wl93NjVqQW45Z05odHZWY3ZhNFNkYl9XWGtzY0Ntcm5qUmtLeDVLc09qSlB2YkFmR1BXcU1JZFlkWW1DeEN4QXc4Qmk3aTM1ODAxbDhKN1otSFR2a3J1MkpaU1VB?oc=5)
 - **2026-11-02** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Sold by ProShare Advisors LLC](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYW1BZTlSTFEyTHZncWQ2OG5zRHBuTmY2U1Iwd3BXX0xGcGRLQTVyVzk1a3FIUXV5MHZiYmJ0bU1PQzJNN21SWnhwTktMQVNBd0c1VWJ6Sy1sdEpGTHNnUjNod0pUM0FBdXFfZmRlcHVvZDJkaUd2ck5aQjIyZzFoaWp3amIyTHVfTk1jc0dYaFhhVDlIZThQR1RBbFF0WmZQRGpSZ2owenRlREx3LTgySDdFMEdqSWhpTEZmT3RMWFdnSTMtLXN5dTFNTVVvT0NDbzRuZDFueTZ0dw?oc=5)
 - **2026-11-01** — Simply Wall St — [Is Reinsurance Group of America (RGA) A Bargain After Its 30% Year To Date Gain?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSnRQeVZKY1ZhMU9ZOElISEZMMXpUYUZBel9EcE5DVUEwdWYxckhwTUdvNnNubnJzUVNaa1JVVWMyQUlwOG1FNk01Wl9uTm1JLWpmS0dpYXNvN3lqNmhxbVRXbjJJdEhOWlVHRGhhbnlCeXdKaHI2NE00MW82bGRJVG9RbUtoYWZUdmE4ZXNNOEpZU2F0Q3Z1TXdPbVh0UTI2LW9wWUZpcjVsUHIwbTMtQkJOeWFhcVpFOG05cUFiVUdMZ3VVd1VpVjBpaFhoZWFKOWUyRURZWjFSM2pYRFHSAeMBQVVfeXFMUHRoQndaUTBrX0NvUUQ4cHkxWXo2ZndpUkk1YjExM1F1QXBtc1RUX3UybkxyVlRRU1NIdzhPbDlFZTNibkdwaE0yQjhFNmRNYm1NdmYyeGl2QU1CTWtocEp1cEtJVVJSZFp0SEpwRG9SbDZoWGdFRm5hZmFVMFp5QnktNUxlM2FzNjc0R3ZLZE9rYmJJdnd0c0U2TGlrbHY1d0NIcXVXVjdaZ2JmbDR3cThZc2FHUUdSRFB4cjY3T0otQ0ZkbnJvSVVoUmcwWWR0cmI3R3NoeWk3UGRSWThrNVJZbHc?oc=5)
@@ -39,8 +41,6 @@ Generated Mon 02 Nov 2026, 17:44 AST
 - **2026-10-29** — TradingView — [RGA Q3'26 Earnings: revenue estimate is 6.69B USD](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzJYLTVJUk9YbXN1NjJyOVJGdktRQkZsN1NrbWx2bzU1dGFVZWlvRTljM0lQeVYyZkRfMkJTekVGcXJ0M0lHT1A3U0hMRmlsMjlGVk1Fa2htTlR0dU1ad1hwbFNuMnpmbGtXQm9helRoWEpTb2d1d3o3Ty03NS1NSzd2bjBQTi1SZ2lpN043VS03VVd3aFRWQzM5WkllX3VMY3BBSjljLWZLSHY1UWtB?oc=5)
 - **2026-10-29** — MarketBeat — [Reinsurance Group of America (RGA) Projected to Announce Earnings on Thursday](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYV9YallUdndhbmdpREJHZUJUME1IbHN3c3hjV3hybnRaRTdrZGU1Uy1tU1RDUkVuV19MZ1lhUXdCTXRKYllyTE5rdVF1TDBQVUFzMUtSZVI5VUd5d1VyMG9iNG9kZ1l4TjBoMUdCVF9yWDdpaHpZRFpsdi1UQU5KOE9NbkFVOG1Wc3piWUlXQVk2MjFscDU2SEcyZmpjUDhVWGxaTUsyeFVBZkxqcjdRVUVneTVtNU5CMGM1Zk1NMEd0V055a3RJdWxWb3o1VTFGMHVuVw?oc=5)
 - **2026-10-28** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxQekE3ZVpTbXRVQ0hSeXlvSGdtQi1xQjlwSnp4ZlgxeDQ5ajc2X05ta0VPQUN0NjVhU2J1MWpXVVY3Y0RBTE9WRllBTjBYTU1pLThHRFJOUU16Q3ZyM19xcHZIVU9pUXJmamRzU0d1bHItcDRicm9vUUNHSDhWWjJneXRMdUJ2bDM1ckFPM0RxZw?oc=5)
-- **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stake Lifted by Sterling Capital Management LLC](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPakxmVU9ac2pncWs0VVF4RHdCcUhEa21MMHlidW1tUFgzTXZ6R1lVVGJCZUlfMjFKcVRoQVU3ZU9hLXdVQmdyM29VZWpBX0FaMjQ4VEZzb1ZzemtDdUlnSWN1UVdxbmlKZHJhZXp4U3VMZXdhVWEwcjRpR1BrWS1hRlpZX0dkTFZUOFNqN042Ty0xZUI0VUVUd1VxXzlUMm14M0JFZURMbHhmZUdKTzlSRGdKdUJTSzZwZHdzb242ODRZMXFKa1JTZzRMVEFDbmI2NTNYLU90bHJIdXhzMmRiTzFkWnJObVNsRmc?oc=5)
-- **2026-10-26** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Rated "Buy" by Sell-Side Analysts](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUY4NDlhT2NxeEZpMmZfU0g2TVMzVkZnbngwWng1NzVBS190Q0lFdm9HRjFTY2RJc2JwRGtaVC1NOTlWQjBFSGFZRGE1TzJXWDhWdFhQQUNTbzFxOEoySmY2dFFsSmlUbjFsZ0lVa3pJZ0V2a21OUVIxaUtLTUZXOUFDTWFQS3VqS1ZzRmdIeXNZZi1xMXZfN1hiUXYySWNMamstX1E4Uk4zb191bnE4eDcwc3ZWRUFfSFV6bTZlbUZBaUdrd2tzcW5VUHRyZmhLSkVCSDFEVGlwakVPdXVlRjI4cXdBTDQ?oc=5)
 
 ## Sagicor
 

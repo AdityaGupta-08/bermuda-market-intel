@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T21:44:35Z",
+  "updated": "2026-11-03T06:50:09Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 21,
+      "count": 23,
       "error": null
     },
     {
@@ -112,6 +112,30 @@
     }
   ],
   "items": [
+    {
+      "id": "0efb4bc64b8e",
+      "title": "Is Reinsurance Group Of America (RGA) Priced Right On Earnings?",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkhBTmY0eXNmQUxOMUx5cllhODJsMGRjRWQtNGRLdm8xYkZ3Z3ZCeS1JajRGekQ5QXJxZjdyTUwyQW9aRW9UdUFsNjNDbzU4djhPLXNYYWp3QTFzUUtPWVk3QzhmUnBaVXViUFZkOUpSUnNEVTFMdG1KWHFpX3o0V184X1VjLUtEc3piUlhtNC1RUXRibzVVNzBqd1B5cHhPcHhj?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-03T03:16:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "a4ba6991271b",
+      "title": "What Is Drawing Attention To Reinsurance Group of America (RGA)?",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXBzZ29KNnhYS3JiWVNvM19CS2R1bGkwZTg2cTZXWlktUjNGeWN5OVlMeG5kUnlub2YxYVNsT2t6MjFYbTBqekZxanhUeTZDU0RtaFM2WGdpTVQ5TW9vTFdLa2NWUXFwOWNGR2dZNXJoS0wweFdfV0plN2ZGNW0yRXByanpzU2p6S0dUMUdtTkhkaTFtVTRz?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "feed": "Google News: RGA",
+      "date": "2026-11-02T22:11:19Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "ddfba5477534",
       "title": "Will Reinsurance Group (RGA) Beat Estimates Again in Its Next Earnings Report?",
@@ -170,18 +194,6 @@
       "summary": "",
       "companies": [
         "Athene"
-      ]
-    },
-    {
-      "id": "82627b70675b",
-      "title": "[T&D Holdings FY2026 Q2 Earnings Call] Fortitude Re on Track to Reach $140 Billion in Liabilities by 2027; Adjusted Net Income Growing at 65% Pace",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoaDAwdmNhSDZITjVEbnJZb1dRZXVxTDBpbXV3eW5QZUNxWlN2VjBtZW9xeThSMUM4TlFfcjI5WGtXeGtacGc2RWNEUklvb2JESFFHdDBFUElkY2ZGU2RaeA?oc=5",
-      "source": "finance.biggo.com",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-10-30T20:14:00Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
       ]
     },
     {
@@ -434,6 +446,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "82627b70675b",
+      "title": "[T&D Holdings FY2026 Q2 Earnings Call] Fortitude Re on Track to Reach $140 Billion in Liabilities by 2027; Adjusted Net Income Growing at 65% Pace",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoaDAwdmNhSDZITjVEbnJZb1dRZXVxTDBpbXV3eW5QZUNxWlN2VjBtZW9xeThSMUM4TlFfcjI5WGtXeGtacGc2RWNEUklvb2JESFFHdDBFUElkY2ZGU2RaeA?oc=5",
+      "source": "finance.biggo.com",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-10-21T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
       ]
     },
     {

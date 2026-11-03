@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T17:05:27Z",
+  "updated": "2026-11-03T23:26:10Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 7,
       "error": null
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 26,
+      "count": 24,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -112,6 +112,54 @@
     }
   ],
   "items": [
+    {
+      "id": "d614fe9440f4",
+      "title": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1VOZFBaeDRKR25TbXcxZGtZcHBvejllTXRRM2Nxc2x6Y21mWFJnT2dTWEdiMHB1OFJXelRfZGxKSl8tcVo2T0hINmtSOGxoekVhYnJnVGhtdWNzcjA4TllSZEZvZWQ1V1dHTTJjdzYycmxoeWFlcVZYYVZGVEJtMkZVU1V2c2k4LUpjR2NHQm91NEp6YkNsRXhLbllTdzY0VFVkWkc3NXJoWllsWHBvb0xxLUU?oc=5",
+      "source": "Quantisnow",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T23:13:29Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "a2cbaf7e6fb2",
+      "title": "Fortitude Re closes $3.8B long-term care reinsurance deal with Unum",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDJhQ0FqeXJDazcweDN6aG9LVWh5bTY0a3lUcXRlc1Z0aGJaZ3BvWWwtMmN3VDRwQ3dEcTJuYXdxMUNKOFlTWjhtVWhxQ0F5bEVLbHdLUXpwdEtlWFVqbldCUndfUU9YTm0ybnVsUkp4TkRpY3l5V0diUUptajlFaVZIRDlTQzBLNVFuZ040Tnd0VUc5djlsX2RJVEdJaXM5NHdPcHp4RjZBY3ZsODdIQmYxOURybXVlOURraUFRUnNPSmlGTEhr?oc=5",
+      "source": "StreetInsider",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T23:13:09Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "a87a63c0a38b",
+      "title": "Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNG9VcGhHY19ONW9jN0xvdjB0Y1NaRHhmQ2RDekYweC0wc1k4MUgyZ1ZGNE4zSmhvQUNGWTlkRFVhdVJDY3FEV2lMSVNCZ3hvUjJxTU41RGRTRUxlclZ3YVFKSUs0WUozM1BrN1pueHQ0QjhoMFppMFFPZXpvTHBTNHphLXpqNzRtdnIwSjJKdzRYR2dPTGg4Q1VndzB3Zl83QTdVRDNmRGFTdTRkZUlpUEM5TVBYSmZ2cnVkZ1NkcGhlWGFBaExHUlBIdTBNelF2SnlvMk1WSm1oUnZZV3hN?oc=5",
+      "source": "Business Wire",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T22:53:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "ae911c65adbb",
+      "title": "Reinsurance Group of America, Incorporated $RGA Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM2Ntak9NOE9vek9Pclp4cVViQlh4LUNCZXRrS3pxaGNSbEpkN01aZXZSSFpiZ2ZIbVh6cXF0UUp4bmpfV3hpSXNCSnZ0NW5SdXRxTGtpYzlvbWJZMllxRmNkMEQ2TG1NRmVKV2h3cjM3WGtVM3Q1clY5TERVOUxhbjU1ZUpSVmdhamo0cU94NkRDMnBycDBvZlBxakxta1ExX1pvbEloQVVKRnZsdXY0ajFUX040M2hEbWthV1lUSzFSNUFpX1ZOcXNOWVV1aElXTktieW1hMFFHOG5ZVi1vdVU2TkwyWGZBY1plWlhR?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-03T10:15:29Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "12043cd2ba41",
       "title": "Is Reinsurance Group Of America (RGA) Stock Near Fair Value?",
@@ -137,18 +185,6 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-03T05:16:43Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "0efb4bc64b8e",
       "title": "Is Reinsurance Group Of America (RGA) Priced Right On Earnings?",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkhBTmY0eXNmQUxOMUx5cllhODJsMGRjRWQtNGRLdm8xYkZ3Z3ZCeS1JajRGekQ5QXJxZjdyTUwyQW9aRW9UdUFsNjNDbzU4djhPLXNYYWp3QTFzUUtPWVk3QzhmUnBaVXViUFZkOUpSUnNEVTFMdG1KWHFpX3o0V184X1VjLUtEc3piUlhtNC1RUXRibzVVNzBqd1B5cHhPcHhj?oc=5",
@@ -163,8 +199,8 @@
     {
       "id": "a4ba6991271b",
       "title": "What Is Drawing Attention To Reinsurance Group of America (RGA)?",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXBzZ29KNnhYS3JiWVNvM19CS2R1bGkwZTg2cTZXWlktUjNGeWN5OVlMeG5kUnlub2YxYVNsT2t6MjFYbTBqekZxanhUeTZDU0RtaFM2WGdpTVQ5TW9vTFdLa2NWUXFwOWNGR2dZNXJoS0wweFdfV0plN2ZGNW0yRXByanpzU2p6S0dUMUdtTkhkaTFtVTRz?oc=5",
-      "source": "Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVp5bWlwc0pkXzlLOE5hajdOV3ltQTBrS3g4VmpDNzlKaF8yU0NPMGF1a0RydnotSUlUamxGSHpRWjN4V1VnakgzOFAxLTVMdUY1OUF5dmxDd0JlSklZZ3JPc0xaalVVYVB0aFlDNmxmNjRYT2gyTVpjNnRvOFZ4dnBEY0Q4MWtRRHhnZEVabHpQTE5qMUJPUnlSeUtoSUZSenVQODN2OFhIQXBw?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-11-02T22:11:19Z",
       "summary": "",
@@ -209,12 +245,12 @@
       ]
     },
     {
-      "id": "ae911c65adbb",
-      "title": "Reinsurance Group of America, Incorporated $RGA Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmlvbVdTd3ZjYTEySXQ5T0swNFFORlY0OURBN2l1czBRTVVrLVZBZG5iWVBhNHZkcUhvSzVLdEItLV8xRll4MkRoT1A0VFUtbm5PbENvbHVNRUkwdWNTWVFkMDlZeVRDZmtaMnl1OFJDeEw2dUlqSVJnTjdoS3V2YThsbnJKM1g5ZVA0M2d6aEtjTThqa3NR?oc=5",
-      "source": "Elets BFSI",
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yXy1Yd0VxYl81bGtMT0p2WXQ5QnVqQlRXSTk4UUROZlVMeXJMbnJ2VXI2dlZQREFtVDZEa25ETVBmMkxOUTdJTTAzR04tT0RY?oc=5",
+      "source": "Yahoo Finance UK",
       "feed": "Google News: RGA",
-      "date": "2026-11-01T07:00:00Z",
+      "date": "2026-10-31T19:12:06Z",
       "summary": "",
       "companies": [
         "RGA"

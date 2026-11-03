@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-03T06:50:06Z",
+  "updated": "2026-11-03T17:05:25Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
     "Rates & Macro"
   ],
   "items": [
+    {
+      "id": "cb5396e6af85",
+      "title": "Todd Boehly insurer amasses billions in lending tied to his Beverly Hills project",
+      "source": "Financial Times",
+      "date": "2026-11-03T05:00:13Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWlWOWZodUZLT2p6M3Bqb1FOT2Z4WFZjTHhQWXFqTm9XdnRMVHY1SFNXZ1dtSTZtekVnNjZhS21GSHY1dThqbjBUamFSOEE5Sk45Ml9qd05oUWxTUVFhM1BTQ2hhRzk0dk94WVY5V3E1cDBBUDN3bTRBNkkxdGNvZ0J2bjU?oc=5",
+      "isNew": false
+    },
     {
       "id": "8914709ef1f2",
       "title": "Are These 4 Insurance Stocks Set to Beat Q3 Earnings Estimates?",
@@ -294,16 +304,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaG8tZ1VDYmVRZ3M3MWFadDRTYXUyQ0tOeGtFenNJU0oyZXlrRHV3VHBMYUZNOHNiaE5QcFJZRHhkbERBbThSNUZGNjJ2b1ljLWdzcUxEWHk5QkNzWmtaeXZhSkZPd2ZwSE5OcWVFTWRpN1JNUi1KdE5lLUhCTGwxbm5YcnE5SGR2QklBYzI3dGU1SzltWHhDTHFaaVk0WllDV3BESVh4ajF5dHp5?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "a6cc121efc56",
-      "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-      "source": "Reuters",
-      "date": "2026-10-28T10:05:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
       "isNew": false
     }
   ]

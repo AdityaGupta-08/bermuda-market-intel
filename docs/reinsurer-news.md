@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 19 items
-Generated Tue 03 Nov 2026, 02:50 AST
+Generated Tue 03 Nov 2026, 13:05 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 58 items
+- ✅ **Google News (16 of 16 companies)** — 63 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -29,18 +29,18 @@ Generated Tue 03 Nov 2026, 02:50 AST
 
 ## RGA
 
+- **2026-11-03** — Simply Wall St — [Is Reinsurance Group Of America (RGA) Stock Near Fair Value?](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcTN2OXlFejJxWkx2d0tIZzRyc2NPU243QXZQZ3FEazBQYmtoRmN0dF95TGY1SFZvU096ZFhFWmhWSFZzQkt3MklJdWpOd0k4OTZKTG1JaS14OWdfQ3JCaGg5WHZPM0Vua1BVS3lkSGdpRGcyZzNGOHpwWjUtNElxNm44bG50QjNoS2gtenJkMDR4allGYUlGRTNwOEhpbUhDNk5rRDJ2MEIya1loRjFudUt0RC1PNVRwSF91UlRjRkdhSDFveW95dmR6dXluTV91S05xV1ZiSThYZ9IB3wFBVV95cUxQZVZNMFZ5TU9NN2x1UEpiSGJGbnlqY1V4VzBRWnVQOTFXMlR3R2U2SkhROGRfYWpjQzZyazRWMEM1dTJPOVh3Mmh2WUFpTzNjbHlDdHRoclFVTjdBX3VNRmpjRUpraGEzRmpsaG03YlNvRVdrZ1JMeEhXSm1qaVJSbnpEOTlHZzJpWUJma2MyOUZ1V1k5NE4xMkgxMlMxelltdE8zLVdybElNZjRRR1F3N19Yb2ZyVFZWanh2X0hzZ0QzMHpwNDltVlFydHh2NXJ6ejlHOVA2Qm80Y29tTi0w?oc=5)
+- **2026-11-03** — Stock Traders Daily — [How Reinsurance Group Of America Incorporated (RGA) Affects Rotational Strategy Timing](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSVNDTXczcXp4d2R4N0syNGdfSXR2cmJkcXVtZmdWZ19NRUNId0JrdXdGa25GS0pKQVIzZ1Vhdmt3TGRXeHRIcjRmV09udWRaTldTX2ljU0xuQjRPR0dNaDJUU0pmcUdyWHZqc2x1anp3Q3Z3cjNLU3V6ZEQtNjVIWW94T1hPTkRFdWVlZm1nelJPd2hacWx0YUYwQVBtSFU2UDJUUDZvR0JUOENnYkQ0SFRtR051VUUyMEVKcXZQVVNZMnV1UVhMdWdTMS1GS3M5d1BxSHZoZ2tEdE80VUduVUxKMnFIQVoxR1ZBM3RLcDRiVlF2RnBv?oc=5)
+- **2026-11-03** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-02** — Yahoo Finance — [Is Reinsurance Group Of America (RGA) Priced Right On Earnings?](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkhBTmY0eXNmQUxOMUx5cllhODJsMGRjRWQtNGRLdm8xYkZ3Z3ZCeS1JajRGekQ5QXJxZjdyTUwyQW9aRW9UdUFsNjNDbzU4djhPLXNYYWp3QTFzUUtPWVk3QzhmUnBaVXViUFZkOUpSUnNEVTFMdG1KWHFpX3o0V184X1VjLUtEc3piUlhtNC1RUXRibzVVNzBqd1B5cHhPcHhj?oc=5)
 - **2026-11-02** — Yahoo Finance Singapore — [What Is Drawing Attention To Reinsurance Group of America (RGA)?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXBzZ29KNnhYS3JiWVNvM19CS2R1bGkwZTg2cTZXWlktUjNGeWN5OVlMeG5kUnlub2YxYVNsT2t6MjFYbTBqekZxanhUeTZDU0RtaFM2WGdpTVQ5TW9vTFdLa2NWUXFwOWNGR2dZNXJoS0wweFdfV0plN2ZGNW0yRXByanpzU2p6S0dUMUdtTkhkaTFtVTRz?oc=5)
 - **2026-11-02** — Yahoo Finance — [Will Reinsurance Group (RGA) Beat Estimates Again in Its Next Earnings Report?](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUwzbEMydzN4V25aZDN1c0ZPdXRMSmlFaEFKT2R3bExFMzg4ck44b3VNTEoxODVRNG1NUjVwV3R6OWZtMFJ0Wl93NjVqQW45Z05odHZWY3ZhNFNkYl9XWGtzY0Ntcm5qUmtLeDVLc09qSlB2YkFmR1BXcU1JZFlkWW1DeEN4QXc4Qmk3aTM1ODAxbDhKN1otSFR2a3J1MkpaU1VB?oc=5)
 - **2026-11-02** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Sold by ProShare Advisors LLC](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYW1BZTlSTFEyTHZncWQ2OG5zRHBuTmY2U1Iwd3BXX0xGcGRLQTVyVzk1a3FIUXV5MHZiYmJ0bU1PQzJNN21SWnhwTktMQVNBd0c1VWJ6Sy1sdEpGTHNnUjNod0pUM0FBdXFfZmRlcHVvZDJkaUd2ck5aQjIyZzFoaWp3amIyTHVfTk1jc0dYaFhhVDlIZThQR1RBbFF0WmZQRGpSZ2owenRlREx3LTgySDdFMEdqSWhpTEZmT3RMWFdnSTMtLXN5dTFNTVVvT0NDbzRuZDFueTZ0dw?oc=5)
 - **2026-11-01** — Simply Wall St — [Is Reinsurance Group of America (RGA) A Bargain After Its 30% Year To Date Gain?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSnRQeVZKY1ZhMU9ZOElISEZMMXpUYUZBel9EcE5DVUEwdWYxckhwTUdvNnNubnJzUVNaa1JVVWMyQUlwOG1FNk01Wl9uTm1JLWpmS0dpYXNvN3lqNmhxbVRXbjJJdEhOWlVHRGhhbnlCeXdKaHI2NE00MW82bGRJVG9RbUtoYWZUdmE4ZXNNOEpZU2F0Q3Z1TXdPbVh0UTI2LW9wWUZpcjVsUHIwbTMtQkJOeWFhcVpFOG05cUFiVUdMZ3VVd1VpVjBpaFhoZWFKOWUyRURZWjFSM2pYRFHSAeMBQVVfeXFMUHRoQndaUTBrX0NvUUQ4cHkxWXo2ZndpUkk1YjExM1F1QXBtc1RUX3UybkxyVlRRU1NIdzhPbDlFZTNibkdwaE0yQjhFNmRNYm1NdmYyeGl2QU1CTWtocEp1cEtJVVJSZFp0SEpwRG9SbDZoWGdFRm5hZmFVMFp5QnktNUxlM2FzNjc0R3ZLZE9rYmJJdnd0c0U2TGlrbHY1d0NIcXVXVjdaZ2JmbDR3cThZc2FHUUdSRFB4cjY3T0otQ0ZkbnJvSVVoUmcwWWR0cmI3R3NoeWk3UGRSWThrNVJZbHc?oc=5)
-- **2026-10-31** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
+- **2026-11-01** — Elets BFSI — [Reinsurance Group of America, Incorporated $RGA Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmlvbVdTd3ZjYTEySXQ5T0swNFFORlY0OURBN2l1czBRTVVrLVZBZG5iWVBhNHZkcUhvSzVLdEItLV8xRll4MkRoT1A0VFUtbm5PbENvbHVNRUkwdWNTWVFkMDlZeVRDZmtaMnl1OFJDeEw2dUlqSVJnTjdoS3V2YThsbnJKM1g5ZVA0M2d6aEtjTThqa3NR?oc=5)
 - **2026-10-30** — Yahoo Finance UK — [Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIUGlHLWdTTVZrX3JRcVFReDMwSlRySVRCaG55WXBZVW1xS1JTYjBrMERteXBuZUp5ZG5CTjg2OXZBMFVzVm1qdHFOVGtWM0VLY1VwY3M3dmtOaWhFU2tUUA?oc=5)
 - **2026-10-30** — Yahoo Finance — [Should Value Investors Buy Reinsurance Group of America (RGA) Stock?](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjdnQUptQ05ORk54cEV2aXNEeEpadEdZaW9yazh4YVdWLXpubUZPMnBiTnpLMkl0VG5XNjBDcTA4V1JfNVZ4VTl6U0tyUlRNWGdXTXppZ3J6UlFHWnZjWHpKWHNKM3FZXzN4LWxzNEFDMXI1MGRZbVhGRjk3QUVFYVY0dHdfcHBEWUZzN1ZyTzhpMjdBeVJfbVpXM1RnMUxVMGdMMg?oc=5)
 - **2026-10-29** — Yahoo Finance — [Reinsurance Group (RGA) Reports Next Week: Wall Street Expects Earnings Growth](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHNVeUZzWWs5enJKdkNaTUJFcG91eHRFT0drbzB5clM3NGx2alNvN3F1dnBNcExSLVB6SXQ3SzB2aXAwWjNGU25qYWFTeWpBXzBFbnNiX09MX0pBYlM2MlBza1ZMRnJ1WTFlNlFXUm84eDFUT3pKdmtzS2N4MzNGNkxwV0dpNzNjeUNqTEUtN1lLVFR4bVNfSjJvRFBkcHRr?oc=5)
-- **2026-10-29** — TradingView — [RGA Q3'26 Earnings: revenue estimate is 6.69B USD](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzJYLTVJUk9YbXN1NjJyOVJGdktRQkZsN1NrbWx2bzU1dGFVZWlvRTljM0lQeVYyZkRfMkJTekVGcXJ0M0lHT1A3U0hMRmlsMjlGVk1Fa2htTlR0dU1ad1hwbFNuMnpmbGtXQm9helRoWEpTb2d1d3o3Ty03NS1NSzd2bjBQTi1SZ2lpN043VS03VVd3aFRWQzM5WkllX3VMY3BBSjljLWZLSHY1UWtB?oc=5)
-- **2026-10-29** — MarketBeat — [Reinsurance Group of America (RGA) Projected to Announce Earnings on Thursday](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYV9YallUdndhbmdpREJHZUJUME1IbHN3c3hjV3hybnRaRTdrZGU1Uy1tU1RDUkVuV19MZ1lhUXdCTXRKYllyTE5rdVF1TDBQVUFzMUtSZVI5VUd5d1VyMG9iNG9kZ1l4TjBoMUdCVF9yWDdpaHpZRFpsdi1UQU5KOE9NbkFVOG1Wc3piWUlXQVk2MjFscDU2SEcyZmpjUDhVWGxaTUsyeFVBZkxqcjdRVUVneTVtNU5CMGM1Zk1NMEd0V055a3RJdWxWb3o1VTFGMHVuVw?oc=5)
-- **2026-10-28** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxQekE3ZVpTbXRVQ0hSeXlvSGdtQi1xQjlwSnp4ZlgxeDQ5ajc2X05ta0VPQUN0NjVhU2J1MWpXVVY3Y0RBTE9WRllBTjBYTU1pLThHRFJOUU16Q3ZyM19xcHZIVU9pUXJmamRzU0d1bHItcDRicm9vUUNHSDhWWjJneXRMdUJ2bDM1ckFPM0RxZw?oc=5)
 
 ## Sagicor
 

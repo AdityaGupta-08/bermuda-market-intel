@@ -2,7 +2,7 @@
   "date": "2026-11-03",
   "source": "TradingEconomics / Swissquote (gold spot) / Yahoo Finance (crude spot, futures) / FRED",
   "gold": {
-    "spot": 3919.01,
+    "spot": 3927.73,
     "spot_date": "2026-11-03",
     "spot_source": "TradingEconomics",
     "spot_kind": "spot",
@@ -19,7 +19,7 @@
     "prior_2y_date": "2024-11-04",
     "futures": {
       "3M": {
-        "price": 3967.4,
+        "price": 3970.2,
         "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "Feb 2027",
@@ -38,7 +38,7 @@
         "prior_2y_contract": "GCG25"
       },
       "6M": {
-        "price": 4029.2,
+        "price": 4037.4,
         "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "Jun 2027",
@@ -57,7 +57,7 @@
         "prior_2y_contract": "GCM25"
       },
       "12M": {
-        "price": 4127.7,
+        "price": 4139.0,
         "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "Dec 2027",
@@ -76,14 +76,14 @@
         "prior_2y_contract": "GCZ25"
       },
       "24M": {
-        "price": 4349.7,
-        "price_date": "2026-11-02",
+        "price": 4327.8,
+        "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "Dec 2028",
         "contract": "GCZ28",
-        "prior_1m": 4601.9,
-        "prior_1m_date": "2026-10-04",
-        "prior_1m_contract": "GCZ28",
+        "prior_1m": 4594.6,
+        "prior_1m_date": "2026-10-05",
+        "prior_1m_contract": "GCV28",
         "prior_3m": 4639.5,
         "prior_3m_date": "2026-08-04",
         "prior_3m_contract": "GCQ28",
@@ -97,7 +97,7 @@
     }
   },
   "wti": {
-    "spot": 97.47,
+    "spot": 95.9,
     "spot_date": "2026-11-03",
     "spot_source": "Yahoo CL=F (front month)",
     "spot_kind": "front",
@@ -114,7 +114,7 @@
     "prior_2y_date": "2024-11-04",
     "futures": {
       "3M": {
-        "price": 93.73,
+        "price": 92.8,
         "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "Feb 2027",
@@ -133,7 +133,7 @@
         "prior_2y_contract": "CLG25"
       },
       "6M": {
-        "price": 88.22,
+        "price": 87.4,
         "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "May 2027",
@@ -152,8 +152,8 @@
         "prior_2y_contract": "CLK25"
       },
       "12M": {
-        "price": 80.05,
-        "price_date": "2026-11-02",
+        "price": 79.36,
+        "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "Nov 2027",
         "contract": "CLX27",
@@ -192,7 +192,7 @@
     }
   },
   "brent": {
-    "spot": 105.85,
+    "spot": 103.44,
     "spot_date": "2026-11-03",
     "spot_source": "Yahoo BZ=F (front month)",
     "spot_kind": "front",
@@ -209,7 +209,7 @@
     "prior_2y_date": "2024-11-04",
     "futures": {
       "3M": {
-        "price": 102.55,
+        "price": 100.62,
         "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "Feb 2027",
@@ -228,8 +228,8 @@
         "prior_2y_contract": "BZG25"
       },
       "6M": {
-        "price": 94.86,
-        "price_date": "2026-11-02",
+        "price": 93.98,
+        "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "May 2027",
         "contract": "BZK27",
@@ -266,8 +266,8 @@
         "prior_2y_contract": "BZX25"
       },
       "24M": {
-        "price": 77.5,
-        "price_date": "2026-11-02",
+        "price": 77.86,
+        "price_date": "2026-11-03",
         "price_source": "Yahoo",
         "expiry": "Dec 2028",
         "contract": "BZZ28",
@@ -287,7 +287,7 @@
     }
   },
   "usdinr": {
-    "spot": 94.8575,
+    "spot": 94.73,
     "spot_date": "2026-11-03",
     "spot_source": "Yahoo INR=X",
     "unit": "INR per USD",
@@ -303,7 +303,7 @@
     "prior_2y_date": "2024-11-04",
     "futures": {
       "3M": {
-        "price": 95.42,
+        "price": 95.35,
         "price_date": "",
         "price_source": null,
         "expiry": "3M",
@@ -322,7 +322,7 @@
         "prior_2y_contract": "INRG25"
       },
       "6M": {
-        "price": 95.95,
+        "price": 95.94,
         "price_date": "",
         "price_source": null,
         "expiry": "6M",
@@ -341,7 +341,7 @@
         "prior_2y_contract": "INRK25"
       },
       "12M": {
-        "price": 96.88,
+        "price": 96.98,
         "price_date": "",
         "price_source": null,
         "expiry": "12M",
@@ -360,7 +360,7 @@
         "prior_2y_contract": "INRX25"
       },
       "24M": {
-        "price": 99.32,
+        "price": 98.79,
         "price_date": "",
         "price_source": null,
         "expiry": "24M",
@@ -381,5 +381,5 @@
     }
   },
   "note": "Gold spot is physical XAU/USD (TradingEconomics, then Swissquote / gold-api.com), sanity-checked against the front-month future. WTI/Brent spot is the front-month future (Yahoo), with FRED's weekly EIA series as fallback. Spot priors come from the same series as spot (1d = previous session). Futures history is roll-aware by target date, backed by data/commodities_history.jsonl where Yahoo no longer lists expired contracts. USD/INR latest spot: FRED DEXINUS, then Yahoo INR=X / keyless FX APIs when FRED lags; forwards fall back to CIP derivation from India/UST curves when market quotes are unavailable.",
-  "_fetched": "2026-11-03T06:49:39.571652Z"
+  "_fetched": "2026-11-03T17:04:56.069383Z"
 }

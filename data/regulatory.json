@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T06:50:06Z",
+  "updated": "2026-11-03T17:05:25Z",
   "naic": [
     {
       "id": "c47125f9ab1b",
@@ -505,6 +505,16 @@
     }
   ],
   "cayman": [
+    {
+      "id": "e2316d4c509d",
+      "title": "Cayman regulator mandates strict recovery plans for banks to prevent public bailouts",
+      "date": "2026-11-02",
+      "cat": "General",
+      "summary": "",
+      "source": "https://streamlinefeed.co.ke/",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNFVlZjhzZFRpZFdGRDRzeUpUUGZCWVg0cjl5WDM4alhfRmNOYVIxWjZLMzQ4eDJWZm1WTlJvQUU1ZGhad29nZ25NeXlWUTJwTjZIa0JOcmxMZGlUSDVULU13OU5HZndkRGMzckxYUDZJWWhDZHR3RS1QT01pMnl1WVFFbW9GaUQzeDFkbXctNGZfU0ZtejVvNjBNYmNHWUo5ekhEUjM3RGFiMnptWGZHel9ZUllRWW5CdGc?oc=5",
+      "isNew": true
+    },
     {
       "id": "af0a8bbdbd4a",
       "title": "Cayman closes in on NAIC status as reinsurance volumes climb",

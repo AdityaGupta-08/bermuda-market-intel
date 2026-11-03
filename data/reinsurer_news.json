@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T06:50:09Z",
+  "updated": "2026-11-03T17:05:27Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 23,
+      "count": 26,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -112,6 +112,42 @@
     }
   ],
   "items": [
+    {
+      "id": "12043cd2ba41",
+      "title": "Is Reinsurance Group Of America (RGA) Stock Near Fair Value?",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcTN2OXlFejJxWkx2d0tIZzRyc2NPU243QXZQZ3FEazBQYmtoRmN0dF95TGY1SFZvU096ZFhFWmhWSFZzQkt3MklJdWpOd0k4OTZKTG1JaS14OWdfQ3JCaGg5WHZPM0Vua1BVS3lkSGdpRGcyZzNGOHpwWjUtNElxNm44bG50QjNoS2gtenJkMDR4allGYUlGRTNwOEhpbUhDNk5rRDJ2MEIya1loRjFudUt0RC1PNVRwSF91UlRjRkdhSDFveW95dmR6dXluTV91S05xV1ZiSThYZ9IB3wFBVV95cUxQZVZNMFZ5TU9NN2x1UEpiSGJGbnlqY1V4VzBRWnVQOTFXMlR3R2U2SkhROGRfYWpjQzZyazRWMEM1dTJPOVh3Mmh2WUFpTzNjbHlDdHRoclFVTjdBX3VNRmpjRUpraGEzRmpsaG03YlNvRVdrZ1JMeEhXSm1qaVJSbnpEOTlHZzJpWUJma2MyOUZ1V1k5NE4xMkgxMlMxelltdE8zLVdybElNZjRRR1F3N19Yb2ZyVFZWanh2X0hzZ0QzMHpwNDltVlFydHh2NXJ6ejlHOVA2Qm80Y29tTi0w?oc=5",
+      "source": "Simply Wall St",
+      "feed": "Google News: RGA",
+      "date": "2026-11-03T09:44:52Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "300fb201465f",
+      "title": "How Reinsurance Group Of America Incorporated (RGA) Affects Rotational Strategy Timing",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSVNDTXczcXp4d2R4N0syNGdfSXR2cmJkcXVtZmdWZ19NRUNId0JrdXdGa25GS0pKQVIzZ1Vhdmt3TGRXeHRIcjRmV09udWRaTldTX2ljU0xuQjRPR0dNaDJUU0pmcUdyWHZqc2x1anp3Q3Z3cjNLU3V6ZEQtNjVIWW94T1hPTkRFdWVlZm1nelJPd2hacWx0YUYwQVBtSFU2UDJUUDZvR0JUOENnYkQ0SFRtR051VUUyMEVKcXZQVVNZMnV1UVhMdWdTMS1GS3M5d1BxSHZoZ2tEdE80VUduVUxKMnFIQVoxR1ZBM3RLcDRiVlF2RnBv?oc=5",
+      "source": "Stock Traders Daily",
+      "feed": "Google News: RGA",
+      "date": "2026-11-03T07:36:01Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-03T05:16:43Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "0efb4bc64b8e",
       "title": "Is Reinsurance Group Of America (RGA) Priced Right On Earnings?",
@@ -173,12 +209,12 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
+      "id": "ae911c65adbb",
+      "title": "Reinsurance Group of America, Incorporated $RGA Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmlvbVdTd3ZjYTEySXQ5T0swNFFORlY0OURBN2l1czBRTVVrLVZBZG5iWVBhNHZkcUhvSzVLdEItLV8xRll4MkRoT1A0VFUtbm5PbENvbHVNRUkwdWNTWVFkMDlZeVRDZmtaMnl1OFJDeEw2dUlqSVJnTjdoS3V2YThsbnJKM1g5ZVA0M2d6aEtjTThqa3NR?oc=5",
+      "source": "Elets BFSI",
       "feed": "Google News: RGA",
-      "date": "2026-10-31T07:11:20Z",
+      "date": "2026-11-01T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

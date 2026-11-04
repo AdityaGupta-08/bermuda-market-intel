@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T23:26:10Z",
+  "updated": "2026-11-04T06:25:24Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 5,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 24,
+      "count": 25,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -113,15 +113,15 @@
   ],
   "items": [
     {
-      "id": "d614fe9440f4",
-      "title": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1VOZFBaeDRKR25TbXcxZGtZcHBvejllTXRRM2Nxc2x6Y21mWFJnT2dTWEdiMHB1OFJXelRfZGxKSl8tcVo2T0hINmtSOGxoekVhYnJnVGhtdWNzcjA4TllSZEZvZWQ1V1dHTTJjdzYycmxoeWFlcVZYYVZGVEJtMkZVU1V2c2k4LUpjR2NHQm91NEp6YkNsRXhLbllTdzY0VFVkWkc3NXJoWllsWHBvb0xxLUU?oc=5",
-      "source": "Quantisnow",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-11-03T23:13:29Z",
+      "id": "01968f667bc1",
+      "title": "Reinsurance Group of America (RGA) reports Q3: everything you need to know ahead of earnings",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2ZqcUFHbm5acnBfYndnX09KcWpyRGM2UldWXzFSMzY3WkJVYzFUSkNyU2VYMHVVRm9feV9zMi1TbnR4U0F1M0hjTFBmODAwY2xmNFd0Q1djNmo1eHV5ekp5eEFzYzVQem5JLVhxUEptZm9kSHZrLW45UUVzOHF4S0RzQnRDaWhQWFpJZEFzNnZxVFFoa0JSWkVsSUxKdTRGWVdQeEVieHRUMEFPdzVjTDFDWHhTWGRNbi03REFWal9BV0JIdGdsOVJsMUJzMF9VWEVaekZ5Q1dDZ19GZmlQSVg2T0w?oc=5",
+      "source": "TradingView",
+      "feed": "Google News: RGA",
+      "date": "2026-11-04T03:37:00Z",
       "summary": "",
       "companies": [
-        "Fortitude Re"
+        "RGA"
       ]
     },
     {
@@ -131,6 +131,30 @@
       "source": "StreetInsider",
       "feed": "Google News: Fortitude Re",
       "date": "2026-11-03T23:13:09Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "d614fe9440f4",
+      "title": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnlyUnZZVFZtZlFHdWNCR2NNaFRBZ3V0N3ZYSkhyYUtmMmJ0eU9KWU5IVWdRWnU1MlBvQ0RoLXdKSzdHekNsZU5sT2ViWFRFWGVZYmRQMXVTWF9PVlNxUGRVcXJHa1paVjBlUDdYRVZNUGVjVkI3U3lIY2JKTmNFbW9lTzB4aldwUVBzMkhVMDA1WW1hdkpr?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T23:06:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "3542a361e783",
+      "title": "Unum Group Closes $3.8 Billion LTC Reinsurance Deal with Fortitude Re",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaGdKb0h6aUZ1WU1fTHhVQm54UTlkU3hHQ2RQMmx2eGpsMTNyVjhrZFozRXBZejVIeHFJakJDaTFZRXhQLVVrVnNzOERKc2J2U014bHBsSkpoS1dhcUE?oc=5",
+      "source": "TradingKey",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T23:01:07Z",
       "summary": "",
       "companies": [
         "Fortitude Re"
@@ -506,6 +530,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "92733be06372",
+      "title": "Sagicor Financial (TSX:SFC) Wins an AM Best Upgrade as Its Low Payout Leaves Room for More Shareholder Returns",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbGVsN2xidkdlZThtNjR4RGZHZ2NGdUlzOVJRUmxWR0dsMTB1Y0dzMGJxbnpUU2pzcFZSWHdjY2lmdUFfc1BoNVZ6d2FPX2tzMVcyWkwzZnRwUXM4TVd4Q2xISXBPam80SVZxT3BJbmd4QmtBbHhCdFZfbnF0bi1BUGE5aWFvQ1ppbkFrV3Y1eHAtY2ZxMGlrT0xRZUlJY3dCWUJVcXhQaUJhMkFiN3JGRGxTZ0d6cklQVXdwbzA4TjZ1TmtVNjE4MHZzRVpiUnhNSFFRVWhBOG9MNDFmaFhmbw?oc=5",
+      "source": "kalkine.ca",
+      "feed": "Google News: Sagicor",
+      "date": "2026-10-22T07:00:00Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
       ]
     },
     {

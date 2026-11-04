@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T23:25:45.399934Z",
+  "updated": "2026-11-04T06:24:59.164351Z",
   "countries": {
     "us": {
       "series": "CPIAUCSL",
@@ -38,12 +38,12 @@
     "in": {
       "series": "INDCPIALLMINMEI",
       "label": "India CPI all items (OECD)",
-      "yoy": 4.96,
+      "yoy": 5.57,
       "mom": null,
       "trend": null,
-      "date": "2026-08-01",
+      "date": "2026-09-01",
       "source": "OECD SDMX (FRED series discontinued)"
     }
   },
-  "_fetched": "2026-11-03T23:25:45.399938Z"
+  "_fetched": "2026-11-04T06:24:59.164355Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T23:26:07Z",
+  "updated": "2026-11-04T06:25:20Z",
   "naic": [
     {
       "id": "c47125f9ab1b",
@@ -364,6 +364,16 @@
       "isNew": false
     },
     {
+      "id": "49542a62fc0e",
+      "title": "New BMA preapproval process for Bermuda funds",
+      "date": "2026-08-24",
+      "cat": "Licensing",
+      "summary": "",
+      "source": "Royal Gazette | Bermuda",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnhuOHlNU0FXaDlkSVJFSFBuUnd6RzlnS2FhZlRMN3NaZGIxcHNRTWl2YlNxbUU5STh3R1ByUzE0VmhyeGtqa0FqZC1abllER0Y1Ukd6VVBHbllvblFlbi1wTXRtWnYzaGJ4ZHB0a3BhZ2pvNTVBV3ZuNjZtMWlrUTN1aUR5THNDRkVfZmo3VG5TczNvdGRRWXJSUDVwYzRNaWd1b0RtOWdUS2oxTHZRamtud0FRVlBFcVRScFAwTTM2NHc?oc=5",
+      "isNew": false
+    },
+    {
       "id": "1e635a9c163e",
       "title": "Consultation On Proposed Insurance Rules",
       "date": "2026-08-24",
@@ -492,19 +502,19 @@
       "source": "Artemis.bm",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1B5X2ZUMThlOWl6Z2kyUWQ2cWpPLUM4a1ZiSXBaR2VPVmRLRjBzbWoyX2lxNkp6RElEUllTWDNibE5hYTFsV293RGJOcGdnT0R6SldVLWRMX2JFa3I0ZW1FUjlLTFJFVW9ReXlTN3ZqTVBiVHpoRVdzZENGYzFNdlBrQjY3MEJmUjZIQ2gtSDJXR0t1WlJ5VUsxaVNFMDdHeXduSQ?oc=5",
       "isNew": false
-    },
-    {
-      "id": "80d7c58ffdd4",
-      "title": "BMA warns of payment scam",
-      "date": "2026-07-22",
-      "cat": "General",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1lGemdXaEtnZnJpNXNMeHR1dU41NWhTUlZOOTJFaFlmYWFQTXp6Zm1Yd1JIZF83NjB2NWVFT0MzZ0F4djdXelcyOHVjTVNaRXhpVFowZzlUdzQ0dENnNkJHeFVSdnJZazdsMFlWUUZJSVN4dWdlZHVTOFA4R0JDSWlHVnRYdmVXNWNadU14M2g5eGpLYkxMNFZocUI?oc=5",
-      "isNew": false
     }
   ],
   "cayman": [
+    {
+      "id": "5fcdea8bb837",
+      "title": "CIMA launches CGMA Week 2026",
+      "date": "2026-11-03",
+      "cat": "General",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMXA2LXZyRlZnaEViakJTTDhGcWxTdldnWG80cnhuclZKWXlqWkhiNExhakV3MWVsQ3lURGRIUHFKQjFHeWdvVmdIdmNSXzRfc3lpS0FfcU5JLUNWbWNqd1FHaDg0ZURYeXdPR3pkSl9ZQ0RKaFV1YlktcmEzMjA?oc=5",
+      "isNew": true
+    },
     {
       "id": "e2316d4c509d",
       "title": "Cayman regulator mandates strict recovery plans for banks to prevent public bailouts",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T06:25:24Z",
+  "updated": "2026-11-04T17:18:00Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,7 +11,7 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 0,
+      "count": 3,
       "error": null
     },
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 6,
+      "count": 4,
       "error": null
     },
     {
@@ -112,6 +112,42 @@
     }
   ],
   "items": [
+    {
+      "id": "01803da886b6",
+      "title": "Fortitude Re and Unum\u2019s $3.8bn LTC deal closes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlEtMnB2OXBsbUtzY2JXWWsyeTNGX3c3T2E2Ml9xWGRKZG4xWDMxUjRaQnpOd1d0Y2VyS3hFc3lkSkhnU0IxX0JLRDlaR2dZT1RHVFNjLXZQN2NMZVVtYTZhOVNnejZia0FkclRvc1QtZHRmbEJYLTNXcU94QjNzcXBYa2JMUXhMQ1Z6dnUwLVluRHVJVklTM09ETEROS0owMkMwN1B1M0g3OEFPbEdIeFp3?oc=5",
+      "source": "Royal Gazette | Bermuda",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-04T16:49:37Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "9b8a1f633252",
+      "title": "Reinsurance Group (RGA) Q3 Earnings Preview: What You Should Know Beyond the Headline Estimates",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLV9BcGhSenByNm41Rl8yTHJQcjIzUVBuTC1zYmxFbVp6Rzl5VnRFa19pSXk2Tm0zYWEzOEpJeXNFcmh5THYtWUM4VHhrTm1udm5hRUpsa3JFUHo5LVNaM2pRSC0tT0xQU1BSNHNhSGV2dDdzTmRDcVJBdTFDLVNObEpRU2g4NzBiRUFKWUpDYzBBTndkWDluOFQzNkx2anM?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-04T13:15:08Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "6bad72d6ee72",
+      "title": "Apollo Outlines AI Financing as Athene Discloses $12.9 Billion in Digital Infrastructure Investments",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PSEhkX0JzWE1OeHhpNjJhQkJUZEh5YzVoTXN0VGdYN1poMVZoV2pFMWF6bHp1cVJBQWU0Nm53VmhrSHFzYTFhVG9qSWVUODhYSUhZNUF4WGc?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News: Athene",
+      "date": "2026-11-04T10:25:47Z",
+      "summary": "",
+      "companies": [
+        "Athene"
+      ]
+    },
     {
       "id": "01968f667bc1",
       "title": "Reinsurance Group of America (RGA) reports Q3: everything you need to know ahead of earnings",
@@ -170,6 +206,18 @@
       "summary": "",
       "companies": [
         "Fortitude Re"
+      ]
+    },
+    {
+      "id": "1535f000958a",
+      "title": "Retirement Services earnings rose 7.4% excluding notable items at Athene (ATH), but fell before that exclusion.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVJMZjh5OTlPcE85aGFzMmEwSTdxWmV3V3JhcFhRNlFQcllyWVFhS1U1MkJMbTJqSjFNa1BIQkM5U1JZUUFrVFdWU2FzeDdVN2oxUktrOWFQazFGMDRETFY0Z29keTJyWUNibHJ2YkVFMC11eUlndWNqVTdyZ0xVNUZqekpKSXZCcTBMeDItOWUxcTJFNGsxMldqTHo1Q1I3Wmw2UXJubGJjUQ?oc=5",
+      "source": "Stock Titan",
+      "feed": "Google News: Athene",
+      "date": "2026-11-03T13:07:37Z",
+      "summary": "",
+      "companies": [
+        "Athene"
       ]
     },
     {
@@ -359,6 +407,18 @@
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-10-29T02:58:48Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "a71ca9b7c4fc",
+      "title": "Reinsurance Group of America (RGA) Eases 0.78% to $260.68, Holding Mid-Range Between Key Levels - Collar Trade",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPelNSbDdIV09WZGZWTFllcXljaElzbGFyNlBqNmdyRXo3c1NBbkJPdmNlTlo5Y2dHaHZZNnpOYlVuVDNzTWhMRkR3cjJpdUF2b3NZWGtVempmMlBWME5jeklRRDlUcURuV0doNC1xNDU4eE9Ea0Q0eXZmS21fdFdoSnF1ektoczZFNmVKcUtkRWktbUxSTlE5N0J6NkNVS3dVbmFHUnBPMi1oVTRGMGRuME9HR1NJNzVGY0w4Tkw1UWU5NlE5R0R4NHNB?oc=5",
+      "source": "https://www.dars.gov.et/",
+      "feed": "Google News: RGA",
+      "date": "2026-10-28T14:37:42Z",
       "summary": "",
       "companies": [
         "RGA"

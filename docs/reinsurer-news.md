@@ -1,16 +1,18 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 24 items
-Generated Wed 04 Nov 2026, 02:25 AST
+Bermuda life & annuity watchlist — last 14 days — 26 items
+Generated Wed 04 Nov 2026, 13:18 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 62 items
+- ✅ **Google News (16 of 16 companies)** — 61 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
 
+- **2026-11-04** — www.tokenpost.com — [Apollo Outlines AI Financing as Athene Discloses $12.9 Billion in Digital Infrastructure Investments](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PSEhkX0JzWE1OeHhpNjJhQkJUZEh5YzVoTXN0VGdYN1poMVZoV2pFMWF6bHp1cVJBQWU0Nm53VmhrSHFzYTFhVG9qSWVUODhYSUhZNUF4WGc?oc=5)
+- **2026-11-03** — Stock Titan — [Retirement Services earnings rose 7.4% excluding notable items at Athene (ATH), but fell before that exclusion.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVJMZjh5OTlPcE85aGFzMmEwSTdxWmV3V3JhcFhRNlFQcllyWVFhS1U1MkJMbTJqSjFNa1BIQkM5U1JZUUFrVFdWU2FzeDdVN2oxUktrOWFQazFGMDRETFY0Z29keTJyWUNibHJ2YkVFMC11eUlndWNqVTdyZ0xVNUZqekpKSXZCcTBMeDItOWUxcTJFNGsxMldqTHo1Q1I3Wmw2UXJubGJjUQ?oc=5)
 - **2026-10-30** — OpenTools — [Athene groups AI financing exposures by underlying counterparty credit](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjhyQzhVRGRzMmxUamFFTmh1MXU1YXJFYVdoVE56Nm1PUTRQaUpvLWRtZ2trZHFlY0hOY1dvTGZjNmJOeTZ4b2E0aTRWNWdqX1czd2N0bTV3TEZ6WUxVLWdQeklrODBaYVFlYkpQY21FbmhobXRzQ19fUFpHQkw0Q243R0xKR1N3b2RVLXZWaEh6NHNHVnVV?oc=5)
 - **2026-10-23** — Seeking Alpha — [Athene Holding Preferred Update: Series A And D Are Buys For Different Reasons (ATH.PR.A)](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlaeHJpUDI2dmNGeWNlWkpqSklWOHotWFU5SmxwSEY2RHJMbkxEMWh6OHFleUlSRld5QmRZZmRYM0Z1UE11TnJ3ZUNOYU1naWhMUGNpQnZXa19LWlhwYzR6N3FsNE1NUWZpam56dzhVWHZmY2lBdHFYcGlWT3Q5Qk40a2RKcGd6R25zLUY0WjRkUHlnYnZPM3RMMEIxajB1ak53cmZ4NlEtOWhSV2Y0Z1Bmb2JleTU3Q2c?oc=5)
 
@@ -20,11 +22,11 @@ Generated Wed 04 Nov 2026, 02:25 AST
 
 ## Fortitude Re
 
+- **2026-11-04** — Royal Gazette | Bermuda — [Fortitude Re and Unum’s $3.8bn LTC deal closes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlEtMnB2OXBsbUtzY2JXWWsyeTNGX3c3T2E2Ml9xWGRKZG4xWDMxUjRaQnpOd1d0Y2VyS3hFc3lkSkhnU0IxX0JLRDlaR2dZT1RHVFNjLXZQN2NMZVVtYTZhOVNnejZia0FkclRvc1QtZHRmbEJYLTNXcU94QjNzcXBYa2JMUXhMQ1Z6dnUwLVluRHVJVklTM09ETEROS0owMkMwN1B1M0g3OEFPbEdIeFp3?oc=5)
 - **2026-11-03** — StreetInsider — [Fortitude Re closes $3.8B long-term care reinsurance deal with Unum](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDJhQ0FqeXJDazcweDN6aG9LVWh5bTY0a3lUcXRlc1Z0aGJaZ3BvWWwtMmN3VDRwQ3dEcTJuYXdxMUNKOFlTWjhtVWhxQ0F5bEVLbHdLUXpwdEtlWFVqbldCUndfUU9YTm0ybnVsUkp4TkRpY3l5V0diUUptajlFaVZIRDlTQzBLNVFuZ040Tnd0VUc5djlsX2RJVEdJaXM5NHdPcHp4RjZBY3ZsODdIQmYxOURybXVlOURraUFRUnNPSmlGTEhr?oc=5)
 - **2026-11-03** — Yahoo Finance — [Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnlyUnZZVFZtZlFHdWNCR2NNaFRBZ3V0N3ZYSkhyYUtmMmJ0eU9KWU5IVWdRWnU1MlBvQ0RoLXdKSzdHekNsZU5sT2ViWFRFWGVZYmRQMXVTWF9PVlNxUGRVcXJHa1paVjBlUDdYRVZNUGVjVkI3U3lIY2JKTmNFbW9lTzB4aldwUVBzMkhVMDA1WW1hdkpr?oc=5)
 - **2026-11-03** — TradingKey — [Unum Group Closes $3.8 Billion LTC Reinsurance Deal with Fortitude Re](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaGdKb0h6aUZ1WU1fTHhVQm54UTlkU3hHQ2RQMmx2eGpsMTNyVjhrZFozRXBZejVIeHFJakJDaTFZRXhQLVVrVnNzOERKc2J2U014bHBsSkpoS1dhcUE?oc=5)
 - **2026-11-03** — Business Wire — [Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNG9VcGhHY19ONW9jN0xvdjB0Y1NaRHhmQ2RDekYweC0wc1k4MUgyZ1ZGNE4zSmhvQUNGWTlkRFVhdVJDY3FEV2lMSVNCZ3hvUjJxTU41RGRTRUxlclZ3YVFKSUs0WUozM1BrN1pueHQ0QjhoMFppMFFPZXpvTHBTNHphLXpqNzRtdnIwSjJKdzRYR2dPTGg4Q1VndzB3Zl83QTdVRDNmRGFTdTRkZUlpUEM5TVBYSmZ2cnVkZ1NkcGhlWGFBaExHUlBIdTBNelF2SnlvMk1WSm1oUnZZV3hN?oc=5)
-- **2026-10-21** — finance.biggo.com — [[T&D Holdings FY2026 Q2 Earnings Call] Fortitude Re on Track to Reach $140 Billion in Liabilities by 2027; Adjusted Net Income Growing at 65% Pace](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoaDAwdmNhSDZITjVEbnJZb1dRZXVxTDBpbXV3eW5QZUNxWlN2VjBtZW9xeThSMUM4TlFfcjI5WGtXeGtacGc2RWNEUklvb2JESFFHdDBFUElkY2ZGU2RaeA?oc=5)
 
 ## Talcott
 
@@ -33,6 +35,7 @@ Generated Wed 04 Nov 2026, 02:25 AST
 
 ## RGA
 
+- **2026-11-04** — Yahoo Finance — [Reinsurance Group (RGA) Q3 Earnings Preview: What You Should Know Beyond the Headline Estimates](https://news.google.com/rss/articles/CBMinwFBVV95cUxNLV9BcGhSenByNm41Rl8yTHJQcjIzUVBuTC1zYmxFbVp6Rzl5VnRFa19pSXk2Tm0zYWEzOEpJeXNFcmh5THYtWUM4VHhrTm1udm5hRUpsa3JFUHo5LVNaM2pRSC0tT0xQU1BSNHNhSGV2dDdzTmRDcVJBdTFDLVNObEpRU2g4NzBiRUFKWUpDYzBBTndkWDluOFQzNkx2anM?oc=5)
 - **2026-11-03** — TradingView — [Reinsurance Group of America (RGA) reports Q3: everything you need to know ahead of earnings](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2ZqcUFHbm5acnBfYndnX09KcWpyRGM2UldWXzFSMzY3WkJVYzFUSkNyU2VYMHVVRm9feV9zMi1TbnR4U0F1M0hjTFBmODAwY2xmNFd0Q1djNmo1eHV5ekp5eEFzYzVQem5JLVhxUEptZm9kSHZrLW45UUVzOHF4S0RzQnRDaWhQWFpJZEFzNnZxVFFoa0JSWkVsSUxKdTRGWVdQeEVieHRUMEFPdzVjTDFDWHhTWGRNbi03REFWal9BV0JIdGdsOVJsMUJzMF9VWEVaekZ5Q1dDZ19GZmlQSVg2T0w?oc=5)
 - **2026-11-03** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM2Ntak9NOE9vek9Pclp4cVViQlh4LUNCZXRrS3pxaGNSbEpkN01aZXZSSFpiZ2ZIbVh6cXF0UUp4bmpfV3hpSXNCSnZ0NW5SdXRxTGtpYzlvbWJZMllxRmNkMEQ2TG1NRmVKV2h3cjM3WGtVM3Q1clY5TERVOUxhbjU1ZUpSVmdhamo0cU94NkRDMnBycDBvZlBxakxta1ExX1pvbEloQVVKRnZsdXY0ajFUX040M2hEbWthV1lUSzFSNUFpX1ZOcXNOWVV1aElXTktieW1hMFFHOG5ZVi1vdVU2TkwyWGZBY1plWlhR?oc=5)
 - **2026-11-03** — Simply Wall St — [Is Reinsurance Group Of America (RGA) Stock Near Fair Value?](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcTN2OXlFejJxWkx2d0tIZzRyc2NPU243QXZQZ3FEazBQYmtoRmN0dF95TGY1SFZvU096ZFhFWmhWSFZzQkt3MklJdWpOd0k4OTZKTG1JaS14OWdfQ3JCaGg5WHZPM0Vua1BVS3lkSGdpRGcyZzNGOHpwWjUtNElxNm44bG50QjNoS2gtenJkMDR4allGYUlGRTNwOEhpbUhDNk5rRDJ2MEIya1loRjFudUt0RC1PNVRwSF91UlRjRkdhSDFveW95dmR6dXluTV91S05xV1ZiSThYZ9IB3wFBVV95cUxQZVZNMFZ5TU9NN2x1UEpiSGJGbnlqY1V4VzBRWnVQOTFXMlR3R2U2SkhROGRfYWpjQzZyazRWMEM1dTJPOVh3Mmh2WUFpTzNjbHlDdHRoclFVTjdBX3VNRmpjRUpraGEzRmpsaG03YlNvRVdrZ1JMeEhXSm1qaVJSbnpEOTlHZzJpWUJma2MyOUZ1V1k5NE4xMkgxMlMxelltdE8zLVdybElNZjRRR1F3N19Yb2ZyVFZWanh2X0hzZ0QzMHpwNDltVlFydHh2NXJ6ejlHOVA2Qm80Y29tTi0w?oc=5)
@@ -44,7 +47,6 @@ Generated Wed 04 Nov 2026, 02:25 AST
 - **2026-11-01** — Simply Wall St — [Is Reinsurance Group of America (RGA) A Bargain After Its 30% Year To Date Gain?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSnRQeVZKY1ZhMU9ZOElISEZMMXpUYUZBel9EcE5DVUEwdWYxckhwTUdvNnNubnJzUVNaa1JVVWMyQUlwOG1FNk01Wl9uTm1JLWpmS0dpYXNvN3lqNmhxbVRXbjJJdEhOWlVHRGhhbnlCeXdKaHI2NE00MW82bGRJVG9RbUtoYWZUdmE4ZXNNOEpZU2F0Q3Z1TXdPbVh0UTI2LW9wWUZpcjVsUHIwbTMtQkJOeWFhcVpFOG05cUFiVUdMZ3VVd1VpVjBpaFhoZWFKOWUyRURZWjFSM2pYRFHSAeMBQVVfeXFMUHRoQndaUTBrX0NvUUQ4cHkxWXo2ZndpUkk1YjExM1F1QXBtc1RUX3UybkxyVlRRU1NIdzhPbDlFZTNibkdwaE0yQjhFNmRNYm1NdmYyeGl2QU1CTWtocEp1cEtJVVJSZFp0SEpwRG9SbDZoWGdFRm5hZmFVMFp5QnktNUxlM2FzNjc0R3ZLZE9rYmJJdnd0c0U2TGlrbHY1d0NIcXVXVjdaZ2JmbDR3cThZc2FHUUdSRFB4cjY3T0otQ0ZkbnJvSVVoUmcwWWR0cmI3R3NoeWk3UGRSWThrNVJZbHc?oc=5)
 - **2026-10-31** — Yahoo Finance UK — [Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history](https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yXy1Yd0VxYl81bGtMT0p2WXQ5QnVqQlRXSTk4UUROZlVMeXJMbnJ2VXI2dlZQREFtVDZEa25ETVBmMkxOUTdJTTAzR04tT0RY?oc=5)
 - **2026-10-30** — Yahoo Finance UK — [Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIUGlHLWdTTVZrX3JRcVFReDMwSlRySVRCaG55WXBZVW1xS1JTYjBrMERteXBuZUp5ZG5CTjg2OXZBMFVzVm1qdHFOVGtWM0VLY1VwY3M3dmtOaWhFU2tUUA?oc=5)
-- **2026-10-30** — Yahoo Finance — [Should Value Investors Buy Reinsurance Group of America (RGA) Stock?](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjdnQUptQ05ORk54cEV2aXNEeEpadEdZaW9yazh4YVdWLXpubUZPMnBiTnpLMkl0VG5XNjBDcTA4V1JfNVZ4VTl6U0tyUlRNWGdXTXppZ3J6UlFHWnZjWHpKWHNKM3FZXzN4LWxzNEFDMXI1MGRZbVhGRjk3QUVFYVY0dHdfcHBEWUZzN1ZyTzhpMjdBeVJfbVpXM1RnMUxVMGdMMg?oc=5)
 
 ## Sagicor
 

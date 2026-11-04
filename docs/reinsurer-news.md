@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 26 items
-Generated Wed 04 Nov 2026, 13:18 AST
+Bermuda life & annuity watchlist — last 14 days — 27 items
+Generated Wed 04 Nov 2026, 19:42 AST
 
 ## Feed status
 
@@ -22,11 +22,12 @@ Generated Wed 04 Nov 2026, 13:18 AST
 
 ## Fortitude Re
 
+- **2026-11-04** — Beinsure — [Unum Life Insurance closes $3.8 bn long-term care reinsurance deal with Fortitude Re](https://news.google.com/rss/articles/CBMijAFBVV95cUxOR01salZ6ckFTN0lkNWtaRU1sN3lvdkN2ZXBXVU1jUmZuOXR3WDNQNndoeHYzeVVPY1RfbmJ6Y3ZWd3BKYmtjTnZVc2xBTFkwSkwxUnBwd1ZiMC1FXzhYVDU4dHNvWFlSMThBV2o5d19Jb0IxZXNQZVEweGxUV1gweDB3LVp5MXNIbk4wNg?oc=5)
 - **2026-11-04** — Royal Gazette | Bermuda — [Fortitude Re and Unum’s $3.8bn LTC deal closes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlEtMnB2OXBsbUtzY2JXWWsyeTNGX3c3T2E2Ml9xWGRKZG4xWDMxUjRaQnpOd1d0Y2VyS3hFc3lkSkhnU0IxX0JLRDlaR2dZT1RHVFNjLXZQN2NMZVVtYTZhOVNnejZia0FkclRvc1QtZHRmbEJYLTNXcU94QjNzcXBYa2JMUXhMQ1Z6dnUwLVluRHVJVklTM09ETEROS0owMkMwN1B1M0g3OEFPbEdIeFp3?oc=5)
+- **2026-11-03** — Quantisnow — [Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSl9SUDBUZkpXZTFJY1oxT0VCc3B5Ymt1ZXpHaS1FR2tRNXNBMjdaYnpfbDJidENLUGJqdXJQVk5KalNfZk45TTBzSFp2UUdjY0k2aHZDcDFGbmNuNVlrWG43VklEOS1Ca1lydTQwNDN4M3ZtV05MNUFCSTdQRFhaWlFQa3k0TGNwbG1Lc2JnZEFQUVRYTjZScHVYRHpaWFJERDltOGd6N2FDUHc3Mk9Eck9KTkhTZw?oc=5)
+- **2026-11-03** — Quantisnow — [Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZk1DSUxhS2VzbWlWM1o5WVBiODlpall4WEVOY2hUaUNjeEtybVVBbm5Td0JnckZQWHlVUGNuLVUtRGw5cGYxazZaWW5idU1yOHBJS0MxVThZeHYyei1MbmVVd0s4M2xvUEF4Yl80V1FUZEFzbXhIMnNSckhuNXRSZUxSM3VCNmhneExsdnZPTmNUSzIwMXZ1a3hmSE9tTDd3UnlPWjUzU20yYS1UVG53?oc=5)
 - **2026-11-03** — StreetInsider — [Fortitude Re closes $3.8B long-term care reinsurance deal with Unum](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDJhQ0FqeXJDazcweDN6aG9LVWh5bTY0a3lUcXRlc1Z0aGJaZ3BvWWwtMmN3VDRwQ3dEcTJuYXdxMUNKOFlTWjhtVWhxQ0F5bEVLbHdLUXpwdEtlWFVqbldCUndfUU9YTm0ybnVsUkp4TkRpY3l5V0diUUptajlFaVZIRDlTQzBLNVFuZ040Tnd0VUc5djlsX2RJVEdJaXM5NHdPcHp4RjZBY3ZsODdIQmYxOURybXVlOURraUFRUnNPSmlGTEhr?oc=5)
-- **2026-11-03** — Yahoo Finance — [Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnlyUnZZVFZtZlFHdWNCR2NNaFRBZ3V0N3ZYSkhyYUtmMmJ0eU9KWU5IVWdRWnU1MlBvQ0RoLXdKSzdHekNsZU5sT2ViWFRFWGVZYmRQMXVTWF9PVlNxUGRVcXJHa1paVjBlUDdYRVZNUGVjVkI3U3lIY2JKTmNFbW9lTzB4aldwUVBzMkhVMDA1WW1hdkpr?oc=5)
 - **2026-11-03** — TradingKey — [Unum Group Closes $3.8 Billion LTC Reinsurance Deal with Fortitude Re](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaGdKb0h6aUZ1WU1fTHhVQm54UTlkU3hHQ2RQMmx2eGpsMTNyVjhrZFozRXBZejVIeHFJakJDaTFZRXhQLVVrVnNzOERKc2J2U014bHBsSkpoS1dhcUE?oc=5)
-- **2026-11-03** — Business Wire — [Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNG9VcGhHY19ONW9jN0xvdjB0Y1NaRHhmQ2RDekYweC0wc1k4MUgyZ1ZGNE4zSmhvQUNGWTlkRFVhdVJDY3FEV2lMSVNCZ3hvUjJxTU41RGRTRUxlclZ3YVFKSUs0WUozM1BrN1pueHQ0QjhoMFppMFFPZXpvTHBTNHphLXpqNzRtdnIwSjJKdzRYR2dPTGg4Q1VndzB3Zl83QTdVRDNmRGFTdTRkZUlpUEM5TVBYSmZ2cnVkZ1NkcGhlWGFBaExHUlBIdTBNelF2SnlvMk1WSm1oUnZZV3hN?oc=5)
 
 ## Talcott
 

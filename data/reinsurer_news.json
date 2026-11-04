@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T17:18:00Z",
+  "updated": "2026-11-04T23:42:12Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,7 +11,7 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "5af62eb955a1",
+      "title": "Unum Life Insurance closes $3.8 bn long-term care reinsurance deal with Fortitude Re",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR01salZ6ckFTN0lkNWtaRU1sN3lvdkN2ZXBXVU1jUmZuOXR3WDNQNndoeHYzeVVPY1RfbmJ6Y3ZWd3BKYmtjTnZVc2xBTFkwSkwxUnBwd1ZiMC1FXzhYVDU4dHNvWFlSMThBV2o5d19Jb0IxZXNQZVEweGxUV1gweDB3LVp5MXNIbk4wNg?oc=5",
+      "source": "Beinsure",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-04T21:22:46Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
     {
       "id": "01803da886b6",
       "title": "Fortitude Re and Unum\u2019s $3.8bn LTC deal closes",
@@ -161,6 +173,30 @@
       ]
     },
     {
+      "id": "a87a63c0a38b",
+      "title": "Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSl9SUDBUZkpXZTFJY1oxT0VCc3B5Ymt1ZXpHaS1FR2tRNXNBMjdaYnpfbDJidENLUGJqdXJQVk5KalNfZk45TTBzSFp2UUdjY0k2aHZDcDFGbmNuNVlrWG43VklEOS1Ca1lydTQwNDN4M3ZtV05MNUFCSTdQRFhaWlFQa3k0TGNwbG1Lc2JnZEFQUVRYTjZScHVYRHpaWFJERDltOGd6N2FDUHc3Mk9Eck9KTkhTZw?oc=5",
+      "source": "Quantisnow",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T23:23:04Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "d614fe9440f4",
+      "title": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZk1DSUxhS2VzbWlWM1o5WVBiODlpall4WEVOY2hUaUNjeEtybVVBbm5Td0JnckZQWHlVUGNuLVUtRGw5cGYxazZaWW5idU1yOHBJS0MxVThZeHYyei1MbmVVd0s4M2xvUEF4Yl80V1FUZEFzbXhIMnNSckhuNXRSZUxSM3VCNmhneExsdnZPTmNUSzIwMXZ1a3hmSE9tTDd3UnlPWjUzU20yYS1UVG53?oc=5",
+      "source": "Quantisnow",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T23:13:50Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
       "id": "a2cbaf7e6fb2",
       "title": "Fortitude Re closes $3.8B long-term care reinsurance deal with Unum",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDJhQ0FqeXJDazcweDN6aG9LVWh5bTY0a3lUcXRlc1Z0aGJaZ3BvWWwtMmN3VDRwQ3dEcTJuYXdxMUNKOFlTWjhtVWhxQ0F5bEVLbHdLUXpwdEtlWFVqbldCUndfUU9YTm0ybnVsUkp4TkRpY3l5V0diUUptajlFaVZIRDlTQzBLNVFuZ040Tnd0VUc5djlsX2RJVEdJaXM5NHdPcHp4RjZBY3ZsODdIQmYxOURybXVlOURraUFRUnNPSmlGTEhr?oc=5",
@@ -173,36 +209,12 @@
       ]
     },
     {
-      "id": "d614fe9440f4",
-      "title": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnlyUnZZVFZtZlFHdWNCR2NNaFRBZ3V0N3ZYSkhyYUtmMmJ0eU9KWU5IVWdRWnU1MlBvQ0RoLXdKSzdHekNsZU5sT2ViWFRFWGVZYmRQMXVTWF9PVlNxUGRVcXJHa1paVjBlUDdYRVZNUGVjVkI3U3lIY2JKTmNFbW9lTzB4aldwUVBzMkhVMDA1WW1hdkpr?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-11-03T23:06:00Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
       "id": "3542a361e783",
       "title": "Unum Group Closes $3.8 Billion LTC Reinsurance Deal with Fortitude Re",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaGdKb0h6aUZ1WU1fTHhVQm54UTlkU3hHQ2RQMmx2eGpsMTNyVjhrZFozRXBZejVIeHFJakJDaTFZRXhQLVVrVnNzOERKc2J2U014bHBsSkpoS1dhcUE?oc=5",
       "source": "TradingKey",
       "feed": "Google News: Fortitude Re",
       "date": "2026-11-03T23:01:07Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "a87a63c0a38b",
-      "title": "Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNG9VcGhHY19ONW9jN0xvdjB0Y1NaRHhmQ2RDekYweC0wc1k4MUgyZ1ZGNE4zSmhvQUNGWTlkRFVhdVJDY3FEV2lMSVNCZ3hvUjJxTU41RGRTRUxlclZ3YVFKSUs0WUozM1BrN1pueHQ0QjhoMFppMFFPZXpvTHBTNHphLXpqNzRtdnIwSjJKdzRYR2dPTGg4Q1VndzB3Zl83QTdVRDNmRGFTdTRkZUlpUEM5TVBYSmZ2cnVkZ1NkcGhlWGFBaExHUlBIdTBNelF2SnlvMk1WSm1oUnZZV3hN?oc=5",
-      "source": "Business Wire",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-11-03T22:53:00Z",
       "summary": "",
       "companies": [
         "Fortitude Re"
@@ -414,11 +426,11 @@
     },
     {
       "id": "a71ca9b7c4fc",
-      "title": "Reinsurance Group of America (RGA) Eases 0.78% to $260.68, Holding Mid-Range Between Key Levels - Collar Trade",
+      "title": "Reinsurance Group of America (RGA) Eases 0.78% to $260.68, Holding Mid-Range Between Key Levels - Sector ETF Flow",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPelNSbDdIV09WZGZWTFllcXljaElzbGFyNlBqNmdyRXo3c1NBbkJPdmNlTlo5Y2dHaHZZNnpOYlVuVDNzTWhMRkR3cjJpdUF2b3NZWGtVempmMlBWME5jeklRRDlUcURuV0doNC1xNDU4eE9Ea0Q0eXZmS21fdFdoSnF1ektoczZFNmVKcUtkRWktbUxSTlE5N0J6NkNVS3dVbmFHUnBPMi1oVTRGMGRuME9HR1NJNzVGY0w4Tkw1UWU5NlE5R0R4NHNB?oc=5",
       "source": "https://www.dars.gov.et/",
       "feed": "Google News: RGA",
-      "date": "2026-10-28T14:37:42Z",
+      "date": "2026-10-28T14:47:45Z",
       "summary": "",
       "companies": [
         "RGA"

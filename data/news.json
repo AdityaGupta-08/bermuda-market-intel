@@ -1,11 +1,41 @@
 {
-  "updated": "2026-11-04T17:17:58Z",
+  "updated": "2026-11-04T23:42:10Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
     "Rates & Macro"
   ],
   "items": [
+    {
+      "id": "72b3134a42e2",
+      "title": "Sunlife Reports Third Quarter 2026 Results",
+      "source": "TradingView",
+      "date": "2026-11-04T22:01:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2RBZW9kQ3k2YmNMTWxLTERXNFlhSEFkZnVHUGhoUl9KYW4zckVoQV9uRFFzTWdfRWt4X1A2QlA1Q3VldDdsZEJXNDRNaUdpMzFCaFM0SWZkNktZS3RFNE5TNG5UVHJmVUlNUzY5UEtpVFctSVduRlNKaDF3bldya1pJRElteWVpNk1XLUZVV3NNUVVuYVdrUGtWRFE3LTNuT3Y0TFlB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "653db14649f4",
+      "title": "Tradeweb Government Bond Update \u2013 October 2026",
+      "source": "Tradeweb",
+      "date": "2026-11-04T21:22:30Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd21XOEJld183eHBtT21WRWtWN0Q5OElCdXFHeVRHdlM4dGM0Q0Y4V2huMHN1UkNxNzBFOTZVT0dsZFlrZXFrclNlaTUtUEJTS2s2RmZqSzJ1YzFUN196UHRUNjBOTkIyX1p4T244b1JENk1GQVc0TGRrS1htd1gtcE1kanlqa1BNaTA0RXdPNF9scTBtYmEzYm5IV1pzXzhwMUNMMTJFX2ZweEk?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "8f0c5368bd4c",
+      "title": "The Federal Reserve isn't the only central bank to hike rates in 2026: What global tightening means for investors",
+      "source": "Chase Bank",
+      "date": "2026-11-04T15:47:44Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQalh0cEd5MHRBbnVnMm9NSURrbGZWVUJ5OGlTTjlTOHpBSW1zaFdyYjFKSXJ0T1E3WnMzUEJDMkxaWWp3bDIyRk5fcTZQaVBQY2RZNm9mV2xOdHo5RnBWMl9hZFJBZDA2Ni1tcUdHNUpQRmNjZUZBTko3djhENVZJXy1sd3dOZW8wUlVYOFJRREFEcHlndHlnc0lrOXBxQWl1M3NuR05tcy1kc19QLWw2YXJwNGJpR1NiQmJmaGwxUHlQTzFpWW5PUkNrbURvdlM1SW4tVmphTFZObURN?oc=5",
+      "isNew": false
+    },
     {
       "id": "db086c5cd56a",
       "title": "Blackstone Draws \u20ac13 Billion as Institutions Back Private Credit",
@@ -274,36 +304,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjFpZVVRRVhoRTVSdVV3dGdtM0Zwa21FZzdHWlpaZmJGUzZvNkVrU0FLMnZfa1doZWg4Q2oxRE9JZzN0T3k2TkcyOW1nMmZUbHBmYzhfc2E5Rk5IaFR2Q3MwMENJaDc1NEtVaU13MElJemR0bFBtMHMwLUlud2VueWhqYw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "6d5f1f076bdd",
-      "title": "ECB to keep rates steady as investors focus on French bonds, Lagarde's future",
-      "source": "Reuters",
-      "date": "2026-10-28T23:02:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZldaRFJxZExRTzZ2T1lfc1pYUWtpbFJwRHk0YmpCaHdkYXd4ZV9vbGpmellrN1Ztck8wallTMnphd1V6VWFLckM4bTRiX1c5VmZmSUZwdUROem02ZXlUY3NKT1poTEhFWDRQOThHcEQ5YkMzY1gxU1NoTm5mdFhVR2xWakJSYUFVSTRKS0Rva1JIR0FhOHFJck5Ic3AzNzNWQTJuMXFySnNFcDNIYXN0TWtn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "22e2a38d38cb",
-      "title": "Canadian dollar strengthens, bond yields rise after BoC's rate hike",
-      "source": "Reuters",
-      "date": "2026-10-28T20:44:49Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclpLdEx1LThWT3M0WnFzLXZvTk1aU2IzaE5RV29PdzlVR29oX29ya2dqWWt5bXJTMlF0LUtFbV9VWVNXcjhMN0UxZTZyUHl4TVpNSGdRNEk2SGNoYXlRbUlpRzdfb3A5TVZzRG5SRG1GTVZvOG5CQjVLSHhKMFlKdy16QmZ0eFJhLXpwTGYtbkZ5dEFmclNPa0xSMkhmOUh4dXFXY2NBX1ZmTzhraExN?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "bab1f6862481",
-      "title": "Fed\u2019s Rate Hold Sends Bond Yields in Different Directions",
-      "source": "WSJ",
-      "date": "2026-10-28T20:00:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
       "isNew": false
     }
   ]

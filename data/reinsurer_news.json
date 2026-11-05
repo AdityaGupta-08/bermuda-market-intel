@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T06:49:15Z",
+  "updated": "2026-11-05T17:27:58Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -23,19 +23,19 @@
     {
       "name": "Google News: Catalina",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 7,
+      "count": 9,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 23,
+      "count": 26,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -112,6 +112,30 @@
     }
   ],
   "items": [
+    {
+      "id": "dac4ce685a43",
+      "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
+      "source": "Insurance Business",
+      "feed": "Google News: Global Atlantic",
+      "date": "2026-11-05T14:19:09Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "aa0b806f01ec",
+      "title": "How Investors May Respond To Reinsurance Group Of America Stock Ahead Of Earnings",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWEVVRmpWU3hMbDR4WGVnX3BNa2d0YkZ4bV91ZERzVkR5cWJiRTVyeWZWQmlGWlpOcFNyYWpfWk9KYzBYeHQ5SXdLeVpnMVlzRXlRV0h3LW9seC1IVmltbDVxb1BiQ01jNkJjeFlEcmhmV2oyV2w3akVaX19zTHZ1RHdySlFvY1lLQzNBNzNRUWpKTTdLWDllS3lvNWozVTBJQ1hfUDlvbElrQnBvLV9ybUQ1NVpIZzY5ZmNELXVLYV9scjJoelBvYVltanZFbmFaWkJfMkxXdmd1eUE5d3fSAeMBQVVfeXFMTUlRVEdSa0tHLS1XMWFURGllTEdaNlU0aWJvaGFRREJ0TmJTQklhdG5BeUxNVTdtS2U0bHhZOUpKWWlOc2RCRGYwUzU1eVVlU2pWdEE4MVc0cTFCeFd6Z0M0U0NiRlpiMkw5a054NmQ0UlBaN2ZBdEJHeXBlanFFQ1BERGQ1eFJBd09YLTRHN3JxMFNCX0stQTYwdWh2enVWX2h6NlVxRGRrR1h4SmRBd05jTGhCVllTV0VzQ2Z6cGVGa054bzV0bzhiYlVsZ0RFb1gwSTFyREFGckNyZllybFVPRWc?oc=5",
+      "source": "Simply Wall St",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T11:35:04Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "5af62eb955a1",
       "title": "Unum Life Insurance closes $3.8 bn long-term care reinsurance deal with Fortitude Re",
@@ -143,6 +167,18 @@
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-11-04T13:15:08Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "5a1218205815",
+      "title": "RGA Q3'26 Earnings: EPS estimate is 6.97 USD",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE5qY1BfOGFHb2Y3bU16RFdKdlhyZDdMQS1oZGJVblRKTVRIdjBMMzJhRXVZNDNyekpCVkJ0VmpMRlZpQlItUlk0RWxZVlFFeFY5Y1FSQzU3LXN3SVZ1Mmo0elkzMUYxcjRpQ0dRQ1dxMkxoU21WQnlZb0hkMDVRMWxXcEtLakFjWmlzMkRyWDN1V0x4RzVjY0pNd2VMRy1yN01XczdUbFQ?oc=5",
+      "source": "TradingView",
+      "feed": "Google News: RGA",
+      "date": "2026-11-04T12:00:19Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -281,18 +317,6 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVVZXVmxhZ254QmlxZldRZzBKVUdwejdOUDl4cGNJM0ZhV3RmZm96cDVkbzVGRmRSaFhSUVJlNkFKMS01R1cxdXhFd3kzOHdL?oc=5",
-      "source": "Yahoo Finance Australia",
-      "feed": "Google News: RGA",
-      "date": "2026-11-03T02:31:21Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "a4ba6991271b",
       "title": "What Is Drawing Attention To Reinsurance Group of America (RGA)?",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVp5bWlwc0pkXzlLOE5hajdOV3ltQTBrS3g4VmpDNzlKaF8yU0NPMGF1a0RydnotSUlUamxGSHpRWjN4V1VnakgzOFAxLTVMdUY1OUF5dmxDd0JlSklZZ3JPc0xaalVVYVB0aFlDNmxmNjRYT2gyTVpjNnRvOFZ4dnBEY0Q4MWtRRHhnZEVabHpQTE5qMUJPUnlSeUtoSUZSenVQODN2OFhIQXBw?oc=5",
@@ -335,6 +359,18 @@
       "source": "Simply Wall St",
       "feed": "Google News: RGA",
       "date": "2026-11-02T02:46:56Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yXy1Yd0VxYl81bGtMT0p2WXQ5QnVqQlRXSTk4UUROZlVMeXJMbnJ2VXI2dlZQREFtVDZEa25ETVBmMkxOUTdJTTAzR04tT0RY?oc=5",
+      "source": "Yahoo Finance UK",
+      "feed": "Google News: RGA",
+      "date": "2026-10-31T19:12:06Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1490,54 +1526,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "1480bb032115",
-      "title": "Global Atlantic announces launch of ForeLifetime Income",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnJqVzFENmVnTF9BanNrODl0emlXWE8ydGhNM01SRUh6ZkU5NUhoVXBlUjNQYXlfcVFLajVXNjBRbFRRbnJKTDhCVW81U0dUaGwwcDhRTl96eTdGVzFXVjRLSUoyYWVtRnBGcWFMQzFXdWhfalVJV08yNnVzMzhJNmNvWUUtQVpjNHc2NjItUGphbHNFTzNvV0hfbndzWWlocjkweWNYcko?oc=5",
-      "source": "TipRanks",
-      "feed": "Google News: Global Atlantic",
-      "date": "2026-09-21T11:17:36Z",
-      "summary": "",
-      "companies": [
-        "Global Atlantic"
-      ]
-    },
-    {
-      "id": "dc755937c783",
-      "title": "RGA Expands Growth Runway Through Financial Solutions & Longevity",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVU5cVZRVmkzcS1sSFJPOXpKWFdaSWpHZ1R6cHBYY0hscnBQR3NGM3RiWkVQMU4yNXN3eUNLOTlHNU5GTThXaE5HYlFySkNpVWFocnZzSjBlaGZzQWxsTzhyRUR1U3V1LWpzMzBQMTd6V0I3TTdLaEs1M190cTVzamNFSWFZbE5fa2xVRFROc3lMeDN6RzEyMXNkVFdMYkkwTVE?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-09-21T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "7efacc1cc589",
-      "title": "Global Atlantic Announces Launch of ForeLifetime Income, a New Fixed Index Annuity",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2lvUnhIczhJNUtuQ3NwbG9YLVJzdEItTXF6c0xBX0xlM2VWYmFUalhrMTNmNFdoYVp1Rm1mZUYwMWIxSjdMQ04tdFBRLThHUnhGdGpJc3kxSlpRRTBnY0JQRzBZT0F2aEllMEtHQXF6WmZpbE9JU1BKdmJJVHY2ZUFzTFhfb2JDaXZ4ZUJJekE2ZEpOa2hKN2h6VFcxVGJ4VTFNbkpTSlotOE1KOHE1WG1FU2J4ZmtTd05LT1ZrSQ?oc=5",
-      "source": "Stock Titan",
-      "feed": "Google News: Global Atlantic",
-      "date": "2026-09-21T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "Global Atlantic"
-      ]
-    },
-    {
-      "id": "b27fed0e57d4",
-      "title": "Apollo Global Management stock gains on Yankees stake and Athene risk update",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS1pkVlRXTk1TckJqY0xtcDBBWXNKa2FZNVBPRTN0Z2hHMGVNOU9hZnBaQUYtZzNfWkEyY2FpRVRneVJvNkdCVmVLdWd1ZGFFclp2cERYb0FDdm5CUlY5MUZqLUJDOVU1dDdaSVZCRlFPYzVkalA4WlFWY3V6RTJUaUJfY2xudzhoWTJyS1owTm9lQnkyTkFuZ0pWb09STVlJRldrWmlFdEVrV29OaGNHckUyS2NwdGh3U1VnbWNDRElIT3VhWlhF?oc=5",
-      "source": "AD HOC NEWS",
-      "feed": "Google News: Athene",
-      "date": "2026-09-21T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "Athene"
       ]
     }
   ]

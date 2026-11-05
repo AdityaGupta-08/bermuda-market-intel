@@ -1,11 +1,42 @@
 {
-  "updated": "2026-11-05T06:49:13Z",
+  "updated": "2026-11-05T17:27:55Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
-    "Rates & Macro"
+    "Rates & Macro",
+    "Structured Credit"
   ],
   "items": [
+    {
+      "id": "38e3abfc5625",
+      "title": "Private Credit Poses Risks to Americans\u2019 Savings and the Financial System",
+      "source": "Center for American Progress",
+      "date": "2026-11-05T14:01:08Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVRrOUlxNFliU1pieHZrUzk0bjJlZXlfREVxWjczRC14Tk5zTG02Si1MMWg5a3FoSkU4RlJ5emV0TFJTZENsMDJyaHFqd0NzaXlTYzhDMFJmaVlqdy16QmpVS3VqMEtNVE94UFgyaEZPWkp2SFRPVW1rX0laYXZyYVl1T0Y0WEgwODdDUTZjUWtPcE93azJ3QUF4NTd6RXFPbEM1dTlGZWtFMEFxU3UxQmY4RFE?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "a507457191ab",
+      "title": "AllianzGI leaves door open for reversal of PE pullback",
+      "source": "PEI Private Equity",
+      "date": "2026-11-05T11:43:01Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYW55ZUJza3dhb2V2V3VmSFRLbUdvOFgwY0VGczdNRHBWck9iTjBCcGRtSU1vbkhjRjJURWh6MFJvd0VXMnluV2FFeGRiNXNhdllDSkh5Wm5JQjdCcWJ1d2hreXU5d002T0paamVMeldEWE1SbncyMGp6dmNDbVdpeXBFSDVaNFR5S2NPc0VSZ3hQLVZRNHU0ZmMtSVUyREYwN1E?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "3e2f924258eb",
+      "title": "How Insurers Can Tailor Private Credit To Fit Their Needs",
+      "source": "Seeking Alpha",
+      "date": "2026-11-05T08:34:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHN4bFFWS2dycWtKSFlPcTkzNGxCUy10a0RHMFgyYTBmOUtyVlMyLVNrSnNQUU9YbVVKTWdIbXJsWExVdk9VakthX21GRHVpRnNFR0h6Nmc3d1dhTzFmVlRISEE4MFVnS2lnZEdVRUozaFZRenB0ZTVMdmltZzhjMmk0SFdjOU94ZE0xQ1V3VDBkZ0k?oc=5",
+      "isNew": false
+    },
     {
       "id": "72b3134a42e2",
       "title": "Sunlife Reports Third Quarter 2026 Results",
@@ -34,6 +65,26 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQalh0cEd5MHRBbnVnMm9NSURrbGZWVUJ5OGlTTjlTOHpBSW1zaFdyYjFKSXJ0T1E3WnMzUEJDMkxaWWp3bDIyRk5fcTZQaVBQY2RZNm9mV2xOdHo5RnBWMl9hZFJBZDA2Ni1tcUdHNUpQRmNjZUZBTko3djhENVZJXy1sd3dOZW8wUlVYOFJRREFEcHlndHlnc0lrOXBxQWl1M3NuR05tcy1kc19QLWw2YXJwNGJpR1NiQmJmaGwxUHlQTzFpWW5PUkNrbURvdlM1SW4tVmphTFZObURN?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "fed0078d30a2",
+      "title": "How Insurers Can Tailor Private Credit to Fit Their Needs",
+      "source": "AllianceBernstein",
+      "date": "2026-11-04T08:00:00Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPemZqUHgyZ0lwRU9fSnFlUWo3X1RIRVVIa1pIaHI0a3pzd05ZR3MzdnpZVU9ieUdfX1BMa292N1NOY1VNUnZlejNjS1B2TGxOaG9KcXA3LTgwdFdJQy1KRVRLT05aLVcyQXRpanZwbTMwUk80UGVhcHRQbmtJTFUzSVFiYjRFLThfN2xLc0F0dkZwNlhiWDhHY1lGZUFpd3E3NGc0ZEdCMVZ0RV9HcjdnaVVfaXZKdjhZTnpka2wtZmw4VXY2WEREbWY4Y1RyWnBrSVFtZ3dVandkY1BDdHppTw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "c4da81dbec76",
+      "title": "How Insurers Can Tailor Private Credit to Fit Their Needs",
+      "source": "AllianceBernstein",
+      "date": "2026-11-04T08:00:00Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPemZqUHgyZ0lwRU9fSnFlUWo3X1RIRVVIa1pIaHI0a3pzd05ZR3MzdnpZVU9ieUdfX1BMa292N1NOY1VNUnZlejNjS1B2TGxOaG9KcXA3LTgwdFdJQy1KRVRLT05aLVcyQXRpanZwbTMwUk80UGVhcHRQbmtJTFUzSVFiYjRFLThfN2xLc0F0dkZwNlhiWDhHY1lGZUFpd3E3NGc0ZEdCMVZ0RV9HcjdnaVVfaXZKdjhZTnpka2wtZmw4VXY2WEREbWY4Y1RyWnBrSVFtZ3dVandkY1BDdHppTw?oc=5",
       "isNew": false
     },
     {
@@ -254,56 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG81Z2FUM3Y0clJEaWJ6SFhSRU5Ed3JuVUZGZXZpOXRBZVN4YmhWMUJ2eDZJNWttc1NCV0dxWFVWV0ppM2d5OE1zVDZ5V1RyMHFUbGdQcG9QelFheHQwMl9oRUwwX3V0SEpCdGxJcVVvbVFDTU5CeVdzSXA3WEhuT1pWa1JsWXdNTksxd2pPQjBmSmd0c3g3YjZlV1dxamF3eEQxOWp4YTVpRWE3UmRoT3lXZ2hfNzVOTFFCZzVPZw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "3cde02ea5fb3",
-      "title": "HSBC Seeks to Hedge Data Center Debt With Credit Risk Insurance",
-      "source": "Bloomberg.com",
-      "date": "2026-10-29T12:20:04Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFFVa1k4M0piYVUxbnl0RERBMS1XR0NKZ1JpX1NFV3R3em4zNGVGem1xZVV1ZTB3YWR6UkRnYTFqWDZKT1hjTk1VY3RxcHlsaTBjaDRaT2xBQVpjVHpzS0pNY1U2amdZSFB1VDhWdG96YWwxejNxZ1BZUjBxeE5BOUNsUzdEN21qalpmYzBYT1RvODljR0tXd2F6cTRIQWdjZmhQT3FtbmhSUnp3UFRkQUVmNDM?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c6e23b3a0e04",
-      "title": "Private credit: More Casper the Friendly Ghost than A Nightmare on Elm Street",
-      "source": "https://bondvigilantes.com/",
-      "date": "2026-10-29T11:30:37Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlNTMXB4Qi0wZWNET0N6SE96OUZUNTljWlhBdWh5eUNVYmNrMWxxMlNYVWFLcXVTYW1PTWdyay1OUWdVc0NNUzVEZUNpNHlOMG1BVjlvWFBoRDk5eTBDV2xJTnRFQWJTVmpRTlBINTlGa05NaUdEci1rTGFNUkZpaVh6cS1kTHktRGVfTzlzRFZ1YVZzb2Z5RzA0TDJ4c295UFQxOHVUUmVpZzk4RUxJYlN0b2prQk9X?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "487e0996d83d",
-      "title": "Interest rates and monetary policy: Economic indicators",
-      "source": "The House of Commons Library",
-      "date": "2026-10-29T07:00:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92Wm8yQUtBUUMySFA5VHVva05qYlNhMkNTTHY5RThzOVE0VUdsZnRJOUFtYlcyODk3Y0RBWERCV2pSWXlST0xWWUpRX3B4V3JDX3k3am8wenJLcVdzTDh4MDhfM3VpUnllTW5QU19Nc3dCQQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4d0f7200982f",
-      "title": "Fed highlights economic strength but muddies outlook for Treasuries",
-      "source": "Reuters",
-      "date": "2026-10-29T05:04:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF9GR2lXNExEVWlIMldlTk5QWXQyWTVIbHlzMnM1bTRhdUFzQ2NwQm9MYXdyaG92dlB1YTlJVW1ESG5iNmtkTDhnMG9IanBqeUJmOUQ2Sm45c3pHSzEtZ3lvZUxSRmNLc184eWhReTVvbEdhQ1AwTnF6akVFUlFyd2NJRFdIOWF6OHFISDAxZWMxOHFJcXJPRlp0RFVpZzB0MF9rNTh2TQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d15a75c97df0",
-      "title": "ECB to hold rates as investors focus on French bonds, Lagarde's future",
-      "source": "Rock Hill Herald",
-      "date": "2026-10-28T23:14:08Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjFpZVVRRVhoRTVSdVV3dGdtM0Zwa21FZzdHWlpaZmJGUzZvNkVrU0FLMnZfa1doZWg4Q2oxRE9JZzN0T3k2TkcyOW1nMmZUbHBmYzhfc2E5Rk5IaFR2Q3MwMENJaDc1NEtVaU13MElJemR0bFBtMHMwLUlud2VueWhqYw?oc=5",
       "isNew": false
     }
   ]

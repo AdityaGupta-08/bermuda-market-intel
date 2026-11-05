@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-31",
   "countries": {
     "usa": {
-      "wam_years": 5.81,
-      "wam_months": 69.7,
-      "prior_wam_years": 5.8,
-      "prior_date": "2026-08-31",
-      "change_years": 0.01,
-      "data_date": "2026-09-30",
+      "wam_years": 5.78,
+      "wam_months": 69.4,
+      "prior_wam_years": 5.81,
+      "prior_date": "2026-09-30",
+      "change_years": -0.03,
+      "data_date": "2026-10-31",
       "source": "US Treasury MSPD (computed)",
       "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-statement-public-debt/",
       "frequency": "monthly",
@@ -63,5 +63,5 @@
     }
   },
   "note": "WAM = weighted average remaining maturity of outstanding central govt marketable debt (not duration). USA monthly, computed from Treasury MSPD per-CUSIP detail; Japan monthly via MOF JGB Outstanding; UK monthly via UK DMO; EUR annual via OECD (Germany proxy); India annual via RBI Annual Report.",
-  "_fetched": "2026-11-05T17:27:51.443317Z"
+  "_fetched": "2026-11-05T23:40:26.060231Z"
 }

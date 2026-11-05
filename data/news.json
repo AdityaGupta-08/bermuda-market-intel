@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T17:27:55Z",
+  "updated": "2026-11-05T23:40:31Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,10 +8,30 @@
   ],
   "items": [
     {
+      "id": "2d913cc184b9",
+      "title": "Mount Logan Capital Inc. Announces Third Quarter 2026 Financial Results",
+      "source": "Quantisnow",
+      "date": "2026-11-05T22:35:39Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTNJWVlGYk1GTG41UDFKT2JCODBQdkRuekNPVFV6QmlsaENkSzhqdFNYcHVwV0JJaHk1NnY3VEs4RGhRcGV6VVRpd0dUNm90NDBqSXJpNE1iMGE3U0dfdngtVFRoVjY1bThrYjJIa3FVQTllUExlaDNJSWJSaWJuVkVIU0VKdE05c1hxc0xsU3VKNlRKR1ZXQnJOUFE1TnluTC1uVGVVY29fTS1HN2gxZEtDOA?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f8f325c423cd",
+      "title": "Aprio acquires Garner Asset Management in Dallas-Fort Worth",
+      "source": "Captive Insurance Times",
+      "date": "2026-11-05T18:57:39Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTW0wYlpoVmd2djlLbTUwd2dCWDhJLW5kVDBGY2JNX1RUQmtBb0pqSWFnSmlES3B4RG1JMXVVQUFDU0dOUzNidWxoY2tDOWNHa3gwbkZZdFBGLWFKX3d2Y0hDa2RoN1hFRGVmOVRXNGs2ZUh2SmRzdF8xUUxxa28zckF2b05saGVmY0hiUkxNUWFuSmRvTW83YnRfZ0xXQjU2OTdtS0tyMVN1NUVCeXdhTmV2SHEwYlc2OUJmelN2VXZSMVNoQVdwczZiZjRRNWxiajNlNmkxdXNWdllQMUI4SGswa1RwZw?oc=5",
+      "isNew": false
+    },
+    {
       "id": "38e3abfc5625",
       "title": "Private Credit Poses Risks to Americans\u2019 Savings and the Financial System",
       "source": "Center for American Progress",
-      "date": "2026-11-05T14:01:08Z",
+      "date": "2026-11-05T16:37:51Z",
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVRrOUlxNFliU1pieHZrUzk0bjJlZXlfREVxWjczRC14Tk5zTG02Si1MMWg5a3FoSkU4RlJ5emV0TFJTZENsMDJyaHFqd0NzaXlTYzhDMFJmaVlqdy16QmpVS3VqMEtNVE94UFgyaEZPWkp2SFRPVW1rX0laYXZyYVl1T0Y0WEgwODdDUTZjUWtPcE93azJ3QUF4NTd6RXFPbEM1dTlGZWtFMEFxU3UxQmY4RFE?oc=5",
@@ -115,6 +135,26 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWlWOWZodUZLT2p6M3Bqb1FOT2Z4WFZjTHhQWXFqTm9XdnRMVHY1SFNXZ1dtSTZtekVnNjZhS21GSHY1dThqbjBUamFSOEE5Sk45Ml9qd05oUWxTUVFhM1BTQ2hhRzk0dk94WVY5V3E1cDBBUDN3bTRBNkkxdGNvZ0J2bjU?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "3d81b24fccfa",
+      "title": "How do changing interest rates affect the stock market in 2026",
+      "source": "U.S. Bank",
+      "date": "2026-11-03T08:00:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "77d45ceabf40",
+      "title": "How do changing interest rates affect the stock market in 2026",
+      "source": "U.S. Bank",
+      "date": "2026-11-03T08:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
       "isNew": false
     },
     {
@@ -265,46 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "df34a5175ef5",
-      "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
-      "source": "WSJ",
-      "date": "2026-10-29T15:23:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "04b53ce8e331",
-      "title": "Market Chatter: HSBC in Talks With Insurers to Offload Data Center Loan Risk",
-      "source": "Yahoo Finance",
-      "date": "2026-10-29T14:32:27Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaW1qbHNSVGx1NmJLbWptNWFXbDIzd0kzcFZmMFF3THNVV1FHQzdLRkdMc0VPRHpEdkhjOHdpWGlfV2VwS0VKMndaU2dzLWJsRTJ6UUhtckpHMFZrREZGckl4M2szX1ZvSEs5Nzk3am00d05GWm1yWjN2aXg0NWVoZmxkSjF4WkFFZnhlQWZwZ2JfbkdCWHp2MUhFNWJzZUxj?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "192a50c53f6e",
-      "title": "ECB keeps rates unchanged; euro and bond yields fall",
-      "source": "Yahoo Finance",
-      "date": "2026-10-29T14:20:15Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNNWEE2SXlXM282Q21ieUY1bVVoSm8yNm1NN0FZYzJTUnhaYWdsdW5oalhhTzFmMUd2NXBnYjJwT0VIRlpIX1VyX3RlSEJpNUMyS3B4R3ZzempnamlXSGwzX1FGYWZpR01mR29WejFYTHp2eVR0MG0yX0hEb3pqQWl1X2ZXXzA4MGpxbExTUmdGS2xTUjhpWWJDRQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "9bd0b68f5bce",
-      "title": "ECB Leaves Rates Unchanged as Challenges Mount for Lagarde\u2019s Successor",
-      "source": "WSJ",
-      "date": "2026-10-29T13:27:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcG81Z2FUM3Y0clJEaWJ6SFhSRU5Ed3JuVUZGZXZpOXRBZVN4YmhWMUJ2eDZJNWttc1NCV0dxWFVWV0ppM2d5OE1zVDZ5V1RyMHFUbGdQcG9QelFheHQwMl9oRUwwX3V0SEpCdGxJcVVvbVFDTU5CeVdzSXA3WEhuT1pWa1JsWXdNTksxd2pPQjBmSmd0c3g3YjZlV1dxamF3eEQxOWp4YTVpRWE3UmRoT3lXZ2hfNzVOTFFCZzVPZw?oc=5",
       "isNew": false
     }
   ]

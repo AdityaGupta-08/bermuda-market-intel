@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T06:50:14Z",
+  "updated": "2026-11-06T16:48:02Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 35,
+      "count": 36,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -113,12 +113,60 @@
   ],
   "items": [
     {
+      "id": "c3029bfe942b",
+      "title": "Reinsurance Group of America (RGA) Maintains Quarterly Dividend at $0.98 Amid Fair Valuation",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXJaRTc5ZmliXzlCUkhQTjBHb1p1dHZOYkFzSVBTUHZub3ZHMmNJN1hVNEtJdjdsTTJpLUdETVhQT1p2ejMwUldoVXRHc3RVbUVrSHA1TDJuOHMtd19fR05JeHdhWV82YUJ0cjNIZUtNRlVCajBTR1Zaa25iRy1qSkhYY0RtUUNTSEZsV3hDR1lHM0thbWpuaEpuRlJuVFhnOG5QTEhvWl91TUJVdHAwVzZLc3g4RXI4X3BaVHg0NE1XQ2NRYXc?oc=5",
+      "source": "GuruFocus",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T14:45:58Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "38367e0470fe",
+      "title": "Fortitude Re Completes $3.8B Unum Deal",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZTJtTFRQN1VmWGxhazdQQVlybFRtV0xaS3VYbjQ4bWVUTFJITm1ZcC1oa3hnU0pvX0JKNU9ualZ0dGx2eVRkdFBsV2xUM1ZtUzh1bk1TR3JEVE5vTl9DcnI1V2NwdEFCd0dSRUJaMFI0MWpU?oc=5",
+      "source": "Bernews",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-06T10:59:10Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "774a4b529e5c",
+      "title": "Reinsurance Group of America Q3 2026 Earnings Results and Report",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOURfYUtabkhfd1FESXdOZXVOWEs5aHoycHE0X25UZlFQY2NfcUU0amZqOVJmbFphdnBTU1dxdjFfVmhrdDNOMXVwNG5jRVlEeUt4S3k0YTVVNXpLb1B2R0sxZGgzRUdVVW1UNTdTZUplekVCWG5KX0pZSW4xVUgzMjZZSHNvamNjWHNjNGFLR2hmVlNlU1BUVnI0VThGWVZYWFMwVQ?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T07:03:21Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "e9b6c49ea1cf",
       "title": "RGA's Q3 2026 Earnings: Pension Transfers Fuel a 22% EPS Beat",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1BMZHNZcFdzNFpHMjdJc1pNNTkyV2VmVUdPck95UWthNHZBYnFvZUY2M3FNSGdmUGEzNWhIRkZWbGxWSERiX0FvTmtGdTFuRExjdURONTFJNEk1eHlHUUNEM1kwTTNmWnBudTBNUUNWS1ZyVzNPS2Iwa01nT0J1Y2llbUk3M3VfUTd4dDNGZGZQeUk4ems0Tm9BV0hBODBBS1ZPNU55WQ?oc=5",
       "source": "24/7 Wall St.",
       "feed": "Google News: RGA",
       "date": "2026-11-06T03:02:46Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "2ad66e8a13e1",
+      "title": "Reinsurance Group 3Q Rev $7.55B >RGA",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdV9BWEFnUERFMmNvb0FNbVpyV29wSGtYZnRBQVhYS2N1MEJPMzdaMkJ3U3dsM1dURS1UM2tVcmhJRjlrTE84c1lIOEVpdko4NHhvSnNEZ05KVVhjZmZOWWRJZzFxOXBlSFdhd1Y3MFBjVDZYRWhyMUFCaVp2M2dESjRsa2U?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T01:05:05Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -365,30 +413,6 @@
       ]
     },
     {
-      "id": "a87a63c0a38b",
-      "title": "Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSl9SUDBUZkpXZTFJY1oxT0VCc3B5Ymt1ZXpHaS1FR2tRNXNBMjdaYnpfbDJidENLUGJqdXJQVk5KalNfZk45TTBzSFp2UUdjY0k2aHZDcDFGbmNuNVlrWG43VklEOS1Ca1lydTQwNDN4M3ZtV05MNUFCSTdQRFhaWlFQa3k0TGNwbG1Lc2JnZEFQUVRYTjZScHVYRHpaWFJERDltOGd6N2FDUHc3Mk9Eck9KTkhTZw?oc=5",
-      "source": "Quantisnow",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-11-03T23:23:04Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "d614fe9440f4",
-      "title": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZk1DSUxhS2VzbWlWM1o5WVBiODlpall4WEVOY2hUaUNjeEtybVVBbm5Td0JnckZQWHlVUGNuLVUtRGw5cGYxazZaWW5idU1yOHBJS0MxVThZeHYyei1MbmVVd0s4M2xvUEF4Yl80V1FUZEFzbXhIMnNSckhuNXRSZUxSM3VCNmhneExsdnZPTmNUSzIwMXZ1a3hmSE9tTDd3UnlPWjUzU20yYS1UVG53?oc=5",
-      "source": "Quantisnow",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-11-03T23:13:50Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
       "id": "a2cbaf7e6fb2",
       "title": "Fortitude Re closes $3.8B long-term care reinsurance deal with Unum",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDJhQ0FqeXJDazcweDN6aG9LVWh5bTY0a3lUcXRlc1Z0aGJaZ3BvWWwtMmN3VDRwQ3dEcTJuYXdxMUNKOFlTWjhtVWhxQ0F5bEVLbHdLUXpwdEtlWFVqbldCUndfUU9YTm0ybnVsUkp4TkRpY3l5V0diUUptajlFaVZIRDlTQzBLNVFuZ040Tnd0VUc5djlsX2RJVEdJaXM5NHdPcHp4RjZBY3ZsODdIQmYxOURybXVlOURraUFRUnNPSmlGTEhr?oc=5",
@@ -401,12 +425,36 @@
       ]
     },
     {
+      "id": "d614fe9440f4",
+      "title": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbkJlekg5ckk5RmNFWGJ2MlJ5Vld5M0NaLVhXb0xCWnIyUFhidFFxemlCZlY5elNuZ0NMMmk0QldZVmM3RG1ON3ItLXVhX29EWDdHRzhuWTZqZnRpMkNvU19rZUZHbThtUVdidkl6em9RT25NcXVWd1B0MEZlY3lVUjhrZFFZd2NyNFMtaTlCNEdwRU9MeHk1SlRPYVlWU3BLVFd5NmFTcDFFaDl2ZHRicDRHdW9pcWJjdXdHZFdmRllQOUhyZDMzYjd0eTFwQzV0ZnpXSjVSOGNlbnJDVEhwSVhCeWFQOTl0SkcxSjVoUQ?oc=5",
+      "source": "Business Wire",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T23:06:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
       "id": "3542a361e783",
       "title": "Unum Group Closes $3.8 Billion LTC Reinsurance Deal with Fortitude Re",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaGdKb0h6aUZ1WU1fTHhVQm54UTlkU3hHQ2RQMmx2eGpsMTNyVjhrZFozRXBZejVIeHFJakJDaTFZRXhQLVVrVnNzOERKc2J2U014bHBsSkpoS1dhcUE?oc=5",
       "source": "TradingKey",
       "feed": "Google News: Fortitude Re",
       "date": "2026-11-03T23:01:07Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "a87a63c0a38b",
+      "title": "Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeS16WmE3WEdzbTBjQVVaQXJoUVpYWmVYZ0ZFQlR5WTlCRUo4NC1hWmFHRG5WWVNtZTh2dkl5cE5ESnpnZzc1SVNPc3NCSGVYVXlFbWRGZjUxQXhOVHpmYXpZdkNoY09KY1IzS2JnQkdSUngtUnAwSFFubWVQSnNkM2N6cGlvYVBCTVE?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T22:53:00Z",
       "summary": "",
       "companies": [
         "Fortitude Re"
@@ -569,24 +617,24 @@
       ]
     },
     {
-      "id": "249e34fb3ed9",
-      "title": "Reinsurance Group (RGA) Reports Next Week: Wall Street Expects Earnings Growth",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHNVeUZzWWs5enJKdkNaTUJFcG91eHRFT0drbzB5clM3NGx2alNvN3F1dnBNcExSLVB6SXQ3SzB2aXAwWjNGU25qYWFTeWpBXzBFbnNiX09MX0pBYlM2MlBza1ZMRnJ1WTFlNlFXUm84eDFUT3pKdmtzS2N4MzNGNkxwV0dpNzNjeUNqTEUtN1lLVFR4bVNfSjJvRFBkcHRr?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-29T13:00:19Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "fca036435ad0",
       "title": "RGA Q3'26 Earnings: revenue estimate is 6.69B USD",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzJYLTVJUk9YbXN1NjJyOVJGdktRQkZsN1NrbWx2bzU1dGFVZWlvRTljM0lQeVYyZkRfMkJTekVGcXJ0M0lHT1A3U0hMRmlsMjlGVk1Fa2htTlR0dU1ad1hwbFNuMnpmbGtXQm9helRoWEpTb2d1d3o3Ty03NS1NSzd2bjBQTi1SZ2lpN043VS03VVd3aFRWQzM5WkllX3VMY3BBSjljLWZLSHY1UWtB?oc=5",
       "source": "TradingView",
       "feed": "Google News: RGA",
       "date": "2026-10-29T11:00:17Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "249e34fb3ed9",
+      "title": "Reinsurance Group (RGA) Reports Next Week: Wall Street Expects Earnings Growth",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHNVeUZzWWs5enJKdkNaTUJFcG91eHRFT0drbzB5clM3NGx2alNvN3F1dnBNcExSLVB6SXQ3SzB2aXAwWjNGU25qYWFTeWpBXzBFbnNiX09MX0pBYlM2MlBza1ZMRnJ1WTFlNlFXUm84eDFUT3pKdmtzS2N4MzNGNkxwV0dpNzNjeUNqTEUtN1lLVFR4bVNfSjJvRFBkcHRr?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-10-29T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1670,18 +1718,6 @@
       "summary": "",
       "companies": [
         "Sagicor"
-      ]
-    },
-    {
-      "id": "86b19d684ede",
-      "title": "Reinsurance Group of America (RGA): Buy, Sell, or Hold Post Q2 Earnings?",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1NXZTRZWUVMaWFnM0tNbXJMOFpNUHJEOGNxR05DOHdTMzB5U28ycnM3RDFkOC1qSnJ6UmdtejJUb2lldjFQS290UE9WNWdOTGgwQUczWnAySUQxZG5rSVRhbGVpYjFqUzUxVFlWdlVqTDV3RnRUVFhGeWpjUE1xa2RNNjVaS2xrZW96UUtXenh5YUNqbWdLWjgzZUdqYkE?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-09-22T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     }
   ]

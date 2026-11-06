@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T06:50:11Z",
+  "updated": "2026-11-06T16:48:01Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,26 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "c18e0347f635",
+      "title": "More pensions are tied to private credit, so more protection is necessary",
+      "source": "World Economic Forum",
+      "date": "2026-11-06T13:41:15Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWZhZzJkM1N2dGpPVlZ3YU5vdU9BZGNZYXhuNml0WFFxb1pSemk4TER5NzEtdk14TUUxazFkOGtTenlaZllzY25ucmJHV2JsaG5vZGdITUZpQzYtUXVDMzYzaXBrcFEtRTc2WHVOUndIeG5ObWt2RGVsWHY0bnVRNWVyaFhFV2d6eEsxcE9QMVhtMmFGbC1Oc1FwZ3lTTFpiUW9wZzdzTm8ySUNxeGU5SHB5NmEwM1JhR1NNbnJtUHRQUQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "4f13d5baace5",
+      "title": "Singapore bank OCBC raises 2026 guidance after Q3 profit beat",
+      "source": "Reuters",
+      "date": "2026-11-05T23:12:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNFlfMHNwT045YUIyYTVScDlnQXp2Rkxwb3ZWc3FIUTNnVDRkWlJZX1Y2Zlp1WV9MSFNmUVVtNDdTeFdJR1FCZXZ6ZktHR3NpTFRJT0haVTVDR3MxZWdfQ2xMZE5xelhQS3dqbkMzdFhyaUNMZFVyMjZMTGNKd2xwaWJveFRmWUY0VHhqVkZ2TC01bEZ5QlpVZmN2Mjh6dHhIWVZIY3FVZlhMYTZUWVFzMUpKTkN1U2pqTk9xdFNMT3VWdw?oc=5",
+      "isNew": false
+    },
     {
       "id": "2d913cc184b9",
       "title": "Mount Logan Capital Inc. Announces Third Quarter 2026 Financial Results",
@@ -35,6 +55,16 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVRrOUlxNFliU1pieHZrUzk0bjJlZXlfREVxWjczRC14Tk5zTG02Si1MMWg5a3FoSkU4RlJ5emV0TFJTZENsMDJyaHFqd0NzaXlTYzhDMFJmaVlqdy16QmpVS3VqMEtNVE94UFgyaEZPWkp2SFRPVW1rX0laYXZyYVl1T0Y0WEgwODdDUTZjUWtPcE93azJ3QUF4NTd6RXFPbEM1dTlGZWtFMEFxU3UxQmY4RFE?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "28c3ee03d4fb",
+      "title": "Instant view: Bank of England delivers first rate hike in three years, gilt yields rise",
+      "source": "Reuters",
+      "date": "2026-11-05T12:58:29Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1NmeDl4ZndpQkllbEZoTmVYQzFUSXpCeFNTRnByV05HcVlaYXl0RkY4b0htT1dYTkhQZG9DNldqcmtna1gyNVhkdTZwWmR3NTBZb0gtUm9kWnlfQzVhMWJCTzVYSGhpLXkxS085ZGpwVUVEbWlTWmItbElUTzFqTEwydEJTSUVheFJsTGNjdnlfRW1RaURzWm5KOGs5Rmx1bUV4SUxpTWNaMlNhWGxPU2lnNkt0cXc?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8d9d3c15baeb",
-      "title": "Fed Holds Rates as Interest Costs on the National Debt Top $1 Trillion",
-      "source": "Peter G. Peterson Foundation",
-      "date": "2026-10-30T08:32:11Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDUwcVc3Rm02OE55el9YcGJxY3JYT3pGY2l3UWRZVk03MGlHVWhpd09MMUxPTExtTHplLVVjcDlfVGpiTEd6THBMaEZieElPZ0tBMks0YUpJVEltd3Q0bDMtcC0tblFDckdpUy1qSTFkcXFuRVpOUlUyZldpWGtWY1NNRmc2c3haN1VoVU5SQjV1N1RfU2hjcS1zdXhkNng5?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "faee4300cde5",
-      "title": "HSBC Holdings seeks credit risk insurance for AI data center loans",
-      "source": "Beinsure",
-      "date": "2026-10-30T00:04:31Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ05PVUtYdDFLUDJjeWhndzAwRk5VUFl0eUVjZGlpeURTSGxKalFNa09lX0tsN2d2emZtVnNYNWZpbDJ6Q3hHWF9uZzEtV0NQNkM3clh1LURmTUo5QjdSUGtRam5PRXZLTjVjZDhPQVlvMVdZbnhoVkVSRURrMEhoWGpzbFdFU3lDelJkXw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "02792ca69ef3",
-      "title": "ECB flags December hike but sees yield rise hitting growth",
-      "source": "Reuters",
-      "date": "2026-10-29T19:25:22Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
       "isNew": false
     }
   ]

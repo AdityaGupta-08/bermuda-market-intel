@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T16:48:02Z",
+  "updated": "2026-11-06T23:11:16Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 36,
+      "count": 38,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -112,6 +112,42 @@
     }
   ],
   "items": [
+    {
+      "id": "25ed5e7b3443",
+      "title": "Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmF4akFESXpXT0RiSm5ybkdqcG1pQmVVVmZ6WTR5MHlaYTVVNlhhZmVZOEszdGpNdGdmMHNFcjBoelczZEo3MXNYRTZjV0JLNW5DMlAyd3F6V0xGT3JMS010Y19TMWRzQ2xwZzVVdVRkYkxJSkxEdjBNT1dwN0MyZm1iR1RaYTdYSnNIdGMwWUdHMVBYVTdkME5jMFdPQ2twQUY4emk1a0FxUC13UWlhSTVoV0VpTjNPN2loLWpfcndOZGpDMzZsRi10YjN6UQ?oc=5",
+      "source": "The Globe and Mail",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T22:37:44Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "0cf69b819a96",
+      "title": "Reinsurance Group of America (RGA) Reports Strong Q3 2026 Results Amid Fair Valuation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlBSTjBaSERwM1V0ZlB1VF9UUXlNWmtlazh6VnhyX2ZISzRUeExDQldpUXlrb0c2YUstZ2pzSXc1ZzNDaWUtbUp3d3Bqdlc1Y25OWkktbk9WT09qcGU3YTlOalFtZVIxV0hTUDExS3JRcWJzb0JzQ1hjeC05Yl9UT21NalZsWGIzZm5wSmxYWkc3clNWTTRCSGRyV3dUZmgwQ3hKU2xlRzc4blViV2hsNlRXSTRyQURyZ2xabWRqNA?oc=5",
+      "source": "GuruFocus",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T18:42:01Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "643c651a427d",
+      "title": "RGA Q3 2026 deep dive: robust global underwriting and investment performance drive outperformance",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS1FVQTRJRUVwdDd5S1FKS0xyS0k3NW9qQUhlb0JWVE9XT2VCUHg4XzNub1Q4YjhLTG9KS2hGNU5uNzBtblBOVzRaTUpqTkhOQUVQX2swRGVfd0JmNTNLS3RfTmpST2VUMld2QzhxMDI1WW1jemxCNjBGY29SdzBBbHBudER0STVFV2ZzWFhDRDhlM2djX0JxZjBIYVBPWnVlUFZKUXlta1NxYkRQWVQ5d054dXJQdnQ4bVMwZ1B3QjJDQTFmVFpDQ0psSlpUMURyX244S05rWGxpNWtYVlRIZ0tBaGdfN0hCQTlMM0Z3?oc=5",
+      "source": "TradingView",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T17:05:44Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "c3029bfe942b",
       "title": "Reinsurance Group of America (RGA) Maintains Quarterly Dividend at $0.98 Amid Fair Valuation",
@@ -211,8 +247,8 @@
     {
       "id": "6ba7f36eb7ea",
       "title": "Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOW53Mi11bnZaSS1IWE9vMTVTRTEySXVQblBLelI3MVpMSzlxZzN5Q0dPWFJfdzQyeXZqZVBvbmFNaXl1a3RwQnZSQWxUc0VpaHRMdG1ic3NfaFNKbE4ya0tJWDhIVVFyZ2VGdHRpMzNQTGlINlBGT3ZDVW1uQlYtMlZIUzhfbW5HQlI4?oc=5",
-      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWdMX2tMMTlsNGRCZS1UeXpLQVZRRWc3emlCUlNBZ3FRaXl0ZlZuUk5NQzJfa3g5akNCMDNuUndhdVpaZjhOZ2NQcmhyWXN5TjJtRlFVUTN3dHdDX1hHdmVCRzdZR1g0TktseTF6Q1FMczluNktFeWNxUmh3N1hSdVV0ckprTVh0a2ZvQzBkVGJESFczaFBmcTc5aGlLaGliQS05OG5wdEFNd1ZvSXNWR0pJVW8tU2J6M3AyYkNR?oc=5",
+      "source": "TradingView",
       "feed": "Google News: RGA",
       "date": "2026-11-05T22:25:54Z",
       "summary": "",
@@ -1706,18 +1742,6 @@
       "summary": "",
       "companies": [
         "Global Atlantic"
-      ]
-    },
-    {
-      "id": "8c3300c005c4",
-      "title": "Sagicor prices $250M note offering to repay debt",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTE14Zi1oNTRGcHNjVlU1MTl4TzRpbU1KZnc5TWhXRThDOEtVOGhWMk1fQzVha0ljczRWMWdTTWdYMm4tY2otYlhyUmRoRGVsd0FvaF9NWUY3Vk9FMU5JOUxiY0RQSGN2bE92bXJJVm5zcEFzTWRfQ0k4ZUdvdzRiNV9GOGFwYjZJ?oc=5",
-      "source": "Dealroom",
-      "feed": "Google News: Sagicor",
-      "date": "2026-09-22T22:17:01Z",
-      "summary": "",
-      "companies": [
-        "Sagicor"
       ]
     }
   ]

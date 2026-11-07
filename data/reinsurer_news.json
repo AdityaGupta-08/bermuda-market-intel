@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T13:04:18Z",
+  "updated": "2026-11-07T19:27:42Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -23,13 +23,13 @@
     {
       "name": "Google News: Catalina",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 8,
+      "count": 6,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 37,
+      "count": 36,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "c758a026209d",
+      "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-07T16:11:52Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "39178b70e70e",
       "title": "Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...",
@@ -381,7 +393,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [
@@ -511,8 +523,8 @@
     {
       "id": "a87a63c0a38b",
       "title": "Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeS16WmE3WEdzbTBjQVVaQXJoUVpYWmVYZ0ZFQlR5WTlCRUo4NC1hWmFHRG5WWVNtZTh2dkl5cE5ESnpnZzc1SVNPc3NCSGVYVXlFbWRGZjUxQXhOVHpmYXpZdkNoY09KY1IzS2JnQkdSUngtUnAwSFFubWVQSnNkM2N6cGlvYVBCTVE?oc=5",
-      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNG9VcGhHY19ONW9jN0xvdjB0Y1NaRHhmQ2RDekYweC0wc1k4MUgyZ1ZGNE4zSmhvQUNGWTlkRFVhdVJDY3FEV2lMSVNCZ3hvUjJxTU41RGRTRUxlclZ3YVFKSUs0WUozM1BrN1pueHQ0QjhoMFppMFFPZXpvTHBTNHphLXpqNzRtdnIwSjJKdzRYR2dPTGg4Q1VndzB3Zl83QTdVRDNmRGFTdTRkZUlpUEM5TVBYSmZ2cnVkZ1NkcGhlWGFBaExHUlBIdTBNelF2SnlvMk1WSm1oUnZZV3hN?oc=5",
+      "source": "Business Wire",
       "feed": "Google News: Fortitude Re",
       "date": "2026-11-03T22:53:00Z",
       "summary": "",
@@ -670,7 +682,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjdnQUptQ05ORk54cEV2aXNEeEpadEdZaW9yazh4YVdWLXpubUZPMnBiTnpLMkl0VG5XNjBDcTA4V1JfNVZ4VTl6U0tyUlRNWGdXTXppZ3J6UlFHWnZjWHpKWHNKM3FZXzN4LWxzNEFDMXI1MGRZbVhGRjk3QUVFYVY0dHdfcHBEWUZzN1ZyTzhpMjdBeVJfbVpXM1RnMUxVMGdMMg?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-10-30T12:40:02Z",
+      "date": "2026-10-30T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -806,18 +818,6 @@
       "summary": "",
       "companies": [
         "Talcott"
-      ]
-    },
-    {
-      "id": "c758a026209d",
-      "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Robeco Institutional Asset Management B.V.",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzlEQW1ldUFnM01JeThxN2FlRTF2OUt6MjdzdDU0OGU0WFVuRjZLWlBfSTkyX25RWW5RZklzVThWTS04U1BaWEZpSmNHRkZhSVBRMmhDR3d2WElQY1FTR3U1TjVsQmY3RkhZNXlBMi1zci1EbXRSVlVJRnUzWlY0TzM0QmRYZFJITDdITFNnM29NZ1lZeThYdEpKN1dBbzJpSmxFU2YxdTktUjA3ZXFmZEZYckt3VWhUZmk4SFNIUnh2WTZOMC1FVzFoTHZjR2lrS1lyZl9PNl9JMUREdWU5RUtwWmRwd2NILUhPWmpUQjA4Mk5uSG9RUzdB?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-24T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {

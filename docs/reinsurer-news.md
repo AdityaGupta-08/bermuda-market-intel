@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 30 items
-Generated Sat 07 Nov 2026, 09:04 AST
+Bermuda life & annuity watchlist — last 14 days — 29 items
+Generated Sat 07 Nov 2026, 15:27 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 81 items
+- ✅ **Google News (16 of 16 companies)** — 79 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -31,15 +31,15 @@ Generated Sat 07 Nov 2026, 09:04 AST
 - **2026-11-03** — StreetInsider — [Fortitude Re closes $3.8B long-term care reinsurance deal with Unum](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDJhQ0FqeXJDazcweDN6aG9LVWh5bTY0a3lUcXRlc1Z0aGJaZ3BvWWwtMmN3VDRwQ3dEcTJuYXdxMUNKOFlTWjhtVWhxQ0F5bEVLbHdLUXpwdEtlWFVqbldCUndfUU9YTm0ybnVsUkp4TkRpY3l5V0diUUptajlFaVZIRDlTQzBLNVFuZ040Tnd0VUc5djlsX2RJVEdJaXM5NHdPcHp4RjZBY3ZsODdIQmYxOURybXVlOURraUFRUnNPSmlGTEhr?oc=5)
 - **2026-11-03** — Business Wire — [Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbkJlekg5ckk5RmNFWGJ2MlJ5Vld5M0NaLVhXb0xCWnIyUFhidFFxemlCZlY5elNuZ0NMMmk0QldZVmM3RG1ON3ItLXVhX29EWDdHRzhuWTZqZnRpMkNvU19rZUZHbThtUVdidkl6em9RT25NcXVWd1B0MEZlY3lVUjhrZFFZd2NyNFMtaTlCNEdwRU9MeHk1SlRPYVlWU3BLVFd5NmFTcDFFaDl2ZHRicDRHdW9pcWJjdXdHZFdmRllQOUhyZDMzYjd0eTFwQzV0ZnpXSjVSOGNlbnJDVEhwSVhCeWFQOTl0SkcxSjVoUQ?oc=5)
 - **2026-11-03** — TradingKey — [Unum Group Closes $3.8 Billion LTC Reinsurance Deal with Fortitude Re](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaGdKb0h6aUZ1WU1fTHhVQm54UTlkU3hHQ2RQMmx2eGpsMTNyVjhrZFozRXBZejVIeHFJakJDaTFZRXhQLVVrVnNzOERKc2J2U014bHBsSkpoS1dhcUE?oc=5)
-- **2026-11-03** — Yahoo Finance — [Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re](https://news.google.com/rss/articles/CBMiigFBVV95cUxPeS16WmE3WEdzbTBjQVVaQXJoUVpYWmVYZ0ZFQlR5WTlCRUo4NC1hWmFHRG5WWVNtZTh2dkl5cE5ESnpnZzc1SVNPc3NCSGVYVXlFbWRGZjUxQXhOVHpmYXpZdkNoY09KY1IzS2JnQkdSUngtUnAwSFFubWVQSnNkM2N6cGlvYVBCTVE?oc=5)
+- **2026-11-03** — Business Wire — [Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNG9VcGhHY19ONW9jN0xvdjB0Y1NaRHhmQ2RDekYweC0wc1k4MUgyZ1ZGNE4zSmhvQUNGWTlkRFVhdVJDY3FEV2lMSVNCZ3hvUjJxTU41RGRTRUxlclZ3YVFKSUs0WUozM1BrN1pueHQ0QjhoMFppMFFPZXpvTHBTNHphLXpqNzRtdnIwSjJKdzRYR2dPTGg4Q1VndzB3Zl83QTdVRDNmRGFTdTRkZUlpUEM5TVBYSmZ2cnVkZ1NkcGhlWGFBaExHUlBIdTBNelF2SnlvMk1WSm1oUnZZV3hN?oc=5)
 
 ## Talcott
 
 - **2026-10-25** — Newsweek — [Seeking Value: How Talcott compressed an insurance launch into one year](https://news.google.com/rss/articles/CBMigAFBVV95cUxOU21SQXRtUmdXWGtSYzIyNmQ5ZzhVUlgzQWlWSXJWN0thZzhIV0lFby1ncGNsX0FHZ3dlWjNzMFVFaHpWanBYR1F6MDFXaG1qdVBDa0ZVeUNzek1jNmpvQzdkQmRKREdla09ZcFdDVkJlVjFMWGgwTTlHT2ZmZHZjXw?oc=5)
-- **2026-10-24** — Stocktwits — [LNC Stock Pops On Report Of Lincoln National’s Potential $5B Reinsurance Deal With Talcott](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVNXSlZPbDItV2V4cFN0N1l4NFBGb2lMODJfbUFfeVN6OWMyMVl6WUtNc044dmI4aXpacGdjMGtwYkdkcWM5Vk1FN2hpODJ6NkVPa1pOa0g3aU13QnZ1NjFNc2dEQldXdW1odkZXaTVyYkpPM3YtM00wSE9DdmdoOS16SF8tUEJvYThCdWZTT1RyMWJWZm5KdTltUTcwRU55Y2FRMG42d19FU2Nnb1Y5MXZKTm5iQW9GclRlbFRiaTl3R1JyaWlCOFZUalhJMFdYWWxPd01OaWIzQWVjTFpvSWo2SGt6VWM1cUpESWIydU8?oc=5)
 
 ## RGA
 
+- **2026-11-07** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5)
 - **2026-11-07** — Yahoo Finance Singapore — [Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...](https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFNFTlBQRktzM0c1cWRudlZub0ItUDVJcE41bklwSnFTcXFTUHRsNUkxRmpQVlFJMnZBQVZZX3J0RXg0VkJPZVJCZGFsY3prLVR1My1kUmtINUJtRlZiOEJUVlVDeWZDc3BtOFprZUJxY0hYVF9KaEZGdjh5a2dKNkRLS0JNVGdVcXc?oc=5)
 - **2026-11-06** — The Globe and Mail — [Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmF4akFESXpXT0RiSm5ybkdqcG1pQmVVVmZ6WTR5MHlaYTVVNlhhZmVZOEszdGpNdGdmMHNFcjBoelczZEo3MXNYRTZjV0JLNW5DMlAyd3F6V0xGT3JMS010Y19TMWRzQ2xwZzVVdVRkYkxJSkxEdjBNT1dwN0MyZm1iR1RaYTdYSnNIdGMwWUdHMVBYVTdkME5jMFdPQ2twQUY4emk1a0FxUC13UWlhSTVoV0VpTjNPN2loLWpfcndOZGpDMzZsRi10YjN6UQ?oc=5)
 - **2026-11-06** — GuruFocus — [Reinsurance Group of America (RGA) Reports Strong Q3 2026 Results Amid Fair Valuation](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlBSTjBaSERwM1V0ZlB1VF9UUXlNWmtlazh6VnhyX2ZISzRUeExDQldpUXlrb0c2YUstZ2pzSXc1ZzNDaWUtbUp3d3Bqdlc1Y25OWkktbk9WT09qcGU3YTlOalFtZVIxV0hTUDExS3JRcWJzb0JzQ1hjeC05Yl9UT21NalZsWGIzZm5wSmxYWkc3clNWTTRCSGRyV3dUZmgwQ3hKU2xlRzc4blViV2hsNlRXSTRyQURyZ2xabWRqNA?oc=5)
@@ -51,7 +51,6 @@ Generated Sat 07 Nov 2026, 09:04 AST
 - **2026-11-05** — Moomoo — [Reinsurance Group 3Q Rev $7.55B >RGA](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdV9BWEFnUERFMmNvb0FNbVpyV29wSGtYZnRBQVhYS2N1MEJPMzdaMkJ3U3dsM1dURS1UM2tVcmhJRjlrTE84c1lIOEVpdko4NHhvSnNEZ05KVVhjZmZOWWRJZzFxOXBlSFdhd1Y3MFBjVDZYRWhyMUFCaVp2M2dESjRsa2U?oc=5)
 - **2026-11-05** — Yahoo Finance — [Reinsurance Group (RGA) Reports Q3 Earnings: What Key Metrics Have to Say](https://news.google.com/rss/articles/CBMingFBVV95cUxNaGcxY2pKRWZjUXdrVHVBdUdDWGdPRFlmdERXSXR6LUp0SDZRSkNQWFNydnBuYkVjTm1MZkw4MW1PeDZmSUhSNmkzdFlnd3VIRFZVb3hoREZlcGMzWDVaTUpWMW4xak01anNsYWI4WjdreDc1aXF5ZXBpN093SDA5WUZMQzFUUVYyYkJZZHhJRUx0aTZfOE5oYUw3MThKdw?oc=5)
 - **2026-11-05** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Posts Earnings Results, Beats Estimates By $1.52 EPS](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3c1SG5weXhQR0diZXlyZUhFUXR6NGtCUFF5d3BWWWg2S0JHREtCYUxwUU9oOW5YaU5mRTVPNEM5c0NuZEdJQWtfeUFSSlNCdmtKb0pWM1N4X2V2OEZiRjV4VHRIa2EyZnZhczVYeUpya093RVRQYUpfa01jOWVtRHhleHhfeGpwNXEyejJON1doTlBOaTgxMmg1c3dhNFM5Tk13OVhtQ1J6MTJHcTdTQ2k3LTNjeHhFcHpfcW9nVGVBWjBwd1A0Nk1yOUNGcTQxaWQ1OE9IY0ZYQ1Y3MWVxM3NjcFg?oc=5)
-- **2026-11-05** — Quiver Quantitative — [REINSURANCE GROUP AMER ($RGA) Releases Q3 2026 Earnings](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUE1NHluQ2JOX1I1YzZkdWZ0SjNXSmt1bHVtTGtMUnYxQ3QwdWF6MVZVN3FPbUdPRjAwU3pINEVYTWdQWUxKZTdXbndnNDduVEdsaERtbUZQNjlYOHEySEVCSGpUbkZyUk1hS1JLNUpGcGZVN3dLR2pnYnM4S0RuNVRiNi0yV0xwS1hBY0ZiWG0wVXJBLVNTZkln?oc=5)
 
 ## Sagicor
 

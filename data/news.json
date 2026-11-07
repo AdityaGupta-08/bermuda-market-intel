@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T13:04:16Z",
+  "updated": "2026-11-07T19:27:40Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "7139568b7cdc",
+      "title": "U.S. Insurers Have $544B in Murky Private Credit Assets: Analysts",
+      "source": "ThinkAdvisor",
+      "date": "2026-11-06T19:26:02Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzFySHFjR0VZOFZOT1NFWFYxdjI5MDJxR2NGdjZlV0hQNG9QRTFGeFNycVRMRWozSjluZlVHMTBTZ2kyYXFRSnVYYW9aTHFvUHlDOVY0VzhGXy04Uko5UjJHamUtTjdEWFZpOUFsYnhOYkxwZ3pMQ2I0RmhyX0hNcEI4Y0l4eWVfNkRJaHdtMWxIaGZhZ3Vua2dYVjlrY2hsbV9tTg?oc=5",
+      "isNew": false
+    },
     {
       "id": "c18e0347f635",
       "title": "More pensions are tied to private credit, so more protection is necessary",
@@ -295,16 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "b9e8e5f3b036",
-      "title": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript",
-      "source": "Fortune",
-      "date": "2026-10-31T00:13:50Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
       "isNew": false
     }
   ]

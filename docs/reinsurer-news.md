@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 30 items
-Generated Fri 06 Nov 2026, 19:11 AST
+Generated Sat 07 Nov 2026, 02:01 AST
 
 ## Feed status
 
@@ -40,9 +40,11 @@ Generated Fri 06 Nov 2026, 19:11 AST
 
 ## RGA
 
+- **2026-11-07** — Yahoo Finance Singapore — [Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...](https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFNFTlBQRktzM0c1cWRudlZub0ItUDVJcE41bklwSnFTcXFTUHRsNUkxRmpQVlFJMnZBQVZZX3J0RXg0VkJPZVJCZGFsY3prLVR1My1kUmtINUJtRlZiOEJUVlVDeWZDc3BtOFprZUJxY0hYVF9KaEZGdjh5a2dKNkRLS0JNVGdVcXc?oc=5)
 - **2026-11-06** — The Globe and Mail — [Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmF4akFESXpXT0RiSm5ybkdqcG1pQmVVVmZ6WTR5MHlaYTVVNlhhZmVZOEszdGpNdGdmMHNFcjBoelczZEo3MXNYRTZjV0JLNW5DMlAyd3F6V0xGT3JMS010Y19TMWRzQ2xwZzVVdVRkYkxJSkxEdjBNT1dwN0MyZm1iR1RaYTdYSnNIdGMwWUdHMVBYVTdkME5jMFdPQ2twQUY4emk1a0FxUC13UWlhSTVoV0VpTjNPN2loLWpfcndOZGpDMzZsRi10YjN6UQ?oc=5)
 - **2026-11-06** — GuruFocus — [Reinsurance Group of America (RGA) Reports Strong Q3 2026 Results Amid Fair Valuation](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlBSTjBaSERwM1V0ZlB1VF9UUXlNWmtlazh6VnhyX2ZISzRUeExDQldpUXlrb0c2YUstZ2pzSXc1ZzNDaWUtbUp3d3Bqdlc1Y25OWkktbk9WT09qcGU3YTlOalFtZVIxV0hTUDExS3JRcWJzb0JzQ1hjeC05Yl9UT21NalZsWGIzZm5wSmxYWkc3clNWTTRCSGRyV3dUZmgwQ3hKU2xlRzc4blViV2hsNlRXSTRyQURyZ2xabWRqNA?oc=5)
 - **2026-11-06** — TradingView — [RGA Q3 2026 deep dive: robust global underwriting and investment performance drive outperformance](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS1FVQTRJRUVwdDd5S1FKS0xyS0k3NW9qQUhlb0JWVE9XT2VCUHg4XzNub1Q4YjhLTG9KS2hGNU5uNzBtblBOVzRaTUpqTkhOQUVQX2swRGVfd0JmNTNLS3RfTmpST2VUMld2QzhxMDI1WW1jemxCNjBGY29SdzBBbHBudER0STVFV2ZzWFhDRDhlM2djX0JxZjBIYVBPWnVlUFZKUXlta1NxYkRQWVQ5d054dXJQdnQ4bVMwZ1B3QjJDQTFmVFpDQ0psSlpUMURyX244S05rWGxpNWtYVlRIZ0tBaGdfN0hCQTlMM0Z3?oc=5)
+- **2026-11-06** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Q3 FY2026 earnings call transcript](https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1c5STB1ekJ0YnFCRUduNURiUW4tbFU3VlZabVFiRFY0QnRqbmxKN0JUYVJRckgzQnlyQkoxTjJvLWtobkRQNklXN3dYQlBTaGx5Q1RtWXk3TTJNWUtKMzRKWFRBckJsTkltNjloOGZhTmQxaC11T2ZOSENUUDJ6RTByd0tMbThJS1E?oc=5)
 - **2026-11-06** — GuruFocus — [Reinsurance Group of America (RGA) Maintains Quarterly Dividend at $0.98 Amid Fair Valuation](https://news.google.com/rss/articles/CBMixgFBVV95cUxObXJaRTc5ZmliXzlCUkhQTjBHb1p1dHZOYkFzSVBTUHZub3ZHMmNJN1hVNEtJdjdsTTJpLUdETVhQT1p2ejMwUldoVXRHc3RVbUVrSHA1TDJuOHMtd19fR05JeHdhWV82YUJ0cjNIZUtNRlVCajBTR1Zaa25iRy1qSkhYY0RtUUNTSEZsV3hDR1lHM0thbWpuaEpuRlJuVFhnOG5QTEhvWl91TUJVdHAwVzZLc3g4RXI4X3BaVHg0NE1XQ2NRYXc?oc=5)
 - **2026-11-06** — MarketBeat — [Reinsurance Group of America Q3 2026 Earnings Results and Report](https://news.google.com/rss/articles/CBMipAFBVV95cUxNOURfYUtabkhfd1FESXdOZXVOWEs5aHoycHE0X25UZlFQY2NfcUU0amZqOVJmbFphdnBTU1dxdjFfVmhrdDNOMXVwNG5jRVlEeUt4S3k0YTVVNXpLb1B2R0sxZGgzRUdVVW1UNTdTZUplekVCWG5KX0pZSW4xVUgzMjZZSHNvamNjWHNjNGFLR2hmVlNlU1BUVnI0VThGWVZYWFMwVQ?oc=5)
 - **2026-11-05** — 24/7 Wall St. — [RGA's Q3 2026 Earnings: Pension Transfers Fuel a 22% EPS Beat](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1BMZHNZcFdzNFpHMjdJc1pNNTkyV2VmVUdPck95UWthNHZBYnFvZUY2M3FNSGdmUGEzNWhIRkZWbGxWSERiX0FvTmtGdTFuRExjdURONTFJNEk1eHlHUUNEM1kwTTNmWnBudTBNUUNWS1ZyVzNPS2Iwa01nT0J1Y2llbUk3M3VfUTd4dDNGZGZQeUk4ems0Tm9BV0hBODBBS1ZPNU55WQ?oc=5)
@@ -50,8 +52,6 @@ Generated Fri 06 Nov 2026, 19:11 AST
 - **2026-11-05** — Yahoo Finance — [Reinsurance Group (RGA) Reports Q3 Earnings: What Key Metrics Have to Say](https://news.google.com/rss/articles/CBMingFBVV95cUxNaGcxY2pKRWZjUXdrVHVBdUdDWGdPRFlmdERXSXR6LUp0SDZRSkNQWFNydnBuYkVjTm1MZkw4MW1PeDZmSUhSNmkzdFlnd3VIRFZVb3hoREZlcGMzWDVaTUpWMW4xak01anNsYWI4WjdreDc1aXF5ZXBpN093SDA5WUZMQzFUUVYyYkJZZHhJRUx0aTZfOE5oYUw3MThKdw?oc=5)
 - **2026-11-05** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Posts Earnings Results, Beats Estimates By $1.52 EPS](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3c1SG5weXhQR0diZXlyZUhFUXR6NGtCUFF5d3BWWWg2S0JHREtCYUxwUU9oOW5YaU5mRTVPNEM5c0NuZEdJQWtfeUFSSlNCdmtKb0pWM1N4X2V2OEZiRjV4VHRIa2EyZnZhczVYeUpya093RVRQYUpfa01jOWVtRHhleHhfeGpwNXEyejJON1doTlBOaTgxMmg1c3dhNFM5Tk13OVhtQ1J6MTJHcTdTQ2k3LTNjeHhFcHpfcW9nVGVBWjBwd1A0Nk1yOUNGcTQxaWQ1OE9IY0ZYQ1Y3MWVxM3NjcFg?oc=5)
 - **2026-11-05** — Quiver Quantitative — [REINSURANCE GROUP AMER ($RGA) Releases Q3 2026 Earnings](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUE1NHluQ2JOX1I1YzZkdWZ0SjNXSmt1bHVtTGtMUnYxQ3QwdWF6MVZVN3FPbUdPRjAwU3pINEVYTWdQWUxKZTdXbndnNDduVEdsaERtbUZQNjlYOHEySEVCSGpUbkZyUk1hS1JLNUpGcGZVN3dLR2pnYnM4S0RuNVRiNi0yV0xwS1hBY0ZiWG0wVXJBLVNTZkln?oc=5)
-- **2026-11-05** — TradingView — [Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026](https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWdMX2tMMTlsNGRCZS1UeXpLQVZRRWc3emlCUlNBZ3FRaXl0ZlZuUk5NQzJfa3g5akNCMDNuUndhdVpaZjhOZ2NQcmhyWXN5TjJtRlFVUTN3dHdDX1hHdmVCRzdZR1g0TktseTF6Q1FMczluNktFeWNxUmh3N1hSdVV0ckprTVh0a2ZvQzBkVGJESFczaFBmcTc5aGlLaGliQS05OG5wdEFNd1ZvSXNWR0pJVW8tU2J6M3AyYkNR?oc=5)
-- **2026-11-05** — StreetInsider — [Reinsurance Group of America (RGA) Tops Q3 EPS by 156c](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEtfRDdrXzVzNjcwekg1Ykx3U25yb1htMVJfREp5Y0p6Sm5IWFRPb244N3c0dGtjTjM4NVN0Tk9UVWM0Z2p2NDRKN2JpVldPa3JUcERMTDRDODhkdGJod2JjVDFpNFBDLU9CUWlxTWFrU19RUGo2azk5c1BKWjlDQm1HZWpnYS1CNkVRd0pDdkVYMFZrTGkyYndXUjlWRE4tS1VISFVTLVdJdVR5ZmhmbA?oc=5)
 
 ## Sagicor
 

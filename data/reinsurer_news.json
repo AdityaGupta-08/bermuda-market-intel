@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:11:16Z",
+  "updated": "2026-11-07T06:01:44Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 38,
+      "count": 39,
       "error": null
     },
     {
@@ -113,6 +113,18 @@
   ],
   "items": [
     {
+      "id": "39178b70e70e",
+      "title": "Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFNFTlBQRktzM0c1cWRudlZub0ItUDVJcE41bklwSnFTcXFTUHRsNUkxRmpQVlFJMnZBQVZZX3J0RXg0VkJPZVJCZGFsY3prLVR1My1kUmtINUJtRlZiOEJUVlVDeWZDc3BtOFprZUJxY0hYVF9KaEZGdjh5a2dKNkRLS0JNVGdVcXc?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "feed": "Google News: RGA",
+      "date": "2026-11-07T05:12:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "25ed5e7b3443",
       "title": "Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmF4akFESXpXT0RiSm5ybkdqcG1pQmVVVmZ6WTR5MHlaYTVVNlhhZmVZOEszdGpNdGdmMHNFcjBoelczZEo3MXNYRTZjV0JLNW5DMlAyd3F6V0xGT3JMS010Y19TMWRzQ2xwZzVVdVRkYkxJSkxEdjBNT1dwN0MyZm1iR1RaYTdYSnNIdGMwWUdHMVBYVTdkME5jMFdPQ2twQUY4emk1a0FxUC13UWlhSTVoV0VpTjNPN2loLWpfcndOZGpDMzZsRi10YjN6UQ?oc=5",
@@ -143,6 +155,18 @@
       "source": "TradingView",
       "feed": "Google News: RGA",
       "date": "2026-11-06T17:05:44Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "49fc1a6c644e",
+      "title": "Reinsurance Group of America, I (RGA) Q3 FY2026 earnings call transcript",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1c5STB1ekJ0YnFCRUduNURiUW4tbFU3VlZabVFiRFY0QnRqbmxKN0JUYVJRckgzQnlyQkoxTjJvLWtobkRQNklXN3dYQlBTaGx5Q1RtWXk3TTJNWUtKMzRKWFRBckJsTkltNjloOGZhTmQxaC11T2ZOSENUUDJ6RTByd0tMbThJS1E?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T15:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -737,21 +761,21 @@
       ]
     },
     {
-      "id": "25887d2a3f5d",
-      "title": "Reinsurance Group of America, Incorporated $RGA Stake Lifted by Sterling Capital Management LLC",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPakxmVU9ac2pncWs0VVF4RHdCcUhEa21MMHlidW1tUFgzTXZ6R1lVVGJCZUlfMjFKcVRoQVU3ZU9hLXdVQmdyM29VZWpBX0FaMjQ4VEZzb1ZzemtDdUlnSWN1UVdxbmlKZHJhZXp4U3VMZXdhVWEwcjRpR1BrWS1hRlpZX0dkTFZUOFNqN042Ty0xZUI0VUVUd1VxXzlUMm14M0JFZURMbHhmZUdKTzlSRGdKdUJTSzZwZHdzb242ODRZMXFKa1JTZzRMVEFDbmI2NTNYLU90bHJIdXhzMmRiTzFkWnJObVNsRmc?oc=5",
+      "id": "895c87193d6d",
+      "title": "Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Rated \"Buy\" by Sell-Side Analysts",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUY4NDlhT2NxeEZpMmZfU0g2TVMzVkZnbngwWng1NzVBS190Q0lFdm9HRjFTY2RJc2JwRGtaVC1NOTlWQjBFSGFZRGE1TzJXWDhWdFhQQUNTbzFxOEoySmY2dFFsSmlUbjFsZ0lVa3pJZ0V2a21OUVIxaUtLTUZXOUFDTWFQS3VqS1ZzRmdIeXNZZi1xMXZfN1hiUXYySWNMamstX1E4Uk4zb191bnE4eDcwc3ZWRUFfSFV6bTZlbUZBaUdrd2tzcW5VUHRyZmhLSkVCSDFEVGlwakVPdXVlRjI4cXdBTDQ?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-10-26T09:39:35Z",
+      "date": "2026-10-26T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "895c87193d6d",
-      "title": "Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Rated \"Buy\" by Sell-Side Analysts",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUY4NDlhT2NxeEZpMmZfU0g2TVMzVkZnbngwWng1NzVBS190Q0lFdm9HRjFTY2RJc2JwRGtaVC1NOTlWQjBFSGFZRGE1TzJXWDhWdFhQQUNTbzFxOEoySmY2dFFsSmlUbjFsZ0lVa3pJZ0V2a21OUVIxaUtLTUZXOUFDTWFQS3VqS1ZzRmdIeXNZZi1xMXZfN1hiUXYySWNMamstX1E4Uk4zb191bnE4eDcwc3ZWRUFfSFV6bTZlbUZBaUdrd2tzcW5VUHRyZmhLSkVCSDFEVGlwakVPdXVlRjI4cXdBTDQ?oc=5",
+      "id": "25887d2a3f5d",
+      "title": "Reinsurance Group of America, Incorporated $RGA Stake Lifted by Sterling Capital Management LLC",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPakxmVU9ac2pncWs0VVF4RHdCcUhEa21MMHlidW1tUFgzTXZ6R1lVVGJCZUlfMjFKcVRoQVU3ZU9hLXdVQmdyM29VZWpBX0FaMjQ4VEZzb1ZzemtDdUlnSWN1UVdxbmlKZHJhZXp4U3VMZXdhVWEwcjRpR1BrWS1hRlpZX0dkTFZUOFNqN042Ty0xZUI0VUVUd1VxXzlUMm14M0JFZURMbHhmZUdKTzlSRGdKdUJTSzZwZHdzb242ODRZMXFKa1JTZzRMVEFDbmI2NTNYLU90bHJIdXhzMmRiTzFkWnJObVNsRmc?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-26T07:00:00Z",

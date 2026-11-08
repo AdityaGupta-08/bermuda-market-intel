@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T17:57:52Z",
+  "updated": "2026-11-08T22:07:51Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,7 +11,7 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {

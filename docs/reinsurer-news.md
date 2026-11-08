@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 28 items
-Generated Sun 08 Nov 2026, 13:57 AST
+Generated Sun 08 Nov 2026, 18:07 AST
 
 ## Feed status
 

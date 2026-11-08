@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T00:38:32Z",
+  "updated": "2026-11-08T10:25:49Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,13 +11,13 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 37,
+      "count": 39,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "6917ae3a5363",
+      "title": "Is Earnings Beat Altering The Investment Case For Reinsurance Group Of America Stock (RGA)?",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmQwRktQelNseGFLZUlkdFNaajdkeWFZcHAxNHFEUGlhWFVzVVZaN2tCcktoN09xUFN4SEtrY1N1aXpic19TM2dCM0V3d2pZMV9MZ3Q3OTJUWkZyc3RtOFdkc1JpZjJkQVJiX0FTQVVFZzY0MmlKLXVKZjhnaUdQeDRNMlE4aUNhVUhaNHBEZi13UW1XcDFJZm0yQlVnNnlRenFCSVBR?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-08T06:12:48Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "4d5ef74d0806",
       "title": "What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call",
@@ -405,7 +417,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [
@@ -419,6 +431,18 @@
       "source": "Simply Wall St",
       "feed": "Google News: RGA",
       "date": "2026-11-05T11:35:04Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "1afa5ded1043",
+      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY01uWmFlNUtnZVdWbnpGNHRyWEpVem9VaThBaTRVcTREUncxOVpFS05wTGFOUkZFUXZ1eUF5eWZBcGxaNUN2d0F6cU1xdlBNWXlGRkFXMFA5cHN1NGFRTFQySU9KdzNEODZ3UVRsOXBzYnhmMFZJTjV6eGsyQWxwQWdiVU9ubTRLMXlha3RRWQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-04T22:57:32Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -542,6 +566,18 @@
       "summary": "",
       "companies": [
         "Fortitude Re"
+      ]
+    },
+    {
+      "id": "b0752ec81498",
+      "title": "Reinsurance Group of America (RGA) Slips 0.36% to $266.45 as Shares Consolidate Below Resistance - Cumulative Volume",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRk5JOS0yaGxxZngtZjlPak5LTDV3dVk2YU1fWV82NnlSN3c1YVJpUXgtOUs4X3BIaDRab3dsczF3eUtVbVZLaEZ2UzZ1alpQR001M2JQeWRYcnVSZEtocVFzZUg5cnFodjBqdFNnYngyRmNtXzhRYWxTbXNSUVZ5a2RiWnVNMUlmTUdwR0FDdE11eGhYMjNLQVh1Z0o5eHZjVnZuQUZULUpnb0p6MGZMTnJfeXdGWWFGQkplVTNtOFQwcVhhRzVhbkp1dHFJdw?oc=5",
+      "source": "https://www.dars.gov.et/",
+      "feed": "Google News: RGA",
+      "date": "2026-11-03T18:43:30Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -731,18 +767,6 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-29T05:23:14Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "1afa5ded1043",
-      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekE3ZVpTbXRVQ0hSeXlvSGdtQi1xQjlwSnp4ZlgxeDQ5ajc2X05ta0VPQUN0NjVhU2J1MWpXVVY3Y0RBTE9WRllBTjBYTU1pLThHRFJOUU16Q3ZyM19xcHZIVU9pUXJmamRzU0d1bHItcDRicm9vUUNHSDhWWjJneXRMdUJ2bDM1ckFPM0RxZw?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-29T02:58:48Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1727,18 +1751,6 @@
       "source": "Kalkine Media",
       "feed": "Google News: RGA",
       "date": "2026-09-25T12:30:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "5c751d67c2d4",
-      "title": "Reinsurance Group Of America (RGA) Could Be 9% Undervalued Following Its Recent Run",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYm9CUnNBY1J5blJ5d3UyQXNXMlhzUFg0elRySUQ5a1FtUGNiaXBjeUtSbGxVMDlDUzZqZ0txbE5ic0RrWFNyRThKT2pmaWxfUUNob1FhZ2NNTUhIcUNLRlF2R2pteWM3bTZYd2pIWWRuQ1pkaE9lZWFqUzV6YXk2bGVFQ0txVlY4SEVUV29FLVYzTEhpOHhFb0cwUVo1ZVg5LWFOM2ZUeXRWeUt4bzNFZzB1VzBJYmRIYm9iNk5VVXVkVGZ1QW5hMTJsUjNaUFBjb05tc0lCTXY4cnpIQnfSAeMBQVVfeXFMTlpUZHRxN0J5OHFHQ1duY0J2c3hYSlYxYTVfYzNhTXNjTVU5Q2JGUmtNYmdJWG00blVZdjNadlJxaDNRSWNaeURTa3FKdTVJVGxLb2pNZEt6OGtLUWFDX1B2V1hzeUR6ck9RSEMtbkI4b096RDZGNHFSd0Flb3A5NFhheEZubV9vai1zS05tdW51Vzc3S3ZDdVc3eEN4SlFYRnd1WERrc3IzV2lGVzNLMllQS3ViZ0xQQlh1X1NHVjUwUVg3TWhpSk1vZGZNM1dWeThnOEFsa2JKdWk2Q2ZIS1p3Wkk?oc=5",
-      "source": "Simply Wall Street",
-      "feed": "Google News: RGA",
-      "date": "2026-09-24T08:34:56Z",
       "summary": "",
       "companies": [
         "RGA"

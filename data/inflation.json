@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T00:38:08.906857Z",
+  "updated": "2026-11-08T10:25:28.964809Z",
   "countries": {
     "us": {
       "series": "CPIAUCSL",
@@ -45,5 +45,5 @@
       "source": "OECD SDMX (FRED series discontinued)"
     }
   },
-  "_fetched": "2026-11-08T00:38:08.906861Z"
+  "_fetched": "2026-11-08T10:25:28.964813Z"
 }

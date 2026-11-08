@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 29 items
-Generated Sat 07 Nov 2026, 20:38 AST
+Bermuda life & annuity watchlist — last 14 days — 28 items
+Generated Sun 08 Nov 2026, 06:25 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 77 items
+- ✅ **Google News (16 of 16 companies)** — 79 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -33,12 +33,9 @@ Generated Sat 07 Nov 2026, 20:38 AST
 - **2026-11-03** — TradingKey — [Unum Group Closes $3.8 Billion LTC Reinsurance Deal with Fortitude Re](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaGdKb0h6aUZ1WU1fTHhVQm54UTlkU3hHQ2RQMmx2eGpsMTNyVjhrZFozRXBZejVIeHFJakJDaTFZRXhQLVVrVnNzOERKc2J2U014bHBsSkpoS1dhcUE?oc=5)
 - **2026-11-03** — Business Wire — [Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNG9VcGhHY19ONW9jN0xvdjB0Y1NaRHhmQ2RDekYweC0wc1k4MUgyZ1ZGNE4zSmhvQUNGWTlkRFVhdVJDY3FEV2lMSVNCZ3hvUjJxTU41RGRTRUxlclZ3YVFKSUs0WUozM1BrN1pueHQ0QjhoMFppMFFPZXpvTHBTNHphLXpqNzRtdnIwSjJKdzRYR2dPTGg4Q1VndzB3Zl83QTdVRDNmRGFTdTRkZUlpUEM5TVBYSmZ2cnVkZ1NkcGhlWGFBaExHUlBIdTBNelF2SnlvMk1WSm1oUnZZV3hN?oc=5)
 
-## Talcott
-
-- **2026-10-25** — Newsweek — [Seeking Value: How Talcott compressed an insurance launch into one year](https://news.google.com/rss/articles/CBMigAFBVV95cUxOU21SQXRtUmdXWGtSYzIyNmQ5ZzhVUlgzQWlWSXJWN0thZzhIV0lFby1ncGNsX0FHZ3dlWjNzMFVFaHpWanBYR1F6MDFXaG1qdVBDa0ZVeUNzek1jNmpvQzdkQmRKREdla09ZcFdDVkJlVjFMWGgwTTlHT2ZmZHZjXw?oc=5)
-
 ## RGA
 
+- **2026-11-08** — Yahoo Finance — [Is Earnings Beat Altering The Investment Case For Reinsurance Group Of America Stock (RGA)?](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmQwRktQelNseGFLZUlkdFNaajdkeWFZcHAxNHFEUGlhWFVzVVZaN2tCcktoN09xUFN4SEtrY1N1aXpic19TM2dCM0V3d2pZMV9MZ3Q3OTJUWkZyc3RtOFdkc1JpZjJkQVJiX0FTQVVFZzY0MmlKLXVKZjhnaUdQeDRNMlE4aUNhVUhaNHBEZi13UW1XcDFJZm0yQlVnNnlRenFCSVBR?oc=5)
 - **2026-11-07** — Yahoo Finance — [What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjRTY1dGTEVsUVVZdmV4RmF0UGhPcW84TkZJVWxrSUE3SUp1VmRxcU5oS2t2NU01TEJnUWF2SGRpSnN1d3p4NXlObHlCM3dBZTBNZWpieDRGRjJQdWtURkd0aTgzMFNiTlJPdnBhVm5ocmlnYmt0cmRLT1FHUER1ZEpydDNkR25wSFBjdEUzajFEeXJoeUFhWEVnb0E4S3E4?oc=5)
 - **2026-11-07** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5)
 - **2026-11-07** — Yahoo Finance Singapore — [Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...](https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFNFTlBQRktzM0c1cWRudlZub0ItUDVJcE41bklwSnFTcXFTUHRsNUkxRmpQVlFJMnZBQVZZX3J0RXg0VkJPZVJCZGFsY3prLVR1My1kUmtINUJtRlZiOEJUVlVDeWZDc3BtOFprZUJxY0hYVF9KaEZGdjh5a2dKNkRLS0JNVGdVcXc?oc=5)
@@ -50,13 +47,12 @@ Generated Sat 07 Nov 2026, 20:38 AST
 - **2026-11-06** — MarketBeat — [Reinsurance Group of America Q3 2026 Earnings Results and Report](https://news.google.com/rss/articles/CBMipAFBVV95cUxNOURfYUtabkhfd1FESXdOZXVOWEs5aHoycHE0X25UZlFQY2NfcUU0amZqOVJmbFphdnBTU1dxdjFfVmhrdDNOMXVwNG5jRVlEeUt4S3k0YTVVNXpLb1B2R0sxZGgzRUdVVW1UNTdTZUplekVCWG5KX0pZSW4xVUgzMjZZSHNvamNjWHNjNGFLR2hmVlNlU1BUVnI0VThGWVZYWFMwVQ?oc=5)
 - **2026-11-05** — 24/7 Wall St. — [RGA's Q3 2026 Earnings: Pension Transfers Fuel a 22% EPS Beat](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1BMZHNZcFdzNFpHMjdJc1pNNTkyV2VmVUdPck95UWthNHZBYnFvZUY2M3FNSGdmUGEzNWhIRkZWbGxWSERiX0FvTmtGdTFuRExjdURONTFJNEk1eHlHUUNEM1kwTTNmWnBudTBNUUNWS1ZyVzNPS2Iwa01nT0J1Y2llbUk3M3VfUTd4dDNGZGZQeUk4ems0Tm9BV0hBODBBS1ZPNU55WQ?oc=5)
 - **2026-11-05** — Moomoo — [Reinsurance Group 3Q Rev $7.55B >RGA](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdV9BWEFnUERFMmNvb0FNbVpyV29wSGtYZnRBQVhYS2N1MEJPMzdaMkJ3U3dsM1dURS1UM2tVcmhJRjlrTE84c1lIOEVpdko4NHhvSnNEZ05KVVhjZmZOWWRJZzFxOXBlSFdhd1Y3MFBjVDZYRWhyMUFCaVp2M2dESjRsa2U?oc=5)
-- **2026-11-05** — Yahoo Finance — [Reinsurance Group (RGA) Reports Q3 Earnings: What Key Metrics Have to Say](https://news.google.com/rss/articles/CBMingFBVV95cUxNaGcxY2pKRWZjUXdrVHVBdUdDWGdPRFlmdERXSXR6LUp0SDZRSkNQWFNydnBuYkVjTm1MZkw4MW1PeDZmSUhSNmkzdFlnd3VIRFZVb3hoREZlcGMzWDVaTUpWMW4xak01anNsYWI4WjdreDc1aXF5ZXBpN093SDA5WUZMQzFUUVYyYkJZZHhJRUx0aTZfOE5oYUw3MThKdw?oc=5)
 
 ## Sagicor
 
 - **2026-10-27** — kalkine.ca — [How Well Do Sagicor Financial’s (TSX:SFC) Core Earnings Cover Its US Dollar Dividend?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVRHQzYtUmRBNlVjUGJhajFTdnFKZlNINHZ5eWVaOVBicHkzMW1aNkZ5ZnNoS3ZnVHRzZDhzQlhqemx4Q2Fma2xMZmVwSGJDbXpNOG5Vc1JNNG1zbGltaU1LMEJ4QUpTTE5OcnRYUzFXVjM3TE53UEh6b2FQNXM3MFpOR2lEQVJPVlFWWFFJSHdCanJyeXZ5WnBobmtBOC1DdVE3ODhCa2tidWRxcXJrSkxLd0N0Mzh1V2FuMA?oc=5)
 
-_No news in the window: Global Atlantic, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Venerable, Catalina_
+_No news in the window: Global Atlantic, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Catalina_
 
 ---
 

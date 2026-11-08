@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 29 items
-Generated Sat 07 Nov 2026, 15:27 AST
+Generated Sat 07 Nov 2026, 20:38 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 79 items
+- ✅ **Google News (16 of 16 companies)** — 77 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -39,6 +39,7 @@ Generated Sat 07 Nov 2026, 15:27 AST
 
 ## RGA
 
+- **2026-11-07** — Yahoo Finance — [What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjRTY1dGTEVsUVVZdmV4RmF0UGhPcW84TkZJVWxrSUE3SUp1VmRxcU5oS2t2NU01TEJnUWF2SGRpSnN1d3p4NXlObHlCM3dBZTBNZWpieDRGRjJQdWtURkd0aTgzMFNiTlJPdnBhVm5ocmlnYmt0cmRLT1FHUER1ZEpydDNkR25wSFBjdEUzajFEeXJoeUFhWEVnb0E4S3E4?oc=5)
 - **2026-11-07** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5)
 - **2026-11-07** — Yahoo Finance Singapore — [Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...](https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFNFTlBQRktzM0c1cWRudlZub0ItUDVJcE41bklwSnFTcXFTUHRsNUkxRmpQVlFJMnZBQVZZX3J0RXg0VkJPZVJCZGFsY3prLVR1My1kUmtINUJtRlZiOEJUVlVDeWZDc3BtOFprZUJxY0hYVF9KaEZGdjh5a2dKNkRLS0JNVGdVcXc?oc=5)
 - **2026-11-06** — The Globe and Mail — [Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmF4akFESXpXT0RiSm5ybkdqcG1pQmVVVmZ6WTR5MHlaYTVVNlhhZmVZOEszdGpNdGdmMHNFcjBoelczZEo3MXNYRTZjV0JLNW5DMlAyd3F6V0xGT3JMS010Y19TMWRzQ2xwZzVVdVRkYkxJSkxEdjBNT1dwN0MyZm1iR1RaYTdYSnNIdGMwWUdHMVBYVTdkME5jMFdPQ2twQUY4emk1a0FxUC13UWlhSTVoV0VpTjNPN2loLWpfcndOZGpDMzZsRi10YjN6UQ?oc=5)
@@ -50,7 +51,6 @@ Generated Sat 07 Nov 2026, 15:27 AST
 - **2026-11-05** — 24/7 Wall St. — [RGA's Q3 2026 Earnings: Pension Transfers Fuel a 22% EPS Beat](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1BMZHNZcFdzNFpHMjdJc1pNNTkyV2VmVUdPck95UWthNHZBYnFvZUY2M3FNSGdmUGEzNWhIRkZWbGxWSERiX0FvTmtGdTFuRExjdURONTFJNEk1eHlHUUNEM1kwTTNmWnBudTBNUUNWS1ZyVzNPS2Iwa01nT0J1Y2llbUk3M3VfUTd4dDNGZGZQeUk4ems0Tm9BV0hBODBBS1ZPNU55WQ?oc=5)
 - **2026-11-05** — Moomoo — [Reinsurance Group 3Q Rev $7.55B >RGA](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdV9BWEFnUERFMmNvb0FNbVpyV29wSGtYZnRBQVhYS2N1MEJPMzdaMkJ3U3dsM1dURS1UM2tVcmhJRjlrTE84c1lIOEVpdko4NHhvSnNEZ05KVVhjZmZOWWRJZzFxOXBlSFdhd1Y3MFBjVDZYRWhyMUFCaVp2M2dESjRsa2U?oc=5)
 - **2026-11-05** — Yahoo Finance — [Reinsurance Group (RGA) Reports Q3 Earnings: What Key Metrics Have to Say](https://news.google.com/rss/articles/CBMingFBVV95cUxNaGcxY2pKRWZjUXdrVHVBdUdDWGdPRFlmdERXSXR6LUp0SDZRSkNQWFNydnBuYkVjTm1MZkw4MW1PeDZmSUhSNmkzdFlnd3VIRFZVb3hoREZlcGMzWDVaTUpWMW4xak01anNsYWI4WjdreDc1aXF5ZXBpN093SDA5WUZMQzFUUVYyYkJZZHhJRUx0aTZfOE5oYUw3MThKdw?oc=5)
-- **2026-11-05** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Posts Earnings Results, Beats Estimates By $1.52 EPS](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3c1SG5weXhQR0diZXlyZUhFUXR6NGtCUFF5d3BWWWg2S0JHREtCYUxwUU9oOW5YaU5mRTVPNEM5c0NuZEdJQWtfeUFSSlNCdmtKb0pWM1N4X2V2OEZiRjV4VHRIa2EyZnZhczVYeUpya093RVRQYUpfa01jOWVtRHhleHhfeGpwNXEyejJON1doTlBOaTgxMmg1c3dhNFM5Tk13OVhtQ1J6MTJHcTdTQ2k3LTNjeHhFcHpfcW9nVGVBWjBwd1A0Nk1yOUNGcTQxaWQ1OE9IY0ZYQ1Y3MWVxM3NjcFg?oc=5)
 
 ## Sagicor
 

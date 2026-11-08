@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:27:42Z",
+  "updated": "2026-11-08T00:38:32Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,13 +11,13 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 36,
+      "count": 37,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "4d5ef74d0806",
+      "title": "What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjRTY1dGTEVsUVVZdmV4RmF0UGhPcW84TkZJVWxrSUE3SUp1VmRxcU5oS2t2NU01TEJnUWF2SGRpSnN1d3p4NXlObHlCM3dBZTBNZWpieDRGRjJQdWtURkd0aTgzMFNiTlJPdnBhVm5ocmlnYmt0cmRLT1FHUER1ZEpydDNkR25wSFBjdEUzajFEeXJoeUFhWEVnb0E4S3E4?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-07T20:14:13Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "c758a026209d",
       "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.",
@@ -393,7 +405,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Fortitude Re",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T10:25:49Z",
+  "updated": "2026-11-08T17:57:52Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 39,
+      "count": 40,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -113,12 +113,24 @@
   ],
   "items": [
     {
+      "id": "01c279ecfc7e",
+      "title": "Barclays Keeps Their Buy Rating on Reinsurance Group (RGA)",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXItbFMtLUFDcWZtbE9hWkFheWJibG02Zjg2bVhiVld3QVhjSWFicEpITVptTXZtTzNvUEs0TktRQ3NkRWN4R1RvNDcwdnJreGJ1bkhGMnVZQWF4cDZhZGRwYnU4UEdHeDRKaDE5anE1M3p3UHA1OTRBYUJNVTNFZXNzSkpIUEtmUkxITi1ibU5iLUNnVURIb1lCMVd2ZjlaN2NFaUo1bm5qdjhBbk1ib2ZUWkhEMnN0cXlfZXVLMUVHbXlnbVdubmVIa0tTbmlKNW1z?oc=5",
+      "source": "The Globe and Mail",
+      "feed": "Google News: RGA",
+      "date": "2026-11-08T13:22:48Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "6917ae3a5363",
       "title": "Is Earnings Beat Altering The Investment Case For Reinsurance Group Of America Stock (RGA)?",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmQwRktQelNseGFLZUlkdFNaajdkeWFZcHAxNHFEUGlhWFVzVVZaN2tCcktoN09xUFN4SEtrY1N1aXpic19TM2dCM0V3d2pZMV9MZ3Q3OTJUWkZyc3RtOFdkc1JpZjJkQVJiX0FTQVVFZzY0MmlKLXVKZjhnaUdQeDRNMlE4aUNhVUhaNHBEZi13UW1XcDFJZm0yQlVnNnlRenFCSVBR?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-11-08T06:12:48Z",
+      "date": "2026-11-08T06:12:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -173,6 +185,18 @@
       ]
     },
     {
+      "id": "8579da0def88",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2clFSQVdRR21oSmVLb2lwT1JZNV9KOHYtZWZUSlJTckpmMTBqa3JfSmQwSmlRaUJORjBQMmRhcUhXS0lpWXZNR2d2OGNLc20wQ1hHWUx3VXFiN3dUR2UyNg?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T21:00:02Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "0cf69b819a96",
       "title": "Reinsurance Group of America (RGA) Reports Strong Q3 2026 Results Amid Fair Valuation",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlBSTjBaSERwM1V0ZlB1VF9UUXlNWmtlazh6VnhyX2ZISzRUeExDQldpUXlrb0c2YUstZ2pzSXc1ZzNDaWUtbUp3d3Bqdlc1Y25OWkktbk9WT09qcGU3YTlOalFtZVIxV0hTUDExS3JRcWJzb0JzQ1hjeC05Yl9UT21NalZsWGIzZm5wSmxYWkc3clNWTTRCSGRyV3dUZmgwQ3hKU2xlRzc4blViV2hsNlRXSTRyQURyZ2xabWRqNA?oc=5",
@@ -215,6 +239,18 @@
       "source": "GuruFocus",
       "feed": "Google News: RGA",
       "date": "2026-11-06T14:45:58Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "256fbb02bc81",
+      "title": "Reinsurance Group of America, Incorporated Q3 2026 Earnings Call Summary",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMEQtd09nZGZyVzQ5S3JKbzRNYmtKUkd1OEpBVGUtcG9YUXd0RWRzQ1JzVm5mZVFDZzFEdHRRVGFkbFNkTGtscE1MR05qek9vQTRFMEE4MEpMajhIaTlmOERCQlF5VUxEQWdtS05OSEhLUmdjd2RELVlSbFBSRzJoLU1EbHpzWU95YmVCQU4yZlpWc1Fud3RRb2RqR01fdVNRRW9OREVwenkzUQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T13:30:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -417,7 +453,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Fortitude Re",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [
@@ -570,11 +606,11 @@
     },
     {
       "id": "b0752ec81498",
-      "title": "Reinsurance Group of America (RGA) Slips 0.36% to $266.45 as Shares Consolidate Below Resistance - Cumulative Volume",
+      "title": "Reinsurance Group of America (RGA) Slips 0.36% to $266.45 as Shares Consolidate Below Resistance - Leveraged ETF Flow",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRk5JOS0yaGxxZngtZjlPak5LTDV3dVk2YU1fWV82NnlSN3c1YVJpUXgtOUs4X3BIaDRab3dsczF3eUtVbVZLaEZ2UzZ1alpQR001M2JQeWRYcnVSZEtocVFzZUg5cnFodjBqdFNnYngyRmNtXzhRYWxTbXNSUVZ5a2RiWnVNMUlmTUdwR0FDdE11eGhYMjNLQVh1Z0o5eHZjVnZuQUZULUpnb0p6MGZMTnJfeXdGWWFGQkplVTNtOFQwcVhhRzVhbkp1dHFJdw?oc=5",
       "source": "https://www.dars.gov.et/",
       "feed": "Google News: RGA",
-      "date": "2026-11-03T18:43:30Z",
+      "date": "2026-11-03T18:45:47Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -710,18 +746,6 @@
       "summary": "",
       "companies": [
         "Athene"
-      ]
-    },
-    {
-      "id": "8579da0def88",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIUGlHLWdTTVZrX3JRcVFReDMwSlRySVRCaG55WXBZVW1xS1JTYjBrMERteXBuZUp5ZG5CTjg2OXZBMFVzVm1qdHFOVGtWM0VLY1VwY3M3dmtOaWhFU2tUUA?oc=5",
-      "source": "Yahoo Finance UK",
-      "feed": "Google News: RGA",
-      "date": "2026-10-30T20:00:03Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {

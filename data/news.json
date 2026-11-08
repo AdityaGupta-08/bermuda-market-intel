@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T10:25:47Z",
+  "updated": "2026-11-08T17:57:50Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "2f9cc44327d8",
+      "title": "Korea\u2019s NongHyup Life seeks bids from asset managers to oversee portfolio of bonds and stocks",
+      "source": "Asia Asset Management",
+      "date": "2026-11-08T16:11:16Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BbTBDc2VrWTQ1TXphYkRuV1lrd19TNmgxUHVfaVhxZlZyaVNNOGdwMmdDUEFTTE1ZRDVlSlI5dnF1LUFYWUJuSTFoNE16QW5YVF9JdlpXdXBiT1E3SVp3VGhMM2FUOHl3NGZyREl1d0pTZHA4d1JMaG0tQQ?oc=5",
+      "isNew": false
+    },
     {
       "id": "7139568b7cdc",
       "title": "U.S. Insurers Have $544B in Murky Private Credit Assets: Analysts",
@@ -85,6 +95,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTW0wYlpoVmd2djlLbTUwd2dCWDhJLW5kVDBGY2JNX1RUQmtBb0pqSWFnSmlES3B4RG1JMXVVQUFDU0dOUzNidWxoY2tDOWNHa3gwbkZZdFBGLWFKX3d2Y0hDa2RoN1hFRGVmOVRXNGs2ZUh2SmRzdF8xUUxxa28zckF2b05saGVmY0hiUkxNUWFuSmRvTW83YnRfZ0xXQjU2OTdtS0tyMVN1NUVCeXdhTmV2SHEwYlc2OUJmelN2VXZSMVNoQVdwczZiZjRRNWxiajNlNmkxdXNWdllQMUI4SGswa1RwZw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "2080f9858d42",
+      "title": "German pension fund raided in probe of troubled real estate deals, including Chicago",
+      "source": "Crain's Chicago Business",
+      "date": "2026-11-05T17:33:25Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdncybWwyc0lDTjdGMXJSU2ctV1dpWTFfdDNBdnBHOTZvMWpzbDNSTmJjVTZjSF9YTlhORF83Zjk3VTQ2V1Z3RzlnaU05LUlqd2d0TUVFN29DTlNCQmVNbGl3cElyQXhud2h1NHpGSFIyVjMwWUZWcFRYcmtrUzZlc19TYWRiUERxeVQ5bFNhdkpYMUxEMktNNEVocDh4WVVQcFB0SlAtQWJmSU1HY3M4?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkppTmFzSXNzdXA4UWk1R3lxRHpDbjJhdnhUV2tUazdwcUFSUE54RXNMSmk4eThINFlYVXpFWmczSUdjV0p5SnB0b1FRSWVPMk9PcWQ0aGpUNjdXX29TSjJQRkFfcVVkcDIzRE5PSWU3aXdTVHllRWpicUNYOW5DWldiZFhaUEp5bi1HLVhIQTg4QzFjTlZkdjVNYUtESHdNWWhVVm82QWhEWl85VWFsNExTY0Z5QTJYSzJyZlhEcTF2aGZIRi1Wbg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "29e809daeb8f",
-      "title": "Harel Insurance Investments and Financial Services to report third quarter 2026 financial results on November 23, 2026",
-      "source": "Yahoo Finance",
-      "date": "2026-11-02T06:52:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaThVMVBtd1BBbnR5YTBkcWQ1Q3dMNXRrVlJvYlVuMVpFM3lnMVFORVM3V0RCc3RmNTV4UklnN3l3ZnBiWGNReUNZc3RYX1JnMlpENVRPZGoxZjh4M2hZRzlveVhiNEduWi1xNTA4X21aM1hGbG1BOEFFQTFhbnkzQnQzRnBjZGp3dmNDTmtrd2ZVTkhWMU8tZkhYa1UtNGFFSTBtQjlXU2JOUVdPUFBLcA?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "7b653d391aaf",
-      "title": "Can infra debt claim a bigger slice of private credit?",
-      "source": "privatedebtinvestor.com",
-      "date": "2026-11-02T02:14:45Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelVIT1FJMlhIdjNMWU9oQzcyekx4Q2htRGNaa1BQNmZ3Q2gtSllwR2FzSDdVYmY5VnFwbXRydVR0aEF5Z25WeDVGeUV0YjItVkVWeE9GRXFTejRTMm9ZUEwzRU5KM1dnbWh1NHZLVW8yazhBWDB3dDRyLTMxOUh5VTVPWmdsTW5lVExsWUhPOE9hMk9z?oc=5",
       "isNew": false
     }
   ]

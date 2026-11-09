@@ -2,7 +2,7 @@
   "date": "2026-11-09",
   "source": "TradingEconomics / Swissquote (gold spot) / Yahoo Finance (crude spot, futures) / FRED",
   "gold": {
-    "spot": 4116.67,
+    "spot": 4126.54,
     "spot_date": "2026-11-09",
     "spot_source": "TradingEconomics",
     "spot_kind": "spot",
@@ -19,7 +19,7 @@
     "prior_2y_date": "2024-11-08",
     "futures": {
       "3M": {
-        "price": 4159.5,
+        "price": 4175.4,
         "price_date": "2026-11-09",
         "price_source": "Yahoo",
         "expiry": "Feb 2027",
@@ -38,8 +38,8 @@
         "prior_2y_contract": "GCG25"
       },
       "6M": {
-        "price": 4173.6,
-        "price_date": "2026-11-06",
+        "price": 4239.1,
+        "price_date": "2026-11-09",
         "price_source": "Yahoo",
         "expiry": "Jun 2027",
         "contract": "GCM27",
@@ -57,7 +57,7 @@
         "prior_2y_contract": "GCM25"
       },
       "12M": {
-        "price": 4332.0,
+        "price": 4345.0,
         "price_date": "2026-11-09",
         "price_source": "Yahoo",
         "expiry": "Dec 2027",
@@ -97,7 +97,7 @@
     }
   },
   "wti": {
-    "spot": 89.79,
+    "spot": 85.67,
     "spot_date": "2026-11-09",
     "spot_source": "Yahoo CL=F (front month)",
     "spot_kind": "front",
@@ -114,7 +114,7 @@
     "prior_2y_date": "2024-11-08",
     "futures": {
       "3M": {
-        "price": 87.03,
+        "price": 83.28,
         "price_date": "2026-11-09",
         "price_source": "Yahoo",
         "expiry": "Feb 2027",
@@ -133,7 +133,7 @@
         "prior_2y_contract": "CLG25"
       },
       "6M": {
-        "price": 82.72,
+        "price": 79.6,
         "price_date": "2026-11-09",
         "price_source": "Yahoo",
         "expiry": "May 2027",
@@ -152,7 +152,7 @@
         "prior_2y_contract": "CLK25"
       },
       "12M": {
-        "price": 76.39,
+        "price": 75.08,
         "price_date": "2026-11-09",
         "price_source": "Yahoo",
         "expiry": "Nov 2027",
@@ -192,7 +192,7 @@
     }
   },
   "brent": {
-    "spot": 96.64,
+    "spot": 91.37,
     "spot_date": "2026-11-09",
     "spot_source": "Yahoo BZ=F (front month)",
     "spot_kind": "front",
@@ -209,7 +209,7 @@
     "prior_2y_date": "2024-11-08",
     "futures": {
       "3M": {
-        "price": 94.2,
+        "price": 89.36,
         "price_date": "2026-11-09",
         "price_source": "Yahoo",
         "expiry": "Feb 2027",
@@ -228,7 +228,7 @@
         "prior_2y_contract": "BZG25"
       },
       "6M": {
-        "price": 89.01,
+        "price": 88.21,
         "price_date": "2026-11-09",
         "price_source": "Yahoo",
         "expiry": "May 2027",
@@ -287,7 +287,7 @@
     }
   },
   "usdinr": {
-    "spot": 93.848,
+    "spot": 93.918,
     "spot_date": "2026-11-09",
     "spot_source": "Yahoo INR=X",
     "unit": "INR per USD",
@@ -303,7 +303,7 @@
     "prior_2y_date": "2024-11-12",
     "futures": {
       "3M": {
-        "price": 94.38,
+        "price": 94.45,
         "price_date": "",
         "price_source": null,
         "expiry": "3M",
@@ -322,7 +322,7 @@
         "prior_2y_contract": "INRG25"
       },
       "6M": {
-        "price": 94.89,
+        "price": 94.96,
         "price_date": "",
         "price_source": null,
         "expiry": "6M",
@@ -341,7 +341,7 @@
         "prior_2y_contract": "INRK25"
       },
       "12M": {
-        "price": 95.8,
+        "price": 95.87,
         "price_date": "",
         "price_source": null,
         "expiry": "12M",
@@ -360,7 +360,7 @@
         "prior_2y_contract": "INRX25"
       },
       "24M": {
-        "price": 97.91,
+        "price": 97.98,
         "price_date": "",
         "price_source": null,
         "expiry": "24M",
@@ -381,5 +381,5 @@
     }
   },
   "note": "Gold spot is physical XAU/USD (TradingEconomics, then Swissquote / gold-api.com), sanity-checked against the front-month future. WTI/Brent spot is the front-month future (Yahoo), with FRED's weekly EIA series as fallback. Spot priors come from the same series as spot (1d = previous session). Futures history is roll-aware by target date, backed by data/commodities_history.jsonl where Yahoo no longer lists expired contracts. USD/INR latest spot: FRED DEXINUS, then Yahoo INR=X / keyless FX APIs when FRED lags; forwards fall back to CIP derivation from India/UST curves when market quotes are unavailable.",
-  "_fetched": "2026-11-09T06:32:49.751901Z"
+  "_fetched": "2026-11-09T19:51:44.932020Z"
 }

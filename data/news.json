@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T06:33:16Z",
+  "updated": "2026-11-09T19:52:15Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,36 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "a615d46ab6c4",
+      "title": "HHH Q3 Earnings Call Highlights Asset-Light Real Estate Shift",
+      "source": "TradingView",
+      "date": "2026-11-09T16:25:19Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkE1MU9tanlyZWhCc21OUGZRSERWUmdJXzEzdmNBY3hQRGQ3ZHZRWlZINkEzekIzYnk1RENkVENCbl84RGgyemk0aFhpSWdSdktfVEZUb1dtc0pWSVRZNko4Z0Vld1p0X1dZVmwzT0cxdm84djhVZEtaZDFURHgtdnJUMWFpYm85b0RTSS1tOURYRXJ1bTI0ZmJVRGJaOTNLT2c2WTdMUU1KNHdhS2tUZVdtZm5FQXZY?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "4d4959400f9f",
+      "title": "J.P. Morgan Bond Manager: The 60/40 Portfolio Is Alive and Well",
+      "source": "Morningstar",
+      "date": "2026-11-09T11:09:50Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbl9IWVViZkQtMWd4a2JMR1JiRXZWaHNydlVkbmlTYXBxVUN5azFnQnVKSUxaT3BLWXFsODNlRFJWQWE0blBEaVFvd2lJNFdhdmJKOHhUTXpPU2ZhZXo2SklzNUdXeUJyNGZ0Tl9hcWVGVGwwYldHTlVaSnlBeV9oS21NRlJEWndiNldCb0xwLWVvY0RQWlhaT1lB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "e3c7bbf797fa",
+      "title": "Korea Investment\u2019s insurance ambitions face a test in KDB Life talks",
+      "source": "KED Global",
+      "date": "2026-11-09T09:36:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjZE5USndQQkY1M0pERHAxZTI2LVVJUVlDSnBXV2laVmdUMFA2YVlETE5hMnppRnJJUzN1TlkxTmExUzdNbjhRZDNTaFMwNDhZdzVHMHdDOEk5cEhuUG1FUHR5azJvUmlBUXJsVnFqR2tZOHVXLTAyalIwUQ?oc=5",
+      "isNew": false
+    },
     {
       "id": "f6d22c960044",
       "title": "China Life overhauls investment strategy amidst risk pressures",
@@ -188,6 +218,16 @@
       "isNew": false
     },
     {
+      "id": "54c06755611b",
+      "title": "How midterm elections affect the stock market",
+      "source": "U.S. Bank",
+      "date": "2026-11-05T08:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajZ2ZjFNZFhYeEl6dWNMT25UQjhZTUpYSjZaWVJtZWxSdmlHM2RveWtaYWpEeW44ekk0UmFWMlBVZzA3bmtqcHd1bElHSXhFOHVFVWZhQjF0dzBKV29GNDM0dlQ4SkNIUWczQW16Mmo3aG5oLWN5RnNBQ2VkQVJBRXhpVjBKUEJKbExvU1dxMG45S1QtenFQdnBEMk1hVTJEWFVaeFpCZTlyb215OVFIWE1Vbmp6SXl0YzRoNmh3?oc=5",
+      "isNew": false
+    },
+    {
       "id": "cece0ae91f3d",
       "title": "Private markets for US insurers: From buildout to optimization",
       "source": "www.mercer.com",
@@ -265,46 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlU1OUVtMUR4N1NVMGxDZ1NiSEtWTnJGSWFVMFg1dmZ0VG5VUk15em5zd0Z6ZlF5a2lSMTJrcHNHdlM5UTNxNGhIa0trZHh3QjRKV2pKMkw2OFJ0SG9nWHZhWmZFYlN2aUx5NG5RQXktRnQ1ZjNmQzdTbUx3eGd0dEtXQWxYTG5OMlQ2OUV4ZVRNalBVU0ZNWTd6ZFAzZFljMVNhN3ZnRlpwWjg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "cb5396e6af85",
-      "title": "Todd Boehly insurer amasses billions in lending tied to his Beverly Hills project",
-      "source": "Financial Times",
-      "date": "2026-11-03T09:24:18Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWlWOWZodUZLT2p6M3Bqb1FOT2Z4WFZjTHhQWXFqTm9XdnRMVHY1SFNXZ1dtSTZtekVnNjZhS21GSHY1dThqbjBUamFSOEE5Sk45Ml9qd05oUWxTUVFhM1BTQ2hhRzk0dk94WVY5V3E1cDBBUDN3bTRBNkkxdGNvZ0J2bjU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "9c489f626788",
-      "title": "The best robo-advisors of November 2026",
-      "source": "CNBC",
-      "date": "2026-11-03T08:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tWHJNcHU0RmhuZnhJWFNiZHdVeTVLeWRKLXJlLTRSZ2dobFB0MUtrZHM1UGNOcXJfd19UX2xYSG9ZOFBJa0ZhNThhaEs5QmUtQTZKZFpvZkI0SkXSAWBBVV95cUxOTkUyeGZjMENrWFB4V2xPaU9taXNGNkk0bXdkZGNBVWI5OWlNVDd3ejlCRDlrSzgwYUVGN0tnVWRUZ1duOW51OHlHTTBtME5QTS14WEVUcWszckY1d2d3Qlk?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "3d81b24fccfa",
-      "title": "How do changing interest rates affect the stock market in 2026",
-      "source": "U.S. Bank",
-      "date": "2026-11-03T08:00:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "77d45ceabf40",
-      "title": "How do changing interest rates affect the stock market in 2026",
-      "source": "U.S. Bank",
-      "date": "2026-11-03T08:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
       "isNew": false
     }
   ]

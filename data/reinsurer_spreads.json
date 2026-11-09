@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T06:33:14.045212Z",
+  "updated": "2026-11-09T19:52:11.426063Z",
   "quarters": 12,
   "parser_version": 2,
   "companies": [
@@ -773,14 +773,6 @@
           "unit": "usd_m",
           "points": [
             {
-              "quarter": "2022Q3",
-              "value": 68.84,
-              "filed": "2023-11-07",
-              "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491223000022/q323earningsrelease_vf.htm",
-              "source": "sec"
-            },
-            {
               "quarter": "2023Q1",
               "value": 205.11,
               "filed": "2024-05-01",
@@ -847,9 +839,9 @@
             {
               "quarter": "2025Q3",
               "value": 304.65,
-              "filed": "2025-11-07",
+              "filed": "2026-11-09",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000040/q325earningsrelease_vf.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000030/q326earningsrelease_vf.htm",
               "source": "sec"
             },
             {
@@ -866,6 +858,14 @@
               "filed": "2026-07-30",
               "form": "8-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000022/q226earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q3",
+              "value": 230.27,
+              "filed": "2026-11-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000030/q326earningsrelease_vf.htm",
               "source": "sec"
             }
           ]
@@ -891,7 +891,8 @@
           "0001404912-24-000002": 2,
           "0001404912-23-000022": 2,
           "0001404912-23-000017": 2,
-          "0001404912-23-000011": 2
+          "0001404912-23-000011": 2,
+          "0001404912-26-000030": 2
         },
         "points": {
           "earnings": {
@@ -932,9 +933,9 @@
             },
             "2025Q3": {
               "value": 304.65,
-              "filed": "2025-11-07",
+              "filed": "2026-11-09",
               "form": "8-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000040/q325earningsrelease_vf.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000030/q326earningsrelease_vf.htm",
               "source": "sec"
             },
             "2024Q2": {
@@ -991,6 +992,13 @@
               "filed": "2023-05-08",
               "form": "8-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491223000011/q123earningsrelease_vf.htm",
+              "source": "sec"
+            },
+            "2026Q3": {
+              "value": 230.27,
+              "filed": "2026-11-09",
+              "form": "8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000030/q326earningsrelease_vf.htm",
               "source": "sec"
             }
           }

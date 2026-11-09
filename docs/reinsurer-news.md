@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 29 items
-Generated Mon 09 Nov 2026, 02:33 AST
+Bermuda life & annuity watchlist — last 14 days — 28 items
+Generated Mon 09 Nov 2026, 15:52 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 82 items
+- ✅ **Google News (16 of 16 companies)** — 78 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -17,10 +17,6 @@ Generated Mon 09 Nov 2026, 02:33 AST
 - **2026-11-04** — www.tokenpost.com — [Apollo Outlines AI Financing as Athene Discloses $12.9 Billion in Digital Infrastructure Investments](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PSEhkX0JzWE1OeHhpNjJhQkJUZEh5YzVoTXN0VGdYN1poMVZoV2pFMWF6bHp1cVJBQWU0Nm53VmhrSHFzYTFhVG9qSWVUODhYSUhZNUF4WGc?oc=5)
 - **2026-11-03** — Stock Titan — [Retirement Services earnings rose 7.4% excluding notable items at Athene (ATH), but fell before that exclusion.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVJMZjh5OTlPcE85aGFzMmEwSTdxWmV3V3JhcFhRNlFQcllyWVFhS1U1MkJMbTJqSjFNa1BIQkM5U1JZUUFrVFdWU2FzeDdVN2oxUktrOWFQazFGMDRETFY0Z29keTJyWUNibHJ2YkVFMC11eUlndWNqVTdyZ0xVNUZqekpKSXZCcTBMeDItOWUxcTJFNGsxMldqTHo1Q1I3Wmw2UXJubGJjUQ?oc=5)
 - **2026-10-30** — OpenTools — [Athene groups AI financing exposures by underlying counterparty credit](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjhyQzhVRGRzMmxUamFFTmh1MXU1YXJFYVdoVE56Nm1PUTRQaUpvLWRtZ2trZHFlY0hOY1dvTGZjNmJOeTZ4b2E0aTRWNWdqX1czd2N0bTV3TEZ6WUxVLWdQeklrODBaYVFlYkpQY21FbmhobXRzQ19fUFpHQkw0Q243R0xKR1N3b2RVLXZWaEh6NHNHVnVV?oc=5)
-
-## Wilton Re
-
-- **2026-10-26** — Intelligent CIO — [Wilton Re modernises 400,000 insurance policies through Cloud transformation with DXC](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRjB5R05yNV9KTmVRMWtfUkxEdThCT1VwR0l0OGJCSGRFUDRXcjBxdWFIdlVqMmpFaDMxNHQ2X1E1cF9MTWJEbC1HeDVIVXVaZ056c2t2N0Nfb2JHeU5kb3ZQZ0V1T3hoRHU3TzdCai11Yk9GVV9KSF9zQ0hjV2JlU1hCNldHT0VwV2NNTDJFRW9jbElCRHhoMS1YWEdmeU1GZndWTTdncFFGcTE1Y0Q4MTdZUXRyblJVZkkyU3NrNTlWemlMQWtZcnhTVFJGSWpfRDN2SV9JRnY?oc=5)
 
 ## Fortitude Re
 
@@ -36,24 +32,24 @@ Generated Mon 09 Nov 2026, 02:33 AST
 
 ## RGA
 
+- **2026-11-09** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, Piper Sandler Analyst Says](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX3RTUlNXVVdVVkpjdnNoemM0VkplVEJmcnNXa2tYMndtMUp2cVYzcVI5d2UzLWwwRjFRMHRLUVJtSlR0X0RmV3diTHJaNkt0UE5rOGtCZ0NvQ0JzR0NkSGNZc19ab0dfVjVDY1dRdXFYQzVMaER1bGtaM25LdGxKb2xwam9oTmw2aWY2UnRoancwSUF3M0gyVDJnMzAzaTNvZHpvN3FzZGJLNVVXSEllSG92NWt5UVFRcTZTRnVWcmhtbUM4T2phVTRaalZlLUZSYzlwSmpUSWRLcnc2Qm1QamxPUnZvZFdJTjFR?oc=5)
 - **2026-11-08** — Simply Wall St — [Reinsurance Group Of America (RGA) Earnings Put Its Fair Value Narrative Back In Focus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaDhTYVk3dXoxRWk1NnlMOUJfZjY4WEgxT2QwQUhDZGZZNDljMmJkaGs2ZHFVcVRiRGNrdndkS3JYMlFHRU1hbUNrOFVDeWxKYW1Qa1pnVTlkRGVqRFhWdGx5Q1drNlNtUk03Y2RJcWFIYklXR0JiMGtwdGtFbUpoS2phSl9pREtqc01VZ25KclVPczQ0NjRnb09VMlRmbEFZRVNoTXBYTHJRNjZsN3R0UjBlLUlEc2JuSGtLT1F5NVlQb0pPUzVaMEpXalViaG5Yemt5bzBfUFdWYTZFd1HSAeMBQVVfeXFMT1p2a1YxTU05MnAxVkNPR0tYSTdhdU5zNC1hcDBnd0xSUlRjUjMtZkxVcUJlRThKSlFTRlpObDdfekNjMm1HZGFZS08wa3djMmttcFpIQTdmTHNlb3k3RzhTT2daWjVJV192ZUQ0dnhmLVdYeW5aRXdRQmJKUnR5QkZ3cDNCNndpXzlya2stclhnSmdDNlhWZVlzcW5yVzBLc01xS05fSVp0M0NsYzlYazNCdmdaZEg0YXIxb0tJSlluUmE4WUJWRE5YS3pMVjlPSEJ4RmFJZDluTjNNRGxKUTV5dUU?oc=5)
-- **2026-11-08** — The Globe and Mail — [Barclays Keeps Their Buy Rating on Reinsurance Group (RGA)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXItbFMtLUFDcWZtbE9hWkFheWJibG02Zjg2bVhiVld3QVhjSWFicEpITVptTXZtTzNvUEs0TktRQ3NkRWN4R1RvNDcwdnJreGJ1bkhGMnVZQWF4cDZhZGRwYnU4UEdHeDRKaDE5anE1M3p3UHA1OTRBYUJNVTNFZXNzSkpIUEtmUkxITi1ibU5iLUNnVURIb1lCMVd2ZjlaN2NFaUo1bm5qdjhBbk1ib2ZUWkhEMnN0cXlfZXVLMUVHbXlnbVdubmVIa0tTbmlKNW1z?oc=5)
 - **2026-11-08** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
+- **2026-11-08** — The Globe and Mail — [Barclays Keeps Their Buy Rating on Reinsurance Group (RGA)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXItbFMtLUFDcWZtbE9hWkFheWJibG02Zjg2bVhiVld3QVhjSWFicEpITVptTXZtTzNvUEs0TktRQ3NkRWN4R1RvNDcwdnJreGJ1bkhGMnVZQWF4cDZhZGRwYnU4UEdHeDRKaDE5anE1M3p3UHA1OTRBYUJNVTNFZXNzSkpIUEtmUkxITi1ibU5iLUNnVURIb1lCMVd2ZjlaN2NFaUo1bm5qdjhBbk1ib2ZUWkhEMnN0cXlfZXVLMUVHbXlnbVdubmVIa0tTbmlKNW1z?oc=5)
 - **2026-11-08** — Yahoo Finance — [Is Earnings Beat Altering The Investment Case For Reinsurance Group Of America Stock (RGA)?](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmQwRktQelNseGFLZUlkdFNaajdkeWFZcHAxNHFEUGlhWFVzVVZaN2tCcktoN09xUFN4SEtrY1N1aXpic19TM2dCM0V3d2pZMV9MZ3Q3OTJUWkZyc3RtOFdkc1JpZjJkQVJiX0FTQVVFZzY0MmlKLXVKZjhnaUdQeDRNMlE4aUNhVUhaNHBEZi13UW1XcDFJZm0yQlVnNnlRenFCSVBR?oc=5)
 - **2026-11-07** — Yahoo Finance — [What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjRTY1dGTEVsUVVZdmV4RmF0UGhPcW84TkZJVWxrSUE3SUp1VmRxcU5oS2t2NU01TEJnUWF2SGRpSnN1d3p4NXlObHlCM3dBZTBNZWpieDRGRjJQdWtURkd0aTgzMFNiTlJPdnBhVm5ocmlnYmt0cmRLT1FHUER1ZEpydDNkR25wSFBjdEUzajFEeXJoeUFhWEVnb0E4S3E4?oc=5)
 - **2026-11-07** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5)
 - **2026-11-07** — Yahoo Finance — [Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjRUenZWYzJObkJfM1E2bGVLczJQMkN6Qm5IakdsVm9jcU5RVC1MYWdGUU9pQ1E4ZWdiX2ZIWi15Q3RGVXhLZkRiRmkzVUljNTQ2Tk5FVnhBekhyWjM5c09McFhyQml3TjdKLWpjSEoyR19KTDVITmtORTFaa1BGSlg2M0ZVLU44M0RlNkFTVUtTTXhCQmE3dUx1LUU1bkE?oc=5)
+- **2026-11-06** — Moomoo — [Barclays Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $301](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGt1QjJNUmRvQkY4ZWdCMk5pQms1Q0tmdzZxM2ZFLWJ5QXNXSFZLWVR5UW1XbVFNTS1sbC01MnhyLXNjWVI1WFpYS3c3alljYlpBTmt6dEFLLVMtZFg3S3JwRlBuc0JOZjMtQTlqQXk1WDdDSmMzMWd0Z0hsaXIxV1RtLWMzV2NNVC1nRXlmQ0FJS2xBOVRhOHpSRThnUEcyWEFKWjlXdVNuYVNCT2JST1dQaw?oc=5)
 - **2026-11-06** — The Globe and Mail — [Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmF4akFESXpXT0RiSm5ybkdqcG1pQmVVVmZ6WTR5MHlaYTVVNlhhZmVZOEszdGpNdGdmMHNFcjBoelczZEo3MXNYRTZjV0JLNW5DMlAyd3F6V0xGT3JMS010Y19TMWRzQ2xwZzVVdVRkYkxJSkxEdjBNT1dwN0MyZm1iR1RaYTdYSnNIdGMwWUdHMVBYVTdkME5jMFdPQ2twQUY4emk1a0FxUC13UWlhSTVoV0VpTjNPN2loLWpfcndOZGpDMzZsRi10YjN6UQ?oc=5)
 - **2026-11-06** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2clFSQVdRR21oSmVLb2lwT1JZNV9KOHYtZWZUSlJTckpmMTBqa3JfSmQwSmlRaUJORjBQMmRhcUhXS0lpWXZNR2d2OGNLc20wQ1hHWUx3VXFiN3dUR2UyNg?oc=5)
 - **2026-11-06** — GuruFocus — [Reinsurance Group of America (RGA) Reports Strong Q3 2026 Results Amid Fair Valuation](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlBSTjBaSERwM1V0ZlB1VF9UUXlNWmtlazh6VnhyX2ZISzRUeExDQldpUXlrb0c2YUstZ2pzSXc1ZzNDaWUtbUp3d3Bqdlc1Y25OWkktbk9WT09qcGU3YTlOalFtZVIxV0hTUDExS3JRcWJzb0JzQ1hjeC05Yl9UT21NalZsWGIzZm5wSmxYWkc3clNWTTRCSGRyV3dUZmgwQ3hKU2xlRzc4blViV2hsNlRXSTRyQURyZ2xabWRqNA?oc=5)
-- **2026-11-06** — TradingView — [RGA Q3 2026 deep dive: robust global underwriting and investment performance drive outperformance](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS1FVQTRJRUVwdDd5S1FKS0xyS0k3NW9qQUhlb0JWVE9XT2VCUHg4XzNub1Q4YjhLTG9KS2hGNU5uNzBtblBOVzRaTUpqTkhOQUVQX2swRGVfd0JmNTNLS3RfTmpST2VUMld2QzhxMDI1WW1jemxCNjBGY29SdzBBbHBudER0STVFV2ZzWFhDRDhlM2djX0JxZjBIYVBPWnVlUFZKUXlta1NxYkRQWVQ5d054dXJQdnQ4bVMwZ1B3QjJDQTFmVFpDQ0psSlpUMURyX244S05rWGxpNWtYVlRIZ0tBaGdfN0hCQTlMM0Z3?oc=5)
-- **2026-11-06** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Q3 FY2026 earnings call transcript](https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1c5STB1ekJ0YnFCRUduNURiUW4tbFU3VlZabVFiRFY0QnRqbmxKN0JUYVJRckgzQnlyQkoxTjJvLWtobkRQNklXN3dYQlBTaGx5Q1RtWXk3TTJNWUtKMzRKWFRBckJsTkltNjloOGZhTmQxaC11T2ZOSENUUDJ6RTByd0tMbThJS1E?oc=5)
 
 ## Sagicor
 
 - **2026-10-27** — kalkine.ca — [How Well Do Sagicor Financial’s (TSX:SFC) Core Earnings Cover Its US Dollar Dividend?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVRHQzYtUmRBNlVjUGJhajFTdnFKZlNINHZ5eWVaOVBicHkzMW1aNkZ5ZnNoS3ZnVHRzZDhzQlhqemx4Q2Fma2xMZmVwSGJDbXpNOG5Vc1JNNG1zbGltaU1LMEJ4QUpTTE5OcnRYUzFXVjM3TE53UEh6b2FQNXM3MFpOR2lEQVJPVlFWWFFJSHdCanJyeXZ5WnBobmtBOC1DdVE3ODhCa2tidWRxcXJrSkxLd0N0Mzh1V2FuMA?oc=5)
 
-_No news in the window: Global Atlantic, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Catalina_
+_No news in the window: Global Atlantic, Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Catalina_
 
 ---
 

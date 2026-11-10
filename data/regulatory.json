@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-10T14:55:54Z",
+  "updated": "2026-11-10T21:20:46Z",
   "naic": [
+    {
+      "id": "527d57292fd2",
+      "title": "Insurance industry backs CIG bid for NAIC recognition",
+      "date": "2026-11-10",
+      "cat": "General",
+      "summary": "",
+      "source": "Cayman News Service",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEZGd3BSUzRORGs2bEVtOHE3MXZ1NTFrcDkwSnFiVFQ1Q0J1Tm9IOGlSMFZfZWMtelBfVU5UbTFmcDhMNm1YOGJBdlZXbkVZTjRIcnZZdjg1WmM5SWhMN3ZxVm9KZDFfb0t6WWxlQ3ZiMDlZUXpEXy11U2NOZjktQ3lEaVRaTGlOY3pIZVd1MXA5RDJ2dnlz?oc=5",
+      "isNew": true
+    },
     {
       "id": "c47125f9ab1b",
       "title": "NAIC adopts AG 55 guidance for reinsurance reserve reporting",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "Morningstar",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWJMVGZGbkRtbFBJYlpRU1hyS09DSnBpQ1N3b2RGc2t2dlIyYzhNcTZlZEpfWktqbnQ4U3U0VG1TNXZEVWpuM3ctWlBzV2pCeEl3a3QyNzlDb0U1Ykc0Sy0yZE13UXB3UkNvWGRPV0hkZ0s5SWl6OEtRZmp3NzV2bXhGZFRuTlBnWWZGY3Jka3U5T1A4dnRENU82SEg5Wm9xWmwtOWZ1UDJpTzhvbFJwZGVGNUpmcFhRbE9ubUY5V1ZJOWRxZmhORzVUVlNOZC0yeGk1Wg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "a972fa55b62c",
-      "title": "NAIC considers redefining mortgage loans",
-      "date": "2026-09-23",
-      "cat": "General",
-      "summary": "",
-      "source": "Asset Securitization Report",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlRQLWVZUC1VYzlqY19wckc2LWdOTU1xWm1YcExHUmJpRHNFYUNjSUctQ2FvMFBhYWxweHhXX0puMTNJeTZIUHprd3YwWWhGYU5MMm1sVTIxSWRoRlpSZGR6X2tLel92RERFODRrV2VTV1FYSGtKVDFmMVliY0FUUGNjMTNad1JQ?oc=5",
       "isNew": false
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:55:56Z",
+  "updated": "2026-11-10T21:20:48Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -23,7 +23,7 @@
     {
       "name": "Google News: Catalina",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 39,
+      "count": 41,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "a5d26abaf08b",
+      "title": "Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High After Analyst Upgrade",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0RiM29LdEx4OVNoWjhxNHh4OVkxOXA1RWRNbUlQRFdQV1UxUktLS2hsRGZHUDN3SDVzWU1Takp6MGdsXzBmeEJEaEc3cXhsbUFkdVptZ2hDTUJqWHB0SlM1b29oX2tTY3hWcEZPT3dDb0ZEZnpBa3V1LUZab19BWEZXN0NBaDd2em5KblFnd29ETVVUV090X0lKbWt1TS1NdjNqZ2s1R3dfdkVXZldwOFNzMXhQa1diNnFhS0ZfUWRhemJ5TVhXMHlrUjdqbFk1QkszbTJqWHJxSjQ?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-10T16:43:31Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "88344599b23f",
       "title": "Reinsurance Group of America, Incorporated $RGA Stock Acquired by Leuthold Group LLC",
@@ -790,7 +802,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYW1BZTlSTFEyTHZncWQ2OG5zRHBuTmY2U1Iwd3BXX0xGcGRLQTVyVzk1a3FIUXV5MHZiYmJ0bU1PQzJNN21SWnhwTktMQVNBd0c1VWJ6Sy1sdEpGTHNnUjNod0pUM0FBdXFfZmRlcHVvZDJkaUd2ck5aQjIyZzFoaWp3amIyTHVfTk1jc0dYaFhhVDlIZThQR1RBbFF0WmZQRGpSZ2owenRlREx3LTgySDdFMEdqSWhpTEZmT3RMWFdnSTMtLXN5dTFNTVVvT0NDbzRuZDFueTZ0dw?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-11-02T12:42:44Z",
+      "date": "2026-11-02T08:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1091,18 +1103,6 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-21T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "a5d26abaf08b",
-      "title": "Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High - What's Next?",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWXpDc01ZSXlrM0I2blhCWjhhUW1Lb0FXenZDMDVDN3RCbzFVMDJiVmVRUEw1TldtNEhYRkkyaHZOUTI4ZzdxX2V6RGNBZXNaNnN6NjRZd29rbEZLUklubEdjUDhpREI3MDRvVldIZk5nN2pGcGM4bG9kZThIRWJxSU92bVdLUlA3WTZyNjdoVVhaZnlkWXl1SnhwMW9CUmxybXNELWpHNGdycnZXcW9TRUFnZWEzSVJ4cUVfNVZtU2FLS1NReGJYU1Q1ZmM?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-20T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

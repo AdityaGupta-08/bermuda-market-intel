@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 27 items
-Generated Tue 10 Nov 2026, 10:55 AST
+Generated Tue 10 Nov 2026, 17:20 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 74 items
+- ✅ **Google News (16 of 16 companies)** — 76 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -32,6 +32,7 @@ Generated Tue 10 Nov 2026, 10:55 AST
 
 ## RGA
 
+- **2026-11-10** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High After Analyst Upgrade](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0RiM29LdEx4OVNoWjhxNHh4OVkxOXA1RWRNbUlQRFdQV1UxUktLS2hsRGZHUDN3SDVzWU1Takp6MGdsXzBmeEJEaEc3cXhsbUFkdVptZ2hDTUJqWHB0SlM1b29oX2tTY3hWcEZPT3dDb0ZEZnpBa3V1LUZab19BWEZXN0NBaDd2em5KblFnd29ETVVUV090X0lKbWt1TS1NdjNqZ2s1R3dfdkVXZldwOFNzMXhQa1diNnFhS0ZfUWRhemJ5TVhXMHlrUjdqbFk1QkszbTJqWHJxSjQ?oc=5)
 - **2026-11-10** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Acquired by Leuthold Group LLC](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmd2eVJ3bk8wdDBIM2Y0Um5TTHRFeGJzSmZkb3JLQlBLVEhVY3NxTkRTNFFWcEVRTTd4bGFIbXppMmF1eVBFVUFEZ2NQSzMyMXNBYlAwRGduZ1Rwc1pwMjBhcTlETm0wb0FtMTFybnMxWERqVkFpeVJyVnY3VDN0bUJrR3hrRk4yQnNZQU9YcWZpNWFIR1RiMHJ4S1hnMkhXUE8xUkJTalc0bFNIc2NzemFfd05rQnRraTNrUHVkOGFFc09od1MtNFIyaTUtejhnNVlwX2NtWmZEWGs?oc=5)
 - **2026-11-09** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, Piper Sandler Analyst Says](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX3RTUlNXVVdVVkpjdnNoemM0VkplVEJmcnNXa2tYMndtMUp2cVYzcVI5d2UzLWwwRjFRMHRLUVJtSlR0X0RmV3diTHJaNkt0UE5rOGtCZ0NvQ0JzR0NkSGNZc19ab0dfVjVDY1dRdXFYQzVMaER1bGtaM25LdGxKb2xwam9oTmw2aWY2UnRoancwSUF3M0gyVDJnMzAzaTNvZHpvN3FzZGJLNVVXSEllSG92NWt5UVFRcTZTRnVWcmhtbUM4T2phVTRaalZlLUZSYzlwSmpUSWRLcnc2Qm1QamxPUnZvZFdJTjFR?oc=5)
 - **2026-11-08** — Simply Wall St — [Reinsurance Group Of America (RGA) Earnings Put Its Fair Value Narrative Back In Focus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaDhTYVk3dXoxRWk1NnlMOUJfZjY4WEgxT2QwQUhDZGZZNDljMmJkaGs2ZHFVcVRiRGNrdndkS3JYMlFHRU1hbUNrOFVDeWxKYW1Qa1pnVTlkRGVqRFhWdGx5Q1drNlNtUk03Y2RJcWFIYklXR0JiMGtwdGtFbUpoS2phSl9pREtqc01VZ25KclVPczQ0NjRnb09VMlRmbEFZRVNoTXBYTHJRNjZsN3R0UjBlLUlEc2JuSGtLT1F5NVlQb0pPUzVaMEpXalViaG5Yemt5bzBfUFdWYTZFd1HSAeMBQVVfeXFMT1p2a1YxTU05MnAxVkNPR0tYSTdhdU5zNC1hcDBnd0xSUlRjUjMtZkxVcUJlRThKSlFTRlpObDdfekNjMm1HZGFZS08wa3djMmttcFpIQTdmTHNlb3k3RzhTT2daWjVJV192ZUQ0dnhmLVdYeW5aRXdRQmJKUnR5QkZ3cDNCNndpXzlya2stclhnSmdDNlhWZVlzcW5yVzBLc01xS05fSVp0M0NsYzlYazNCdmdaZEg0YXIxb0tJSlluUmE4WUJWRE5YS3pMVjlPSEJ4RmFJZDluTjNNRGxKUTV5dUU?oc=5)
@@ -43,7 +44,6 @@ Generated Tue 10 Nov 2026, 10:55 AST
 - **2026-11-07** — Yahoo Finance — [Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjRUenZWYzJObkJfM1E2bGVLczJQMkN6Qm5IakdsVm9jcU5RVC1MYWdGUU9pQ1E4ZWdiX2ZIWi15Q3RGVXhLZkRiRmkzVUljNTQ2Tk5FVnhBekhyWjM5c09McFhyQml3TjdKLWpjSEoyR19KTDVITmtORTFaa1BGSlg2M0ZVLU44M0RlNkFTVUtTTXhCQmE3dUx1LUU1bkE?oc=5)
 - **2026-11-06** — Moomoo — [Barclays Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $301](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGt1QjJNUmRvQkY4ZWdCMk5pQms1Q0tmdzZxM2ZFLWJ5QXNXSFZLWVR5UW1XbVFNTS1sbC01MnhyLXNjWVI1WFpYS3c3alljYlpBTmt6dEFLLVMtZFg3S3JwRlBuc0JOZjMtQTlqQXk1WDdDSmMzMWd0Z0hsaXIxV1RtLWMzV2NNVC1nRXlmQ0FJS2xBOVRhOHpSRThnUEcyWEFKWjlXdVNuYVNCT2JST1dQaw?oc=5)
 - **2026-11-06** — The Globe and Mail — [Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmF4akFESXpXT0RiSm5ybkdqcG1pQmVVVmZ6WTR5MHlaYTVVNlhhZmVZOEszdGpNdGdmMHNFcjBoelczZEo3MXNYRTZjV0JLNW5DMlAyd3F6V0xGT3JMS010Y19TMWRzQ2xwZzVVdVRkYkxJSkxEdjBNT1dwN0MyZm1iR1RaYTdYSnNIdGMwWUdHMVBYVTdkME5jMFdPQ2twQUY4emk1a0FxUC13UWlhSTVoV0VpTjNPN2loLWpfcndOZGpDMzZsRi10YjN6UQ?oc=5)
-- **2026-11-06** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2clFSQVdRR21oSmVLb2lwT1JZNV9KOHYtZWZUSlJTckpmMTBqa3JfSmQwSmlRaUJORjBQMmRhcUhXS0lpWXZNR2d2OGNLc20wQ1hHWUx3VXFiN3dUR2UyNg?oc=5)
 
 _No news in the window: Global Atlantic, Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Sagicor, Catalina_
 

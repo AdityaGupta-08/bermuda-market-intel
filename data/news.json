@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:55:54Z",
+  "updated": "2026-11-10T21:20:46Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "ba6162009aaf",
+      "title": "U.S. 10-Year Treasury Tops 5% on Expectations of Higher Interest Rates",
+      "source": "WSJ",
+      "date": "2026-11-10T18:07:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5",
+      "isNew": false
+    },
     {
       "id": "a32c47cebbcb",
       "title": "Asia emerges as private credit's next growth frontier: Bain Capital Credit",
@@ -85,6 +95,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BbTBDc2VrWTQ1TXphYkRuV1lrd19TNmgxUHVfaVhxZlZyaVNNOGdwMmdDUEFTTE1ZRDVlSlI5dnF1LUFYWUJuSTFoNE16QW5YVF9JdlpXdXBiT1E3SVp3VGhMM2FUOHl3NGZyREl1d0pTZHA4d1JMaG0tQQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "5e312cdb4692",
+      "title": "Weekly market commentary",
+      "source": "BlackRock",
+      "date": "2026-11-08T08:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZDBIWTczb1BWRzRwS25oakNla0o2RjFSQ0RuempFeXlYZi1XVThuTm02bnBnakpqQzFoUXdKWjZlUXg5Uzk2Y3dxVENvd1F5Y0p6OGRJLUllZW1KVEdwX1VxV1MzeWNjQ1NEZWhNckpONjdCbzlGMlhtZnFTSDNDdGFGQlNFUzM2NC1RTzlQcW1VRUhPWGF3M01xWXg1SmRNMDJlMy1lQzBxZW55Q0g4QU4xd0FLY1E5enVaU2xWU3Z2cHpTak5FeHp3bl9qc3NsY1Nr?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "72b3134a42e2",
-      "title": "Sunlife Reports Third Quarter 2026 Results",
-      "source": "TradingView",
-      "date": "2026-11-04T22:01:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2RBZW9kQ3k2YmNMTWxLTERXNFlhSEFkZnVHUGhoUl9KYW4zckVoQV9uRFFzTWdfRWt4X1A2QlA1Q3VldDdsZEJXNDRNaUdpMzFCaFM0SWZkNktZS3RFNE5TNG5UVHJmVUlNUzY5UEtpVFctSVduRlNKaDF3bldya1pJRElteWVpNk1XLUZVV3NNUVVuYVdrUGtWRFE3LTNuT3Y0TFlB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "653db14649f4",
-      "title": "Tradeweb Government Bond Update \u2013 October 2026",
-      "source": "Tradeweb",
-      "date": "2026-11-04T21:22:36Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd21XOEJld183eHBtT21WRWtWN0Q5OElCdXFHeVRHdlM4dGM0Q0Y4V2huMHN1UkNxNzBFOTZVT0dsZFlrZXFrclNlaTUtUEJTS2s2RmZqSzJ1YzFUN196UHRUNjBOTkIyX1p4T244b1JENk1GQVc0TGRrS1htd1gtcE1kanlqa1BNaTA0RXdPNF9scTBtYmEzYm5IV1pzXzhwMUNMMTJFX2ZweEk?oc=5",
       "isNew": false
     }
   ]

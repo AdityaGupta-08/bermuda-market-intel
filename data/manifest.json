@@ -11,8 +11,8 @@
     "bma_rates": "stale: latest workbook 2026-03-31, expected 2026-09-30",
     "commodities": "ok",
     "inflation": "ok",
-    "myga": "ok"
+    "myga": "stale: no quotes parsed (URLError: <urlopen error [Errno -5] No address associated with hostname>)"
   },
-  "run": "2026-11-09T19:51:51.563832Z",
-  "_fetched": "2026-11-09T19:51:59.681034Z"
+  "run": "2026-11-10T03:36:41.267823Z",
+  "_fetched": "2026-11-10T03:36:48.117383Z"
 }

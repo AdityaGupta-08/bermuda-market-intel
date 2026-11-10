@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T19:52:15Z",
+  "updated": "2026-11-10T03:37:01Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,6 +8,16 @@
   ],
   "items": [
     {
+      "id": "e2232637e9ee",
+      "title": "Samsung Fire & Marine Insurance to Acquire Outstanding Stake in Canopius with KKR and KIC",
+      "source": "Quantisnow",
+      "date": "2026-11-09T23:08:09Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFZHM2ZRMThTWm5xMFNqblNzTEtJSzJGSmk4by1qYktVeXdtc0ZRRmxneEZwLXhfSmNEdlRORU0yaW44dDJpR2t5ck43THZWUkpNa20wUVFKeThrOFdQTTlTR1dRV3Q5QnJHUHRGVElJMnBfOFZBcTVBd3FnM2RhbVlTZEFZSDNLR2FyLW5xNFd5UzFIYUhpNEVZOXB3LTRXWmNYbksxeEdWUzBVRmc?oc=5",
+      "isNew": false
+    },
+    {
       "id": "a615d46ab6c4",
       "title": "HHH Q3 Earnings Call Highlights Asset-Light Real Estate Shift",
       "source": "TradingView",
@@ -15,6 +25,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkE1MU9tanlyZWhCc21OUGZRSERWUmdJXzEzdmNBY3hQRGQ3ZHZRWlZINkEzekIzYnk1RENkVENCbl84RGgyemk0aFhpSWdSdktfVEZUb1dtc0pWSVRZNko4Z0Vld1p0X1dZVmwzT0cxdm84djhVZEtaZDFURHgtdnJUMWFpYm85b0RTSS1tOURYRXJ1bTI0ZmJVRGJaOTNLT2c2WTdMUU1KNHdhS2tUZVdtZm5FQXZY?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "421e48ee8a54",
+      "title": "NHC appoints three managers as Natural Hazard Fund moves beyond cash",
+      "source": "Insurance Business",
+      "date": "2026-11-09T15:20:43Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLTU3WmZGY0tFQi1EaEZlNkNWRW1zQ2R0VG82M1Vfcm5vczA3YWJteG1ZMmgtalk2bmU5NnFad3d4OEZpNmNoMWRiV21fY3A3b3dfN2xfRmFTSmdNeWxmbldPT253VG1pQWtDWncyejRuYXo5aUtDOFlfY0pueURNVnFsdkRNQ0tJQmQwYThBV3FYRnprVnhGQndGOUxSTEQyeWtBZ0hpdndKZHhqZ3Z4emt3Q0hfSkxtT0ZHSHRmN2pHMEZBVHdtUG9rZTI1NC1GOENV?oc=5",
       "isNew": false
     },
     {
@@ -115,6 +135,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmJyTTlSNWdpa2E0WjU1VUdBOG5KNzVFem1CWVgwUHE3dVR4V3VXYjZBaTdZeE9Ndk80MDc4WVlHb0JjcmxEQXBfeEo0ZTRTWUFYWGJuaFBqUEJFX0NjVkxQUGdublYxVGo3UW5YM0hhbnd6a3ZXVnRIU2tBRXREenRUeVpfTW95ZmF0Q1VFM0FfdG41ZnJnUTE1a3N3Nkx2aHlqZ1luQVFoQmdsS24xSXpn?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "b233198d9224",
+      "title": "Direct lending\u2019s next test: From capital formation to capital deployment",
+      "source": "Invesco",
+      "date": "2026-11-06T05:29:48Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeWJhZTdCWV90bV9XNmlJMU9QSnA3dTBZNXRUTnhERFUzdmtBekcyd1AtcnBXUERMcGZteFhtazhrVG51WDVMQTA1dXF2UlNiSVlLWk5WUHVnTE9ma01RRDNkNFNqaXB2ZF9xaW91MVEzdklkMDZONHJXd0lCVmQzcERVVlRoVGxDZTlidHF3UEVVQUdtNnVmS1hJdGVnRVUzWXUxNTBNYmFjN2RjT2UwSlJfRmVtRHQ0UWpuZFFwUGFnUXZ4QnBISGFtQnF5bm1qUmYtenFIdWtSZw?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeGpwajc3LVNvbXJxS29RUHZCRjZJdUhHNldQcXRTTjYwVU83Y1lLVFNRSUdwQ0VVeDBGLWdxVUtGVV9CeFVsZEM3a2YwOVdUXzFUai1QRlBXTnVCTWZYYVo5ZDlCbWdVVFkyV1RJMVl3WFFFTk9DaWYtQ05UbWo0VWFJTkNnUUJNd3RpY2hMcDExVTBBMTFxV1dJb3dEOVQ3RUNTTExBMHJQZ2k1SVRtX0lCTU9aQTNtOWZTcmlEaDc3WEY1ZWZ3T0N1OE1YNHJOWkZETGxndkxjaGFhYl9CZ2RXQi1OSGZSc2xnUGtySklDTWc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c4da81dbec76",
-      "title": "How Insurers Can Tailor Private Credit to Fit Their Needs",
-      "source": "AllianceBernstein",
-      "date": "2026-11-04T08:00:00Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPemZqUHgyZ0lwRU9fSnFlUWo3X1RIRVVIa1pIaHI0a3pzd05ZR3MzdnpZVU9ieUdfX1BMa292N1NOY1VNUnZlejNjS1B2TGxOaG9KcXA3LTgwdFdJQy1KRVRLT05aLVcyQXRpanZwbTMwUk80UGVhcHRQbmtJTFUzSVFiYjRFLThfN2xLc0F0dkZwNlhiWDhHY1lGZUFpd3E3NGc0ZEdCMVZ0RV9HcjdnaVVfaXZKdjhZTnpka2wtZmw4VXY2WEREbWY4Y1RyWnBrSVFtZ3dVandkY1BDdHppTw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "db086c5cd56a",
-      "title": "Blackstone Draws \u20ac13 Billion as Institutions Back Private Credit",
-      "source": "Bloomberg.com",
-      "date": "2026-11-04T07:00:00Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWRuU1pzN3BhdmV1SGdiRXlEYzVWNUlBeURoWGJrTlFkNlo4RE5GV0l4YWZmZkdCN3F2OVI3SllhMFF6c2FMd3NDT3dwZEUybjd2bmJDcmN3dnFwaUh1ZzNocEN6c1hHVlNJeGxtRUxVTTIzQlhVaFRuZGNGU2VLeFJrWHNOV1RuM181OGdMem9DVWhNX092d09SUUtIMGtYSFlhaElWTFk5V1RubUhIaWM0UHY?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f6e9d7d94670",
-      "title": "Larry Ikard on Separating Insurance Finance from the Investment Relationship",
-      "source": "Hubbis",
-      "date": "2026-11-04T03:49:49Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlU1OUVtMUR4N1NVMGxDZ1NiSEtWTnJGSWFVMFg1dmZ0VG5VUk15em5zd0Z6ZlF5a2lSMTJrcHNHdlM5UTNxNGhIa0trZHh3QjRKV2pKMkw2OFJ0SG9nWHZhWmZFYlN2aUx5NG5RQXktRnQ1ZjNmQzdTbUx3eGd0dEtXQWxYTG5OMlQ2OUV4ZVRNalBVU0ZNWTd6ZFAzZFljMVNhN3ZnRlpwWjg?oc=5",
       "isNew": false
     }
   ]

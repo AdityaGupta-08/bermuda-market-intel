@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-10T03:36:38.191141Z",
+  "updated": "2026-11-10T14:55:32.017391Z",
   "countries": {
     "us": {
       "series": "CPIAUCSL",
       "label": "US CPI-U (SA, BLS)",
-      "yoy": 4.02,
-      "mom": 0.649,
+      "yoy": 4.08,
+      "mom": 0.35,
       "trend": "up",
-      "date": "2026-09-01"
+      "date": "2026-10-01"
     },
     "jp": {
       "series": "JPNCPIALLMINMEI",
@@ -45,5 +45,5 @@
       "source": "OECD SDMX (FRED series discontinued)"
     }
   },
-  "_fetched": "2026-11-10T03:36:38.191146Z"
+  "_fetched": "2026-11-10T14:55:32.017394Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T03:37:01Z",
+  "updated": "2026-11-10T14:55:54Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,13 +8,23 @@
   ],
   "items": [
     {
+      "id": "a32c47cebbcb",
+      "title": "Asia emerges as private credit's next growth frontier: Bain Capital Credit",
+      "source": "KED Global",
+      "date": "2026-11-10T08:07:00Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0QlZRYWI3VHFKaVJwLVM3M3poYnFqajJEMDE4cHZkTjVCaV9QRDlGLUVYOUEyQm5QQ25lN2RFZld4VV9mSm1XWmhuUHVUREoyN2NLQjlyZ2o5am5fSkp4VUJxcF9fVWJJX2R4QW9zc2c?oc=5",
+      "isNew": false
+    },
+    {
       "id": "e2232637e9ee",
       "title": "Samsung Fire & Marine Insurance to Acquire Outstanding Stake in Canopius with KKR and KIC",
       "source": "Quantisnow",
-      "date": "2026-11-09T23:08:09Z",
+      "date": "2026-11-09T23:12:01Z",
       "topic": "Insurance AM",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFZHM2ZRMThTWm5xMFNqblNzTEtJSzJGSmk4by1qYktVeXdtc0ZRRmxneEZwLXhfSmNEdlRORU0yaW44dDJpR2t5ck43THZWUkpNa20wUVFKeThrOFdQTTlTR1dRV3Q5QnJHUHRGVElJMnBfOFZBcTVBd3FnM2RhbVlTZEFZSDNLR2FyLW5xNFd5UzFIYUhpNEVZOXB3LTRXWmNYbksxeEdWUzBVRmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcThPbUVDWXdUd0ZxbG1kS0N6eHkzeU5kQ2IxcFR5MFNOb19kOUt5YndHbVc1Sm1sdnRlTHlWOHhZQTN4T1NYV25wQlBnRUY0MFpRUzJrZ3NJTHpSc0NsNkdMVmItRU91Qmx5YW0zU1FrdDNMOWdxSUo2N25OMzBpb0lDVjY5ZnQ0aGJSYmJyMmFibXZUSXFxQUJNUS1KTVpZVEx1UFB0cHRGM3RkazBDOFhoZw?oc=5",
       "isNew": false
     },
     {
@@ -198,6 +208,16 @@
       "isNew": false
     },
     {
+      "id": "599694dc734d",
+      "title": "Symetra And TIAA Launch Mariner Re With $750 Million Equity Investment To Support Annuity Business Growth",
+      "source": "Pulse 2.0",
+      "date": "2026-11-05T14:58:44Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaXdpa0J3VDdET1piMFNmMFlSeGxnQlZHYjdnWXR0N2JfeUJ5aTk5YmdLa0pfNnNvc1pTajB4RkRDdGFqS0c1ZF9fU0ZNNFVaWVdmU0lhWnFfVVlkR2lQNEx3bWFWaVNYbU5qVFJEa2JNTTdOdXFLQVhIS01GVlBodlBoYXhkRWtoRUg2TXdKam9obGFjZnpBUXBwMkRwcGZQcGJrcElzdmJKT0JPd1NYZlRQWTZaM3NPWlNaUjhaQWc1QQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "28c3ee03d4fb",
       "title": "Instant view: Bank of England delivers first rate hike in three years, gilt yields rise",
       "source": "Reuters",
@@ -285,26 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd21XOEJld183eHBtT21WRWtWN0Q5OElCdXFHeVRHdlM4dGM0Q0Y4V2huMHN1UkNxNzBFOTZVT0dsZFlrZXFrclNlaTUtUEJTS2s2RmZqSzJ1YzFUN196UHRUNjBOTkIyX1p4T244b1JENk1GQVc0TGRrS1htd1gtcE1kanlqa1BNaTA0RXdPNF9scTBtYmEzYm5IV1pzXzhwMUNMMTJFX2ZweEk?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8f0c5368bd4c",
-      "title": "The Federal Reserve isn't the only central bank to hike rates in 2026: What global tightening means for investors",
-      "source": "Chase Bank",
-      "date": "2026-11-04T15:47:44Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQalh0cEd5MHRBbnVnMm9NSURrbGZWVUJ5OGlTTjlTOHpBSW1zaFdyYjFKSXJ0T1E3WnMzUEJDMkxaWWp3bDIyRk5fcTZQaVBQY2RZNm9mV2xOdHo5RnBWMl9hZFJBZDA2Ni1tcUdHNUpQRmNjZUZBTko3djhENVZJXy1sd3dOZW8wUlVYOFJRREFEcHlndHlnc0lrOXBxQWl1M3NuR05tcy1kc19QLWw2YXJwNGJpR1NiQmJmaGwxUHlQTzFpWW5PUkNrbURvdlM1SW4tVmphTFZObURN?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "fed0078d30a2",
-      "title": "How Insurers Can Tailor Private Credit to Fit Their Needs",
-      "source": "AllianceBernstein",
-      "date": "2026-11-04T08:00:00Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeGpwajc3LVNvbXJxS29RUHZCRjZJdUhHNldQcXRTTjYwVU83Y1lLVFNRSUdwQ0VVeDBGLWdxVUtGVV9CeFVsZEM3a2YwOVdUXzFUai1QRlBXTnVCTWZYYVo5ZDlCbWdVVFkyV1RJMVl3WFFFTk9DaWYtQ05UbWo0VWFJTkNnUUJNd3RpY2hMcDExVTBBMTFxV1dJb3dEOVQ3RUNTTExBMHJQZ2k1SVRtX0lCTU9aQTNtOWZTcmlEaDc3WEY1ZWZ3T0N1OE1YNHJOWkZETGxndkxjaGFhYl9CZ2RXQi1OSGZSc2xnUGtySklDTWc?oc=5",
       "isNew": false
     }
   ]

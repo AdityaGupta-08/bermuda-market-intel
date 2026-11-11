@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T06:25:16Z",
+  "updated": "2026-11-11T17:09:56Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 42,
+      "count": 44,
       "error": null
     },
     {
@@ -89,19 +89,19 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -112,6 +112,30 @@
     }
   ],
   "items": [
+    {
+      "id": "817f055ebe87",
+      "title": "Fortitude Re Completes $3.8 Billion Unum Long Term Care Deal",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laHlLelZmQTQxV29HR09mN0tJRUExbnd6T3pMbGR2TEZJdElseXV4N2hJbVp5QXNaS1VuZmM3T2xQdzJycUVDemtBc0QwTGZ4dmpqTzBLczFfakt5VXc?oc=5",
+      "source": "\u0987\u09a8\u09cd\u09b8\u09cd\u09af\u09c1\u09b0\u09c7\u09a8\u09cd\u09b8 \u09a8\u09bf\u0989\u099c \u09ac\u09bf\u09a1\u09bf",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-11T10:37:13Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "cefc671bd195",
+      "title": "Piper Sandler Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $300",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1Zfc0xzWFk0M0pCNkJZdGtyaW10VDBJaVRNdV9kRlUtR0JDdjVaQmlUdUxHNk5pUXFQbHU4cEJId1JhejNZVUhNWlV1dXJmZkdseU5lS2oxaTlHQzM5c0ZSbFFrOTkwcG9XQjdtS2lMRU1KN1Z5bG51Xy1QNGQzb3VtUHRvZDVZd0FteUtLRkdlTjlBNUlpWVVaUUZoM0lRN2Vnb0VTSFZUNlRadDBEMw?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News: RGA",
+      "date": "2026-11-10T18:33:48Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "a5d26abaf08b",
       "title": "Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High After Analyst Upgrade",
@@ -178,7 +202,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXItbFMtLUFDcWZtbE9hWkFheWJibG02Zjg2bVhiVld3QVhjSWFicEpITVptTXZtTzNvUEs0TktRQ3NkRWN4R1RvNDcwdnJreGJ1bkhGMnVZQWF4cDZhZGRwYnU4UEdHeDRKaDE5anE1M3p3UHA1OTRBYUJNVTNFZXNzSkpIUEtmUkxITi1ibU5iLUNnVURIb1lCMVd2ZjlaN2NFaUo1bm5qdjhBbk1ib2ZUWkhEMnN0cXlfZXVLMUVHbXlnbVdubmVIa0tTbmlKNW1z?oc=5",
       "source": "The Globe and Mail",
       "feed": "Google News: RGA",
-      "date": "2026-11-08T13:22:48Z",
+      "date": "2026-11-08T13:40:07Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -190,7 +214,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmQwRktQelNseGFLZUlkdFNaajdkeWFZcHAxNHFEUGlhWFVzVVZaN2tCcktoN09xUFN4SEtrY1N1aXpic19TM2dCM0V3d2pZMV9MZ3Q3OTJUWkZyc3RtOFdkc1JpZjJkQVJiX0FTQVVFZzY0MmlKLXVKZjhnaUdQeDRNMlE4aUNhVUhaNHBEZi13UW1XcDFJZm0yQlVnNnlRenFCSVBR?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-11-08T06:12:48Z",
+      "date": "2026-11-08T06:12:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -199,7 +223,7 @@
     {
       "id": "4d5ef74d0806",
       "title": "What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUy1memhncUVTdnI3NTRUS2hiU2NDN0VCNnI5RHIxaldyelY0RWhKa1o0MjlIazUtaERTOWZqVk5XYlJPR3Nad09nNGdfcFhRdzh1eFlKZ0d2bDNLU3Fod2lSWVNpSmZjMDJzRWw2S0pqNHZlTVZyVFhmbG0ydkdZVHBrLWhjRWRFLUVSU2JvdERySUw3ZS1DUDh5SEo4bERHUENXdy1fNzROZms3RmlmY3VLLWdyeDY3elAzZjJPZjBDRmRWalE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX0o2SzZhM3hIajV0QjVMQmxGY0ZjUWJIeF9xSDFaZEh3RzN2OGRjb0d6YS1XOGpvVWtDOUFvbnNqUEhOdjVsMWQtNl8xQ0N2dG9tZG1VYWMtbkMyYzBEQm9UbzQwemRoTXJhU2hOU0RzT3BlSWlnNVZoYUtvd3hDdUUtNkd2eWxvVjltRUF1OTJ5MlItOThOQUZscWtHMWtaYUlTeEV6MGFWY3BtRDczZDZ1YVhkVFJJWDh5Y3dHU01xMnVW?oc=5",
       "source": "TradingView",
       "feed": "Google News: RGA",
       "date": "2026-11-07T20:14:13Z",
@@ -215,6 +239,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-11-07T16:11:52Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "8579da0def88",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2clFSQVdRR21oSmVLb2lwT1JZNV9KOHYtZWZUSlJTckpmMTBqa3JfSmQwSmlRaUJORjBQMmRhcUhXS0lpWXZNR2d2OGNLc20wQ1hHWUx3VXFiN3dUR2UyNg?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News: RGA",
+      "date": "2026-11-07T07:08:35Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -251,18 +287,6 @@
       "source": "The Globe and Mail",
       "feed": "Google News: RGA",
       "date": "2026-11-06T22:37:44Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "8579da0def88",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2clFSQVdRR21oSmVLb2lwT1JZNV9KOHYtZWZUSlJTckpmMTBqa3JfSmQwSmlRaUJORjBQMmRhcUhXS0lpWXZNR2d2OGNLc20wQ1hHWUx3VXFiN3dUR2UyNg?oc=5",
-      "source": "Yahoo Finance Australia",
-      "feed": "Google News: RGA",
-      "date": "2026-11-06T21:00:02Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -462,11 +486,11 @@
     },
     {
       "id": "fe2d62524520",
-      "title": "Earnings Flash (RGA) Reinsurance Group of America, Incorporated Reports Q3 Revenue $7.55B, vs. FactSet Est of $6.69B",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWGxVU3NjWkJ2VXdQYVduQkdsYWR4NWZ3SWNXVjhobXRENkhWVkFqc0dJUnVyYm9KMng0REdMQ3o2aFBNMFViVlBzUkkyS21iaW8wMmRKRWVpaklFc3hKejB6aXBidF9CSFZySmlpYWltSGprSElmXzZCNjEycE1IdWxtaEc2d1Jyd1JpV0tfajBMNkVNLTBVdnZVMGdRaDdVMzZuSU1BNHJZQnpkUW03eXRMSXByY1oxWFpjQVpqMHhnbFBRQzE2TGV6Q0p5RU1CaUE3NTlKZVBfdkM0bjZlbA?oc=5",
+      "title": "Earnings Flash (RGA) Reinsurance Group of America, Incorporated Posts Q3 Adjusted EPS $8.49 per Share, vs. FactSet Est of $6.97",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc0dYa3h3am5LVlJJR0VzQnoycFRFSVhsT1NBQk9xbjJKOXB1cGJqb2xaTjlYT3RUa1BIdHo1LTl2ZWlqbVlIVVEzdjNVdjFZQ2tHV0RCM3hrZkR1ZnFZelhpYTVOTUxKSmtIUS1mZlZ1U1d4QVFuVVJXSFRxRmxwYTFEcTJYTnBMOXpwTDdhNlpXdU9wRXFWSWJFenlXSEI4bEJ4TUVfeTUzU1JScDQ2UFRFUzZQVG83OUNDT3BaZDVJVDJvV1RXTENfZUxNbnVYUUY5SU9MTWM0NFU3NnJqM2ZGSQ?oc=5",
       "source": "marketscreener.com",
       "feed": "Google News: RGA",
-      "date": "2026-11-05T21:48:18Z",
+      "date": "2026-11-05T21:48:44Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -549,7 +573,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [
@@ -725,24 +749,24 @@
       ]
     },
     {
-      "id": "ae911c65adbb",
-      "title": "Reinsurance Group of America, Incorporated $RGA Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM2Ntak9NOE9vek9Pclp4cVViQlh4LUNCZXRrS3pxaGNSbEpkN01aZXZSSFpiZ2ZIbVh6cXF0UUp4bmpfV3hpSXNCSnZ0NW5SdXRxTGtpYzlvbWJZMllxRmNkMEQ2TG1NRmVKV2h3cjM3WGtVM3Q1clY5TERVOUxhbjU1ZUpSVmdhamo0cU94NkRDMnBycDBvZlBxakxta1ExX1pvbEloQVVKRnZsdXY0ajFUX040M2hEbWthV1lUSzFSNUFpX1ZOcXNOWVV1aElXTktieW1hMFFHOG5ZVi1vdVU2TkwyWGZBY1plWlhR?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-11-03T10:15:29Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "12043cd2ba41",
       "title": "Is Reinsurance Group Of America (RGA) Stock Near Fair Value?",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcTN2OXlFejJxWkx2d0tIZzRyc2NPU243QXZQZ3FEazBQYmtoRmN0dF95TGY1SFZvU096ZFhFWmhWSFZzQkt3MklJdWpOd0k4OTZKTG1JaS14OWdfQ3JCaGg5WHZPM0Vua1BVS3lkSGdpRGcyZzNGOHpwWjUtNElxNm44bG50QjNoS2gtenJkMDR4allGYUlGRTNwOEhpbUhDNk5rRDJ2MEIya1loRjFudUt0RC1PNVRwSF91UlRjRkdhSDFveW95dmR6dXluTV91S05xV1ZiSThYZ9IB3wFBVV95cUxQZVZNMFZ5TU9NN2x1UEpiSGJGbnlqY1V4VzBRWnVQOTFXMlR3R2U2SkhROGRfYWpjQzZyazRWMEM1dTJPOVh3Mmh2WUFpTzNjbHlDdHRoclFVTjdBX3VNRmpjRUpraGEzRmpsaG03YlNvRVdrZ1JMeEhXSm1qaVJSbnpEOTlHZzJpWUJma2MyOUZ1V1k5NE4xMkgxMlMxelltdE8zLVdybElNZjRRR1F3N19Yb2ZyVFZWanh2X0hzZ0QzMHpwNDltVlFydHh2NXJ6ejlHOVA2Qm80Y29tTi0w?oc=5",
       "source": "Simply Wall St",
       "feed": "Google News: RGA",
       "date": "2026-11-03T09:44:52Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "ae911c65adbb",
+      "title": "Reinsurance Group of America, Incorporated $RGA Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM2Ntak9NOE9vek9Pclp4cVViQlh4LUNCZXRrS3pxaGNSbEpkN01aZXZSSFpiZ2ZIbVh6cXF0UUp4bmpfV3hpSXNCSnZ0NW5SdXRxTGtpYzlvbWJZMllxRmNkMEQ2TG1NRmVKV2h3cjM3WGtVM3Q1clY5TERVOUxhbjU1ZUpSVmdhamo0cU94NkRDMnBycDBvZlBxakxta1ExX1pvbEloQVVKRnZsdXY0ajFUX040M2hEbWthV1lUSzFSNUFpX1ZOcXNOWVV1aElXTktieW1hMFFHOG5ZVi1vdVU2TkwyWGZBY1plWlhR?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-03T08:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

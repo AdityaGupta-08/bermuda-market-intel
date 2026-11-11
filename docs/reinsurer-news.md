@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 27 items
-Generated Wed 11 Nov 2026, 02:25 AST
+Bermuda life & annuity watchlist — last 14 days — 28 items
+Generated Wed 11 Nov 2026, 13:09 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 76 items
+- ✅ **Google News (16 of 16 companies)** — 83 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -20,6 +20,7 @@ Generated Wed 11 Nov 2026, 02:25 AST
 
 ## Fortitude Re
 
+- **2026-11-11** — ইন্স্যুরেন্স নিউজ বিডি — [Fortitude Re Completes $3.8 Billion Unum Long Term Care Deal](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laHlLelZmQTQxV29HR09mN0tJRUExbnd6T3pMbGR2TEZJdElseXV4N2hJbVp5QXNaS1VuZmM3T2xQdzJycUVDemtBc0QwTGZ4dmpqTzBLczFfakt5VXc?oc=5)
 - **2026-11-06** — Bernews — [Fortitude Re Completes $3.8B Unum Deal](https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZTJtTFRQN1VmWGxhazdQQVlybFRtV0xaS3VYbjQ4bWVUTFJITm1ZcC1oa3hnU0pvX0JKNU9ualZ0dGx2eVRkdFBsV2xUM1ZtUzh1bk1TR3JEVE5vTl9DcnI1V2NwdEFCd0dSRUJaMFI0MWpU?oc=5)
 - **2026-11-05** — Insurance Business — [Fortitude Re closes US$3.8bn Unum deal, cuts carrier’s LTC reserves by 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUhkVEZoMHRkS1dtZ0NNTjBkMFVjbVBIcEplMmpzSmQtZmNfbHBkbzVRc2U5OXAzSGJSWXZMNXBSSHpuRUpSd2FNTy1EckdPT0ZvTHkyenpraXNKQVo4WUdnZkxqUXV2aWUzTWh0U3BHcy02QVBJTzBRMXZ2WTlzWGg3d2RVTUdFX194S08tMmFqNU5GTDV1OVF4dWtWU2RKQzQwMFRldVl2ZXZ5d2w1OXZJazZQT3A5b1NVMk1aM1pHN2UzYWl3RXI2S3dubmJ4MzZSWlg5X3dnUXJYNXV4QlVlRjE?oc=5)
 - **2026-11-05** — Insurance Business — [Fortitude Re closes $3.8bn Unum deal, cuts carrier’s LTC reserves by 40%](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5)
@@ -32,6 +33,7 @@ Generated Wed 11 Nov 2026, 02:25 AST
 
 ## RGA
 
+- **2026-11-10** — Moomoo — [Piper Sandler Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $300](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1Zfc0xzWFk0M0pCNkJZdGtyaW10VDBJaVRNdV9kRlUtR0JDdjVaQmlUdUxHNk5pUXFQbHU4cEJId1JhejNZVUhNWlV1dXJmZkdseU5lS2oxaTlHQzM5c0ZSbFFrOTkwcG9XQjdtS2lMRU1KN1Z5bG51Xy1QNGQzb3VtUHRvZDVZd0FteUtLRkdlTjlBNUlpWVVaUUZoM0lRN2Vnb0VTSFZUNlRadDBEMw?oc=5)
 - **2026-11-10** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High After Analyst Upgrade](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0RiM29LdEx4OVNoWjhxNHh4OVkxOXA1RWRNbUlQRFdQV1UxUktLS2hsRGZHUDN3SDVzWU1Takp6MGdsXzBmeEJEaEc3cXhsbUFkdVptZ2hDTUJqWHB0SlM1b29oX2tTY3hWcEZPT3dDb0ZEZnpBa3V1LUZab19BWEZXN0NBaDd2em5KblFnd29ETVVUV090X0lKbWt1TS1NdjNqZ2s1R3dfdkVXZldwOFNzMXhQa1diNnFhS0ZfUWRhemJ5TVhXMHlrUjdqbFk1QkszbTJqWHJxSjQ?oc=5)
 - **2026-11-10** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Acquired by Leuthold Group LLC](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmd2eVJ3bk8wdDBIM2Y0Um5TTHRFeGJzSmZkb3JLQlBLVEhVY3NxTkRTNFFWcEVRTTd4bGFIbXppMmF1eVBFVUFEZ2NQSzMyMXNBYlAwRGduZ1Rwc1pwMjBhcTlETm0wb0FtMTFybnMxWERqVkFpeVJyVnY3VDN0bUJrR3hrRk4yQnNZQU9YcWZpNWFIR1RiMHJ4S1hnMkhXUE8xUkJTalc0bFNIc2NzemFfd05rQnRraTNrUHVkOGFFc09od1MtNFIyaTUtejhnNVlwX2NtWmZEWGs?oc=5)
 - **2026-11-10** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
@@ -39,11 +41,10 @@ Generated Wed 11 Nov 2026, 02:25 AST
 - **2026-11-08** — Simply Wall St — [Reinsurance Group Of America (RGA) Earnings Put Its Fair Value Narrative Back In Focus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaDhTYVk3dXoxRWk1NnlMOUJfZjY4WEgxT2QwQUhDZGZZNDljMmJkaGs2ZHFVcVRiRGNrdndkS3JYMlFHRU1hbUNrOFVDeWxKYW1Qa1pnVTlkRGVqRFhWdGx5Q1drNlNtUk03Y2RJcWFIYklXR0JiMGtwdGtFbUpoS2phSl9pREtqc01VZ25KclVPczQ0NjRnb09VMlRmbEFZRVNoTXBYTHJRNjZsN3R0UjBlLUlEc2JuSGtLT1F5NVlQb0pPUzVaMEpXalViaG5Yemt5bzBfUFdWYTZFd1HSAeMBQVVfeXFMT1p2a1YxTU05MnAxVkNPR0tYSTdhdU5zNC1hcDBnd0xSUlRjUjMtZkxVcUJlRThKSlFTRlpObDdfekNjMm1HZGFZS08wa3djMmttcFpIQTdmTHNlb3k3RzhTT2daWjVJV192ZUQ0dnhmLVdYeW5aRXdRQmJKUnR5QkZ3cDNCNndpXzlya2stclhnSmdDNlhWZVlzcW5yVzBLc01xS05fSVp0M0NsYzlYazNCdmdaZEg0YXIxb0tJSlluUmE4WUJWRE5YS3pMVjlPSEJ4RmFJZDluTjNNRGxKUTV5dUU?oc=5)
 - **2026-11-08** — The Globe and Mail — [Barclays Keeps Their Buy Rating on Reinsurance Group (RGA)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXItbFMtLUFDcWZtbE9hWkFheWJibG02Zjg2bVhiVld3QVhjSWFicEpITVptTXZtTzNvUEs0TktRQ3NkRWN4R1RvNDcwdnJreGJ1bkhGMnVZQWF4cDZhZGRwYnU4UEdHeDRKaDE5anE1M3p3UHA1OTRBYUJNVTNFZXNzSkpIUEtmUkxITi1ibU5iLUNnVURIb1lCMVd2ZjlaN2NFaUo1bm5qdjhBbk1ib2ZUWkhEMnN0cXlfZXVLMUVHbXlnbVdubmVIa0tTbmlKNW1z?oc=5)
 - **2026-11-08** — Yahoo Finance — [Is Earnings Beat Altering The Investment Case For Reinsurance Group Of America Stock (RGA)?](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmQwRktQelNseGFLZUlkdFNaajdkeWFZcHAxNHFEUGlhWFVzVVZaN2tCcktoN09xUFN4SEtrY1N1aXpic19TM2dCM0V3d2pZMV9MZ3Q3OTJUWkZyc3RtOFdkc1JpZjJkQVJiX0FTQVVFZzY0MmlKLXVKZjhnaUdQeDRNMlE4aUNhVUhaNHBEZi13UW1XcDFJZm0yQlVnNnlRenFCSVBR?oc=5)
-- **2026-11-07** — TradingView — [What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUy1memhncUVTdnI3NTRUS2hiU2NDN0VCNnI5RHIxaldyelY0RWhKa1o0MjlIazUtaERTOWZqVk5XYlJPR3Nad09nNGdfcFhRdzh1eFlKZ0d2bDNLU3Fod2lSWVNpSmZjMDJzRWw2S0pqNHZlTVZyVFhmbG0ydkdZVHBrLWhjRWRFLUVSU2JvdERySUw3ZS1DUDh5SEo4bERHUENXdy1fNzROZms3RmlmY3VLLWdyeDY3elAzZjJPZjBDRmRWalE?oc=5)
+- **2026-11-07** — TradingView — [What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMixAFBVV95cUxQX0o2SzZhM3hIajV0QjVMQmxGY0ZjUWJIeF9xSDFaZEh3RzN2OGRjb0d6YS1XOGpvVWtDOUFvbnNqUEhOdjVsMWQtNl8xQ0N2dG9tZG1VYWMtbkMyYzBEQm9UbzQwemRoTXJhU2hOU0RzT3BlSWlnNVZoYUtvd3hDdUUtNkd2eWxvVjltRUF1OTJ5MlItOThOQUZscWtHMWtaYUlTeEV6MGFWY3BtRDczZDZ1YVhkVFJJWDh5Y3dHU01xMnVW?oc=5)
 - **2026-11-07** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5)
+- **2026-11-07** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2clFSQVdRR21oSmVLb2lwT1JZNV9KOHYtZWZUSlJTckpmMTBqa3JfSmQwSmlRaUJORjBQMmRhcUhXS0lpWXZNR2d2OGNLc20wQ1hHWUx3VXFiN3dUR2UyNg?oc=5)
 - **2026-11-07** — Yahoo Finance — [Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjRUenZWYzJObkJfM1E2bGVLczJQMkN6Qm5IakdsVm9jcU5RVC1MYWdGUU9pQ1E4ZWdiX2ZIWi15Q3RGVXhLZkRiRmkzVUljNTQ2Tk5FVnhBekhyWjM5c09McFhyQml3TjdKLWpjSEoyR19KTDVITmtORTFaa1BGSlg2M0ZVLU44M0RlNkFTVUtTTXhCQmE3dUx1LUU1bkE?oc=5)
-- **2026-11-06** — Moomoo — [Barclays Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $301](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGt1QjJNUmRvQkY4ZWdCMk5pQms1Q0tmdzZxM2ZFLWJ5QXNXSFZLWVR5UW1XbVFNTS1sbC01MnhyLXNjWVI1WFpYS3c3alljYlpBTmt6dEFLLVMtZFg3S3JwRlBuc0JOZjMtQTlqQXk1WDdDSmMzMWd0Z0hsaXIxV1RtLWMzV2NNVC1nRXlmQ0FJS2xBOVRhOHpSRThnUEcyWEFKWjlXdVNuYVNCT2JST1dQaw?oc=5)
-- **2026-11-06** — The Globe and Mail — [Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmF4akFESXpXT0RiSm5ybkdqcG1pQmVVVmZ6WTR5MHlaYTVVNlhhZmVZOEszdGpNdGdmMHNFcjBoelczZEo3MXNYRTZjV0JLNW5DMlAyd3F6V0xGT3JMS010Y19TMWRzQ2xwZzVVdVRkYkxJSkxEdjBNT1dwN0MyZm1iR1RaYTdYSnNIdGMwWUdHMVBYVTdkME5jMFdPQ2twQUY4emk1a0FxUC13UWlhSTVoV0VpTjNPN2loLWpfcndOZGpDMzZsRi10YjN6UQ?oc=5)
 
 _No news in the window: Global Atlantic, Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Sagicor, Catalina_
 

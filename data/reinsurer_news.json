@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:20:48Z",
+  "updated": "2026-11-11T06:25:16Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 41,
+      "count": 42,
       "error": null
     },
     {
@@ -137,6 +137,18 @@
       ]
     },
     {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-10T05:53:16Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "9a001d915dec",
       "title": "Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, Piper Sandler Analyst Says",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX3RTUlNXVVdVVkpjdnNoemM0VkplVEJmcnNXa2tYMndtMUp2cVYzcVI5d2UzLWwwRjFRMHRLUVJtSlR0X0RmV3diTHJaNkt0UE5rOGtCZ0NvQ0JzR0NkSGNZc19ab0dfVjVDY1dRdXFYQzVMaER1bGtaM25LdGxKb2xwam9oTmw2aWY2UnRoancwSUF3M0gyVDJnMzAzaTNvZHpvN3FzZGJLNVVXSEllSG92NWt5UVFRcTZTRnVWcmhtbUM4T2phVTRaalZlLUZSYzlwSmpUSWRLcnc2Qm1QamxPUnZvZFdJTjFR?oc=5",
@@ -161,18 +173,6 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-08T17:58:15Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "01c279ecfc7e",
       "title": "Barclays Keeps Their Buy Rating on Reinsurance Group (RGA)",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXItbFMtLUFDcWZtbE9hWkFheWJibG02Zjg2bVhiVld3QVhjSWFicEpITVptTXZtTzNvUEs0TktRQ3NkRWN4R1RvNDcwdnJreGJ1bkhGMnVZQWF4cDZhZGRwYnU4UEdHeDRKaDE5anE1M3p3UHA1OTRBYUJNVTNFZXNzSkpIUEtmUkxITi1ibU5iLUNnVURIb1lCMVd2ZjlaN2NFaUo1bm5qdjhBbk1ib2ZUWkhEMnN0cXlfZXVLMUVHbXlnbVdubmVIa0tTbmlKNW1z?oc=5",
@@ -190,7 +190,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmQwRktQelNseGFLZUlkdFNaajdkeWFZcHAxNHFEUGlhWFVzVVZaN2tCcktoN09xUFN4SEtrY1N1aXpic19TM2dCM0V3d2pZMV9MZ3Q3OTJUWkZyc3RtOFdkc1JpZjJkQVJiX0FTQVVFZzY0MmlKLXVKZjhnaUdQeDRNMlE4aUNhVUhaNHBEZi13UW1XcDFJZm0yQlVnNnlRenFCSVBR?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-11-08T06:12:00Z",
+      "date": "2026-11-08T06:12:48Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -643,10 +643,10 @@
     {
       "id": "01968f667bc1",
       "title": "Reinsurance Group of America (RGA) reports Q3: everything you need to know ahead of earnings",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2ZqcUFHbm5acnBfYndnX09KcWpyRGM2UldWXzFSMzY3WkJVYzFUSkNyU2VYMHVVRm9feV9zMi1TbnR4U0F1M0hjTFBmODAwY2xmNFd0Q1djNmo1eHV5ekp5eEFzYzVQem5JLVhxUEptZm9kSHZrLW45UUVzOHF4S0RzQnRDaWhQWFpJZEFzNnZxVFFoa0JSWkVsSUxKdTRGWVdQeEVieHRUMEFPdzVjTDFDWHhTWGRNbi03REFWal9BV0JIdGdsOVJsMUJzMF9VWEVaekZ5Q1dDZ19GZmlQSVg2T0w?oc=5",
-      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2lQNjhXMVZ3TjhJTDZRU2RkUkpsM0dIcy1RQkNDdG1UTlFhTmZIRWNIU0ZTTmpNYlJ5VVpWa1FrWExnSS02QmYxb2czSE9SRHFhTmpSQTk2dTNxNEFEMzZkUWxUUHdHSjRuMlZBTWE2RmJ5eV9wVTBzeDBMV3c4elpBSjRNZ0wzZVp6TEJ6b2hFd0lHLVNnc0lkdld0a2dCVDFGVDhZYmwzSmkwVnctNVJqNDZtNzk0ZDVWM19sNVJ2MDRBcGdNTFg2UTRZT2dBN0xSOGdRYUR4amR1ekE?oc=5",
+      "source": "StockStory",
       "feed": "Google News: RGA",
-      "date": "2026-11-04T03:37:00Z",
+      "date": "2026-11-04T03:55:10Z",
       "summary": "",
       "companies": [
         "RGA"

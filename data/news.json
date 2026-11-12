@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T00:46:28Z",
+  "updated": "2026-11-12T11:15:47Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,10 +8,30 @@
   ],
   "items": [
     {
+      "id": "c9ed01f360a5",
+      "title": "Banks, brokerages jockey for edge in pension shake-up",
+      "source": "The Korea Herald",
+      "date": "2026-11-12T06:36:38Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ydlduMnkwQk42VUFHbVJGQk9XWkRwRDNlaVpLUDNicVBXc01aMUlWYVZtVG5IS0MyVnZUOVZIOXJHNWlrbGtJbmdGN0VLYzVVYWkyaWliOA?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "51c96ee7e51a",
+      "title": "China\u2019s Loan Interest Rates Are Already Low, Central Bank Says",
+      "source": "Bloomberg.com",
+      "date": "2026-11-12T03:53:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW1ueXJqQzBaUmFvSzY3cFh6MkdVOEN3WUxsQ2pzSHhySDJsTHljS01VQ0NxeXpSQ1RrVzBOM3VBaUZ0NlR4Q2U1c2xhRjBHTnlSam4xSlFubWN6ejEwNnRJNG9NU2x4Rnk5bmw0dUpoUnN1TEV2OTA5WGRpYm52UmVtNzd0eGpVQ3F0WGdjZmMzUlFWcDVMcGJwbHZqeS0zY1hwWEdXT1hsNG0xeXA1T1JR?oc=5",
+      "isNew": false
+    },
+    {
       "id": "891c55bd7ccd",
       "title": "Australia: (Re)insurance solutions provider under regulatory scrutiny",
       "source": "Asia Insurance Review",
-      "date": "2026-11-12T00:03:50Z",
+      "date": "2026-11-12T00:04:42Z",
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU05oenU0aGhTWlMyRlhzMmZXWVpLU2hHX2VkazJrSEE4UDN5b25kNG9raHVaWGp6dVR5OTQ2XzRDNlRQTzBHQmQ0QmlFUFZ5YUd1ZmdsWlRPa1BwbUpMbGhKQXJzaTI5dThXUnZHMG9MVGQxRktlVktFNTd2R0hwdWFYLWM0VG5pN1U3bmM5d0VNeFZaQ056Sml2WmhILWdZZzRZNmVRTnhpTG9jRkV6bmlKZ1pxY0RKZ0pMTkppX3FOQlk4YTl5MWJra0ozWk5SRERKY2ZDeVVEMzEzbkFOY01pdUVSdw?oc=5",
@@ -71,7 +91,7 @@
       "id": "397f9c9df3a8",
       "title": "Asset Manager\u2019s Insurers Dogged by Fraud at 777 Partners",
       "source": "WSJ",
-      "date": "2026-11-11T14:00:00Z",
+      "date": "2026-11-11T15:18:29Z",
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQelcyU1B4TXNyUThvZndwY2hNWkFWOTRQUzFHOTVrZUJCdFBrQVc2S1ZBTXJpYmp3SzlEdjVUS24tenFxWHFfdzlaeVkyUFd2RGdybktGOWdVa2ZzUHlPQlE0TEJ0OTlpbFJPdHJySE9SbUpibWpiNmpmc1NSem8wdFJxVEVNbll4Y3lJLTYyOC1YRHY1ejVlUDQ3c1k5dHNs?oc=5",
@@ -80,7 +100,7 @@
     {
       "id": "50dbb3181224",
       "title": "China Gauges Bond Interest Tax, With Yields Near Record Low",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-11T11:11:22Z",
       "topic": "Rates & Macro",
       "summary": "",
@@ -175,6 +195,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "327c26da1ad9",
+      "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens",
+      "source": "Reuters",
+      "date": "2026-11-10T14:51:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "7139568b7cdc",
-      "title": "U.S. Insurers Have $544B in Murky Private Credit Assets: Analysts",
-      "source": "ThinkAdvisor",
-      "date": "2026-11-06T19:26:02Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzFySHFjR0VZOFZOT1NFWFYxdjI5MDJxR2NGdjZlV0hQNG9QRTFGeFNycVRMRWozSjluZlVHMTBTZ2kyYXFRSnVYYW9aTHFvUHlDOVY0VzhGXy04Uko5UjJHamUtTjdEWFZpOUFsYnhOYkxwZ3pMQ2I0RmhyX0hNcEI4Y0l4eWVfNkRJaHdtMWxIaGZhZ3Vua2dYVjlrY2hsbV9tTg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c18e0347f635",
-      "title": "More pensions are tied to private credit, so more protection is necessary",
-      "source": "World Economic Forum",
-      "date": "2026-11-06T13:42:18Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWZhZzJkM1N2dGpPVlZ3YU5vdU9BZGNZYXhuNml0WFFxb1pSemk4TER5NzEtdk14TUUxazFkOGtTenlaZllzY25ucmJHV2JsaG5vZGdITUZpQzYtUXVDMzYzaXBrcFEtRTc2WHVOUndIeG5ObWt2RGVsWHY0bnVRNWVyaFhFV2d6eEsxcE9QMVhtMmFGbC1Oc1FwZ3lTTFpiUW9wZzdzTm8ySUNxeGU5SHB5NmEwM1JhR1NNbnJtUHRQUQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "3ab0e9847f9b",
-      "title": "Sumitomo Life Insurance Adopts Bloomberg RMS Enterprise to Strengthen Investment Research Capabilities",
-      "source": "Bloomberg.com",
-      "date": "2026-11-06T12:19:48Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjdrZDI2blN1SUpyanhXWmJnS2FTQUV2eG5xU0ktcGk5RU9jd1lFeTlOZHZuSWNHa0lrZWFFaWVMUTVuNDRQYmxhMUhzU0hXTFlyQTgxNW9qZmpaeXlUYVZNNW01cTZIbGxYWHh4VzhHZDR6TTVBc0Y0WjhUcXVZYWppdXlGd3lDYUJpYlBoSEFQNVl4dWxSM3JnZEJhS01Na25iTEZRUHhtZjFmcmhRRWJwcDB3alZ3YWpJaWdyamNXVmpVNWVBNlR6QzhycWpPTTFEemctbldSY3c?oc=5",
       "isNew": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:09:56Z",
+  "updated": "2026-11-12T00:46:30Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -95,13 +95,13 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 9,
+      "count": 7,
       "error": null
     },
     {
@@ -112,6 +112,42 @@
     }
   ],
   "items": [
+    {
+      "id": "57a8cb8ab94b",
+      "title": "Sagicor Financial : Financial Statements (imageSFC Financial Statements Q3 2026)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3E5V2VDcWpmd21pRklab2ktVmduSlFKRU82SU1uLVA0WDNMeWFmTDQ2Q3dLeHVuY0JYeVVZUWpEempXTzBMcG8xZUZZQ28teEdBcHJkUEFXWW8xN1VpYng5RUdORnN3dU1zc2xUMjk1U2xORmJ3OENRbzhqRWZlajdkbnJoWUh1LW8xSzBRaWZyNFFvQXdsUThlR2VjMFVWZ3YtdUZfWTQyZHBpUDMwc1BVOWhReW1yS0hfcmlmT210UG9yMUlZbA?oc=5",
+      "source": "marketscreener.com",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-11T23:19:05Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "82c67b6e6a8d",
+      "title": "Sagicor Financial : Management Discussion and Analysis (image/SFC MD%26A Q3 2026)",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFQwdFVpRG45cWZNVy02RENaXzJqR3VKNTdHN0NtRWgwMzZ0MVRBeWlHaEMxdldGZG9yVWdod3Awek4zcUU0OWg0ZDl3YjNMRGRsYlFYV3I2VS1wNDk1cEZ1YjAxSEI1YlFSYUE0aDljSThxSGtfTENTU05IMXYxOGJsX2N1b2tEV2tBMFBqMEVRdDRGSE5xSDZKS0VFZ3VTbVFrVFR5MU5ZdTRUOFRlTGc0TjA0VEdLMG83NjBDRGladTZ5eldtRkxB?oc=5",
+      "source": "www.marketscreener.com",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-11T23:17:05Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "1afa5ded1043",
+      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0tZTl8xZGQ4eF9JMXRiS2lVdlNSb2Q5Rk9feEdEWEl2RklfOWRLV0t6UDdzRUlRVDI3UWI1dzlZQW1FRy0tajZlc3NfUDVQLW1LN2pBM19BNGx0aHdMV1FhQWx5SkhSYVNuSnJYX29YM2RrcGp5NHpwdWx1V1NSTVhJckpaT2JxRmExX2QtOA?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-11T19:06:57Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "817f055ebe87",
       "title": "Fortitude Re Completes $3.8 Billion Unum Long Term Care Deal",
@@ -573,7 +609,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Fortitude Re",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [
@@ -587,18 +623,6 @@
       "source": "Simply Wall St",
       "feed": "Google News: RGA",
       "date": "2026-11-05T11:35:04Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "1afa5ded1043",
-      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY01uWmFlNUtnZVdWbnpGNHRyWEpVem9VaThBaTRVcTREUncxOVpFS05wTGFOUkZFUXZ1eUF5eWZBcGxaNUN2d0F6cU1xdlBNWXlGRkFXMFA5cHN1NGFRTFQySU9KdzNEODZ3UVRsOXBzYnhmMFZJTjV6eGsyQWxwQWdiVU9ubTRLMXlha3RRWQ?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-11-04T22:57:32Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -814,7 +838,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUwzbEMydzN4V25aZDN1c0ZPdXRMSmlFaEFKT2R3bExFMzg4ck44b3VNTEoxODVRNG1NUjVwV3R6OWZtMFJ0Wl93NjVqQW45Z05odHZWY3ZhNFNkYl9XWGtzY0Ntcm5qUmtLeDVLc09qSlB2YkFmR1BXcU1JZFlkWW1DeEN4QXc4Qmk3aTM1ODAxbDhKN1otSFR2a3J1MkpaU1VB?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-11-02T16:10:03Z",
+      "date": "2026-11-02T08:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

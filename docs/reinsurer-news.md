@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 28 items
-Generated Wed 11 Nov 2026, 13:09 AST
+Bermuda life & annuity watchlist — last 14 days — 30 items
+Generated Wed 11 Nov 2026, 20:46 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 83 items
+- ✅ **Google News (16 of 16 companies)** — 80 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -33,6 +33,7 @@ Generated Wed 11 Nov 2026, 13:09 AST
 
 ## RGA
 
+- **2026-11-11** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0tZTl8xZGQ4eF9JMXRiS2lVdlNSb2Q5Rk9feEdEWEl2RklfOWRLV0t6UDdzRUlRVDI3UWI1dzlZQW1FRy0tajZlc3NfUDVQLW1LN2pBM19BNGx0aHdMV1FhQWx5SkhSYVNuSnJYX29YM2RrcGp5NHpwdWx1V1NSTVhJckpaT2JxRmExX2QtOA?oc=5)
 - **2026-11-10** — Moomoo — [Piper Sandler Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $300](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1Zfc0xzWFk0M0pCNkJZdGtyaW10VDBJaVRNdV9kRlUtR0JDdjVaQmlUdUxHNk5pUXFQbHU4cEJId1JhejNZVUhNWlV1dXJmZkdseU5lS2oxaTlHQzM5c0ZSbFFrOTkwcG9XQjdtS2lMRU1KN1Z5bG51Xy1QNGQzb3VtUHRvZDVZd0FteUtLRkdlTjlBNUlpWVVaUUZoM0lRN2Vnb0VTSFZUNlRadDBEMw?oc=5)
 - **2026-11-10** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High After Analyst Upgrade](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0RiM29LdEx4OVNoWjhxNHh4OVkxOXA1RWRNbUlQRFdQV1UxUktLS2hsRGZHUDN3SDVzWU1Takp6MGdsXzBmeEJEaEc3cXhsbUFkdVptZ2hDTUJqWHB0SlM1b29oX2tTY3hWcEZPT3dDb0ZEZnpBa3V1LUZab19BWEZXN0NBaDd2em5KblFnd29ETVVUV090X0lKbWt1TS1NdjNqZ2s1R3dfdkVXZldwOFNzMXhQa1diNnFhS0ZfUWRhemJ5TVhXMHlrUjdqbFk1QkszbTJqWHJxSjQ?oc=5)
 - **2026-11-10** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Acquired by Leuthold Group LLC](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmd2eVJ3bk8wdDBIM2Y0Um5TTHRFeGJzSmZkb3JLQlBLVEhVY3NxTkRTNFFWcEVRTTd4bGFIbXppMmF1eVBFVUFEZ2NQSzMyMXNBYlAwRGduZ1Rwc1pwMjBhcTlETm0wb0FtMTFybnMxWERqVkFpeVJyVnY3VDN0bUJrR3hrRk4yQnNZQU9YcWZpNWFIR1RiMHJ4S1hnMkhXUE8xUkJTalc0bFNIc2NzemFfd05rQnRraTNrUHVkOGFFc09od1MtNFIyaTUtejhnNVlwX2NtWmZEWGs?oc=5)
@@ -44,9 +45,13 @@ Generated Wed 11 Nov 2026, 13:09 AST
 - **2026-11-07** — TradingView — [What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMixAFBVV95cUxQX0o2SzZhM3hIajV0QjVMQmxGY0ZjUWJIeF9xSDFaZEh3RzN2OGRjb0d6YS1XOGpvVWtDOUFvbnNqUEhOdjVsMWQtNl8xQ0N2dG9tZG1VYWMtbkMyYzBEQm9UbzQwemRoTXJhU2hOU0RzT3BlSWlnNVZoYUtvd3hDdUUtNkd2eWxvVjltRUF1OTJ5MlItOThOQUZscWtHMWtaYUlTeEV6MGFWY3BtRDczZDZ1YVhkVFJJWDh5Y3dHU01xMnVW?oc=5)
 - **2026-11-07** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5)
 - **2026-11-07** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) Seasonal returns chart](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2clFSQVdRR21oSmVLb2lwT1JZNV9KOHYtZWZUSlJTckpmMTBqa3JfSmQwSmlRaUJORjBQMmRhcUhXS0lpWXZNR2d2OGNLc20wQ1hHWUx3VXFiN3dUR2UyNg?oc=5)
-- **2026-11-07** — Yahoo Finance — [Reinsurance Group of America Inc (RGA) Q3 2026 Earnings Call Highlights: Strong ROE and $736 ...](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjRUenZWYzJObkJfM1E2bGVLczJQMkN6Qm5IakdsVm9jcU5RVC1MYWdGUU9pQ1E4ZWdiX2ZIWi15Q3RGVXhLZkRiRmkzVUljNTQ2Tk5FVnhBekhyWjM5c09McFhyQml3TjdKLWpjSEoyR19KTDVITmtORTFaa1BGSlg2M0ZVLU44M0RlNkFTVUtTTXhCQmE3dUx1LUU1bkE?oc=5)
 
-_No news in the window: Global Atlantic, Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Sagicor, Catalina_
+## Sagicor
+
+- **2026-11-11** — marketscreener.com — [Sagicor Financial : Financial Statements (imageSFC Financial Statements Q3 2026)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3E5V2VDcWpmd21pRklab2ktVmduSlFKRU82SU1uLVA0WDNMeWFmTDQ2Q3dLeHVuY0JYeVVZUWpEempXTzBMcG8xZUZZQ28teEdBcHJkUEFXWW8xN1VpYng5RUdORnN3dU1zc2xUMjk1U2xORmJ3OENRbzhqRWZlajdkbnJoWUh1LW8xSzBRaWZyNFFvQXdsUThlR2VjMFVWZ3YtdUZfWTQyZHBpUDMwc1BVOWhReW1yS0hfcmlmT210UG9yMUlZbA?oc=5)
+- **2026-11-11** — www.marketscreener.com — [Sagicor Financial : Management Discussion and Analysis (image/SFC MD%26A Q3 2026)](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFQwdFVpRG45cWZNVy02RENaXzJqR3VKNTdHN0NtRWgwMzZ0MVRBeWlHaEMxdldGZG9yVWdod3Awek4zcUU0OWg0ZDl3YjNMRGRsYlFYV3I2VS1wNDk1cEZ1YjAxSEI1YlFSYUE0aDljSThxSGtfTENTU05IMXYxOGJsX2N1b2tEV2tBMFBqMEVRdDRGSE5xSDZKS0VFZ3VTbVFrVFR5MU5ZdTRUOFRlTGc0TjA0VEdLMG83NjBDRGladTZ5eldtRkxB?oc=5)
+
+_No news in the window: Global Atlantic, Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Catalina_
 
 ---
 

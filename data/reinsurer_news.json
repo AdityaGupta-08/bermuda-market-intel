@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T11:15:50Z",
+  "updated": "2026-11-12T19:57:34Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,7 +11,7 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 43,
+      "count": 40,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 2,
+      "count": 5,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -112,6 +112,42 @@
     }
   ],
   "items": [
+    {
+      "id": "a507ec8bdc51",
+      "title": "Athene CEO criticizes offshore reinsurance, risk-taking by competitors",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5",
+      "source": "InsuranceNewsNet",
+      "feed": "Google News: Athene",
+      "date": "2026-11-12T17:41:37Z",
+      "summary": "",
+      "companies": [
+        "Athene"
+      ]
+    },
+    {
+      "id": "da71407d7f09",
+      "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOFdMVEdmMklYZGlyMnlEMHFjVDJralZsSmlRakxwVmF0NGJoUDJ6U0dzVlRzQ3h1UUFyVkJlMzR6Qi1XTEFqeHlwSW0xT2M1cG5VMGZXVFJsd0pKTHU4cFp0ejU2alVpY0RUaWFxUFZOeWppTUdyV1Rlc2dBYkhrYVJINkZEZFByaGdWQkZZc0k3UGItM21SNUs5Zml0cGdqOW1abWdhTnZ2ZXg0cXcwd2hkc0hVTDl4QmE5LUNlZ3l5bkNsaERpZEo5ck9Cd3NTWWU5VmVnbkRoSUJ4SWFRbA?oc=5",
+      "source": "Investing.com UK",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-12T15:50:00Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "dbb05a47e9b7",
+      "title": "Reinsurance Group of America (NYSE:RGA) Stock Gets Price Target Increase from Wells Fargo & Company",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdzlrdWZLZ3J1NGkzcXE2bXdtTy1kbHQzQlFfa0VhbVJnbDBvMExwTHhCaUtqYmt3X2lEbjczLVVxYUhURUtUeW1CMEN0WFZ1ekdtYk93YnVMLWJORzNScUhjR21Wb3o1a2plSi13Z1pNaUJTbmxfLTJySWE1RTVySVFpZlBnVHNKV2ItZ1I0U1NLMlJzaVZVYWZfVGdnd3VrdGZhNThVMGtPeC1pQlBYMm9tY0hQVThXMFIwMThDSm5RZl84SWg0MUVDRFpsYkJXUGhLdGZjeWVsdElfYVJRWDM0OWhaNVVGTjVwaTZR?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-12T14:08:53Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "57a8cb8ab94b",
       "title": "Sagicor Financial : Financial Statements (imageSFC Financial Statements Q3 2026)",
@@ -131,6 +167,18 @@
       "source": "www.marketscreener.com",
       "feed": "Google News: Sagicor",
       "date": "2026-11-11T23:17:05Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "f825ab0ad40b",
+      "title": "Sagicor Financial Reports Third Quarter 2026 Results",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYk1rUmZNd3pqd05MZndrUm1OTDZvY1lNTmRlS2ZWaEJyNlpOelNVTVFBTXdBbWEtMktfODNVWG05akVjRGdpUnNTWERXckI5bnZBRnBfVC1Pd1hfLWJtaTJSR1FxREhqOHFXMzNIcUJIMkxCbm03QUMzZTRXQVNnVWZqVXVMSEZMVFEwZDA4SVotcG1WNHZWT2Y4RTJyck5VSXcyWmJNUmR1S2pZZUNCQl90bw?oc=5",
+      "source": "TradingView",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-11T23:00:00Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -197,18 +245,6 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-10T05:53:16Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "9a001d915dec",
       "title": "Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, Piper Sandler Analyst Says",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX3RTUlNXVVdVVkpjdnNoemM0VkplVEJmcnNXa2tYMndtMUp2cVYzcVI5d2UzLWwwRjFRMHRLUVJtSlR0X0RmV3diTHJaNkt0UE5rOGtCZ0NvQ0JzR0NkSGNZc19ab0dfVjVDY1dRdXFYQzVMaER1bGtaM25LdGxKb2xwam9oTmw2aWY2UnRoancwSUF3M0gyVDJnMzAzaTNvZHpvN3FzZGJLNVVXSEllSG92NWt5UVFRcTZTRnVWcmhtbUM4T2phVTRaalZlLUZSYzlwSmpUSWRLcnc2Qm1QamxPUnZvZFdJTjFR?oc=5",
@@ -239,6 +275,18 @@
       "source": "The Globe and Mail",
       "feed": "Google News: RGA",
       "date": "2026-11-08T13:40:07Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0bUVidjhaNWJ5R1BPVG92MEItV015SGVya0h2RHJ4NHJET2lNZWpXSFlqU1VqWldiSnRPTVFneXloc3RMcmpCS3VaNVVTWnU3?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "feed": "Google News: RGA",
+      "date": "2026-11-08T11:52:09Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -442,7 +490,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGcxY2pKRWZjUXdrVHVBdUdDWGdPRFlmdERXSXR6LUp0SDZRSkNQWFNydnBuYkVjTm1MZkw4MW1PeDZmSUhSNmkzdFlnd3VIRFZVb3hoREZlcGMzWDVaTUpWMW4xak01anNsYWI4WjdreDc1aXF5ZXBpN093SDA5WUZMQzFUUVYyYkJZZHhJRUx0aTZfOE5oYUw3MThKdw?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-11-06T01:00:00Z",
+      "date": "2026-11-06T02:37:38Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -621,7 +669,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Fortitude Re",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [
@@ -653,30 +701,6 @@
       ]
     },
     {
-      "id": "01803da886b6",
-      "title": "Fortitude Re and Unum\u2019s $3.8bn LTC deal closes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlEtMnB2OXBsbUtzY2JXWWsyeTNGX3c3T2E2Ml9xWGRKZG4xWDMxUjRaQnpOd1d0Y2VyS3hFc3lkSkhnU0IxX0JLRDlaR2dZT1RHVFNjLXZQN2NMZVVtYTZhOVNnejZia0FkclRvc1QtZHRmbEJYLTNXcU94QjNzcXBYa2JMUXhMQ1Z6dnUwLVluRHVJVklTM09ETEROS0owMkMwN1B1M0g3OEFPbEdIeFp3?oc=5",
-      "source": "Royal Gazette | Bermuda",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-11-04T16:49:37Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "9b8a1f633252",
-      "title": "Reinsurance Group (RGA) Q3 Earnings Preview: What You Should Know Beyond the Headline Estimates",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLV9BcGhSenByNm41Rl8yTHJQcjIzUVBuTC1zYmxFbVp6Rzl5VnRFa19pSXk2Tm0zYWEzOEpJeXNFcmh5THYtWUM4VHhrTm1udm5hRUpsa3JFUHo5LVNaM2pRSC0tT0xQU1BSNHNhSGV2dDdzTmRDcVJBdTFDLVNObEpRU2g4NzBiRUFKWUpDYzBBTndkWDluOFQzNkx2anM?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-11-04T13:15:08Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "5a1218205815",
       "title": "RGA Q3'26 Earnings: EPS estimate is 6.97 USD",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE5qY1BfOGFHb2Y3bU16RFdKdlhyZDdMQS1oZGJVblRKTVRIdjBMMzJhRXVZNDNyekpCVkJ0VmpMRlZpQlItUlk0RWxZVlFFeFY5Y1FSQzU3LXN3SVZ1Mmo0elkzMUYxcjRpQ0dRQ1dxMkxoU21WQnlZb0hkMDVRMWxXcEtLakFjWmlzMkRyWDN1V0x4RzVjY0pNd2VMRy1yN01XczdUbFQ?oc=5",
@@ -698,6 +722,30 @@
       "summary": "",
       "companies": [
         "Athene"
+      ]
+    },
+    {
+      "id": "9b8a1f633252",
+      "title": "Reinsurance Group (RGA) Q3 Earnings Preview: What You Should Know Beyond the Headline Estimates",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLV9BcGhSenByNm41Rl8yTHJQcjIzUVBuTC1zYmxFbVp6Rzl5VnRFa19pSXk2Tm0zYWEzOEpJeXNFcmh5THYtWUM4VHhrTm1udm5hRUpsa3JFUHo5LVNaM2pRSC0tT0xQU1BSNHNhSGV2dDdzTmRDcVJBdTFDLVNObEpRU2g4NzBiRUFKWUpDYzBBTndkWDluOFQzNkx2anM?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-04T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "01803da886b6",
+      "title": "Fortitude Re and Unum\u2019s $3.8bn LTC deal closes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlEtMnB2OXBsbUtzY2JXWWsyeTNGX3c3T2E2Ml9xWGRKZG4xWDMxUjRaQnpOd1d0Y2VyS3hFc3lkSkhnU0IxX0JLRDlaR2dZT1RHVFNjLXZQN2NMZVVtYTZhOVNnejZia0FkclRvc1QtZHRmbEJYLTNXcU94QjNzcXBYa2JMUXhMQ1Z6dnUwLVluRHVJVklTM09ETEROS0owMkMwN1B1M0g3OEFPbEdIeFp3?oc=5",
+      "source": "Royal Gazette | Bermuda",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-04T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
       ]
     },
     {
@@ -821,18 +869,6 @@
       ]
     },
     {
-      "id": "0efb4bc64b8e",
-      "title": "Is Reinsurance Group Of America (RGA) Priced Right On Earnings?",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkhBTmY0eXNmQUxOMUx5cllhODJsMGRjRWQtNGRLdm8xYkZ3Z3ZCeS1JajRGekQ5QXJxZjdyTUwyQW9aRW9UdUFsNjNDbzU4djhPLXNYYWp3QTFzUUtPWVk3QzhmUnBaVXViUFZkOUpSUnNEVTFMdG1KWHFpX3o0V184X1VjLUtEc3piUlhtNC1RUXRibzVVNzBqd1B5cHhPcHhj?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-11-03T03:16:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "a4ba6991271b",
       "title": "What Is Drawing Attention To Reinsurance Group of America (RGA)?",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVp5bWlwc0pkXzlLOE5hajdOV3ltQTBrS3g4VmpDNzlKaF8yU0NPMGF1a0RydnotSUlUamxGSHpRWjN4V1VnakgzOFAxLTVMdUY1OUF5dmxDd0JlSklZZ3JPc0xaalVVYVB0aFlDNmxmNjRYT2gyTVpjNnRvOFZ4dnBEY0Q4MWtRRHhnZEVabHpQTE5qMUJPUnlSeUtoSUZSenVQODN2OFhIQXBw?oc=5",
@@ -869,6 +905,18 @@
       ]
     },
     {
+      "id": "0efb4bc64b8e",
+      "title": "Is Reinsurance Group Of America (RGA) Priced Right On Earnings?",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkhBTmY0eXNmQUxOMUx5cllhODJsMGRjRWQtNGRLdm8xYkZ3Z3ZCeS1JajRGekQ5QXJxZjdyTUwyQW9aRW9UdUFsNjNDbzU4djhPLXNYYWp3QTFzUUtPWVk3QzhmUnBaVXViUFZkOUpSUnNEVTFMdG1KWHFpX3o0V184X1VjLUtEc3piUlhtNC1RUXRibzVVNzBqd1B5cHhPcHhj?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-02T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "773497fde28a",
       "title": "Is Reinsurance Group of America (RGA) A Bargain After Its 30% Year To Date Gain?",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSnRQeVZKY1ZhMU9ZOElISEZMMXpUYUZBel9EcE5DVUEwdWYxckhwTUdvNnNubnJzUVNaa1JVVWMyQUlwOG1FNk01Wl9uTm1JLWpmS0dpYXNvN3lqNmhxbVRXbjJJdEhOWlVHRGhhbnlCeXdKaHI2NE00MW82bGRJVG9RbUtoYWZUdmE4ZXNNOEpZU2F0Q3Z1TXdPbVh0UTI2LW9wWUZpcjVsUHIwbTMtQkJOeWFhcVpFOG05cUFiVUdMZ3VVd1VpVjBpaFhoZWFKOWUyRURZWjFSM2pYRFHSAeMBQVVfeXFMUHRoQndaUTBrX0NvUUQ4cHkxWXo2ZndpUkk1YjExM1F1QXBtc1RUX3UybkxyVlRRU1NIdzhPbDlFZTNibkdwaE0yQjhFNmRNYm1NdmYyeGl2QU1CTWtocEp1cEtJVVJSZFp0SEpwRG9SbDZoWGdFRm5hZmFVMFp5QnktNUxlM2FzNjc0R3ZLZE9rYmJJdnd0c0U2TGlrbHY1d0NIcXVXVjdaZ2JmbDR3cThZc2FHUUdSRFB4cjY3T0otQ0ZkbnJvSVVoUmcwWWR0cmI3R3NoeWk3UGRSWThrNVJZbHc?oc=5",
@@ -882,9 +930,9 @@
     },
     {
       "id": "72c206f43896",
-      "title": "RGA Q2 2026 Earnings: EPS of $8.89 Tops Consensus by 35% on a Modest Stock Reaction - Estimate Uncertainty",
+      "title": "RGA Q2 2026 Earnings: EPS of $8.89 Tops Consensus by 35% on a Modest Stock Reaction - Final Results",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzMwV0tqS1diT2lfN0xQcW41Y2hwaExtQ3hlSnA3RmlIY1pRajl6cEh1QTVYbVM2TTQ3QkFxQlVIOVRqRWJFYWN3emxyNmFKTVQ2Zmp0QWNxeVQzOHl6YXdkNG00aXByeHA4MWNybHQ1d1lkQnBNNXdMOXRoQUNlQW1Geko3a2hfVzJKUjFwMTVlMU1iR25naTFic2V3NG1QeEtZTXR1QmRNZ1FBcjdQZmk4VHFHdU4wWWxaTE9Edw?oc=5",
-      "source": "www.dars.gov.et",
+      "source": "https://www.dars.gov.et/",
       "feed": "Google News: RGA",
       "date": "2026-10-31T07:00:00Z",
       "summary": "",
@@ -1739,126 +1787,6 @@
       "source": "Insurance Business",
       "feed": "Google News: Fortitude Re",
       "date": "2026-09-29T07:00:51Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "05ae5e0a96b3",
-      "title": "Reinsurance Group of America (NYSE:RGA) Stock Rating Raised to \"Overweight\" at Morgan Stanley",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNODVIb1lMYWlTTjM5VjVPMVhzUWtWbTJ1Y0hKeENHWTdqRVRuanFPYXowZE9ZLUR4X0YxVmhCUzN5X1pxUjl4ZGx4NU1yWWloZVBMMXVyeVRrTUxOU3VOOVNLMVJGOHlyY3J3czR3dEdrbXhsSWhreThrQkJCUzBZSDN6QUxVTGcxRVRpeVVqV3VHLWNHZVp4M012bFNiN3JHR0ppMGVPY2E5SE5fWWtlRVczb2paLW9TdTFtM19RT21nNmgtNVBiZ3J5eXNEcjFMOEJmSkl0SlV1Rzllb1NxRlhLVjlGZw?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-09-28T16:11:37Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "7bd7169ce084",
-      "title": "Morgan Stanley Upgrades Reinsurance Group of America(RGA.US) to Buy Rating, Raises Target Price to $295",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWdPdmlqWGtWQ0ZRQTVENk9pWFBIZU1JWWR5SmotS3hockt6V3M3aHdmU251WS1JdHcyMHZiQ0JOb2NGMUwxS1J0V1RUdTlZcFVab21VTUtXcENnR0p6MkxlZUxQTVFOUWVVcVBGOUxJM0NwQWtYVW5ZODFVRjhHRG5sVlZOT0JrZUdfWVBETW5mV2tvR1E0ME5YdzRzdTZnd2RSbURnZ0puV09EMWc?oc=5",
-      "source": "Moomoo",
-      "feed": "Google News: RGA",
-      "date": "2026-09-28T15:31:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "7622ca42c2b8",
-      "title": "Why Sagicor Financial Co. Ltd. (SFC) Saw a Big Gap Between Net Income and Core Earnings",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1pfVm9PYjFiSFdXVWxkM3I4U2F5YnVjUGNKNUZ0S24wV3o1bVZkWERycnhEMFIzYTFzbGZhSFVFbjJmbWMxQlRfTEJWTmhYTmxMMDh0anBYNDY1dXdGeFV5cy0tTi1TRjgzM1c5UmhDWFNEZmVrdU0tVmFFRDRVWlZkRDgxS1pNMmFFM2FMVUwydWdvUjVCV2daZHZnMGM2V0c5dm1USlVSZ3FaZmJIVXBvbklJRWpUbzE3Uw?oc=5",
-      "source": "kalkine.ca",
-      "feed": "Google News: Sagicor",
-      "date": "2026-09-28T15:25:00Z",
-      "summary": "",
-      "companies": [
-        "Sagicor"
-      ]
-    },
-    {
-      "id": "99dadd7f1e8d",
-      "title": "Kristina Magolis \u2013 Venerable Investment Advisers",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVFGY3NBZjFOT1FScXJCTTVWQUQ4MkQ2aW5SblJPWDFYSVBOSnpSbjlnX1FnZ1l1V2dRY0tWcFV0RTlXd2VyTEN1eFJhQWVENFBQdW1ZTllWOVNIemlRVVg1ZEc3a0g5WWllbjg1UFl0T19zcEs1MEd3QU9TOEVhRUMtU0NCTmY0bzZibDFRR0d2bkR1eXc?oc=5",
-      "source": "Vanguard Law Magazine",
-      "feed": "Google News: Venerable",
-      "date": "2026-09-28T15:14:24Z",
-      "summary": "",
-      "companies": [
-        "Venerable"
-      ]
-    },
-    {
-      "id": "16b4627e7b60",
-      "title": "Fortitude Re acquires insurtech Dayforward",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMF83bmU2Z280OXdIcDY0a0c1eERxTmU5S3dwd1JaUU9lTk9kV002bng2NzFPUnpDOGozNTBQVHpXOUpIUkZpN3B3S3R4YXE3dzJuNXVpZ3U1bDVWSVA3UklDOXNjWnNjaTVaQWtjRld6cm5jQXcwdUlJUlRXQmFKMWZSQmh5eE9RcjNZOHhCMzlOcjZSQnIxVzczQkstWDY0WTVlM0JWQWpHWmZZbmh3?oc=5",
-      "source": "Royal Gazette | Bermuda",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-09-28T15:12:44Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "16c882df8b54",
-      "title": "Five students awarded full scholarships from Athene",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVdkclEwZHItSTVwb2VXVjNwQzZ1R2xWSlZXSWYtWTg5RWFJNnZIWTZoWmVQOU0yOERJNEU3SlVJTEJKMzVlNnJhV3VpV0lNczJ5Ylp2SmNDdElPdlZ0X29IZThDNWg2YkctYXhqdERfRHJfSzhON0VwOHlvel9iVDBSTTE4S1B2N24taXI3bjVxRkFSRFVnblk3OHBVOFNLQlVqN01Yckp3RzNPLXJBSldiZkVFMVRYVlRj?oc=5",
-      "source": "Royal Gazette | Bermuda",
-      "feed": "Google News: Athene",
-      "date": "2026-09-28T15:05:18Z",
-      "summary": "",
-      "companies": [
-        "Athene"
-      ]
-    },
-    {
-      "id": "ab8651daa2c5",
-      "title": "Fortitude Re expands insurtech capabilities with annuity platform buy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjgtV1pJSEVkVm1jUXVEbEhWODg4bV84MlB0a1BnWFZqbEN0bHc2dFZkdkxPRWQzMEhieWhrTXVkeWJwU01sZnlWWHNoeVhwZ3oxLURVVGJZTmN0OFgzUFo3N3hpcnZVUmdTVHdnbzFqbl9ZVjdQUTZySDU5TUozTlltS3FISjJpWDJUelVRS1F3bENRQVIyXzh5NmZTOWI1SDdlWkRlWQ?oc=5",
-      "source": "Intelligent Insurer",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-09-28T14:29:36Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "5a51c86832a1",
-      "title": "Fortitude Re advances long-term strategy with Dayforward acquisition",
-      "link": "https://www.reinsurancene.ws/fortitude-re-advances-long-term-strategy-with-dayforward-acquisition/",
-      "source": "Reinsurance News",
-      "feed": "Reinsurance News",
-      "date": "2026-09-28T14:00:24Z",
-      "summary": "Fortitude Re, formed by FGH Parent, L.P. and its subsidiaries, has acquired nearly all the assets of Dayforward, a digitally native insurance technology company, through a newly formed entity that will be renamed Fortitude Life. The transaction includes Dayforward\u2019s technology platform, distribution agreements, intellectual property, licensed insurance agency and its team, but excludes the firm\u2019s ",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "10c37dfa31b8",
-      "title": "Fortitude Re acquires Dayforward",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96U2NFQm9GM0VHOUdtSkd2Nm94MEliM2RGZXdMVHRCRW9NOXh1aTU3Ulk5eVV5WWlxay10RmJmYzBwMWR1ZVNuZC05Y1FfTFMyakluM0dBcmhZSUVwR2lhVW82dmZDUQ?oc=5",
-      "source": "Coverager",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-09-28T12:48:22Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "4426b69dd45e",
-      "title": "Fortitude Re buys Dayforward to power annuity push",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHdkSzd1YUNZT09KUWlQWWtVLUs5OWxnVXBCNEY2Z3ZJcWxhaTVfNVpZUGhYUDdXY2Z6THpXVElHNUpfZGtmTmg3cUJQb2g5emcydExZTWR5ZjNFRUVPVGpXb0xTQi0xTzRma0luNVM4TVBtWnh0aEJVdzJEVndPR2hNTzNYQ0F1MEo3NA?oc=5",
-      "source": "Dealroom",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-09-28T12:38:39Z",
       "summary": "",
       "companies": [
         "Fortitude Re"

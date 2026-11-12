@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T11:15:47Z",
+  "updated": "2026-11-12T19:57:32Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,56 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "53db12b0c209",
+      "title": "Nomura and Aventus team up on private credit platform",
+      "source": "Alternative Credit Investor",
+      "date": "2026-11-12T17:37:30Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM29Za0wzODRaazV2N1VpSE9LZ0diRDFSWmtkUm1ubFZHSUc4MG9GTHFlWUlDV25hMklWRTZpZGxrQmd5MExGbG5obEQxeDZjOGFQLTI5MTh3bU9XejVoUHlVZUVmWVN3RmE0bXpiY1hTUTVYTWlUaFlJYzB0OWI5c2xWUHp5dlRxWnhGWTlKWVNsUUtzUlpKT2pfNVdtRXJzb1hHM3NB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "1fb0b3c42e25",
+      "title": "Here's My Top Long-Term Compounder to Buy Right Now",
+      "source": "The Globe and Mail",
+      "date": "2026-11-12T17:28:10Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVzZkRV9tdm9NVXZkajM1WnEtckZZOFlIeFBSSVVsODhOQW9MWi1UQUJiUXdnNlQtR2lNMm1ZbE1FM2o3X09OMzNsYi1PdGJLNGFSbHkwUWJwb0s3NHNkTmk5blFyUjZmWkl3Z09PLWpoLUNXMnIwZlQtVGNSeUV1MnE1WG5mQ2R2NnpEX0dLNFhEVzVnUExhUmVlYkpaVmJhWW9QZGx0NEoyNXIyb3pEMU16b3RaMnZTc25ZQlZaT2RTdXBkTnZLZXFPemhzWGM?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "4a4ee6b708c0",
+      "title": "Big Short: Fidelity & Guaranty",
+      "source": "Mispriced Assets | Nick Nemeth",
+      "date": "2026-11-12T16:23:07Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCMnl4TFZVVHN6b1BJUjFpNFF4VVIxTTBDSG93WFNfd3NvS0hDaXBMNEtEOGFaMkNsUWJUWUE0TnYxaXRqZXNXN0o3d2lPZVNyTENHaG5CclBTbFg4UlFSd0p2YzJ6ZDAxR3oxYVQ1azBadEhkNFJlQUVR?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "135fb382a320",
+      "title": "KBRA Assigns Preliminary Ratings to Navient Refinance Loan Trust 2026-C",
+      "source": "Business Wire",
+      "date": "2026-11-12T15:32:00Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0p1Umh1cDRqWkl2d29aOThFZlBVRXpxZEI2LVZnOElIVnN5bzlSQk5UV3RGSTE2alJPZGNLWDdWaDlnMHRvVmZFWTBUNURVTUhhNXJJNWZiU2xfLVVkU0J5VkFEdk9ydFl2WnM3QVF1dWJMLTFPQzNlbU9VV2RJMXNXSmhVU3I2SHA1ZUNKdlRrTnBmbGpPbTNrWEI4aU1CSFItNFh2R0pMWDBMRk44blV0RUdoVWx0ZWFCbXJCWDhzd2Myeldv?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "ca4cec80895e",
+      "title": "Central bank dilemma: no easy answers for a new set of economic challenges",
+      "source": "Natixis Corporate & Investment Banking - Natixis CIB",
+      "date": "2026-11-12T12:33:15Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3N5Tmg5R2RmZUF0cnNremN4RW5aNEtac0NtWEZfaXRQa3JicklzVHZ5SXRwU0NGZEhwMWNVaVJ3MndaNUxCUHBKUFhlT2E4SVg3TjFnRzgxRVpVbXMzMGd1WlR3QVhjVGo1T0Fuc3ZfV3VHTVZuNldTTXhEZkdhazBOU1d6Q0Z4YUxDZ1FMaEp0TV8wVF8tSmxPRmlqSXRrQWhjcVdMd0tncDBCRnNuYw?oc=5",
+      "isNew": false
+    },
     {
       "id": "c9ed01f360a5",
       "title": "Banks, brokerages jockey for edge in pension shake-up",
@@ -91,7 +141,7 @@
       "id": "397f9c9df3a8",
       "title": "Asset Manager\u2019s Insurers Dogged by Fraud at 777 Partners",
       "source": "WSJ",
-      "date": "2026-11-11T15:18:29Z",
+      "date": "2026-11-11T14:00:00Z",
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQelcyU1B4TXNyUThvZndwY2hNWkFWOTRQUzFHOTVrZUJCdFBrQVc2S1ZBTXJpYmp3SzlEdjVUS24tenFxWHFfdzlaeVkyUFd2RGdybktGOWdVa2ZzUHlPQlE0TEJ0OTlpbFJPdHJySE9SbUpibWpiNmpmc1NSem8wdFJxVEVNbll4Y3lJLTYyOC1YRHY1ejVlUDQ3c1k5dHNs?oc=5",
@@ -218,6 +268,16 @@
       "isNew": false
     },
     {
+      "id": "587129fd058b",
+      "title": "What\u2019s happening this week in economics?",
+      "source": "Deloitte",
+      "date": "2026-11-10T08:00:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
+      "isNew": false
+    },
+    {
       "id": "e2232637e9ee",
       "title": "Samsung Fire & Marine Insurance to Acquire Outstanding Stake in Canopius with KKR and KIC",
       "source": "Quantisnow",
@@ -245,66 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLTU3WmZGY0tFQi1EaEZlNkNWRW1zQ2R0VG82M1Vfcm5vczA3YWJteG1ZMmgtalk2bmU5NnFad3d4OEZpNmNoMWRiV21fY3A3b3dfN2xfRmFTSmdNeWxmbldPT253VG1pQWtDWncyejRuYXo5aUtDOFlfY0pueURNVnFsdkRNQ0tJQmQwYThBV3FYRnprVnhGQndGOUxSTEQyeWtBZ0hpdndKZHhqZ3Z4emt3Q0hfSkxtT0ZHSHRmN2pHMEZBVHdtUG9rZTI1NC1GOENV?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4d4959400f9f",
-      "title": "J.P. Morgan Bond Manager: The 60/40 Portfolio Is Alive and Well",
-      "source": "Morningstar",
-      "date": "2026-11-09T11:09:50Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbl9IWVViZkQtMWd4a2JMR1JiRXZWaHNydlVkbmlTYXBxVUN5azFnQnVKSUxaT3BLWXFsODNlRFJWQWE0blBEaVFvd2lJNFdhdmJKOHhUTXpPU2ZhZXo2SklzNUdXeUJyNGZ0Tl9hcWVGVGwwYldHTlVaSnlBeV9oS21NRlJEWndiNldCb0xwLWVvY0RQWlhaT1lB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "e3c7bbf797fa",
-      "title": "Korea Investment\u2019s insurance ambitions face a test in KDB Life talks",
-      "source": "KED Global",
-      "date": "2026-11-09T09:36:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjZE5USndQQkY1M0pERHAxZTI2LVVJUVlDSnBXV2laVmdUMFA2YVlETE5hMnppRnJJUzN1TlkxTmExUzdNbjhRZDNTaFMwNDhZdzVHMHdDOEk5cEhuUG1FUHR5azJvUmlBUXJsVnFqR2tZOHVXLTAyalIwUQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "587129fd058b",
-      "title": "What\u2019s happening this week in economics?",
-      "source": "Deloitte",
-      "date": "2026-11-09T08:00:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f6d22c960044",
-      "title": "China Life overhauls investment strategy amidst risk pressures",
-      "source": "Insurance Asia",
-      "date": "2026-11-09T04:28:40Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekFoQzF6MklHaG0yODhRLXNnOGphY3U2Nkk2N28yUC1lY2hfRi1lSUVMZXk4bnhSVkROMk5ackxnRzVwTVpabHE1ZUVxUGctc3NlS1gtSkZWYWhWZDFHdXdqQ2ZEOHJWTGlYOW1PMGhoenByN0c3bnNDVGEycUVrUEp3eVJpN204UGlYQi1qUklkOHN5czJNWHhNNHZVTVE0bjZlVGdjVjk0SWNRRGc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "2f9cc44327d8",
-      "title": "Korea\u2019s NongHyup Life seeks bids from asset managers to oversee portfolio of bonds and stocks",
-      "source": "Asia Asset Management",
-      "date": "2026-11-08T16:11:16Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BbTBDc2VrWTQ1TXphYkRuV1lrd19TNmgxUHVfaVhxZlZyaVNNOGdwMmdDUEFTTE1ZRDVlSlI5dnF1LUFYWUJuSTFoNE16QW5YVF9JdlpXdXBiT1E3SVp3VGhMM2FUOHl3NGZyREl1d0pTZHA4d1JMaG0tQQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "5e312cdb4692",
-      "title": "Weekly market commentary",
-      "source": "BlackRock",
-      "date": "2026-11-08T08:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
       "isNew": false
     }
   ]

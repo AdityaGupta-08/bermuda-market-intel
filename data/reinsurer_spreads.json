@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T11:15:43.047011Z",
+  "updated": "2026-11-12T19:57:28.988198Z",
   "quarters": 12,
   "parser_version": 2,
   "companies": [
@@ -410,7 +410,8 @@
           "0001527469-23-000018": 2,
           "0001527469-26-000079": 2,
           "0001527469-26-000081": 2,
-          "0001527469-26-000087": 2
+          "0001527469-26-000087": 2,
+          "0001527469-26-000090": 2
         },
         "points": {
           "earnings": {
@@ -1020,14 +1021,6 @@
           "unit": "usd_m",
           "points": [
             {
-              "quarter": "2023Q3",
-              "value": 182.0,
-              "filed": "2024-11-15",
-              "form": "6-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742924000027/bws-09302024x6kexhibit991.htm",
-              "source": "sec"
-            },
-            {
               "quarter": "2023Q4",
               "value": 258.0,
               "filed": "2025-02-13",
@@ -1086,9 +1079,9 @@
             {
               "quarter": "2025Q3",
               "value": 427.0,
-              "filed": "2025-11-14",
+              "filed": "2026-11-12",
               "form": "6-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000026/bws-09302025x6kexhibit991.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326007376/exh_991.htm",
               "source": "sec"
             },
             {
@@ -1113,6 +1106,14 @@
               "filed": "2026-08-14",
               "form": "6-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742926000018/bnt-20260630_d2.htm",
+              "source": "sec"
+            },
+            {
+              "quarter": "2026Q3",
+              "value": 519.0,
+              "filed": "2026-11-12",
+              "form": "6-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326007376/exh_991.htm",
               "source": "sec"
             }
           ]
@@ -1199,7 +1200,8 @@
           "0001193125-23-152704": 2,
           "0001837429-23-000012": 2,
           "0001171843-23-003175": 2,
-          "0001171843-23-002031": 2
+          "0001171843-23-002031": 2,
+          "0001171843-26-007376": 2
         },
         "points": {
           "earnings": {
@@ -1247,9 +1249,9 @@
             },
             "2025Q3": {
               "value": 427.0,
-              "filed": "2025-11-14",
+              "filed": "2026-11-12",
               "form": "6-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742925000026/bws-09302025x6kexhibit991.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326007376/exh_991.htm",
               "source": "sec"
             },
             "2024Q3": {
@@ -1308,11 +1310,11 @@
               "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184324000676/exh_991.htm",
               "source": "sec"
             },
-            "2022Q3": {
-              "value": 172.0,
-              "filed": "2023-11-13",
+            "2026Q3": {
+              "value": 519.0,
+              "filed": "2026-11-12",
               "form": "6-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742923000021/bnre-09302023x6kexhibit991.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326007376/exh_991.htm",
               "source": "sec"
             }
           }

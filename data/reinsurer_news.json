@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:01:46Z",
+  "updated": "2026-11-13T19:45:42Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -10,99 +10,99 @@
     },
     {
       "name": "Google News: Aspida",
-      "ok": true,
-      "count": 2,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Athene",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Catalina",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Fortitude Re",
-      "ok": true,
-      "count": 7,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Global Atlantic",
-      "ok": true,
-      "count": 4,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Kuvare",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Martello Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Monument Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Prismic Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: RGA",
-      "ok": true,
-      "count": 38,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Resolution Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Sagicor",
-      "ok": true,
-      "count": 6,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Somerset Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Talcott",
-      "ok": true,
-      "count": 7,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Venerable",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google News: Wilton Re",
-      "ok": true,
-      "count": 6,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Reinsurance News",
@@ -1754,18 +1754,6 @@
       "summary": "",
       "companies": [
         "Wilton Re"
-      ]
-    },
-    {
-      "id": "fd1778679106",
-      "title": "Global Atlantic appoints Dan Farrelly as Head of IMO and IBD Channels",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkdpaWgxd2J2dkd3d2xkZFExOVRTMVV5ZVNDZDRmQjBaSjdhY2p4c19fdEk5Nko1aXFNTWVXcFJ0WG9jd0xaVVhVbFNfVmpONHBfaDBJdHVhX0xzWXNQSnNHNENobk1kaHRmV2hrODBCZTItc1RFSkFhQl9ISTNLb2ZhTzNtNThWbE1mN2Y0ZFlhM2tKTU96eUdPWXFQNWJJ?oc=5",
-      "source": "Reinsurance News",
-      "feed": "Google News: Global Atlantic",
-      "date": "2026-09-29T11:34:25Z",
-      "summary": "",
-      "companies": [
-        "Global Atlantic"
       ]
     }
   ]

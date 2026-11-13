@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:57:28.988198Z",
+  "updated": "2026-11-13T01:52:06.427528Z",
   "quarters": 12,
   "parser_version": 2,
   "companies": [
@@ -1081,7 +1081,7 @@
               "value": 427.0,
               "filed": "2026-11-12",
               "form": "6-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326007376/exh_991.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742926000023/bws-09302026x6kexhibit991.htm",
               "source": "sec"
             },
             {
@@ -1113,7 +1113,7 @@
               "value": 519.0,
               "filed": "2026-11-12",
               "form": "6-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326007376/exh_991.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742926000023/bws-09302026x6kexhibit991.htm",
               "source": "sec"
             }
           ]
@@ -1201,7 +1201,8 @@
           "0001837429-23-000012": 2,
           "0001171843-23-003175": 2,
           "0001171843-23-002031": 2,
-          "0001171843-26-007376": 2
+          "0001171843-26-007376": 2,
+          "0001837429-26-000023": 2
         },
         "points": {
           "earnings": {
@@ -1251,7 +1252,7 @@
               "value": 427.0,
               "filed": "2026-11-12",
               "form": "6-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326007376/exh_991.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742926000023/bws-09302026x6kexhibit991.htm",
               "source": "sec"
             },
             "2024Q3": {
@@ -1314,7 +1315,7 @@
               "value": 519.0,
               "filed": "2026-11-12",
               "form": "6-K",
-              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000117184326007376/exh_991.htm",
+              "url": "https://www.sec.gov/Archives/edgar/data/1837429/000183742926000023/bws-09302026x6kexhibit991.htm",
               "source": "sec"
             }
           }

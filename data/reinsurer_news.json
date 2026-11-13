@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:57:34Z",
+  "updated": "2026-11-13T01:52:10Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 40,
+      "count": 39,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "8b4e061c9f9b",
+      "title": "What Explains the Split in Sagicor Financial (TSX:SFC) Quarterly Figures?",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0RTdXpzMzJLbXVBRUJvcGlIemlXQThVRG1zdThZdUpzd0lpa2RkLXNmZTNFaFJQQndJcU00dHlYWHVjS3hpQ0dHRGwyelhYLXJvSzNDaExBZTRBZDY4UTROOTZwakVnbUNQVHYxQUlWcGVuQ2V2cDdQdGVPMDhFLVJpTWZ5a0VkVDFNZm5MUTlNY3NzYVpyODcweUJXTm52M0cwRkdUN2ttdHNrZldnaVNMdFY?oc=5",
+      "source": "Kalkine Media",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-12T20:50:00Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
     {
       "id": "a507ec8bdc51",
       "title": "Athene CEO criticizes offshore reinsurance, risk-taking by competitors",
@@ -209,6 +221,18 @@
       ]
     },
     {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVVZXVmxhZ254QmlxZldRZzBKVUdwejdOUDl4cGNJM0ZhV3RmZm96cDVkbzVGRmRSaFhSUVJlNkFKMS01R1cxdXhFd3kzOHdL?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News: RGA",
+      "date": "2026-11-11T01:09:30Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "cefc671bd195",
       "title": "Piper Sandler Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $300",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1Zfc0xzWFk0M0pCNkJZdGtyaW10VDBJaVRNdV9kRlUtR0JDdjVaQmlUdUxHNk5pUXFQbHU4cEJId1JhejNZVUhNWlV1dXJmZkdseU5lS2oxaTlHQzM5c0ZSbFFrOTkwcG9XQjdtS2lMRU1KN1Z5bG51Xy1QNGQzb3VtUHRvZDVZd0FteUtLRkdlTjlBNUlpWVVaUUZoM0lRN2Vnb0VTSFZUNlRadDBEMw?oc=5",
@@ -275,18 +299,6 @@
       "source": "The Globe and Mail",
       "feed": "Google News: RGA",
       "date": "2026-11-08T13:40:07Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0bUVidjhaNWJ5R1BPVG92MEItV015SGVya0h2RHJ4NHJET2lNZWpXSFlqU1VqWldiSnRPTVFneXloc3RMcmpCS3VaNVVTWnU3?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News: RGA",
-      "date": "2026-11-08T11:52:09Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -473,18 +485,6 @@
       ]
     },
     {
-      "id": "e9b6c49ea1cf",
-      "title": "RGA's Q3 2026 Earnings: Pension Transfers Fuel a 22% EPS Beat",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1BMZHNZcFdzNFpHMjdJc1pNNTkyV2VmVUdPck95UWthNHZBYnFvZUY2M3FNSGdmUGEzNWhIRkZWbGxWSERiX0FvTmtGdTFuRExjdURONTFJNEk1eHlHUUNEM1kwTTNmWnBudTBNUUNWS1ZyVzNPS2Iwa01nT0J1Y2llbUk3M3VfUTd4dDNGZGZQeUk4ems0Tm9BV0hBODBBS1ZPNU55WQ?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News: RGA",
-      "date": "2026-11-06T03:02:46Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "c54a2b4ed009",
       "title": "Reinsurance Group (RGA) Reports Q3 Earnings: What Key Metrics Have to Say",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGcxY2pKRWZjUXdrVHVBdUdDWGdPRFlmdERXSXR6LUp0SDZRSkNQWFNydnBuYkVjTm1MZkw4MW1PeDZmSUhSNmkzdFlnd3VIRFZVb3hoREZlcGMzWDVaTUpWMW4xak01anNsYWI4WjdreDc1aXF5ZXBpN093SDA5WUZMQzFUUVYyYkJZZHhJRUx0aTZfOE5oYUw3MThKdw?oc=5",
@@ -605,6 +605,18 @@
       ]
     },
     {
+      "id": "e9b6c49ea1cf",
+      "title": "RGA's Q3 2026 Earnings: Pension Transfers Fuel a 22% EPS Beat",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1BMZHNZcFdzNFpHMjdJc1pNNTkyV2VmVUdPck95UWthNHZBYnFvZUY2M3FNSGdmUGEzNWhIRkZWbGxWSERiX0FvTmtGdTFuRExjdURONTFJNEk1eHlHUUNEM1kwTTNmWnBudTBNUUNWS1ZyVzNPS2Iwa01nT0J1Y2llbUk3M3VfUTd4dDNGZGZQeUk4ems0Tm9BV0hBODBBS1ZPNU55WQ?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T21:21:37Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "dc8f83cac8de",
       "title": "Net investment income rose to $5.32B, but Athene (ATH) swung to a quarterly loss.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlNtVlhtaDFNVE5iRUFYUk04U3ZyOG45X3ByUEZzd2x0RDVnVDNvQ1J2eDJobGl1WEpqNnJGM3I1Z2FSM3M5emFsMDhQWU8yQlpFQVZZeFBnZWhIQVdzbXNTMjJYTDFOcXhwc0ZxUHJxZ0tTenhJVVVVeF9sR1BEb2o5bUs3WnF5Q0pCVVlIQjNIY0MwZEZVNFdwWFc0YlBRS0xZOWJCOGNTenc2TFFR?oc=5",
@@ -669,7 +681,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [
@@ -773,18 +785,6 @@
       ]
     },
     {
-      "id": "d614fe9440f4",
-      "title": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbkJlekg5ckk5RmNFWGJ2MlJ5Vld5M0NaLVhXb0xCWnIyUFhidFFxemlCZlY5elNuZ0NMMmk0QldZVmM3RG1ON3ItLXVhX29EWDdHRzhuWTZqZnRpMkNvU19rZUZHbThtUVdidkl6em9RT25NcXVWd1B0MEZlY3lVUjhrZFFZd2NyNFMtaTlCNEdwRU9MeHk1SlRPYVlWU3BLVFd5NmFTcDFFaDl2ZHRicDRHdW9pcWJjdXdHZFdmRllQOUhyZDMzYjd0eTFwQzV0ZnpXSjVSOGNlbnJDVEhwSVhCeWFQOTl0SkcxSjVoUQ?oc=5",
-      "source": "Business Wire",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-11-03T23:06:00Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
       "id": "3542a361e783",
       "title": "Unum Group Closes $3.8 Billion LTC Reinsurance Deal with Fortitude Re",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaGdKb0h6aUZ1WU1fTHhVQm54UTlkU3hHQ2RQMmx2eGpsMTNyVjhrZFozRXBZejVIeHFJakJDaTFZRXhQLVVrVnNzOERKc2J2U014bHBsSkpoS1dhcUE?oc=5",
@@ -854,6 +854,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "d614fe9440f4",
+      "title": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbkJlekg5ckk5RmNFWGJ2MlJ5Vld5M0NaLVhXb0xCWnIyUFhidFFxemlCZlY5elNuZ0NMMmk0QldZVmM3RG1ON3ItLXVhX29EWDdHRzhuWTZqZnRpMkNvU19rZUZHbThtUVdidkl6em9RT25NcXVWd1B0MEZlY3lVUjhrZFFZd2NyNFMtaTlCNEdwRU9MeHk1SlRPYVlWU3BLVFd5NmFTcDFFaDl2ZHRicDRHdW9pcWJjdXdHZFdmRllQOUhyZDMzYjd0eTFwQzV0ZnpXSjVSOGNlbnJDVEhwSVhCeWFQOTl0SkcxSjVoUQ?oc=5",
+      "source": "Business Wire",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-03T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
       ]
     },
     {

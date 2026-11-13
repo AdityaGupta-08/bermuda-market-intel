@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 34 items
-Generated Thu 12 Nov 2026, 21:52 AST
+Generated Fri 13 Nov 2026, 07:01 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 82 items
+- ✅ **Google News (16 of 16 companies)** — 80 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -34,9 +34,9 @@ Generated Thu 12 Nov 2026, 21:52 AST
 
 ## RGA
 
+- **2026-11-13** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVVZXVmxhZ254QmlxZldRZzBKVUdwejdOUDl4cGNJM0ZhV3RmZm96cDVkbzVGRmRSaFhSUVJlNkFKMS01R1cxdXhFd3kzOHdL?oc=5)
 - **2026-11-12** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Gets Price Target Increase from Wells Fargo & Company](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdzlrdWZLZ3J1NGkzcXE2bXdtTy1kbHQzQlFfa0VhbVJnbDBvMExwTHhCaUtqYmt3X2lEbjczLVVxYUhURUtUeW1CMEN0WFZ1ekdtYk93YnVMLWJORzNScUhjR21Wb3o1a2plSi13Z1pNaUJTbmxfLTJySWE1RTVySVFpZlBnVHNKV2ItZ1I0U1NLMlJzaVZVYWZfVGdnd3VrdGZhNThVMGtPeC1pQlBYMm9tY0hQVThXMFIwMThDSm5RZl84SWg0MUVDRFpsYkJXUGhLdGZjeWVsdElfYVJRWDM0OWhaNVVGTjVwaTZR?oc=5)
 - **2026-11-11** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0tZTl8xZGQ4eF9JMXRiS2lVdlNSb2Q5Rk9feEdEWEl2RklfOWRLV0t6UDdzRUlRVDI3UWI1dzlZQW1FRy0tajZlc3NfUDVQLW1LN2pBM19BNGx0aHdMV1FhQWx5SkhSYVNuSnJYX29YM2RrcGp5NHpwdWx1V1NSTVhJckpaT2JxRmExX2QtOA?oc=5)
-- **2026-11-10** — Yahoo Finance Australia — [Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVVZXVmxhZ254QmlxZldRZzBKVUdwejdOUDl4cGNJM0ZhV3RmZm96cDVkbzVGRmRSaFhSUVJlNkFKMS01R1cxdXhFd3kzOHdL?oc=5)
 - **2026-11-10** — Moomoo — [Piper Sandler Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $300](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1Zfc0xzWFk0M0pCNkJZdGtyaW10VDBJaVRNdV9kRlUtR0JDdjVaQmlUdUxHNk5pUXFQbHU4cEJId1JhejNZVUhNWlV1dXJmZkdseU5lS2oxaTlHQzM5c0ZSbFFrOTkwcG9XQjdtS2lMRU1KN1Z5bG51Xy1QNGQzb3VtUHRvZDVZd0FteUtLRkdlTjlBNUlpWVVaUUZoM0lRN2Vnb0VTSFZUNlRadDBEMw?oc=5)
 - **2026-11-10** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High After Analyst Upgrade](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0RiM29LdEx4OVNoWjhxNHh4OVkxOXA1RWRNbUlQRFdQV1UxUktLS2hsRGZHUDN3SDVzWU1Takp6MGdsXzBmeEJEaEc3cXhsbUFkdVptZ2hDTUJqWHB0SlM1b29oX2tTY3hWcEZPT3dDb0ZEZnpBa3V1LUZab19BWEZXN0NBaDd2em5KblFnd29ETVVUV090X0lKbWt1TS1NdjNqZ2s1R3dfdkVXZldwOFNzMXhQa1diNnFhS0ZfUWRhemJ5TVhXMHlrUjdqbFk1QkszbTJqWHJxSjQ?oc=5)
 - **2026-11-10** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Acquired by Leuthold Group LLC](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmd2eVJ3bk8wdDBIM2Y0Um5TTHRFeGJzSmZkb3JLQlBLVEhVY3NxTkRTNFFWcEVRTTd4bGFIbXppMmF1eVBFVUFEZ2NQSzMyMXNBYlAwRGduZ1Rwc1pwMjBhcTlETm0wb0FtMTFybnMxWERqVkFpeVJyVnY3VDN0bUJrR3hrRk4yQnNZQU9YcWZpNWFIR1RiMHJ4S1hnMkhXUE8xUkJTalc0bFNIc2NzemFfd05rQnRraTNrUHVkOGFFc09od1MtNFIyaTUtejhnNVlwX2NtWmZEWGs?oc=5)

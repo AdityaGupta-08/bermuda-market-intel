@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:52:09Z",
+  "updated": "2026-11-13T11:01:44Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "29c5bf2ccd0d",
+      "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
+      "source": "WSJ",
+      "date": "2026-11-12T20:53:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5",
+      "isNew": false
+    },
     {
       "id": "53db12b0c209",
       "title": "Nomura and Aventus team up on private credit platform",
@@ -35,6 +45,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTFianIxSkJkamxENjJkSlAxQWZLRGFDMXl5ME01dHkzNExEV1VBZDJuTTZjS0NTdGZWOGt1NkpQMFlDOEdEYUpndWJSR2NfaE5FZlZ3blgtb1pxb1loSVI0cld2ZzdVZ3A0dURCdW9OS1ZVa0dTNTBXNzM3VGNjamc0SlNna0ItTXVSSFZUVFRFenVRSi1xcnZB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "2a98b0bc6dd5",
+      "title": "Willowdale Asset Management Appoints Frank Magliocco as Board Advisor",
+      "source": "Yahoo Finance",
+      "date": "2026-11-12T16:34:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM050ZHV6b3dXOGRwZDJxay1GQjZCRXpkMDcwWkV2M0ZyN2plSTBYX0d3RkFKTjNuVkNTTWRfb2UtQU8zelk3VFB3cWNuRkRYR2ZXYTMzZTFxMW1iQ2pTd0JQaTRmLVYzSlZScmZDR1pCb3RNU1d3T3NvRnVqam5HamEzZjBTV0prMHJ5d0JidUlyZU9MS3VHTEFTaENHSGJxakZlWXZjSQ?oc=5",
       "isNew": false
     },
     {
@@ -228,6 +248,16 @@
       "isNew": false
     },
     {
+      "id": "09dd0f3137f3",
+      "title": "$140 Billion Insurance: How Lenders Are Quietly Hedging Against the AI Bubble",
+      "source": "Emerald Book",
+      "date": "2026-11-11T06:38:38Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HT1NUV29FS19xellCNjdUQlVUcWt6MUxtcUQ2b3NuVnBWOUtPZnFJSFhLcTRMQS03ZzlJVUkxSDBKRWs5a0NkbVZzVVdNb2hjaWc?oc=5",
+      "isNew": false
+    },
+    {
       "id": "a68b1987f590",
       "title": "Private Credit Bucks Asset-Management Bonus Growth Trend",
       "source": "planadviser",
@@ -275,36 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0QlZRYWI3VHFKaVJwLVM3M3poYnFqajJEMDE4cHZkTjVCaV9QRDlGLUVYOUEyQm5QQ25lN2RFZld4VV9mSm1XWmhuUHVUREoyN2NLQjlyZ2o5am5fSkp4VUJxcF9fVWJJX2R4QW9zc2c?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "587129fd058b",
-      "title": "What\u2019s happening this week in economics?",
-      "source": "Deloitte",
-      "date": "2026-11-10T08:00:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "e2232637e9ee",
-      "title": "Samsung Fire & Marine Insurance to Acquire Outstanding Stake in Canopius with KKR and KIC",
-      "source": "Quantisnow",
-      "date": "2026-11-09T23:12:01Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcThPbUVDWXdUd0ZxbG1kS0N6eHkzeU5kQ2IxcFR5MFNOb19kOUt5YndHbVc1Sm1sdnRlTHlWOHhZQTN4T1NYV25wQlBnRUY0MFpRUzJrZ3NJTHpSc0NsNkdMVmItRU91Qmx5YW0zU1FrdDNMOWdxSUo2N25OMzBpb0lDVjY5ZnQ0aGJSYmJyMmFibXZUSXFxQUJNUS1KTVpZVEx1UFB0cHRGM3RkazBDOFhoZw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "a615d46ab6c4",
-      "title": "HHH Q3 Earnings Call Highlights Asset-Light Real Estate Shift",
-      "source": "TradingView",
-      "date": "2026-11-09T16:25:19Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkE1MU9tanlyZWhCc21OUGZRSERWUmdJXzEzdmNBY3hQRGQ3ZHZRWlZINkEzekIzYnk1RENkVENCbl84RGgyemk0aFhpSWdSdktfVEZUb1dtc0pWSVRZNko4Z0Vld1p0X1dZVmwzT0cxdm84djhVZEtaZDFURHgtdnJUMWFpYm85b0RTSS1tOURYRXJ1bTI0ZmJVRGJaOTNLT2c2WTdMUU1KNHdhS2tUZVdtZm5FQXZY?oc=5",
       "isNew": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:52:09Z",
+  "updated": "2026-11-13T11:01:44Z",
   "naic": [
     {
       "id": "527d57292fd2",
@@ -354,6 +354,16 @@
       "isNew": false
     },
     {
+      "id": "d2292a4da23f",
+      "title": "Official Govt & Legal Notices For August 26 2026",
+      "date": "2026-08-26",
+      "cat": "General",
+      "summary": "",
+      "source": "Bernews",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83QXNnMlpoUnBXT3NYR2ZtcXFzR1FxY25UYVBoVE14cjdIWHhIMU1selltV0dSVzdhN0twSXY4SWhob2V3a0hvNG00WkxsdDhFeFBheTl3bXZyOHduaF9wNW9Cck5wV3RrYmQzZ2pDWEFOVkl2UEo1RnA5aw?oc=5",
+      "isNew": false
+    },
+    {
       "id": "b8f2c54b94e3",
       "title": "BMA moots new rules for international insurance groups",
       "date": "2026-08-25",
@@ -485,16 +495,6 @@
     },
     {
       "id": "0800f02fee4a",
-      "title": "Bermuda\u2019s ILS sector well-placed to benefit from stablecoin development: BMA",
-      "date": "2026-07-22",
-      "cat": "General",
-      "summary": "",
-      "source": "Artemis.bm",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1B5X2ZUMThlOWl6Z2kyUWQ2cWpPLUM4a1ZiSXBaR2VPVmRLRjBzbWoyX2lxNkp6RElEUllTWDNibE5hYTFsV293RGJOcGdnT0R6SldVLWRMX2JFa3I0ZW1FUjlLTFJFVW9ReXlTN3ZqTVBiVHpoRVdzZENGYzFNdlBrQjY3MEJmUjZIQ2gtSDJXR0t1WlJ5VUsxaVNFMDdHeXduSQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "66e0bc12fcea",
       "title": "Bermuda\u2019s ILS sector well-placed to benefit from stablecoin development: BMA",
       "date": "2026-07-22",
       "cat": "General",

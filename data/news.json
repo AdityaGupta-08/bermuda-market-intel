@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:29:02Z",
+  "updated": "2026-11-14T10:29:22Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,6 +8,16 @@
   ],
   "items": [
     {
+      "id": "c695060eadb5",
+      "title": "Gold's $4,000 support breaks as Fed fears grow; analysts eye $3,800",
+      "source": "Kitco",
+      "date": "2026-11-13T20:24:26Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOamVpVk9OcXdFVWlWTFVUTG1xendnVlZLR2NId0llYnVBa3U0UGlnZ3NsV1JMUVhCeEdwT3AwdGgwdF9QYk4wZ3ZFWVpUQjFCblBhYzI0Q1BNc3NONjRiSkpCc1JhQTJfcDVrR2pSOHhya0I1QWhCOEMwdS1UX0hHQTJEY2piYWgzaGRDTWRLV1hJaGJiOHlQdzZiZ2xGQV9fUUtDM2ZESQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "032a951c2a57",
       "title": "The Companies Selling Life Insurance and Annuities Pay Dividends Too. $55,000 in Each of These 3 Pays $5,451 a Year",
       "source": "24/7 Wall St.",
@@ -15,6 +25,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1F2TXZ3TFBKbU9kRUpBM3hIcDJpbFVhVlBXVXJHX0FnUTNYRTk5TURhUkxiT2N0dm9oQ1B2M3pCYnBxd19aRkZpQ09vUjh6bk91QU9PUExEdXkzZl9LUk5CWkZGbjZOM2FyN0EwZEd1WmtsM0JQR0p1ZDViZHFNaUlEdFBwR2l1OVNMZnJwU2hxbmM1RDlaYjF1aV9Rd1RXOXNnQXRObE5TYVNyVHFDTmZvaFM0WWZDanVZclFOMjlfbGYxNWlBVG16MnpQNVVsNnZkQS1mRDM4OTlycnRkLS1rTUZwSDZGRUE?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f10d0fde6809",
+      "title": "3 U.S. Asset Manager Stocks for Investors Seeking Bond Income Now",
+      "source": "Yahoo Finance",
+      "date": "2026-11-13T14:11:38Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTkZLbG1aRExYQzlGMEw4NS1lc1czZy1ybVJKdG5qRnBZdThtR1Z2UGtxSlQwY3Q2LWpSSUtfNVV4Yy1XNS1ETXVQVGpsSWVXSWdZbXh2RmIwLTZETmdMUGwxdWNpZ0ZVUGR6Qkh6eVNtWm50eW9qN1YtSnlXUG9hc3BpLUFqSUQ2S1dsMEJMMVBaSGc?oc=5",
       "isNew": false
     },
     {
@@ -45,6 +65,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHNFTkp2OUQxa083dUtvajhBcWhqVTJqV2R5NHRkUFdhXzJEZDNFRmVmUzlWTE1oTWlPa3l2LUFnaVphMDIxMl96eFFlYjg1Q1A3YU9sUEhMYzVxb0dtYTUybXMydnFoaWJyTzVVenJrYzJVa2ExMnRPN2RNZ3NvLV9qd2lieFA0aFB5Rkl4ellteDRiM25JLWQzb1pBUzcyRDBqNUplcE1vUQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f98e6ae02094",
+      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+      "source": "MarketWatch",
+      "date": "2026-11-12T22:16:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXRmY2hqcTlNTnNtZWMyeVJHSy10VGt0Zm5GdS1yRHNKU3lfY2RUZnVnVmk4alB2WFNhUDF2cV9FcnZLTHA5VjFpWmhLYTlfTVRuYjdLVlpFODE4N1U4WW9ma1BRS21rZjNndjJ1MG1fU0tpdWZnWk1FMHRiT2xZRVdOVWYxUXJzWEdOYmJUeGRFRjR1ckhsdk4zcVA0d1Q4aTh6WEhDR0ItU083a2RGclE4VThOd0h1TklldUxLYUptYWdrY0pjZ3lJZ3VqUWtaX1Y1dF93?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0VYSFltY1ZucHYxV0duNXU5REhoTDRiaWZYenpaeVN1LURDcUN6VkgtdG40dzYtdXhrZXl2eHdLS3hmX3daMUdKcmZoQXVFeGxNUkJsMGZZZ1diRTMtNDh0aU92UEFnQ2IyWVF0RGVadWkxVE1WR08tY2U1TGREVWUxTW1DdW5fNi1SRVk4SmZwZlR0UHJDMzE1VG5sZGlCUWIzZzlEUzdHa25FVmdqNWpn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4c24d7cbc93e",
-      "title": "Inside Standard Life\u2019s PRT partnership and private credit focus",
-      "source": "Alternative Credit Investor",
-      "date": "2026-11-11T10:40:46Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0VYSFltY1ZucHYxV0duNXU5REhoTDRiaWZYenpaeVN1LURDcUN6VkgtdG40dzYtdXhrZXl2eHdLS3hmX3daMUdKcmZoQXVFeGxNUkJsMGZZZ1diRTMtNDh0aU92UEFnQ2IyWVF0RGVadWkxVE1WR08tY2U1TGREVWUxTW1DdW5fNi1SRVk4SmZwZlR0UHJDMzE1VG5sZGlCUWIzZzlEUzdHa25FVmdqNWpn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "47afc0e116f4",
-      "title": "Hong Kong needs plan to lure world\u2019s plentiful \u2018patient\u2019 capital: FSDC",
-      "source": "South China Morning Post",
-      "date": "2026-11-11T09:00:24Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLU8yMXM0TVIwUTVUbHNvQkF0bXBEd0Q5V196dWJCbzhGaS1uQTJJOFRLbktiR1l6ak9NVGRWLUhzX21aLTBGTGNRSmJfTnZ2XzVMNUV1ZzZsd0pMZkFJWFFUY2NZR25iWFhzalQ3TkpJZm1adkJPRUFWQnI3TU40Q210aFFlSXN5bHFDVmlBa1JwbXpsVl83WjEyYktWSmpoRTN4eXYteDQ4REtHVU00V2lFZXhhRkhFNGp2RmxwRTF5OEtrRHkzVTRGSWdZRERqUW9qUDJ5a0xHZHZo?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "7eb887143c62",
-      "title": "Marsh acquires Wilshire in push to expand investment advisory reach",
-      "source": "Insurance Business",
-      "date": "2026-11-11T08:24:42Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObkVjV1ZwMFcwV3VqS1l0Zzd4NkV4WEdFMUxLOTFsWXRwZ3BCdmdaR3lzdnRCeWFESmFjektGbTZvYlA2eDNRNFF4S1FnNkxkMkw4MlN2a3V3OFI0bFlqVlB3QnMxMlhmVGFrMVNGWHRFbHBSTGdyTzBmUFhfeElVVGNOaFNTdFZuSi1EcGVVSFpCZmlKMUUxa0J5UkpBUjhSM2RwbHlSOGY5OTVOMWhaUVpQeUpGeWRlU1ZnZ1NiM05KYlZ6b3NRZnlGX0VsaUFDVDFtNjJPMU44SFBhVEE?oc=5",
       "isNew": false
     }
   ]

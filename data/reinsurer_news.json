@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-14T01:29:04Z",
+  "updated": "2026-11-14T10:29:24Z",
   "lookback_days": 14,
   "feeds": [
     {
       "name": "Artemis.bm",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "name": "Google News: Aspida",
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 36,
+      "count": 35,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -197,18 +197,6 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVVZXVmxhZ254QmlxZldRZzBKVUdwejdOUDl4cGNJM0ZhV3RmZm96cDVkbzVGRmRSaFhSUVJlNkFKMS01R1cxdXhFd3kzOHdL?oc=5",
-      "source": "Yahoo Finance Australia",
-      "feed": "Google News: RGA",
-      "date": "2026-11-13T07:59:59Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "8b4e061c9f9b",
       "title": "What Explains the Split in Sagicor Financial (TSX:SFC) Quarterly Figures?",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0RTdXpzMzJLbXVBRUJvcGlIemlXQThVRG1zdThZdUpzd0lpa2RkLXNmZTNFaFJQQndJcU00dHlYWHVjS3hpQ0dHRGwyelhYLXJvSzNDaExBZTRBZDY4UTROOTZwakVnbUNQVHYxQUlWcGVuQ2V2cDdQdGVPMDhFLVJpTWZ5a0VkVDFNZm5MUTlNY3NzYVpyODcweUJXTm52M0cwRkdUN2ttdHNrZldnaVNMdFY?oc=5",
@@ -234,11 +222,11 @@
     },
     {
       "id": "da71407d7f09",
-      "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise By Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMzd0UEJfSU9wY0xaYmFwQnVSNUt4RDFScmx5djV0UkRVTDBwajlTc3dzUl9JUEdGMVFTczBrM2lXdEtYWFhFNFIyODdGTnowVHBrT28wSkh0RjVBeGpNTDdyMWQwVkN4YUtWbmRPeVNkS0Zud1ZuSUtJTEI2M2R2dno0Z2xtbTFMMjJQTTBjLUFYZXdxYnJEWFhMeDVhdW9PNi1CMndaWnlvRVRPNjdmX2FkVWxnQWdraHVseDVQVVZwenh1OGlrZlRHSUFpWGxmTjN5MmJlVFgxNTRMYjh0TA?oc=5",
-      "source": "Investing.com India",
+      "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEk2Q0JfaU5QbXQzQUMxWGp0Z1VFM0JQUVZ0N0EwTkw2eEJNcm80OURkWGpveEYyOWw5dE9McDdlcVJvd2stY19nVWVITnI5U21iSF9hRDhSTDBBZWlXY2NzV3ZwY1JsTjBhUW1xeWxUMjBLdUk2TFlCUFlqY1V1c0xnRTNKbzNoUksxWW9FM0RNOFV5anNna1ZLMXdLa21LVmx6MlExWnlhRm1nNE41ZHFrNTAtVldkRDNWZVRXV014OG9KRHEzMlpFYWFfX3VCRVFMVjViYTc2SW02SmpNOA?oc=5",
+      "source": "Investing.com Canada",
       "feed": "Google News: Sagicor",
-      "date": "2026-11-12T16:00:21Z",
+      "date": "2026-11-12T16:09:59Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -278,6 +266,18 @@
       "summary": "",
       "companies": [
         "Sagicor"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-11T23:17:13Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -370,7 +370,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0NscDk2MGR4RnhrOEFEd181MUFxWlRpTVlneEJKczZDd0tOa3lNQzBseXpCY3d2MTVVeXYwNnVhTERlLWFzNUtTZU1NSFFlRU95Yk96Wlc2WWpqLXVodVRXUnN3cnFnV3l2THR6SXdfYmFEd2ZjN2p1U0daU3BFcFNNUnFXYmdxdXNvVUxNWQ?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-11-10T05:57:08Z",
+      "date": "2026-11-10T05:41:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -919,8 +919,8 @@
     {
       "id": "a87a63c0a38b",
       "title": "Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNG9VcGhHY19ONW9jN0xvdjB0Y1NaRHhmQ2RDekYweC0wc1k4MUgyZ1ZGNE4zSmhvQUNGWTlkRFVhdVJDY3FEV2lMSVNCZ3hvUjJxTU41RGRTRUxlclZ3YVFKSUs0WUozM1BrN1pueHQ0QjhoMFppMFFPZXpvTHBTNHphLXpqNzRtdnIwSjJKdzRYR2dPTGg4Q1VndzB3Zl83QTdVRDNmRGFTdTRkZUlpUEM5TVBYSmZ2cnVkZ1NkcGhlWGFBaExHUlBIdTBNelF2SnlvMk1WSm1oUnZZV3hN?oc=5",
-      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSl9SUDBUZkpXZTFJY1oxT0VCc3B5Ymt1ZXpHaS1FR2tRNXNBMjdaYnpfbDJidENLUGJqdXJQVk5KalNfZk45TTBzSFp2UUdjY0k2aHZDcDFGbmNuNVlrWG43VklEOS1Ca1lydTQwNDN4M3ZtV05MNUFCSTdQRFhaWlFQa3k0TGNwbG1Lc2JnZEFQUVRYTjZScHVYRHpaWFJERDltOGd6N2FDUHc3Mk9Eck9KTkhTZw?oc=5",
+      "source": "Quantisnow",
       "feed": "Google News: Fortitude Re",
       "date": "2026-11-03T08:00:00Z",
       "summary": "",
@@ -1826,18 +1826,6 @@
       "summary": "",
       "companies": [
         "Global Atlantic"
-      ]
-    },
-    {
-      "id": "c430e80d19ac",
-      "title": "Wilton Re modernizes a scalable foundation for acquisition-driven growth",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUE3Ujl4eU1KWVZqci0yeGdoZUpWenFic0ozOUZ6LS1fR0g4VzQxaFk1YzFfRHh6MW56NWk2S05kN1pndjJTSnhsd2t0ejd5eDdkZlpyZkpDRFBVX09FblpOLVpSN2JMZG1UMzFGWVRHNDRublFmd19zX3ROaG96a0kyb2FOLWk2dExoMW1Oa1NaVURvZGtCZnBn?oc=5",
-      "source": "DXC Technology",
-      "feed": "Google News: Wilton Re",
-      "date": "2026-09-30T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "Wilton Re"
       ]
     }
   ]

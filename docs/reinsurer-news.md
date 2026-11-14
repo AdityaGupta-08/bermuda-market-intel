@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 36 items
-Generated Sat 14 Nov 2026, 14:05 AST
+Generated Sat 14 Nov 2026, 18:26 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 80 items
+- ✅ **Google News (16 of 16 companies)** — 78 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -35,6 +35,8 @@ Generated Sat 14 Nov 2026, 14:05 AST
 ## RGA
 
 - **2026-11-13** — The Globe and Mail — [Reinsurance Group (RGA) Gets a Buy from Wells Fargo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzlMOFlnbjg0RHFNelpzdm5mTHZYT0N5SW5YZ1pHWUhJT004MGRWSTREUFZUUUJwX2pZQXRNdkl6aEY3WEMyWjA2SUZhQk5UZXl3Z21vTkdrWlFyWFdmbUp1SlZ0SEx2S3VLNWFVRDhmU3ZiUVpLV2ljR1hHMEU0SVhTY19rcjAxa0J1Z3ZucmhrLUR3X3V0dmcyMHZGZ3o5RGtRbGoxNExaM1FfdERKLWdKeWNMVm13Mks4MDlnVXk0MGZLdG9LT0xDc1BtUQ?oc=5)
+- **2026-11-13** — Stock Titan — [CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5)
+- **2026-11-13** — Stock Titan — [An adviser exercises stock awards at $129.72 at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLU1BeWhNNWdSSnZOb3BWTlVTdDVDWkE4ZzVsOHp4SkVOOUljdlJldUxkQTBBdUR6MUU1d3lERThicW9UZXNleEZ4dS05cVMzNHY5VWhJaS1RR3pmME05bjI0a041WGRaVjBQVWktMzJEbExlVzJyemVqTktvTzB2c3BkU1c0ak5adXE3QVBKcnVVbTJhN0o0MGFMUWJ6ZGpyMndjNl81NTVGNWx3UFRJY2RmVkQzWkZ3RVZkekEtMEt3a0U?oc=5)
 - **2026-11-13** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) EVP Jonathan Porter Sells 3,852 Shares of Stock](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzBfdU5NQTJTTWdYaENuUHNTc1l1cXhMRU01V1BsUURmNUV0QTIwanRXekU3ZGtpODItU3BUd3BaX01pUjZLd2M4T2hxMXJiZFVEeEk2NEFlcDZzZWtTUVEzQXNuT0RyTzFhV0M5TFAxZV9teVk4M2lTcWN6WEh4NnhlQVNHMW1vWnZwUXVGRTJuTXE0QUUwSmFNWEowRF9hQXQ4OF85ZWlHTWJlQW1lTTJ1UTkzNmEzVzYyenlFb3BLdEw1X3cxR0xWV0xjb2ZhNkZkMHpENGQ1R2RRMktZ?oc=5)
 - **2026-11-13** — Stock Titan — [After selling 3,852 shares, Reinsurance Group of America (RGA) risk chief holds 11,033.](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2lVbHMyakNQY1VRa3gwSkpZVkJRbHZsY19ZTS1rQlAxb3NsbEdXUTlXTUF2Wk1JdW41NndqQWtVcjBkNU01dm5zZ3h2WXVqcjRrOGhVZmkzX2cxOC1tTk1fZTdaR1BNQ3NsejVBcXZCMGt0TWF6NjV2c3RNRGtMMk54YXMxTFFGN05OQ0I0S1FGVzQ2LW0tMjZUaU9WNUdXWm9PNzZqWkR2cHRQd3hLLTFkODdwWWRmWm9KTmRTUDB2NHc?oc=5)
 - **2026-11-13** — MarketBeat — [What is DOWLING & PARTN's Estimate for RGA FY2027 Earnings?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG1BX3gyT19pSXNBT2ZVWlUtVUpQNjRuYjhST2I2MFUxeGhTVHU4RHVQTmlseUpjNFFLUFVwTGE1LTdnQjlId1dxUmdiSy1xZ2doZjdQZWJoaThnZl9KWjNpOHhDYXc3NHMyQ3BlQ0VDYTBEaDR3V3EtZG1rVklmV2pDWnp6S0N6NTZiOVZJUXY2OElXVG9pTlNrRHFXY2Q2TkF6MVh4Q2ptTk9ZMEI3a3lRc3N6UUtOQnFJ?oc=5)
@@ -44,8 +46,6 @@ Generated Sat 14 Nov 2026, 14:05 AST
 - **2026-11-11** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-11** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0tZTl8xZGQ4eF9JMXRiS2lVdlNSb2Q5Rk9feEdEWEl2RklfOWRLV0t6UDdzRUlRVDI3UWI1dzlZQW1FRy0tajZlc3NfUDVQLW1LN2pBM19BNGx0aHdMV1FhQWx5SkhSYVNuSnJYX29YM2RrcGp5NHpwdWx1V1NSTVhJckpaT2JxRmExX2QtOA?oc=5)
 - **2026-11-10** — Moomoo — [Piper Sandler Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $300](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1Zfc0xzWFk0M0pCNkJZdGtyaW10VDBJaVRNdV9kRlUtR0JDdjVaQmlUdUxHNk5pUXFQbHU4cEJId1JhejNZVUhNWlV1dXJmZkdseU5lS2oxaTlHQzM5c0ZSbFFrOTkwcG9XQjdtS2lMRU1KN1Z5bG51Xy1QNGQzb3VtUHRvZDVZd0FteUtLRkdlTjlBNUlpWVVaUUZoM0lRN2Vnb0VTSFZUNlRadDBEMw?oc=5)
-- **2026-11-10** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Reaches New 1-Year High After Analyst Upgrade](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0RiM29LdEx4OVNoWjhxNHh4OVkxOXA1RWRNbUlQRFdQV1UxUktLS2hsRGZHUDN3SDVzWU1Takp6MGdsXzBmeEJEaEc3cXhsbUFkdVptZ2hDTUJqWHB0SlM1b29oX2tTY3hWcEZPT3dDb0ZEZnpBa3V1LUZab19BWEZXN0NBaDd2em5KblFnd29ETVVUV090X0lKbWt1TS1NdjNqZ2s1R3dfdkVXZldwOFNzMXhQa1diNnFhS0ZfUWRhemJ5TVhXMHlrUjdqbFk1QkszbTJqWHJxSjQ?oc=5)
-- **2026-11-10** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock Acquired by Leuthold Group LLC](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmd2eVJ3bk8wdDBIM2Y0Um5TTHRFeGJzSmZkb3JLQlBLVEhVY3NxTkRTNFFWcEVRTTd4bGFIbXppMmF1eVBFVUFEZ2NQSzMyMXNBYlAwRGduZ1Rwc1pwMjBhcTlETm0wb0FtMTFybnMxWERqVkFpeVJyVnY3VDN0bUJrR3hrRk4yQnNZQU9YcWZpNWFIR1RiMHJ4S1hnMkhXUE8xUkJTalc0bFNIc2NzemFfd05rQnRraTNrUHVkOGFFc09od1MtNFIyaTUtejhnNVlwX2NtWmZEWGs?oc=5)
 
 ## Sagicor
 

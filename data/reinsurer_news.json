@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T18:05:39Z",
+  "updated": "2026-11-14T22:26:53Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 36,
+      "count": 34,
       "error": null
     },
     {
@@ -131,6 +131,30 @@
       "source": "The Globe and Mail",
       "feed": "Google News: RGA",
       "date": "2026-11-13T23:42:09Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "9bf0ad5336a7",
+      "title": "CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5",
+      "source": "Stock Titan",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T21:08:53Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "b4ae3ec7e47c",
+      "title": "An adviser exercises stock awards at $129.72 at Reinsurance Group of America (RGA).",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLU1BeWhNNWdSSnZOb3BWTlVTdDVDWkE4ZzVsOHp4SkVOOUljdlJldUxkQTBBdUR6MUU1d3lERThicW9UZXNleEZ4dS05cVMzNHY5VWhJaS1RR3pmME05bjI0a041WGRaVjBQVWktMzJEbExlVzJyemVqTktvTzB2c3BkU1c0ak5adXE3QVBKcnVVbTJhN0o0MGFMUWJ6ZGpyMndjNl81NTVGNWx3UFRJY2RmVkQzWkZ3RVZkekEtMEt3a0U?oc=5",
+      "source": "Stock Titan",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T21:07:52Z",
       "summary": "",
       "companies": [
         "RGA"

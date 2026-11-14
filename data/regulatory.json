@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-13T19:45:19Z",
+  "updated": "2026-11-14T01:29:02Z",
   "naic": [
+    {
+      "id": "b09629b6e97c",
+      "title": "NAIC fall meeting to take up private credit as insurer exposure tops $1.2T",
+      "date": "2026-11-13",
+      "cat": "Investment",
+      "summary": "",
+      "source": "InsuranceNewsNet",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSl9GaHB1VW1Ud0VYeHAxRElmTEdjSDk4NFlxREFZZUpiT3dURFI0WkhDSjJpODQ2S3RQWGpVMnNaMHJxVUQyTmRCa0V1OWxKNkFQdlJFbHducnd6MUxHbE9tZmFCMWtTZU14X09iLXZhbmFXQzRIV0tVdWt4STJlMFRMNkpmUEVET0JzMlExM051VWc2OU0wcm5QenpELURmVFo4T29qWWpmU1M1Smo0WUw3Yw?oc=5",
+      "isNew": true
+    },
     {
       "id": "527d57292fd2",
       "title": "Insurance industry backs CIG bid for NAIC recognition",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DeXN4cnhld0luT0wxMElFc1oxZGhaVTJtbW00NXFaLWVTUFYxNF9Wdk56M2JEYnZHVzktdkhiSmRfckxuQUM0dmFfaHVlMlFVMi0tLU42eXlIZEU5QkJIQVNHLTl1MUVSZ21JSVBLMEt1VmRIZUlV?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "91fd005502cc",
-      "title": "Insurance Regulators Back State-Led Model in Reply to Warren",
-      "date": "2026-09-25",
-      "cat": "General",
-      "summary": "",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWR6a2k2NzgtRHBIeU5odmtHVFpfWmZSN0J2aWFfZ2NybEpBd3RRVDVmMGVnSmVxakhTSXRiX1E4WVlFb0pXSkxvZUh0d0NrUjB3QV9WaVB0cXRkcy14Y3pPeWdXMDU5bElmWENyelhJcFlkdFpjc1hQS1BicllNZy1rdlZJS2VLakM0WlZ3cFJGTjc4VVJ6MjdXS3Y0OFVGdGExd242UVhfNEtSLTM1OXBsUQ?oc=5",
       "isNew": false
     }
   ],

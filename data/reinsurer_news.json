@@ -1,108 +1,108 @@
 {
-  "updated": "2026-11-13T19:45:42Z",
+  "updated": "2026-11-14T01:29:04Z",
   "lookback_days": 14,
   "feeds": [
     {
       "name": "Artemis.bm",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "count": 10,
+      "error": null
     },
     {
       "name": "Google News: Aspida",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 2,
+      "error": null
     },
     {
       "name": "Google News: Athene",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 10,
+      "error": null
     },
     {
       "name": "Google News: Catalina",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Fortitude Re",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 7,
+      "error": null
     },
     {
       "name": "Google News: Global Atlantic",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 4,
+      "error": null
     },
     {
       "name": "Google News: Kuvare",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Martello Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Monument Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Prismic Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: RGA",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 36,
+      "error": null
     },
     {
       "name": "Google News: Resolution Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Sagicor",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 7,
+      "error": null
     },
     {
       "name": "Google News: Somerset Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Talcott",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 6,
+      "error": null
     },
     {
       "name": "Google News: Venerable",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Wilton Re",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 7,
+      "error": null
     },
     {
       "name": "Reinsurance News",
@@ -112,6 +112,90 @@
     }
   ],
   "items": [
+    {
+      "id": "40b17082cccd",
+      "title": "Athene and Apollo entities report shared power over 608,000 Calamos (CSQ) Series F preferred shares.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPay1TbGthYW1HQVpLZGx2ZENEck5YeWJ3RTVkajk4MU4tanVmMDhuNFBmRFBEei1RSXU3ZFlqZTVkQlpxWGUwalNHV2pTLWlpcXZEeGFyVW1zSUhsb0RLbmtsYUlNZTlaNUVDbkRZdXJuQjJIWmxOYy1jUTMzQUNUOTZEQ2FBZ2F4aUF1U1o3VW5pUGtGSTZpVWdpZ1hkc0JHR0pYTHFHbnYyQzlRajktN0NiMlU3SjJVTjZkTTZtWUROYnU1TFVvSm13?oc=5",
+      "source": "Stock Titan",
+      "feed": "Google News: Athene",
+      "date": "2026-11-13T23:59:05Z",
+      "summary": "",
+      "companies": [
+        "Athene"
+      ]
+    },
+    {
+      "id": "b3ce63a7ad5e",
+      "title": "Reinsurance Group (RGA) Gets a Buy from Wells Fargo",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzlMOFlnbjg0RHFNelpzdm5mTHZYT0N5SW5YZ1pHWUhJT004MGRWSTREUFZUUUJwX2pZQXRNdkl6aEY3WEMyWjA2SUZhQk5UZXl3Z21vTkdrWlFyWFdmbUp1SlZ0SEx2S3VLNWFVRDhmU3ZiUVpLV2ljR1hHMEU0SVhTY19rcjAxa0J1Z3ZucmhrLUR3X3V0dmcyMHZGZ3o5RGtRbGoxNExaM1FfdERKLWdKeWNMVm13Mks4MDlnVXk0MGZLdG9LT0xDc1BtUQ?oc=5",
+      "source": "The Globe and Mail",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T23:42:09Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "3ad749eb8798",
+      "title": "What Sagicor Financial (SFC) Said on Its Q3 Earnings Call",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkNPMG83b2FqWVNocnotbWhOVFFUWG51ODNQTjFvWTVoRmJQRTFoWFFhbWthYnhPNU9JZEpuYkNNa2wzTDFURGt3YV9RQWpaVGdPcDI2cnNWbWRQNzBqWVJ2anp5TTNReEV5UGVpejk4OWFQWTAwUXlJUVhkZWRtTnUzUnJhcVlmV3NvcEVWeEFBb3hvWFpQNy1wVWs0RndVNjNYY2t0ZGkwUkNYMXBFQUM5LWhGZklWMkpQVA?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-13T20:26:15Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "48f760413558",
+      "title": "Reinsurance Group of America (NYSE:RGA) EVP Jonathan Porter Sells 3,852 Shares of Stock",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzBfdU5NQTJTTWdYaENuUHNTc1l1cXhMRU01V1BsUURmNUV0QTIwanRXekU3ZGtpODItU3BUd3BaX01pUjZLd2M4T2hxMXJiZFVEeEk2NEFlcDZzZWtTUVEzQXNuT0RyTzFhV0M5TFAxZV9teVk4M2lTcWN6WEh4NnhlQVNHMW1vWnZwUXVGRTJuTXE0QUUwSmFNWEowRF9hQXQ4OF85ZWlHTWJlQW1lTTJ1UTkzNmEzVzYyenlFb3BLdEw1X3cxR0xWV0xjb2ZhNkZkMHpENGQ1R2RRMktZ?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T16:10:33Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "09a3eba98bb9",
+      "title": "After selling 3,852 shares, Reinsurance Group of America (RGA) risk chief holds 11,033.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2lVbHMyakNQY1VRa3gwSkpZVkJRbHZsY19ZTS1rQlAxb3NsbEdXUTlXTUF2Wk1JdW41NndqQWtVcjBkNU01dm5zZ3h2WXVqcjRrOGhVZmkzX2cxOC1tTk1fZTdaR1BNQ3NsejVBcXZCMGt0TWF6NjV2c3RNRGtMMk54YXMxTFFGN05OQ0I0S1FGVzQ2LW0tMjZUaU9WNUdXWm9PNzZqWkR2cHRQd3hLLTFkODdwWWRmWm9KTmRTUDB2NHc?oc=5",
+      "source": "Stock Titan",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T13:38:42Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "a52ca6357bad",
+      "title": "Sagicor\u2019s Q3 loss masks strong ivari capital position as rates squeeze earnings",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2pCQTlDYnQzXzh6UGpYMFd4QThJZDFaYXFrbHVMZWh1OE9fb2VIMjJ2SjFYaXp2YnZjQ3lDMzRhRkxJd09kMkhiMVU4eFV5bEp0cU1pOUZzRXQ4SS1BVHA1NUFwOXByZy1uRjNzc2JGR2xnMUt2UFNpa3RyRVpPd0YzT1JlM2Y0OGtaLUNjTWVRODFiR1Y0eWVFWEx0LUdabHdhNm1kbkhfMVdhWnluQTRGTUpmVjdON2ZVOHJERVpHWENDcWNCVzFRZ0JjQ25yTElLS1pPX1ppaFh1M0lrWnNCTjQ?oc=5",
+      "source": "Insurance Business",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-13T13:26:15Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "f97b0f94096b",
+      "title": "Is It Smart To Buy Reinsurance Group of America, Incorporated (NYSE:RGA) Before It Goes Ex-Dividend?",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZUNWVGJJRUlwaWdWRkVGRUZmcjJxeC12RXVGS0thUHRTdzBlUnlTMlNSQk1LMkltTzlZMTRQdHNfcDFoZU13VUhELVVMWEx3WmdNWnl4ZUFBSlRKbUxyMURtbFpQX21NTUx1aVNiNWtPang2UlVEMUN6Sk84ZVBiOHdNd1U0UVlxZ3ByTko0ejA0a0FFZG5aN25CcTMtc3pBUVNqMVFDN0VVUGc2OElfMUtKby1Ea2ZtMEpLM19SRl9BOVVtVHpScGxXMUJ5VHpYcVBzaHJ1eFRtZ20weHfSAeMBQVVfeXFMTjJPdnFKQzM1QkhERkV4WDVId2ZLY3JNaWRhSkVEOU1yR3R6X1FTdE5idUZnbDI0UnVNRUpFdmc4ZmZaREloZjZZMm1udVFDWXlvWmRoYVNZU0pMdjZyazNXR2xKLXBpaThoYk15Z3Y4bWdqOWJOY1lCUHdndndIM04tbTNUQ1BuU3RJZ2NlSVEwVXFqOXh4eHVkSk1tVlhjQW9MTnNXUTRsZXB3VGJ4dHBneE5JTmZzQnk3ZkhybjVyNUNfM1pTSXRnSUktb0RpWEtqRlhlOWYyTkp3cXJYRXVBbGs?oc=5",
+      "source": "Simply Wall St",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T12:28:35Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "9e0a35ca35eb",
       "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
@@ -150,11 +234,11 @@
     },
     {
       "id": "da71407d7f09",
-      "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOFdMVEdmMklYZGlyMnlEMHFjVDJralZsSmlRakxwVmF0NGJoUDJ6U0dzVlRzQ3h1UUFyVkJlMzR6Qi1XTEFqeHlwSW0xT2M1cG5VMGZXVFJsd0pKTHU4cFp0ejU2alVpY0RUaWFxUFZOeWppTUdyV1Rlc2dBYkhrYVJINkZEZFByaGdWQkZZc0k3UGItM21SNUs5Zml0cGdqOW1abWdhTnZ2ZXg0cXcwd2hkc0hVTDl4QmE5LUNlZ3l5bkNsaERpZEo5ck9Cd3NTWWU5VmVnbkRoSUJ4SWFRbA?oc=5",
-      "source": "Investing.com UK",
+      "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise By Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMzd0UEJfSU9wY0xaYmFwQnVSNUt4RDFScmx5djV0UkRVTDBwajlTc3dzUl9JUEdGMVFTczBrM2lXdEtYWFhFNFIyODdGTnowVHBrT28wSkh0RjVBeGpNTDdyMWQwVkN4YUtWbmRPeVNkS0Zud1ZuSUtJTEI2M2R2dno0Z2xtbTFMMjJQTTBjLUFYZXdxYnJEWFhMeDVhdW9PNi1CMndaWnlvRVRPNjdmX2FkVWxnQWdraHVseDVQVVZwenh1OGlrZlRHSUFpWGxmTjN5MmJlVFgxNTRMYjh0TA?oc=5",
+      "source": "Investing.com India",
       "feed": "Google News: Sagicor",
-      "date": "2026-11-12T15:50:00Z",
+      "date": "2026-11-12T16:00:21Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -167,6 +251,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-11-12T14:08:53Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "aa0b806f01ec",
+      "title": "How Investors May Respond To Reinsurance Group of America Stock After An Earnings Beat",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNEE5VzdtNlJnbTVHcFZtSVhJdWxpZWhneHF0eHhhUHRZSDhVeFNfTlFSUVEzZUlYVHE1aTdQYU9lMV8wN0JSTUd6NHE1UzZPUTRCWllNSWl5RHF0UHFhd0otNFpUa2F2T25nYXRzcURqVTR4X1V4Q0UxYVZfZ3RvU1h2RDN6ZGZGQTE0a3hvODJ3V2VWd3dwa2hoVEV1UTJXYk5VOS0wRkcxNDJSRVNkcEI0VFhiUFI0OGduLVNzT3J6cGlqM0E4c0tjMzJTVHBwLVk4YTN0bTlnMGxOakxRRdIB5gFBVV95cUxOV0djajhUakUxSVFVck5VR2prQUY4ZHJVTUtlNEJDVzQ3RnJJaXJQZTdJNTJNa0pveDhOOGxyWkEtbkhmNEhuNjhaT1RaZy1DU25WRTlnTUM1cjN2WDhyLWp1YVNLOTlkUTh2TXBzYmpJa2xudmEwc3F5ZVd0cjdpYWJoU1lJRXBEalJRdWtNOUdoN1hZN2VaVUN2MnAwYWJFRXBldy1Kbm5Xa3JrVHgwWE1pSDlWOFJ2LUlBd0JwV084LTc5WUl2VkJGcnhzWTd6X3FmeUNwLXFpMHM5Sno3T1R1N2F0QQ?oc=5",
+      "source": "Simply Wall St",
+      "feed": "Google News: RGA",
+      "date": "2026-11-12T12:26:37Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -263,6 +359,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-11-10T10:51:59Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "643c651a427d",
+      "title": "RGA Q3 2026 deep dive: robust global underwriting and investment performance drive outperformance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0NscDk2MGR4RnhrOEFEd181MUFxWlRpTVlneEJKczZDd0tOa3lNQzBseXpCY3d2MTVVeXYwNnVhTERlLWFzNUtTZU1NSFFlRU95Yk96Wlc2WWpqLXVodVRXUnN3cnFnV3l2THR6SXdfYmFEd2ZjN2p1U0daU3BFcFNNUnFXYmdxdXNvVUxNWQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-10T05:57:08Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -395,18 +503,6 @@
       "source": "GuruFocus",
       "feed": "Google News: RGA",
       "date": "2026-11-06T18:42:01Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "643c651a427d",
-      "title": "RGA Q3 2026 deep dive: robust global underwriting and investment performance drive outperformance",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS1FVQTRJRUVwdDd5S1FKS0xyS0k3NW9qQUhlb0JWVE9XT2VCUHg4XzNub1Q4YjhLTG9KS2hGNU5uNzBtblBOVzRaTUpqTkhOQUVQX2swRGVfd0JmNTNLS3RfTmpST2VUMld2QzhxMDI1WW1jemxCNjBGY29SdzBBbHBudER0STVFV2ZzWFhDRDhlM2djX0JxZjBIYVBPWnVlUFZKUXlta1NxYkRQWVQ5d054dXJQdnQ4bVMwZ1B3QjJDQTFmVFpDQ0psSlpUMURyX244S05rWGxpNWtYVlRIZ0tBaGdfN0hCQTlMM0Z3?oc=5",
-      "source": "TradingView",
-      "feed": "Google News: RGA",
-      "date": "2026-11-06T17:05:44Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -677,18 +773,6 @@
       ]
     },
     {
-      "id": "aa0b806f01ec",
-      "title": "How Investors May Respond To Reinsurance Group Of America Stock Ahead Of Earnings",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWEVVRmpWU3hMbDR4WGVnX3BNa2d0YkZ4bV91ZERzVkR5cWJiRTVyeWZWQmlGWlpOcFNyYWpfWk9KYzBYeHQ5SXdLeVpnMVlzRXlRV0h3LW9seC1IVmltbDVxb1BiQ01jNkJjeFlEcmhmV2oyV2w3akVaX19zTHZ1RHdySlFvY1lLQzNBNzNRUWpKTTdLWDllS3lvNWozVTBJQ1hfUDlvbElrQnBvLV9ybUQ1NVpIZzY5ZmNELXVLYV9scjJoelBvYVltanZFbmFaWkJfMkxXdmd1eUE5d3fSAeMBQVVfeXFMTUlRVEdSa0tHLS1XMWFURGllTEdaNlU0aWJvaGFRREJ0TmJTQklhdG5BeUxNVTdtS2U0bHhZOUpKWWlOc2RCRGYwUzU1eVVlU2pWdEE4MVc0cTFCeFd6Z0M0U0NiRlpiMkw5a054NmQ0UlBaN2ZBdEJHeXBlanFFQ1BERGQ1eFJBd09YLTRHN3JxMFNCX0stQTYwdWh2enVWX2h6NlVxRGRrR1h4SmRBd05jTGhCVllTV0VzQ2Z6cGVGa054bzV0bzhiYlVsZ0RFb1gwSTFyREFGckNyZllybFVPRWc?oc=5",
-      "source": "Simply Wall St",
-      "feed": "Google News: RGA",
-      "date": "2026-11-05T11:35:04Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "6ba7f36eb7ea",
       "title": "Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnhNQWd0THBtQWlyYllGUzlOMUUtMEgzUDRZMWhvNDNmY1V4aXZ1UGhFdEVkV214aGMzRms4SHJHTHAxWnhVaUNTWGh4RUUzWTBTZnBWUUVTbXZGdWszM2E4S3kxTDlvNHJvT1N3UTFXY1E4S0NVR0pRaVlDeWRLWHcyN3hzNzlrTmJPcUlqcVVwM3RJNF9LVGtaUWpKMWp2?oc=5",
@@ -698,18 +782,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "5af62eb955a1",
-      "title": "Unum Life Insurance closes $3.8 bn long-term care reinsurance deal with Fortitude Re",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR01salZ6ckFTN0lkNWtaRU1sN3lvdkN2ZXBXVU1jUmZuOXR3WDNQNndoeHYzeVVPY1RfbmJ6Y3ZWd3BKYmtjTnZVc2xBTFkwSkwxUnBwd1ZiMC1FXzhYVDU4dHNvWFlSMThBV2o5d19Jb0IxZXNQZVEweGxUV1gweDB3LVp5MXNIbk4wNg?oc=5",
-      "source": "Beinsure",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-11-04T21:22:46Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
       ]
     },
     {
@@ -734,6 +806,18 @@
       "summary": "",
       "companies": [
         "Athene"
+      ]
+    },
+    {
+      "id": "5af62eb955a1",
+      "title": "Unum Life Insurance closes $3.8 bn long-term care reinsurance deal with Fortitude Re",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR01salZ6ckFTN0lkNWtaRU1sN3lvdkN2ZXBXVU1jUmZuOXR3WDNQNndoeHYzeVVPY1RfbmJ6Y3ZWd3BKYmtjTnZVc2xBTFkwSkwxUnBwd1ZiMC1FXzhYVDU4dHNvWFlSMThBV2o5d19Jb0IxZXNQZVEweGxUV1gweDB3LVp5MXNIbk4wNg?oc=5",
+      "source": "Beinsure",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-04T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
       ]
     },
     {

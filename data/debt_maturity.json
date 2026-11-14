@@ -8,7 +8,7 @@
       "prior_date": "2026-09-30",
       "change_years": -0.03,
       "data_date": "2026-10-31",
-      "source": "US Treasury MSPD (computed)",
+      "source": "cache",
       "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-statement-public-debt/",
       "frequency": "monthly",
       "note": "Par-weighted remaining maturity of all marketable Treasuries outstanding, computed from the MSPD per-CUSIP table."
@@ -63,5 +63,5 @@
     }
   },
   "note": "WAM = weighted average remaining maturity of outstanding central govt marketable debt (not duration). USA monthly, computed from Treasury MSPD per-CUSIP detail; Japan monthly via MOF JGB Outstanding; UK monthly via UK DMO; EUR annual via OECD (Germany proxy); India annual via RBI Annual Report.",
-  "_fetched": "2026-11-14T10:29:18.547007Z"
+  "_fetched": "2026-11-14T18:05:33.000336Z"
 }

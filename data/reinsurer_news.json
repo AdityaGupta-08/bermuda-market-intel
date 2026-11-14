@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T10:29:24Z",
+  "updated": "2026-11-14T18:05:39Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 35,
+      "count": 36,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -182,6 +182,18 @@
       "summary": "",
       "companies": [
         "Sagicor"
+      ]
+    },
+    {
+      "id": "a161c1ea7ca2",
+      "title": "What is DOWLING & PARTN's Estimate for RGA FY2027 Earnings?",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG1BX3gyT19pSXNBT2ZVWlUtVUpQNjRuYjhST2I2MFUxeGhTVHU4RHVQTmlseUpjNFFLUFVwTGE1LTdnQjlId1dxUmdiSy1xZ2doZjdQZWJoaThnZl9KWjNpOHhDYXc3NHMyQ3BlQ0VDYTBEaDR3V3EtZG1rVklmV2pDWnp6S0N6NTZiOVZJUXY2OElXVG9pTlNrRHFXY2Q2TkF6MVh4Q2ptTk9ZMEI3a3lRc3N6UUtOQnFJ?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T12:30:35Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -365,18 +377,6 @@
       ]
     },
     {
-      "id": "643c651a427d",
-      "title": "RGA Q3 2026 deep dive: robust global underwriting and investment performance drive outperformance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0NscDk2MGR4RnhrOEFEd181MUFxWlRpTVlneEJKczZDd0tOa3lNQzBseXpCY3d2MTVVeXYwNnVhTERlLWFzNUtTZU1NSFFlRU95Yk96Wlc2WWpqLXVodVRXUnN3cnFnV3l2THR6SXdfYmFEd2ZjN2p1U0daU3BFcFNNUnFXYmdxdXNvVUxNWQ?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-11-10T05:41:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "9a001d915dec",
       "title": "Reinsurance Group of America (NYSE:RGA) Stock Price Expected to Rise, Piper Sandler Analyst Says",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX3RTUlNXVVdVVkpjdnNoemM0VkplVEJmcnNXa2tYMndtMUp2cVYzcVI5d2UzLWwwRjFRMHRLUVJtSlR0X0RmV3diTHJaNkt0UE5rOGtCZ0NvQ0JzR0NkSGNZc19ab0dfVjVDY1dRdXFYQzVMaER1bGtaM25LdGxKb2xwam9oTmw2aWY2UnRoancwSUF3M0gyVDJnMzAzaTNvZHpvN3FzZGJLNVVXSEllSG92NWt5UVFRcTZTRnVWcmhtbUM4T2phVTRaalZlLUZSYzlwSmpUSWRLcnc2Qm1QamxPUnZvZFdJTjFR?oc=5",
@@ -491,6 +491,18 @@
       "source": "The Globe and Mail",
       "feed": "Google News: RGA",
       "date": "2026-11-06T22:37:44Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "643c651a427d",
+      "title": "RGA Q3 2026 deep dive: robust global underwriting and investment performance drive outperformance",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSXhuc2VSaEQtTG9tRW5vN051VXctejZSU1o2MXhnLW8wUzI0aW1rSlFraklDM0oxdHI1MW1VbmxXNzFORkNrWThiS1I3aWYtUFJ1VnhuRDVTdVdFaHk1TTNKMHEwNjF1VUphQi1PSG1pcV9nVk1VU1JaeXR5ZUJvSGIzM0M5YUJ6LUw2R1ZjbFhGbXNxeU1kMnFYVFZHY0NsREx4cmlrUS1mc01GNVRUZV9MNEs1V2ZGdi1sdmNpc0VkbUhKbVlXUllRMi0xOWlWSGdQNURyWXItWUxyQkw4ZEhZbFQ0LVowenJCNlN3?oc=5",
+      "source": "StockStory",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T19:08:48Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -845,18 +857,6 @@
       ]
     },
     {
-      "id": "01968f667bc1",
-      "title": "Reinsurance Group of America (RGA) reports Q3: everything you need to know ahead of earnings",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2lQNjhXMVZ3TjhJTDZRU2RkUkpsM0dIcy1RQkNDdG1UTlFhTmZIRWNIU0ZTTmpNYlJ5VVpWa1FrWExnSS02QmYxb2czSE9SRHFhTmpSQTk2dTNxNEFEMzZkUWxUUHdHSjRuMlZBTWE2RmJ5eV9wVTBzeDBMV3c4elpBSjRNZ0wzZVp6TEJ6b2hFd0lHLVNnc0lkdld0a2dCVDFGVDhZYmwzSmkwVnctNVJqNDZtNzk0ZDVWM19sNVJ2MDRBcGdNTFg2UTRZT2dBN0xSOGdRYUR4amR1ekE?oc=5",
-      "source": "StockStory",
-      "feed": "Google News: RGA",
-      "date": "2026-11-04T03:55:10Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "a2cbaf7e6fb2",
       "title": "Fortitude Re closes $3.8B long-term care reinsurance deal with Unum",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDJhQ0FqeXJDazcweDN6aG9LVWh5bTY0a3lUcXRlc1Z0aGJaZ3BvWWwtMmN3VDRwQ3dEcTJuYXdxMUNKOFlTWjhtVWhxQ0F5bEVLbHdLUXpwdEtlWFVqbldCUndfUU9YTm0ybnVsUkp4TkRpY3l5V0diUUptajlFaVZIRDlTQzBLNVFuZ040Tnd0VUc5djlsX2RJVEdJaXM5NHdPcHp4RjZBY3ZsODdIQmYxOURybXVlOURraUFRUnNPSmlGTEhr?oc=5",
@@ -933,6 +933,18 @@
       "title": "Reinsurance Group of America, Incorporated $RGA Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM2Ntak9NOE9vek9Pclp4cVViQlh4LUNCZXRrS3pxaGNSbEpkN01aZXZSSFpiZ2ZIbVh6cXF0UUp4bmpfV3hpSXNCSnZ0NW5SdXRxTGtpYzlvbWJZMllxRmNkMEQ2TG1NRmVKV2h3cjM3WGtVM3Q1clY5TERVOUxhbjU1ZUpSVmdhamo0cU94NkRDMnBycDBvZlBxakxta1ExX1pvbEloQVVKRnZsdXY0ajFUX040M2hEbWthV1lUSzFSNUFpX1ZOcXNOWVV1aElXTktieW1hMFFHOG5ZVi1vdVU2TkwyWGZBY1plWlhR?oc=5",
       "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-03T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "01968f667bc1",
+      "title": "Reinsurance Group of America (RGA) reports Q3: everything you need to know ahead of earnings",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2ZqcUFHbm5acnBfYndnX09KcWpyRGM2UldWXzFSMzY3WkJVYzFUSkNyU2VYMHVVRm9feV9zMi1TbnR4U0F1M0hjTFBmODAwY2xmNFd0Q1djNmo1eHV5ekp5eEFzYzVQem5JLVhxUEptZm9kSHZrLW45UUVzOHF4S0RzQnRDaWhQWFpJZEFzNnZxVFFoa0JSWkVsSUxKdTRGWVdQeEVieHRUMEFPdzVjTDFDWHhTWGRNbi03REFWal9BV0JIdGdsOVJsMUJzMF9VWEVaekZ5Q1dDZ19GZmlQSVg2T0w?oc=5",
+      "source": "TradingView",
       "feed": "Google News: RGA",
       "date": "2026-11-03T08:00:00Z",
       "summary": "",
@@ -1814,18 +1826,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "d89b20ae51a3",
-      "title": "Who's Moving Where In Wealth Management? \u2013 Kestra, Mesirow, Global Atlantic, KKR",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbjNuZXJUWXZ6NWFYS1lFSHU0Ui1YSGRhLWxnM3E3dFg5QlUwSVFxc2k1ZGlvejRYRzFMaUR0NUhTNjRRUDBsLTFFMk5kV0dYY0lxTnZlUUdQQzlXV0ZLdy1RaFAyeVRqUjFfRUFkTF92RU5EcVVIMjNnSXViZU1OMnA0N1FrTmhCa0x3WERfaXF0VmxJOUdFSVE3S1djekpCOWRDUmJjWTFWYlFZZmxieVhtNzcyRFEySjJlSWVqSGIwd2FPTzEyYVBRNHphX0ZhOUc5REZTVGNTVmpLeW80Qk5lOXpTYUhsdjVF?oc=5",
-      "source": "Family Wealth Report",
-      "feed": "Google News: Global Atlantic",
-      "date": "2026-09-30T11:05:28Z",
-      "summary": "",
-      "companies": [
-        "Global Atlantic"
       ]
     }
   ]

@@ -1,13 +1,13 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 36 items
-Generated Sun 15 Nov 2026, 02:35 AST
+Generated Sun 15 Nov 2026, 12:24 AST
 
 ## Feed status
 
-- ✅ **Artemis.bm** — 10 items
 - ✅ **Google News (16 of 16 companies)** — 73 items
-- ✅ **Reinsurance News** — 10 items
+- ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
+- ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
 
@@ -34,6 +34,7 @@ Generated Sun 15 Nov 2026, 02:35 AST
 
 ## RGA
 
+- **2026-11-15** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Plans Quarterly Dividend of $0.98](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTZXMDZZV3VYUmRGUm1ELWxIZERpNVpDX0dhbnN5YVhDVjNmeXlqN1hjUm9tY1ZYWER2YjJEYkxtaERZNEN3cWJ5TG1Ja1ZJb1pyT0xmLUdqMl9XeFBNNThUS0ZPLUdyOHlvOFpZWHZDQWxpZk9RX0thc0xsTkxyZXRWUHIzV2RWVnduclllaFljS01GS0hWMUFwRGlZRVZudVBnLU5QQmp1MkxLbU83cmNLbnRzUUhtM2Njbk02OFNudzRCNkZmdGIzSzBucmlhQUN4blN3bFgtYjFMaVE?oc=5)
 - **2026-11-13** — The Globe and Mail — [Reinsurance Group (RGA) Gets a Buy from Wells Fargo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzlMOFlnbjg0RHFNelpzdm5mTHZYT0N5SW5YZ1pHWUhJT004MGRWSTREUFZUUUJwX2pZQXRNdkl6aEY3WEMyWjA2SUZhQk5UZXl3Z21vTkdrWlFyWFdmbUp1SlZ0SEx2S3VLNWFVRDhmU3ZiUVpLV2ljR1hHMEU0SVhTY19rcjAxa0J1Z3ZucmhrLUR3X3V0dmcyMHZGZ3o5RGtRbGoxNExaM1FfdERKLWdKeWNMVm13Mks4MDlnVXk0MGZLdG9LT0xDc1BtUQ?oc=5)
 - **2026-11-13** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-13** — Stock Titan — [CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5)
@@ -45,7 +46,6 @@ Generated Sun 15 Nov 2026, 02:35 AST
 - **2026-11-12** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Gets Price Target Increase from Wells Fargo & Company](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdzlrdWZLZ3J1NGkzcXE2bXdtTy1kbHQzQlFfa0VhbVJnbDBvMExwTHhCaUtqYmt3X2lEbjczLVVxYUhURUtUeW1CMEN0WFZ1ekdtYk93YnVMLWJORzNScUhjR21Wb3o1a2plSi13Z1pNaUJTbmxfLTJySWE1RTVySVFpZlBnVHNKV2ItZ1I0U1NLMlJzaVZVYWZfVGdnd3VrdGZhNThVMGtPeC1pQlBYMm9tY0hQVThXMFIwMThDSm5RZl84SWg0MUVDRFpsYkJXUGhLdGZjeWVsdElfYVJRWDM0OWhaNVVGTjVwaTZR?oc=5)
 - **2026-11-12** — Simply Wall St — [How Investors May Respond To Reinsurance Group of America Stock After An Earnings Beat](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNEE5VzdtNlJnbTVHcFZtSVhJdWxpZWhneHF0eHhhUHRZSDhVeFNfTlFSUVEzZUlYVHE1aTdQYU9lMV8wN0JSTUd6NHE1UzZPUTRCWllNSWl5RHF0UHFhd0otNFpUa2F2T25nYXRzcURqVTR4X1V4Q0UxYVZfZ3RvU1h2RDN6ZGZGQTE0a3hvODJ3V2VWd3dwa2hoVEV1UTJXYk5VOS0wRkcxNDJSRVNkcEI0VFhiUFI0OGduLVNzT3J6cGlqM0E4c0tjMzJTVHBwLVk4YTN0bTlnMGxOakxRRdIB5gFBVV95cUxOV0djajhUakUxSVFVck5VR2prQUY4ZHJVTUtlNEJDVzQ3RnJJaXJQZTdJNTJNa0pveDhOOGxyWkEtbkhmNEhuNjhaT1RaZy1DU25WRTlnTUM1cjN2WDhyLWp1YVNLOTlkUTh2TXBzYmpJa2xudmEwc3F5ZVd0cjdpYWJoU1lJRXBEalJRdWtNOUdoN1hZN2VaVUN2MnAwYWJFRXBldy1Kbm5Xa3JrVHgwWE1pSDlWOFJ2LUlBd0JwV084LTc5WUl2VkJGcnhzWTd6X3FmeUNwLXFpMHM5Sno3T1R1N2F0QQ?oc=5)
 - **2026-11-11** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0tZTl8xZGQ4eF9JMXRiS2lVdlNSb2Q5Rk9feEdEWEl2RklfOWRLV0t6UDdzRUlRVDI3UWI1dzlZQW1FRy0tajZlc3NfUDVQLW1LN2pBM19BNGx0aHdMV1FhQWx5SkhSYVNuSnJYX29YM2RrcGp5NHpwdWx1V1NSTVhJckpaT2JxRmExX2QtOA?oc=5)
-- **2026-11-10** — Moomoo — [Piper Sandler Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $300](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1Zfc0xzWFk0M0pCNkJZdGtyaW10VDBJaVRNdV9kRlUtR0JDdjVaQmlUdUxHNk5pUXFQbHU4cEJId1JhejNZVUhNWlV1dXJmZkdseU5lS2oxaTlHQzM5c0ZSbFFrOTkwcG9XQjdtS2lMRU1KN1Z5bG51Xy1QNGQzb3VtUHRvZDVZd0FteUtLRkdlTjlBNUlpWVVaUUZoM0lRN2Vnb0VTSFZUNlRadDBEMw?oc=5)
 
 ## Sagicor
 

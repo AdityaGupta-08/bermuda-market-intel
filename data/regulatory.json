@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T06:35:25Z",
+  "updated": "2026-11-15T16:23:58Z",
   "naic": [
     {
       "id": "b09629b6e97c",
@@ -222,6 +222,16 @@
       "isNew": false
     },
     {
+      "id": "0825351e0678",
+      "title": "NAIC defends regulatory model following TWG probes",
+      "date": "2026-09-25",
+      "cat": "General",
+      "summary": "",
+      "source": "privatedebtinvestor.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGpVVFJIbUs1R1hNcEJtQkJkX0M4T2p2SnF6SkZqY1FSU2Vhc2RfeWtWWXNPeF9BeVp3czVWdDJwd0ptclZwdnhqR3h6bHM3SHNPQk9wYk8wSjhTZkpydnMzMFFsTnFrMnNyTk14MkZfNmp3a3RiSXNJZFBIV2xucXNvZjRGWUdxUVpQVk1CY3A?oc=5",
+      "isNew": false
+    },
+    {
       "id": "dd61a0388d78",
       "title": "NAIC Details State Oversight of Changing Insurance Investments and Risk",
       "date": "2026-09-25",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "USA Herald",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGp3emc5VS10RHVUdXFiUzU0YjdDdVVHcW1BMG1jRHBrbUFTWXBxM1VJaWpDcFIwcUFzby1JTFpnV3M0Q1JVOGgzd0pGMHNpNkQ4My1uMW1EQ2g4RGNzWkM5THhXeU1ZRkNoSVhURWE4U1lpNUstbF9udWRZZTNpNVU5dXNneXh3ZktyM280UnlNR0JNLUFjNjIwSmE2dzhSVmc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "59880aeb806b",
-      "title": "Insurance Regulators Defend State-Led Model in Reply to Warren",
-      "date": "2026-09-25",
-      "cat": "General",
-      "summary": "",
-      "source": "Insurance Journal",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DeXN4cnhld0luT0wxMElFc1oxZGhaVTJtbW00NXFaLWVTUFYxNF9Wdk56M2JEYnZHVzktdkhiSmRfckxuQUM0dmFfaHVlMlFVMi0tLU42eXlIZEU5QkJIQVNHLTl1MUVSZ21JSVBLMEt1VmRIZUlV?oc=5",
       "isNew": false
     }
   ],

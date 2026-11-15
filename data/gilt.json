@@ -44,7 +44,7 @@
     5.218,
     5.401,
     null,
-    5.876,
+    5.877,
     5.907
   ],
   "prior_1m_date": "",
@@ -84,5 +84,5 @@
   "cached": [],
   "held": {},
   "note": "Official BoE daily archive first; then market scrapes; then local history / cache.",
-  "_fetched": "2026-11-15T06:33:12.545042Z"
+  "_fetched": "2026-11-15T16:22:03.927872Z"
 }

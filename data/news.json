@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T06:35:25Z",
+  "updated": "2026-11-15T16:23:58Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -188,6 +188,16 @@
       "isNew": false
     },
     {
+      "id": "2816deb3c1ab",
+      "title": "2027 Investment Management Outlook",
+      "source": "Deloitte",
+      "date": "2026-11-12T08:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZllYbHc3UFNOT2p1Q0owbFBSdnN3MTAwWVV4b1c3dFdpaWNqaFFLQ2Z1YkJwaDRla3JkUXpBNC1nQU8zemlBemJUSDA3ZjJNaUdPYnoxSTMzcXU3bktLdnZKRy1xeF9CM3RaU1lsbDBkM2JGZHhfM2YzcGVkUDZCS1R0T0d6ZEtGeW52S3VNQkt3MnlzRHVObTlqc3ZtUmNiQmRiNEdWVlhsdTRvdWdTOUhud2pwdGYtUFZnVlQ3aUdLQzdmS1BQbTRiWlpCanRnejlQRkpMR1A4MW1raTlFVnpn?oc=5",
+      "isNew": false
+    },
+    {
       "id": "4e9953b1e377",
       "title": "2027 Insurance Outlook",
       "source": "Deloitte",
@@ -295,16 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uMW82SWdsVGlFUUpXV2hDalVJSnpCdXJ6Tm1mbUlqbDl3R2xqeWE4dFJodmIzZEJ2bnZqVGgyR3VmZ2toN2xXaWx6bm9peFlPY2lvR0hGc0cyTnM3YlBKYlF1eEtPMUVIRGxnUFdJTGhJRU1hcVpTWVpB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "50dbb3181224",
-      "title": "China Gauges Bond Interest Tax, With Yields Near Record Low",
-      "source": "Bloomberg.com",
-      "date": "2026-11-11T11:11:22Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekwtc01TbS1yS3BqallTdkE3eGVCanppdnlGSEVIOExRUl94RXBFUEdTWDZseEkzUVFheEdlMldLNGlMZkRuaVNEMEJoUEFCdjFQel96ZmdhU3JfVTdsalE1U0g3bElxOXEwakNFY0Fib05EUmZpeDdsd1RhWWszSy02RWd3a2YxMUJXTkhiaTF1N0pmbWtES2F6RkZrU3FuYU9YY0ZlNC00WHZFSzRiMjVn?oc=5",
       "isNew": false
     }
   ]

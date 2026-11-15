@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-15T06:35:26Z",
+  "updated": "2026-11-15T16:24:01Z",
   "lookback_days": 14,
   "feeds": [
     {
       "name": "Artemis.bm",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "name": "Google News: Aspida",
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -101,17 +101,29 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
       "name": "Reinsurance News",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     }
   ],
   "items": [
+    {
+      "id": "c8bba80b44b2",
+      "title": "Reinsurance Group of America, Incorporated (NYSE:RGA) Plans Quarterly Dividend of $0.98",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTZXMDZZV3VYUmRGUm1ELWxIZERpNVpDX0dhbnN5YVhDVjNmeXlqN1hjUm9tY1ZYWER2YjJEYkxtaERZNEN3cWJ5TG1Ja1ZJb1pyT0xmLUdqMl9XeFBNNThUS0ZPLUdyOHlvOFpZWHZDQWxpZk9RX0thc0xsTkxyZXRWUHIzV2RWVnduclllaFljS01GS0hWMUFwRGlZRVZudVBnLU5QQmp1MkxLbU83cmNLbnRzUUhtM2Njbk02OFNudzRCNkZmdGIzSzBucmlhQUN4blN3bFgtYjFMaVE?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-15T15:28:20Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "40b17082cccd",
       "title": "Athene and Apollo entities report shared power over 608,000 Calamos (CSQ) Series F preferred shares.",
@@ -581,18 +593,6 @@
       ]
     },
     {
-      "id": "38367e0470fe",
-      "title": "Fortitude Re Completes $3.8B Unum Deal",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZTJtTFRQN1VmWGxhazdQQVlybFRtV0xaS3VYbjQ4bWVUTFJITm1ZcC1oa3hnU0pvX0JKNU9ualZ0dGx2eVRkdFBsV2xUM1ZtUzh1bk1TR3JEVE5vTl9DcnI1V2NwdEFCd0dSRUJaMFI0MWpU?oc=5",
-      "source": "Bernews",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-11-06T10:59:10Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
       "id": "a67bbab9b771",
       "title": "Reinsurance Group of America (NYSE:RGA) - Stock Analysis",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSi1YQndPSF93UEFXbnpfY0tZS3lpdEVKVXNSbFBvbk5IcW5YSV8xOFN2OTNMMU82QW82N0VIT3lvaFc0ZGhkY0FwWllRNzN0b25ES2N3cEdiTXpCcTNjUjZ6dXBIeXplc3BTWEJCUDQ3eF9rOXY0TVpXYWgwVjJYVVdHbDQ3UQ?oc=5",
@@ -602,6 +602,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "38367e0470fe",
+      "title": "Fortitude Re Completes $3.8B Unum Deal",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZTJtTFRQN1VmWGxhazdQQVlybFRtV0xaS3VYbjQ4bWVUTFJITm1ZcC1oa3hnU0pvX0JKNU9ualZ0dGx2eVRkdFBsV2xUM1ZtUzh1bk1TR3JEVE5vTl9DcnI1V2NwdEFCd0dSRUJaMFI0MWpU?oc=5",
+      "source": "Bernews",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-06T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
       ]
     },
     {
@@ -623,18 +635,6 @@
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-11-06T02:37:38Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "4ba5c2e484b7",
-      "title": "Reinsurance Group of America (NYSE:RGA) Posts Earnings Results, Beats Estimates By $1.52 EPS",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3c1SG5weXhQR0diZXlyZUhFUXR6NGtCUFF5d3BWWWg2S0JHREtCYUxwUU9oOW5YaU5mRTVPNEM5c0NuZEdJQWtfeUFSSlNCdmtKb0pWM1N4X2V2OEZiRjV4VHRIa2EyZnZhczVYeUpya093RVRQYUpfa01jOWVtRHhleHhfeGpwNXEyejJON1doTlBOaTgxMmg1c3dhNFM5Tk13OVhtQ1J6MTJHcTdTQ2k3LTNjeHhFcHpfcW9nVGVBWjBwd1A0Nk1yOUNGcTQxaWQ1OE9IY0ZYQ1Y3MWVxM3NjcFg?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-11-06T00:20:06Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -801,11 +801,23 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Fortitude Re",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [
         "Fortitude Re"
+      ]
+    },
+    {
+      "id": "4ba5c2e484b7",
+      "title": "Reinsurance Group of America (NYSE:RGA) Posts Earnings Results, Beats Estimates By $1.52 EPS",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3c1SG5weXhQR0diZXlyZUhFUXR6NGtCUFF5d3BWWWg2S0JHREtCYUxwUU9oOW5YaU5mRTVPNEM5c0NuZEdJQWtfeUFSSlNCdmtKb0pWM1N4X2V2OEZiRjV4VHRIa2EyZnZhczVYeUpya093RVRQYUpfa01jOWVtRHhleHhfeGpwNXEyejJON1doTlBOaTgxMmg1c3dhNFM5Tk13OVhtQ1J6MTJHcTdTQ2k3LTNjeHhFcHpfcW9nVGVBWjBwd1A0Nk1yOUNGcTQxaWQ1OE9IY0ZYQ1Y3MWVxM3NjcFg?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -1001,21 +1013,21 @@
       ]
     },
     {
-      "id": "a4ba6991271b",
-      "title": "What Is Drawing Attention To Reinsurance Group of America (RGA)?",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVp5bWlwc0pkXzlLOE5hajdOV3ltQTBrS3g4VmpDNzlKaF8yU0NPMGF1a0RydnotSUlUamxGSHpRWjN4V1VnakgzOFAxLTVMdUY1OUF5dmxDd0JlSklZZ3JPc0xaalVVYVB0aFlDNmxmNjRYT2gyTVpjNnRvOFZ4dnBEY0Q4MWtRRHhnZEVabHpQTE5qMUJPUnlSeUtoSUZSenVQODN2OFhIQXBw?oc=5",
+      "id": "ddfba5477534",
+      "title": "Will Reinsurance Group (RGA) Beat Estimates Again in Its Next Earnings Report?",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUwzbEMydzN4V25aZDN1c0ZPdXRMSmlFaEFKT2R3bExFMzg4ck44b3VNTEoxODVRNG1NUjVwV3R6OWZtMFJ0Wl93NjVqQW45Z05odHZWY3ZhNFNkYl9XWGtzY0Ntcm5qUmtLeDVLc09qSlB2YkFmR1BXcU1JZFlkWW1DeEN4QXc4Qmk3aTM1ODAxbDhKN1otSFR2a3J1MkpaU1VB?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
-      "date": "2026-11-02T22:11:19Z",
+      "date": "2026-11-02T08:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "ddfba5477534",
-      "title": "Will Reinsurance Group (RGA) Beat Estimates Again in Its Next Earnings Report?",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUwzbEMydzN4V25aZDN1c0ZPdXRMSmlFaEFKT2R3bExFMzg4ck44b3VNTEoxODVRNG1NUjVwV3R6OWZtMFJ0Wl93NjVqQW45Z05odHZWY3ZhNFNkYl9XWGtzY0Ntcm5qUmtLeDVLc09qSlB2YkFmR1BXcU1JZFlkWW1DeEN4QXc4Qmk3aTM1ODAxbDhKN1otSFR2a3J1MkpaU1VB?oc=5",
+      "id": "a4ba6991271b",
+      "title": "What Is Drawing Attention To Reinsurance Group of America (RGA)?",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVp5bWlwc0pkXzlLOE5hajdOV3ltQTBrS3g4VmpDNzlKaF8yU0NPMGF1a0RydnotSUlUamxGSHpRWjN4V1VnakgzOFAxLTVMdUY1OUF5dmxDd0JlSklZZ3JPc0xaalVVYVB0aFlDNmxmNjRYT2gyTVpjNnRvOFZ4dnBEY0Q4MWtRRHhnZEVabHpQTE5qMUJPUnlSeUtoSUZSenVQODN2OFhIQXBw?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-11-02T08:00:00Z",
@@ -1826,30 +1838,6 @@
       "summary": "",
       "companies": [
         "Talcott"
-      ]
-    },
-    {
-      "id": "93badd9f437b",
-      "title": "Lincoln National Reports Closing of $6.3 Billion Reinsurance Transaction With Talcott",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXZEa3g5UWxMbWdsU1JHdklJbl9obXJoRk56QkNXbHZNaXdIZmhhcExMSW5velk1UjRvMTl6RGlMTnZsUGdtTnBuRVdvX2ZTM0g5TEhSbHp5YTFWeWxDS0ZwdTBESk5GNXNfUndhYnEyZWdoLW1yTHd4WE16MWEycUdFN18tZ1FrSTdaNVFBb1VNeXVZdVhYaWVtUEN6cllH?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: Talcott",
-      "date": "2026-10-01T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
-      ]
-    },
-    {
-      "id": "3b1cd59c273a",
-      "title": "Are Finance Stocks Lagging Reinsurance Group of America (RGA) This Year?",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQlh1YUkxSWE2QzVSUGg3RF9NaUU1a0Z6aHNLUzNHNkt4ZTFYbkJLckRsX3NXVEVrRl90eDNKXzdZNFNZMmw4dDg0YkM2TFpIVERqS0I2a0tTc3BZNG1JY0ZUdWNmR3ZCbHRJTjBZMWR0WjM3aG9palFxTlFBc19WZWhwOEhiMDZGOUtTcGZBcTgteF9ZV0dFWlJVcFZrOEVGam5SR3UzSU0?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-01T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     }
   ]

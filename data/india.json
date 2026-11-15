@@ -84,8 +84,8 @@
   ],
   "cached": [],
   "held": {
-    "1Y": 2
+    "1Y": 3
   },
   "note": "FBIL latest first, then Investing/TE/FRED, then local history / cache. India 3M curve is exact once local history accumulates.",
-  "_fetched": "2026-11-15T16:22:19.175980Z"
+  "_fetched": "2026-11-15T22:49:13.085536Z"
 }

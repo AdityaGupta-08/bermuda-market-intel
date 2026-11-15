@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T16:24:01Z",
+  "updated": "2026-11-15T22:51:08Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -653,18 +653,6 @@
       ]
     },
     {
-      "id": "6ba7f36eb7ea",
-      "title": "Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSDNYOXhidUJoX1N3Z05XVmNJeUttNmd0LXEwTC0wSUZPZEtXVDJnNVZESFNjVlphU0k0VHFTcWVoUVM0VlhPUTJvak9tYzN4bW9MNnEwSURMemhpVWUyZ3ZzRllWSTRZMXhLR2Z1LV8zM214d2pnY1VTZkktamNfWElSZHNmZG5oVDhrQ0hLUkxhZVZ4ZjBtbmozbzFnWlg5R1pzeXFyOUZqcVNxZjZhWUpzX2p0UQ?oc=5",
-      "source": "StockStory",
-      "feed": "Google News: RGA",
-      "date": "2026-11-05T22:31:05Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "b4df4ad6ab64",
       "title": "Athene Reports $1.16 Billion Common-Stockholder Loss; Spread Earnings Reach $844 Million",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1FYM0NTUVU5OWh6V2FwdGthTFo5azZTS0ZtUlk2V0Q1TTJEZGNDd1puYjdHRXB1Y2hzdjFPTDdkQl9NbkE0Y2VMZlF4eDV3RHVtN1ZPdlhPS2FqM1libG0tWFp3Wm9ZSzlsbEdIYXdWT0NsUDJMUGxocE1mNEQxLV8zcFlZcDZOVVJpV0E0a25FTWpUTEgxOVJTa1lpSnF3OUhtRjM2eUFfZFo0S05uQjJWQXVVMG9iSU9jb0JDVVpqVC16WnhicVI5M1F5S0ladmM0NjBoSDVrSGx0LU5GUw?oc=5",
@@ -797,15 +785,15 @@
       ]
     },
     {
-      "id": "dac4ce685a43",
-      "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
-      "source": "Insurance Business",
-      "feed": "Google News: Global Atlantic",
-      "date": "2026-11-05T14:19:09Z",
+      "id": "6ba7f36eb7ea",
+      "title": "Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnhNQWd0THBtQWlyYllGUzlOMUUtMEgzUDRZMWhvNDNmY1V4aXZ1UGhFdEVkV214aGMzRms4SHJHTHAxWnhVaUNTWGh4RUUzWTBTZnBWUUVTbXZGdWszM2E4S3kxTDlvNHJvT1N3UTFXY1E4S0NVR0pRaVlDeWRLWHcyN3hzNzlrTmJPcUlqcVVwM3RJNF9LVGtaUWpKMWp2?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T08:00:00Z",
       "summary": "",
       "companies": [
-        "Fortitude Re"
+        "RGA"
       ]
     },
     {
@@ -830,6 +818,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "dac4ce685a43",
+      "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
+      "source": "Insurance Business",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-05T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
       ]
     },
     {
@@ -1826,18 +1826,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "30601983038d",
-      "title": "Lincoln Financial Closes $6.3 Billion Reinsurance Transaction with Talcott",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWpxOXR5dF9IZDRHWXBWeFZ0ck5ZM3hLbF9FZTRNWU1oOGg0VDBRTWRtU1F6RlFCY3FIZGpjZ3kyRTNNMS02cnNMZHM4S2xjT0hfbE5FOUptSmIyN1YwVUJMUnFPZGl2N1NGTjFYNmFEZGNJbmwyZ1RKazg2WWYtU3ZadGxMNlI1VEFuckxkQ01xdEQ0eEdzLXY1emJYNWZvWGx5Z1gtaHdhRkdYSGV2RjhqTTNpSzJwZGhJYVQ3UDhfcm5p?oc=5",
-      "source": "www.marketscreener.com",
-      "feed": "Google News: Talcott",
-      "date": "2026-10-01T20:17:08Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
       ]
     }
   ]

@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-14T22:26:53Z",
+  "updated": "2026-11-15T06:35:26Z",
   "lookback_days": 14,
   "feeds": [
     {
       "name": "Artemis.bm",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "count": 10,
+      "error": null
     },
     {
       "name": "Google News: Aspida",
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 34,
+      "count": 30,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -101,14 +101,14 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
       "name": "Reinsurance News",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "count": 10,
+      "error": null
     }
   ],
   "items": [
@@ -131,6 +131,18 @@
       "source": "The Globe and Mail",
       "feed": "Google News: RGA",
       "date": "2026-11-13T23:42:09Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T22:23:15Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -166,7 +178,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkNPMG83b2FqWVNocnotbWhOVFFUWG51ODNQTjFvWTVoRmJQRTFoWFFhbWthYnhPNU9JZEpuYkNNa2wzTDFURGt3YV9RQWpaVGdPcDI2cnNWbWRQNzBqWVJ2anp5TTNReEV5UGVpejk4OWFQWTAwUXlJUVhkZWRtTnUzUnJhcVlmV3NvcEVWeEFBb3hvWFpQNy1wVWs0RndVNjNYY2t0ZGkwUkNYMXBFQUM5LWhGZklWMkpQVA?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: Sagicor",
-      "date": "2026-11-13T20:26:15Z",
+      "date": "2026-11-13T20:27:26Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -259,10 +271,10 @@
     {
       "id": "da71407d7f09",
       "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEk2Q0JfaU5QbXQzQUMxWGp0Z1VFM0JQUVZ0N0EwTkw2eEJNcm80OURkWGpveEYyOWw5dE9McDdlcVJvd2stY19nVWVITnI5U21iSF9hRDhSTDBBZWlXY2NzV3ZwY1JsTjBhUW1xeWxUMjBLdUk2TFlCUFlqY1V1c0xnRTNKbzNoUksxWW9FM0RNOFV5anNna1ZLMXdLa21LVmx6MlExWnlhRm1nNE41ZHFrNTAtVldkRDNWZVRXV014OG9KRHEzMlpFYWFfX3VCRVFMVjViYTc2SW02SmpNOA?oc=5",
-      "source": "Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYl83TUVraHVMRFZjWXR4bHJHN0VDS1dBaFZwdXZVTHRUOGZKcW02ZEU3Q1VQaVRWbE5oRURBRTNUVmprS1k3WVIzS2JieTRnMnpZaXZ3b2dDLWhXS1dZeTROYWcwSzhlckQ1cFl5MksybEw3MVFraG9lNXQtdlNDQ2dkd25MWm1DdXRjQmoyWHBoVVlpbFdJUjRZYWxNNW5iQXdYNzFHVkhNRE1oa1JWR2NRTGxDVVhoTmNrSGtvdTMzeFlidFhBTEhZTGRUVVhFVERXejBWTDNEQQ?oc=5",
+      "source": "Investing.com",
       "feed": "Google News: Sagicor",
-      "date": "2026-11-12T16:09:59Z",
+      "date": "2026-11-12T15:52:43Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -302,18 +314,6 @@
       "summary": "",
       "companies": [
         "Sagicor"
-      ]
-    },
-    {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-11T23:17:13Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {
@@ -653,6 +653,18 @@
       ]
     },
     {
+      "id": "6ba7f36eb7ea",
+      "title": "Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSDNYOXhidUJoX1N3Z05XVmNJeUttNmd0LXEwTC0wSUZPZEtXVDJnNVZESFNjVlphU0k0VHFTcWVoUVM0VlhPUTJvak9tYzN4bW9MNnEwSURMemhpVWUyZ3ZzRllWSTRZMXhLR2Z1LV8zM214d2pnY1VTZkktamNfWElSZHNmZG5oVDhrQ0hLUkxhZVZ4ZjBtbmozbzFnWlg5R1pzeXFyOUZqcVNxZjZhWUpzX2p0UQ?oc=5",
+      "source": "StockStory",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T22:31:05Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "b4df4ad6ab64",
       "title": "Athene Reports $1.16 Billion Common-Stockholder Loss; Spread Earnings Reach $844 Million",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1FYM0NTUVU5OWh6V2FwdGthTFo5azZTS0ZtUlk2V0Q1TTJEZGNDd1puYjdHRXB1Y2hzdjFPTDdkQl9NbkE0Y2VMZlF4eDV3RHVtN1ZPdlhPS2FqM1libG0tWFp3Wm9ZSzlsbEdIYXdWT0NsUDJMUGxocE1mNEQxLV8zcFlZcDZOVVJpV0E0a25FTWpUTEgxOVJTa1lpSnF3OUhtRjM2eUFfZFo0S05uQjJWQXVVMG9iSU9jb0JDVVpqVC16WnhicVI5M1F5S0ladmM0NjBoSDVrSGx0LU5GUw?oc=5",
@@ -695,18 +707,6 @@
       "source": "marketscreener.com",
       "feed": "Google News: RGA",
       "date": "2026-11-05T21:48:44Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "1b02c39215dd",
-      "title": "Reinsurance Group (RGA) Tops Q3 Earnings and Revenue Estimates",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVNSOV9vcG4zei1tUFI1UXotZGMyZzQ2V1J4RnlMYVdPVWhJS2hxTTZ0d0tCdDVGM0QxbDRwbENyaTFoallxRXhFV193RFk1Qk9wS09BeWdNWWZfM21Hd2xUWnRPUnprSklZYndFOUVMWGVhWmZKSVo5TEFQeFUxTW5JUnh4ck1Ca2J5MGJJS1gtaUtyUHJuN0FR?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-11-05T21:45:13Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -801,7 +801,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-11-05T14:19:09Z",
       "summary": "",
       "companies": [
@@ -809,9 +809,9 @@
       ]
     },
     {
-      "id": "6ba7f36eb7ea",
-      "title": "Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnhNQWd0THBtQWlyYllGUzlOMUUtMEgzUDRZMWhvNDNmY1V4aXZ1UGhFdEVkV214aGMzRms4SHJHTHAxWnhVaUNTWGh4RUUzWTBTZnBWUUVTbXZGdWszM2E4S3kxTDlvNHJvT1N3UTFXY1E4S0NVR0pRaVlDeWRLWHcyN3hzNzlrTmJPcUlqcVVwM3RJNF9LVGtaUWpKMWp2?oc=5",
+      "id": "1b02c39215dd",
+      "title": "Reinsurance Group (RGA) Tops Q3 Earnings and Revenue Estimates",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVNSOV9vcG4zei1tUFI1UXotZGMyZzQ2V1J4RnlMYVdPVWhJS2hxTTZ0d0tCdDVGM0QxbDRwbENyaTFoallxRXhFV193RFk1Qk9wS09BeWdNWWZfM21Hd2xUWnRPUnprSklZYndFOUVMWGVhWmZKSVo5TEFQeFUxTW5JUnh4ck1Ca2J5MGJJS1gtaUtyUHJuN0FR?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-11-05T08:00:00Z",

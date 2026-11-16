@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "state": "FL",
   "premium": 100000,
   "source": "My Annuity Store rate marketplace (AnnuityRateWatch data)",
@@ -22,7 +22,7 @@
       "terms": {
         "3": {
           "median_bp": 45.5,
-          "top_quartile_bp": 66.7,
+          "top_quartile_bp": 61.7,
           "best_bp": 83.0,
           "n": 18,
           "ust_pct": 4.92
@@ -35,8 +35,8 @@
           "ust_pct": 4.98
         },
         "7": {
-          "median_bp": 75.0,
-          "top_quartile_bp": 90.0,
+          "median_bp": 70.0,
+          "top_quartile_bp": 85.0,
           "best_bp": 115.0,
           "n": 18,
           "ust_pct": 5.05
@@ -56,12 +56,12 @@
         "3": {
           "median_bp": 68.0,
           "top_quartile_bp": 78.4,
-          "best_bp": 93.0,
+          "best_bp": 113.0,
           "n": 16,
           "ust_pct": 4.92
         },
         "5": {
-          "median_bp": 88.9,
+          "median_bp": 87.0,
           "top_quartile_bp": 102.0,
           "best_bp": 132.0,
           "n": 15,
@@ -69,7 +69,7 @@
         },
         "7": {
           "median_bp": 80.0,
-          "top_quartile_bp": 93.8,
+          "top_quartile_bp": 89.6,
           "best_bp": 130.0,
           "n": 14,
           "ust_pct": 5.05
@@ -152,22 +152,22 @@
   },
   "overall": {
     "3": {
-      "median_bp": 50.5,
-      "top_quartile_bp": 73.0,
+      "median_bp": 45.5,
+      "top_quartile_bp": 69.2,
       "best_bp": 118.0,
       "n": 56,
       "ust_pct": 4.92
     },
     "5": {
       "median_bp": 77.0,
-      "top_quartile_bp": 95.0,
+      "top_quartile_bp": 88.0,
       "best_bp": 142.0,
       "n": 63,
       "ust_pct": 4.98
     },
     "7": {
-      "median_bp": 72.8,
-      "top_quartile_bp": 89.6,
+      "median_bp": 70.3,
+      "top_quartile_bp": 85.0,
       "best_bp": 130.0,
       "n": 54,
       "ust_pct": 5.05
@@ -180,5 +180,5 @@
       "ust_pct": 5.15
     }
   },
-  "_fetched": "2026-11-15T16:23:15.294485Z"
+  "_fetched": "2026-11-16T19:38:53.664219Z"
 }

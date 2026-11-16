@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T06:32:54Z",
+  "updated": "2026-11-16T19:39:15Z",
   "naic": [
     {
       "id": "b09629b6e97c",
@@ -254,6 +254,16 @@
   ],
   "bma": [
     {
+      "id": "fd6e5305c8b2",
+      "title": "Relm executive: stablecoins could hasten insurance payouts",
+      "date": "2026-11-16",
+      "cat": "General",
+      "summary": "",
+      "source": "Royal Gazette | Bermuda",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkEtLVhfbHhUaFZqeElBVjdtRXQybERJNDJCVnA0c1RZN29VTjdSVkxWUjRwMGNVWWlaNEo0RWpDZnFVbi1PX3hYUjNmb0E0ZjYzMFY0WHpxWGphNjAxMUprQ2NmQXYzRV9FclVESnFJejljbWlVclBxUGp4VWpiazZ4bG1vUlVZa2ZCVjNKN05mcE9FTy1KQkZuWXpiVnYyeVBzQlZ5MG9xZnpkQjZDei1kNzlJRHZQM0loWVMwU29JVGM?oc=5",
+      "isNew": true
+    },
+    {
       "id": "60e5f92b94fa",
       "title": "The day we stop checking",
       "date": "2026-10-20",
@@ -491,16 +501,6 @@
       "summary": "",
       "source": "Intelligent Insurer",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXB1QTRBMWJFMnlNc21aVTJ6VXVHNEVNUU5ZbjVUdTVCdDc3LXBmNHROUVlNQTJkTVZLTElUTmtYdjV2S2tQTEY1VnJWNUJ2Yk12QllaNTRQa2hPakRBVE9nbWpsMnBCaW5QRm1NdWlRTi1tME5kaU1oR1RsZHJGaVhOTTdxa01MNzJoemc2VG90WWQzNHdicU9TWk4tV01lWmc1NXZGYzU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "333e7038f419",
-      "title": "BMA Warns About Investment Seminar",
-      "date": "2026-07-23",
-      "cat": "Investment",
-      "summary": "",
-      "source": "Bernews",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtN1ViUDFtajhjdWkxaER1aVBHUXRYVmw5MGlROWF0c3lya2J3M0lEeDdNOU9jWGNEY1laelRkT3VsLTRJbFlrRmFYaUNwM0lHME5PeWI4Nzh5TEdNSEJlZVZ2MkhnM2dB?oc=5",
       "isNew": false
     }
   ],

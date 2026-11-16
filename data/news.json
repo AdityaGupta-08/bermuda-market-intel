@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T06:32:54Z",
+  "updated": "2026-11-16T19:39:15Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,76 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "32c81663ed05",
+      "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
+      "source": "WKZO",
+      "date": "2026-11-16T17:57:56Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEpqTzZ6N2hJVVJIa1ZnY2hlMERqdTEwMWpKVlhtbVVhUmdFdXBRdlVmck5OLVQyWVYxaUU4dlRETXJseGJ0TUdyeGYtRXpfVXNIZGFTMGlSZ0t0TXhWdnlZSWVGWUtXczdFRU9NbW5PeWxRY1hMdXROcFQ2RDR5c0dkXzZpdzFQWVg4bzlKN3J6NHlFaFJmbndzRm1KUXBHc0xKdXFLWEg1aFctZlpnQ25vZVpSdzJ0WVE?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "9dd8874434cf",
+      "title": "North Dakota State Investment Board terminates international small-cap value equity manager",
+      "source": "Pensions & Investments",
+      "date": "2026-11-16T17:29:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXJOS05JbkJkVjBuSnBwN3FUXzk1aGh1SWplSnZRdDgxM19XYnR1eF9NcGlDbk1jOXJQbGhMamo4U0VpUnlZV3dhekM1ZFN2a19UMjI2VC1ROVk5bzBjdFc3d0NmYS0zTWZDSlVFZklQRUpOQkpSR2xDMlBFRWMtVFFqM09IMVhCLWpuQmhNRFM1T192cjhvd0RkMGFTamZ0bXJVU1RIWGtxNkJrVjhPajhyQm5rbUpOcFotVmt1cw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "5a587c82c432",
+      "title": "Goldman Sachs Sees U.S. 10-Year Treasury Yield Falling to 4.6% by End of Next Year",
+      "source": "BigGo Finance",
+      "date": "2026-11-16T14:05:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40TkJ5Y1Z4LUJhY3dHamJQdE9pRi01SVpfOEE2Zi01ZUdEbzlrVGd2aVpNUzlfYjRKb1B2RTJwbFhLRl8yM1pwMkVKbkMzd1Z4TUxQOElVaXc3OXhJT0piYWRlNkdNX1RLU0lJX0UxRENqLTNDS2c?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "2f0027fc40eb",
+      "title": "JPMorgan Chase Tops The 2026 Finance Quantum Index; HSBC, Wells Fargo Share Second Place",
+      "source": "The Quantum Insider",
+      "date": "2026-11-16T14:01:15Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVUyWkhWc1hpUHQyQmlyczlObllFV0FtWEcxbG5QeVc4MEFpQVozLVFXd2NKdExLd2o2Vnl1QllvR0Q5c2cxb09RaV9nOHNSS295akVKeGVTTUdKVWt4b0Q3RmFMOWpET0pCTWdaRFRwLWR6Q3BWZlotUnVkcEZLVUVEMUtRZ2xCYm9uZmlGZ3dRdjZuc2VjMmJhcnExblFNUXktVElQMUhXNDByRzZzWGM3UGtPeVNtLVdseDVOYUdoWTFadENv?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "b0c0228ab4bd",
+      "title": "U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus",
+      "source": "WSJ",
+      "date": "2026-11-16T10:03:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "6b3d81fb6fa4",
+      "title": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
+      "source": "The New York Times",
+      "date": "2026-11-16T10:00:47Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDSXM5UXJ3Z1hQMDk3TDJIRk9GanNoNUhiZk8tM3gzel9ZNkxxQ2Z5dHJCNm1hSkhxSkh0aS1NWFFkcXNzY0VIWkYtdkpSMXR2Mk1wbWwyQjBuTHZEMC1VN210SUYxTE1xSUtpT21fVDRIT29h?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f965b77e4eed",
+      "title": "South Korea's Samsung Life Wins 7 Trillion Won in Savings Insurance from Samsung Electronics, Samsung Display; ~4% Yields Raise Negative-Spread Concerns",
+      "source": "BigGo Finance",
+      "date": "2026-11-16T08:55:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUDBKaGttX3dZNFBrTWJoMzRNQjZEMGNENkZvNllPY2kyRWdodnJDZjVnbUNBb1R2ZHlXMVE2YjNyTzlCZndERng3YTJvcnJaWGlaWWIyblRkZlZKd19PUlN3aUlIWm50YUtMNGR3ZTduVzA3NEE?oc=5",
+      "isNew": false
+    },
     {
       "id": "6f1f6730e911",
       "title": "Generali\u2019s US travel and asset arms grow as cat losses climb",
@@ -235,76 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVldaWVRyQWNnSHNqVmd5SHZ3c3ByY19zOHZ1UUdXcllDRldIVW9jVEpiOFA3Wmx4b0NwN0wtQ0RfVWQxTVBBdkVCbkRsSWtUNnRwc2YwX0JWV3NNaGdUc2tZalBjeXNCbDVsYndVT040LWR3aEVnaE1kamp6Z3hQcFdPMExaRW9Dd1RNS3N1bHRzblFNZ2lqNnJwZmhIWnZhdElFQWF2eTB1UVNOU2RUTWlPaUlNbS1R?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d0a665da88cb",
-      "title": "Why businesses should improve insurability and investability through place-based resilience",
-      "source": "World Economic Forum",
-      "date": "2026-11-12T11:20:48Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFVNYXN5c05McHRFZ05ITkRaeVhoSDA3a1VHUWoxOTRiN1BXMkM0R3VOcmhveDhmdWtqTk1qRzVwSEFEZS1TZ000eVpGOWkyekZWMV81Z0ZXZkZzamliYWdfdW1sTGxoZjdOeml5bzRDZ21QYUxsVmktMF83QUlnVmgzY2Fia1g4ZmZpUm9sNEhoQnR4X0hUSnhjYml6M3dwQWUyNWd6aU05cGFxajJBeDAxR0pDYjNRYTMxOVItZw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "2816deb3c1ab",
-      "title": "2027 Investment Management Outlook",
-      "source": "Deloitte",
-      "date": "2026-11-12T08:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZllYbHc3UFNOT2p1Q0owbFBSdnN3MTAwWVV4b1c3dFdpaWNqaFFLQ2Z1YkJwaDRla3JkUXpBNC1nQU8zemlBemJUSDA3ZjJNaUdPYnoxSTMzcXU3bktLdnZKRy1xeF9CM3RaU1lsbDBkM2JGZHhfM2YzcGVkUDZCS1R0T0d6ZEtGeW52S3VNQkt3MnlzRHVObTlqc3ZtUmNiQmRiNEdWVlhsdTRvdWdTOUhud2pwdGYtUFZnVlQ3aUdLQzdmS1BQbTRiWlpCanRnejlQRkpMR1A4MW1raTlFVnpn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4e9953b1e377",
-      "title": "2027 Insurance Outlook",
-      "source": "Deloitte",
-      "date": "2026-11-12T08:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUEFOcV9LTjRJYU40TnBFQlI4aDZXTXYtSzhBeEpTTVJEMHNmTlNVTC01d0NZNG5ERHpLWWNVYWRoZmlHb2RPdlhwN2VudWVYUnBJeEd6TGR3eVpybnU4Yng3MzZBN1hvQWdIRDFXYTVoMTVKYmh4a3E0Z2F2R1Z4QS1rbXd5WmJoeHozV3c3b3pUZ0ZOWmRGUk5yZWQxWldOS1dOQWdpa1hlanp5VUJfcU1PTjJtZXdnRjc0S2puMjZPc3pLR3FaS0tDQm94WE5RM1E?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c9ed01f360a5",
-      "title": "Banks, brokerages jockey for edge in pension shake-up",
-      "source": "The Korea Herald",
-      "date": "2026-11-12T06:36:38Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ydlduMnkwQk42VUFHbVJGQk9XWkRwRDNlaVpLUDNicVBXc01aMUlWYVZtVG5IS0MyVnZUOVZIOXJHNWlrbGtJbmdGN0VLYzVVYWkyaWliOA?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "51c96ee7e51a",
-      "title": "China\u2019s Loan Interest Rates Are Already Low, Central Bank Says",
-      "source": "Bloomberg",
-      "date": "2026-11-12T03:53:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW1ueXJqQzBaUmFvSzY3cFh6MkdVOEN3WUxsQ2pzSHhySDJsTHljS01VQ0NxeXpSQ1RrVzBOM3VBaUZ0NlR4Q2U1c2xhRjBHTnlSam4xSlFubWN6ejEwNnRJNG9NU2x4Rnk5bmw0dUpoUnN1TEV2OTA5WGRpYm52UmVtNzd0eGpVQ3F0WGdjZmMzUlFWcDVMcGJwbHZqeS0zY1hwWEdXT1hsNG0xeXA1T1JR?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "891c55bd7ccd",
-      "title": "Australia: (Re)insurance solutions provider under regulatory scrutiny",
-      "source": "Asia Insurance Review",
-      "date": "2026-11-12T00:04:42Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU05oenU0aGhTWlMyRlhzMmZXWVpLU2hHX2VkazJrSEE4UDN5b25kNG9raHVaWGp6dVR5OTQ2XzRDNlRQTzBHQmQ0QmlFUFZ5YUd1ZmdsWlRPa1BwbUpMbGhKQXJzaTI5dThXUnZHMG9MVGQxRktlVktFNTd2R0hwdWFYLWM0VG5pN1U3bmM5d0VNeFZaQ056Sml2WmhILWdZZzRZNmVRTnhpTG9jRkV6bmlKZ1pxY0RKZ0pMTkppX3FOQlk4YTl5MWJra0ozWk5SRERKY2ZDeVVEMzEzbkFOY01pdUVSdw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "eb4756f1bc59",
-      "title": "10 Companies Hiring Financial Services Operations Professionals",
-      "source": "Built In",
-      "date": "2026-11-11T22:31:47Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDRxVkE4MFhMekMwenBVM21odmh6NXZCVFhKMHJFem9wUW1sWmFEaEY2RHI2bXloYzM0NTZXQkl2QVgzQXhVMkVoQ1V3VEtUWmgyRnJxQUplb1V1M1ZkY0dGSkFIMHlYQ0ZBTkpxQ3diZGgtajhSeVFUR1BhUmJMWVRJWUFPNTZrVUtWeGNvbGV4ekU?oc=5",
       "isNew": false
     }
   ]

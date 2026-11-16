@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T06:32:55Z",
+  "updated": "2026-11-16T19:39:18Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -34,9 +34,9 @@
     },
     {
       "name": "Google News: Global Atlantic",
-      "ok": true,
-      "count": 6,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Google News: Kuvare",
@@ -46,9 +46,9 @@
     },
     {
       "name": "Google News: Martello Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Google News: Monument Re",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Google News: Prismic Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 29,
+      "count": 32,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "18a5f8ae2ea2",
+      "title": "Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-16T13:40:03Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "387a36594988",
       "title": "Reinsurance Group Of America (RGA), Why Is The Market Paying Closer Attention?",
@@ -259,7 +271,7 @@
     {
       "id": "f97b0f94096b",
       "title": "Is It Smart To Buy Reinsurance Group of America, Incorporated (NYSE:RGA) Before It Goes Ex-Dividend?",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMk92cUpDMzVCSERGRXhYNUh3Zktjck1pZGFKRUQ5TXJHdHpfUVN0TmJ1RmdsMjRSdU1FSkV2ZzhmZlpESWhmNlkybW51UUNZeW9aZGhhU1lTSkx2NnJrM1dHbEotcGlpOGhiTXlndjhtZ2o5Yk5jWUJQd2d2d0gzTi1tM1RDUG5TdElnY2VJUTBVcWo5eHh4dWRKTW1WWGNBb0xOc1dRNGxlcHdUYnh0cGd4TklOZnNCeTdmSHJuNXI1Q18zWlNJdGdJSS1vRGlYS2pGWGU5ZjJOSndxclhFdUFsa9IB4wFBVV95cUxOMk92cUpDMzVCSERGRXhYNUh3Zktjck1pZGFKRUQ5TXJHdHpfUVN0TmJ1RmdsMjRSdU1FSkV2ZzhmZlpESWhmNlkybW51UUNZeW9aZGhhU1lTSkx2NnJrM1dHbEotcGlpOGhiTXlndjhtZ2o5Yk5jWUJQd2d2d0gzTi1tM1RDUG5TdElnY2VJUTBVcWo5eHh4dWRKTW1WWGNBb0xOc1dRNGxlcHdUYnh0cGd4TklOZnNCeTdmSHJuNXI1Q18zWlNJdGdJSS1vRGlYS2pGWGU5ZjJOSndxclhFdUFsaw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZUNWVGJJRUlwaWdWRkVGRUZmcjJxeC12RXVGS0thUHRTdzBlUnlTMlNSQk1LMkltTzlZMTRQdHNfcDFoZU13VUhELVVMWEx3WmdNWnl4ZUFBSlRKbUxyMURtbFpQX21NTUx1aVNiNWtPang2UlVEMUN6Sk84ZVBiOHdNd1U0UVlxZ3ByTko0ejA0a0FFZG5aN25CcTMtc3pBUVNqMVFDN0VVUGc2OElfMUtKby1Ea2ZtMEpLM19SRl9BOVVtVHpScGxXMUJ5VHpYcVBzaHJ1eFRtZ20weHfSAeMBQVVfeXFMTjJPdnFKQzM1QkhERkV4WDVId2ZLY3JNaWRhSkVEOU1yR3R6X1FTdE5idUZnbDI0UnVNRUpFdmc4ZmZaREloZjZZMm1udVFDWXlvWmRoYVNZU0pMdjZyazNXR2xKLXBpaThoYk15Z3Y4bWdqOWJOY1lCUHdndndIM04tbTNUQ1BuU3RJZ2NlSVEwVXFqOXh4eHVkSk1tVlhjQW9MTnNXUTRsZXB3VGJ4dHBneE5JTmZzQnk3ZkhybjVyNUNfM1pTSXRnSUktb0RpWEtqRlhlOWYyTkp3cXJYRXVBbGs?oc=5",
       "source": "Simply Wall St",
       "feed": "Google News: RGA",
       "date": "2026-11-13T12:28:35Z",
@@ -295,10 +307,10 @@
     {
       "id": "da71407d7f09",
       "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYl83TUVraHVMRFZjWXR4bHJHN0VDS1dBaFZwdXZVTHRUOGZKcW02ZEU3Q1VQaVRWbE5oRURBRTNUVmprS1k3WVIzS2JieTRnMnpZaXZ3b2dDLWhXS1dZeTROYWcwSzhlckQ1cFl5MksybEw3MVFraG9lNXQtdlNDQ2dkd25MWm1DdXRjQmoyWHBoVVlpbFdJUjRZYWxNNW5iQXdYNzFHVkhNRE1oa1JWR2NRTGxDVVhoTmNrSGtvdTMzeFlidFhBTEhZTGRUVVhFVERXejBWTDNEQQ?oc=5",
-      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEk2Q0JfaU5QbXQzQUMxWGp0Z1VFM0JQUVZ0N0EwTkw2eEJNcm80OURkWGpveEYyOWw5dE9McDdlcVJvd2stY19nVWVITnI5U21iSF9hRDhSTDBBZWlXY2NzV3ZwY1JsTjBhUW1xeWxUMjBLdUk2TFlCUFlqY1V1c0xnRTNKbzNoUksxWW9FM0RNOFV5anNna1ZLMXdLa21LVmx6MlExWnlhRm1nNE41ZHFrNTAtVldkRDNWZVRXV014OG9KRHEzMlpFYWFfX3VCRVFMVjViYTc2SW02SmpNOA?oc=5",
+      "source": "Investing.com Canada",
       "feed": "Google News: Sagicor",
-      "date": "2026-11-12T15:52:43Z",
+      "date": "2026-11-12T16:09:59Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -311,18 +323,6 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-11-12T14:08:53Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "aa0b806f01ec",
-      "title": "How Investors May Respond To Reinsurance Group of America Stock After An Earnings Beat",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNEE5VzdtNlJnbTVHcFZtSVhJdWxpZWhneHF0eHhhUHRZSDhVeFNfTlFSUVEzZUlYVHE1aTdQYU9lMV8wN0JSTUd6NHE1UzZPUTRCWllNSWl5RHF0UHFhd0otNFpUa2F2T25nYXRzcURqVTR4X1V4Q0UxYVZfZ3RvU1h2RDN6ZGZGQTE0a3hvODJ3V2VWd3dwa2hoVEV1UTJXYk5VOS0wRkcxNDJSRVNkcEI0VFhiUFI0OGduLVNzT3J6cGlqM0E4c0tjMzJTVHBwLVk4YTN0bTlnMGxOakxRRdIB5gFBVV95cUxOV0djajhUakUxSVFVck5VR2prQUY4ZHJVTUtlNEJDVzQ3RnJJaXJQZTdJNTJNa0pveDhOOGxyWkEtbkhmNEhuNjhaT1RaZy1DU25WRTlnTUM1cjN2WDhyLWp1YVNLOTlkUTh2TXBzYmpJa2xudmEwc3F5ZVd0cjdpYWJoU1lJRXBEalJRdWtNOUdoN1hZN2VaVUN2MnAwYWJFRXBldy1Kbm5Xa3JrVHgwWE1pSDlWOFJ2LUlBd0JwV084LTc5WUl2VkJGcnhzWTd6X3FmeUNwLXFpMHM5Sno3T1R1N2F0QQ?oc=5",
-      "source": "Simply Wall St",
-      "feed": "Google News: RGA",
-      "date": "2026-11-12T12:26:37Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -641,36 +641,12 @@
       ]
     },
     {
-      "id": "c54a2b4ed009",
-      "title": "Reinsurance Group (RGA) Reports Q3 Earnings: What Key Metrics Have to Say",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGcxY2pKRWZjUXdrVHVBdUdDWGdPRFlmdERXSXR6LUp0SDZRSkNQWFNydnBuYkVjTm1MZkw4MW1PeDZmSUhSNmkzdFlnd3VIRFZVb3hoREZlcGMzWDVaTUpWMW4xak01anNsYWI4WjdreDc1aXF5ZXBpN093SDA5WUZMQzFUUVYyYkJZZHhJRUx0aTZfOE5oYUw3MThKdw?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-11-06T02:37:38Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "9a8603cb6565",
       "title": "REINSURANCE GROUP AMER ($RGA) Releases Q3 2026 Earnings",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUE1NHluQ2JOX1I1YzZkdWZ0SjNXSmt1bHVtTGtMUnYxQ3QwdWF6MVZVN3FPbUdPRjAwU3pINEVYTWdQWUxKZTdXbndnNDduVEdsaERtbUZQNjlYOHEySEVCSGpUbkZyUk1hS1JLNUpGcGZVN3dLR2pnYnM4S0RuNVRiNi0yV0xwS1hBY0ZiWG0wVXJBLVNTZkln?oc=5",
       "source": "Quiver Quantitative",
       "feed": "Google News: RGA",
       "date": "2026-11-05T22:56:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "6ba7f36eb7ea",
-      "title": "Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSDNYOXhidUJoX1N3Z05XVmNJeUttNmd0LXEwTC0wSUZPZEtXVDJnNVZESFNjVlphU0k0VHFTcWVoUVM0VlhPUTJvak9tYzN4bW9MNnEwSURMemhpVWUyZ3ZzRllWSTRZMXhLR2Z1LV8zM214d2pnY1VTZkktamNfWElSZHNmZG5oVDhrQ0hLUkxhZVZ4ZjBtbmozbzFnWlg5R1pzeXFyOUZqcVNxZjZhWUpzX2p0UQ?oc=5",
-      "source": "StockStory",
-      "feed": "Google News: RGA",
-      "date": "2026-11-05T22:31:05Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -809,6 +785,30 @@
       ]
     },
     {
+      "id": "aa0b806f01ec",
+      "title": "How Investors May Respond To Reinsurance Group Of America Stock Ahead Of Earnings",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWEVVRmpWU3hMbDR4WGVnX3BNa2d0YkZ4bV91ZERzVkR5cWJiRTVyeWZWQmlGWlpOcFNyYWpfWk9KYzBYeHQ5SXdLeVpnMVlzRXlRV0h3LW9seC1IVmltbDVxb1BiQ01jNkJjeFlEcmhmV2oyV2w3akVaX19zTHZ1RHdySlFvY1lLQzNBNzNRUWpKTTdLWDllS3lvNWozVTBJQ1hfUDlvbElrQnBvLV9ybUQ1NVpIZzY5ZmNELXVLYV9scjJoelBvYVltanZFbmFaWkJfMkxXdmd1eUE5d3fSAeMBQVVfeXFMTUlRVEdSa0tHLS1XMWFURGllTEdaNlU0aWJvaGFRREJ0TmJTQklhdG5BeUxNVTdtS2U0bHhZOUpKWWlOc2RCRGYwUzU1eVVlU2pWdEE4MVc0cTFCeFd6Z0M0U0NiRlpiMkw5a054NmQ0UlBaN2ZBdEJHeXBlanFFQ1BERGQ1eFJBd09YLTRHN3JxMFNCX0stQTYwdWh2enVWX2h6NlVxRGRrR1h4SmRBd05jTGhCVllTV0VzQ2Z6cGVGa054bzV0bzhiYlVsZ0RFb1gwSTFyREFGckNyZllybFVPRWc?oc=5",
+      "source": "Simply Wall St",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T11:35:04Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "6ba7f36eb7ea",
+      "title": "Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnhNQWd0THBtQWlyYllGUzlOMUUtMEgzUDRZMWhvNDNmY1V4aXZ1UGhFdEVkV214aGMzRms4SHJHTHAxWnhVaUNTWGh4RUUzWTBTZnBWUUVTbXZGdWszM2E4S3kxTDlvNHJvT1N3UTFXY1E4S0NVR0pRaVlDeWRLWHcyN3hzNzlrTmJPcUlqcVVwM3RJNF9LVGtaUWpKMWp2?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "4ba5c2e484b7",
       "title": "Reinsurance Group of America (NYSE:RGA) Posts Earnings Results, Beats Estimates By $1.52 EPS",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3c1SG5weXhQR0diZXlyZUhFUXR6NGtCUFF5d3BWWWg2S0JHREtCYUxwUU9oOW5YaU5mRTVPNEM5c0NuZEdJQWtfeUFSSlNCdmtKb0pWM1N4X2V2OEZiRjV4VHRIa2EyZnZhczVYeUpya093RVRQYUpfa01jOWVtRHhleHhfeGpwNXEyejJON1doTlBOaTgxMmg1c3dhNFM5Tk13OVhtQ1J6MTJHcTdTQ2k3LTNjeHhFcHpfcW9nVGVBWjBwd1A0Nk1yOUNGcTQxaWQ1OE9IY0ZYQ1Y3MWVxM3NjcFg?oc=5",
@@ -833,11 +833,23 @@
       ]
     },
     {
+      "id": "c54a2b4ed009",
+      "title": "Reinsurance Group (RGA) Reports Q3 Earnings: What Key Metrics Have to Say",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGcxY2pKRWZjUXdrVHVBdUdDWGdPRFlmdERXSXR6LUp0SDZRSkNQWFNydnBuYkVjTm1MZkw4MW1PeDZmSUhSNmkzdFlnd3VIRFZVb3hoREZlcGMzWDVaTUpWMW4xak01anNsYWI4WjdreDc1aXF5ZXBpN093SDA5WUZMQzFUUVYyYkJZZHhJRUx0aTZfOE5oYUw3MThKdw?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "dac4ce685a43",
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-11-05T08:00:00Z",
       "summary": "",
       "companies": [
@@ -1751,90 +1763,6 @@
       "source": "Pluang",
       "feed": "Google News: RGA",
       "date": "2026-10-03T03:55:55Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "1bf7d91dd1ba",
-      "title": "Fortitude Re parent acquires Dayforward annuity insurtech platform",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZVeElENk94UGE3RlhnbC11N1ZqUVAzZy1objVFZWpqdlo3WndnVWd0bkY3Z3dBdGxkNVFnUml2T3E4OXdhMTU3R3c0T3kyNWpDUmRrb3RHOHNQNURqb0lLT09XQS1EUkVUcTFISlNvdzc3NzZJU3pZQjNiMVFQZW9B?oc=5",
-      "source": "Beinsure",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-10-02T13:26:23Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "f40e420fb639",
-      "title": "Fortitude Re parent acquires insurtech Dayforward annuity technology platform",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZVeElENk94UGE3RlhnbC11N1ZqUVAzZy1objVFZWpqdlo3WndnVWd0bkY3Z3dBdGxkNVFnUml2T3E4OXdhMTU3R3c0T3kyNWpDUmRrb3RHOHNQNURqb0lLT09XQS1EUkVUcTFISlNvdzc3NzZJU3pZQjNiMVFQZW9B?oc=5",
-      "source": "Beinsure",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-10-02T13:22:12Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "6fd06032cc65",
-      "title": "Lincoln closes $6.3bn reinsurance transaction with Talcott",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdU03OWtNbVVla1BZaDlYOTRfbjdkTEpNV2FkMEN5VUFoWHN4SE9oUVd2dFZ4Y25VUXZoTDZaTlh5QkpHN3FfYVp3YWR3T0RVTnYwODByT2k3QlZETW0wa0syQTdkR1dRREhGbjJCM0hkWExzOEtsTUQ2YVB1aXRVcURZVGM3QkVFZDV3U3VsekY?oc=5",
-      "source": "Reinsurance News",
-      "feed": "Google News: Talcott",
-      "date": "2026-10-02T11:02:06Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
-      ]
-    },
-    {
-      "id": "2a8fb056de1a",
-      "title": "Fortitude Re expands insurtech capabilities with Dayforward buy, Fortitude Life launch",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVY0aU4tNWJ5LWlGV2E4SGlIY0ZCWEJET1dueG9XMGQzUHcxNHRVcW05WmdoN0lUcnZIRkpwU3FaMHd1V2xySzR6WXRTenRnUjNfTWFHSmMycUVfallwOHVkS2VXYVVnT200dnp2d095MnA1TzJ5bE02d2pLa1JOLVBRaGpSellYR2RvMkM1ZWxoWXoxX3lTOUhrRXVQUm8zeUM3aG00SkppYjhQZ0c2ZlBpckZ6elZhdEtYcnlQRUNqSVZjQmhv?oc=5",
-      "source": "Bermuda Re",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-10-02T10:41:32Z",
-      "summary": "",
-      "companies": [
-        "Fortitude Re"
-      ]
-    },
-    {
-      "id": "8cd9b2f87f8a",
-      "title": "Talcott closes $6.3bn Lincoln Financial deal",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTJKR2ZYLWdrZElGM2xoMmswUk5CWmhHSmk4WklCaVZwQ1ZQNGxwWWJIc0xlMkpqMVBIYUtvNWhiRk85M1REMU1PdU9tY2JHZF9NWkRRd0lBUTJ0MGJYaEpaX0dJaVU1eHdCY19BUGY5bzI1dG1IZDg0RU14ZHFqV3FZSUl3NjZZWl8zVkNBWW5KY3FqaGVJRFNYUUVMVGN6cFZVVDlMZzdnaGxpQlZSaQ?oc=5",
-      "source": "Royal Gazette | Bermuda",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-10-02T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
-      ]
-    },
-    {
-      "id": "5f29c68ac747",
-      "title": "Reinsurance Group of America: Medical And Rate Tailwinds Carry Further Upside (Upgrade)",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUR4aHF3YUF2QnFrQXBEVTl2WEFGRnB2OXkyWU12bXBaYUozSUtMM3I2aTZaRnZsci12ZXhkY0dTbTVJM1lubG9SbDBVSnl6LU9JUmtsd3VvVXVpNGcwVktJc2drSVRqcVF5Q2VOcXQyQmR6TWx5VkdsOGRrS2EtM29iSmpzNEk3dmZtSHZqc3V2YlJLTWhYU19XNkZ6ZjFVdFFXZUd6Z1NOTzBwbzZqQ2FQdHM2SUtiWlREYUJfdGp4SFk?oc=5",
-      "source": "Seeking Alpha",
-      "feed": "Google News: RGA",
-      "date": "2026-10-02T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "79f7286605e7",
-      "title": "Reinsurance Group of America (RGA) Stock Looks Close to Fair Value",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcTNWWTFKME5FZEVHckpKZWplWERVUVdoa0V4cmpFXzVmWXl3Z09UYVZ4YUxIZVdEcWlFXy11cXJ0VXJIbms3b1hiYTZ1ekh3bGR1YnAxcnZ3ZzJXUmFPd0g2Tmltb0xoMWdDMTc4QU0wNXdyZVVxcEJMQ3dkM2tnLUZoUk8ybDVRbHBBTkJmbEhmY1JUR3dvOG9Tc3o5QkpBeWpVMnc1b1hBMHZoRGFXYTR6ZlhfcWY1NTgxR2hENDNzN0ZYaFRObkJCZXlZWm1tOWczWk90N1RlSlJzb3fSAeMBQVVfeXFMTlBxakpkVHZwWUp2REFaMTFyX0FtOElrZXFMYXoxMEdqSmozaGM0c2MxSlMtem45a3JSd20ycWNHdTBzQUo5VVg0aF9QbWpLeEFCblVHVGt6RERWY3Q4X1NKdDZZa1ZNNjNMclNqbnE3dHVlRHhoQmxraXJLdzZlNDlwSktIUW1xaExnT3JFT2dfejFfRWxmelF6RjM0ZHZhRXpBaENtRlBFaXB2ejduNnIyR21rN2tJbWtiUXBVTUVkaWxfZGdJUmxyU3kwQlp2VENpUmwwMEpiSEtKLXhmbmJQZEE?oc=5",
-      "source": "Simply Wall Street",
-      "feed": "Google News: RGA",
-      "date": "2026-10-02T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

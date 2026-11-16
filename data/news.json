@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:51:06Z",
+  "updated": "2026-11-16T06:32:54Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,6 +8,26 @@
   ],
   "items": [
     {
+      "id": "6f1f6730e911",
+      "title": "Generali\u2019s US travel and asset arms grow as cat losses climb",
+      "source": "Insurance Business",
+      "date": "2026-11-16T04:01:57Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPemF3bXA4cE56NFVER2hfdW9RM3I0cmxqUWZCc05oX0pTU3ZYUUJ2bFV0VXRHWGpmZFBBVmVmNVdEeE8zTlgydFFBV19vSUVPVjJrR2piYUcxVjA3SGhxMkZMZ2ZQcTBfQ3luOU51Q0JuZnVUdHJNQkpFT2dleUlZa0N0YVNxOFhpcElMSGhVdHozMUN4S254QW11YjZ1dWhDLXA5X0NLaXNWQTlyOHNwRVpnNXN6X3M5c3hnLWVzd3VlTmNHNE9TakJB?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "2409d2f2d719",
+      "title": "Brookfield Corporation: Buying BAM And Everything Else At A Discount",
+      "source": "Seeking Alpha",
+      "date": "2026-11-14T04:59:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1VuRndtZHdDVmxMZWNDVk11UFhNWWJfWV84d2gxajVFQXhyQkFJNVR4WU5WVTJrYlJfeG43alJreVQ1RUJqdHBBWmpsa3c2NTVsTEZ3T3FYRnB2R3FZZ1h3cjN4YTV3Q1hreW5sV0FYdkk4SFBLSk9LVXJWRnBYQnNSd0kyZ2FQdktKYUFaX1RyaHVKOTFXOEZiVTBwcTJvWlZQZ1A2ekFVV1BD?oc=5",
+      "isNew": false
+    },
+    {
       "id": "c695060eadb5",
       "title": "Gold's $4,000 support breaks as Fed fears grow; analysts eye $3,800",
       "source": "Kitco",
@@ -15,6 +35,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOamVpVk9OcXdFVWlWTFVUTG1xendnVlZLR2NId0llYnVBa3U0UGlnZ3NsV1JMUVhCeEdwT3AwdGgwdF9QYk4wZ3ZFWVpUQjFCblBhYzI0Q1BNc3NONjRiSkpCc1JhQTJfcDVrR2pSOHhya0I1QWhCOEMwdS1UX0hHQTJEY2piYWgzaGRDTWRLV1hJaGJiOHlQdzZiZ2xGQV9fUUtDM2ZESQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "14743742fda5",
+      "title": "U.S., Eurozone Bond Yields Rise",
+      "source": "WSJ",
+      "date": "2026-11-13T18:00:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUm1uQmRvQ0wyVFV4VDljWGRaaWZVRDVONmUwc0dlNW9DeF9zMzRtME5KQmxjOHRkemVqeFA4TVBwUnQzLXhIekJ6ODVzOWpTVUZWemlCakw0UUF1RzY2TWJ0MXF2VkpDTHFsVnpSOU1Vd2wzTWN1dS16dGYwM3FDSC1GR0JuNTlXM3hqcjVoRnpaaW1JNkotYmYzalhoRWFYSmNIMFpYLXJSam1xbmhHZTdtTGRNd0hrZnplUDQ0MmMybERQUVd2ZA?oc=5",
       "isNew": false
     },
     {
@@ -35,6 +65,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEVzTm80NG1HTmR0RDZmUXRSbnkwQlJtbUxLYWt2dkE2V3Y4cmd2QV9Sd0ExZW1yak9IdmJRVUlLZkdKVzZ3YnBJYml1NFE2YndkNExtakpaS2xQZDVNejhFaG4xOTUwaUFzUzNESVh1NUR3VlowcGV5S3pIVllvWW5LVWxsMXNLR09NTW1qN3FMeWxxWWlsQkdDeGdHZ1NmeHk4R0x6eXloVDVMajkyd01MSHZxNmpIR0VUalk4Qkl6SjBsMWlfZFRhODJEZzQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "16472cc93cdb",
+      "title": "US Treasury warns against rate hikes during US-Iran war energy \u2018shock\u2019",
+      "source": "Al Jazeera",
+      "date": "2026-11-13T16:25:38Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
       "isNew": false
     },
     {
@@ -240,7 +280,7 @@
     {
       "id": "51c96ee7e51a",
       "title": "China\u2019s Loan Interest Rates Are Already Low, Central Bank Says",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-12T03:53:00Z",
       "topic": "Rates & Macro",
       "summary": "",
@@ -265,46 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDRxVkE4MFhMekMwenBVM21odmh6NXZCVFhKMHJFem9wUW1sWmFEaEY2RHI2bXloYzM0NTZXQkl2QVgzQXhVMkVoQ1V3VEtUWmgyRnJxQUplb1V1M1ZkY0dGSkFIMHlYQ0ZBTkpxQ3diZGgtajhSeVFUR1BhUmJMWVRJWUFPNTZrVUtWeGNvbGV4ekU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "60c10f2d2664",
-      "title": "KBRA Releases Research \u2013 2027 Structured Credit Sector Outlook: Strong Foundations, Shifting Winds",
-      "source": "Business Wire",
-      "date": "2026-11-11T19:50:00Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWmtWN2JnZWQweEZjUnotRjhXb1pNSWw4aG5OajNiQTlDaGNtUmg2bzItVURJSV9Wc0w4WVZrcHo0bE5aeV9OSldDWktGcHg3YTY2WXdLQlJLcjM3a3Q3N21mWDhFck42UUxaUUs3S3I5dGxBXzNKRVdfbFFnQndndWF1YjZHYnRxZmljSnMyRW81MW43NUVVMDd6N3Q5c0FGZ0dIeFZtMU8yamp4YzZqTlA2YmVNS2U3b0hRYk14eFQzbE1PeW5XNHZrZnFzckU1Sy14aGQ3eWEyMXJiQ1EwbnRsRUhMdw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4092d75fa675",
-      "title": "KBRA Releases Research \u2013 Beyond the AI Hype: What It Means for Insurer Credit",
-      "source": "Business Wire",
-      "date": "2026-11-11T18:21:00Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZTRLdGUzelZNQ1dHeUVLLWUxdXdfTEYwSFNwcXItVWRsQ3dPUkRPaGJZbXBocVBPdDZ4U1BqV1BWeHA2UEJ2RHJOc0ppMGcwTDBQTnlEa3V3ZXR0ckwwUWxndE1jWGpGek1mTlQ0eVg1LXRnem5vMkJNN0NDczJhN0lxY3FCWnVHR2x0VXFYRUZrRjNsNHhraEtwTm1iMlZrSmxZd290NjZwSmU1UmxFSDV1SjdzbXpqRGZYeS1LdDJjZUdqcFg4TkNHSQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "49bc7ed57b61",
-      "title": "Shanghai's asset management sector tops 50 trillion yuan as China-France cooperation mechanism launches",
-      "source": "BigGo Finance",
-      "date": "2026-11-11T16:25:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMdGZ4ZG5hS0ZvYzZRTHhPV01QSEtpal9PSzdNMmtVQ1BUeTBjSFpMbFBkRjNfQU44dWVfZDR5bVRTQUVoQk12S3ZqaFFYRHZpekNyd3c3SlA5NnY5ZVBEMHpvOWFhZzNudldTdDhMd3dCT0lzUkE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4d95f000b796",
-      "title": "American Integrity Q3 2026 slides: Florida insurer posts record growth",
-      "source": "Investing.com",
-      "date": "2026-11-11T15:55:46Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFNXMUppakVmU0VlTUx3b0dPYkhYdm5KMEYtWTBZNUpnZGpkbWliZmZzVjRGYWlSZG1RRjE5NlRJMEFLMmJxa3NfenZGUkZadVRUZ2NWRGxpVG0yUXFNcm04amZyd01IOEJ4Q0xXNkJtbFhyVTI2azBnbTlZOHFSWTQ1N3BSd2lJNV9pSjV2ekU3ZmVMZWdXMEhGa1FnSGs3OG9uR05HazBaeWMwVnZIMTFnYU5FeTNJWEo0Vk5QS1pVZTVR?oc=5",
       "isNew": false
     }
   ]

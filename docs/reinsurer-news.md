@@ -1,13 +1,12 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 37 items
-Generated Mon 16 Nov 2026, 23:56 AST
+Bermuda life & annuity watchlist — last 14 days — 35 items
+Generated Tue 17 Nov 2026, 12:04 AST
 
 ## Feed status
 
-- ✅ **Google News (15 of 16 companies)** — 76 items
-- ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
-- ❌ **Google News: Resolution Re** — failed: HTTPError: HTTP Error 429: Too Many Requests
+- ✅ **Artemis.bm** — 10 items
+- ✅ **Google News (16 of 16 companies)** — 78 items
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
@@ -18,7 +17,6 @@ Generated Mon 16 Nov 2026, 23:56 AST
 - **2026-11-05** — Stock Titan — [Net investment income rose 14% at Athene Holding (ATH), but Q3 ended in a common-stockholder loss.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzVuZTJpdENIWXZJNGh5d242ZDdGeWMyTXc4NF9DWWIzR1NObkdQRzBlMl9BRjR1dFUzN1NEdkVsSWMyZ25lY2N0aDNsX2pud29GVzBYSWdWSTdxbVg2ODRlbGhuTV81Y0VLRG5Mb1ZxblVnS21EU2V0YXlHYzljV2cxM3d5Ull1VXdtdEhiNW5xUVBfTG9fUHVjSVJ6THlUSUotY2VEMDhsUQ?oc=5)
 - **2026-11-05** — Stock Titan — [Net investment income rose to $5.32B, but Athene (ATH) swung to a quarterly loss.](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlNtVlhtaDFNVE5iRUFYUk04U3ZyOG45X3ByUEZzd2x0RDVnVDNvQ1J2eDJobGl1WEpqNnJGM3I1Z2FSM3M5emFsMDhQWU8yQlpFQVZZeFBnZWhIQVdzbXNTMjJYTDFOcXhwc0ZxUHJxZ0tTenhJVVVVeF9sR1BEb2o5bUs3WnF5Q0pCVVlIQjNIY0MwZEZVNFdwWFc0YlBRS0xZOWJCOGNTenc2TFFR?oc=5)
 - **2026-11-04** — www.tokenpost.com — [Apollo Outlines AI Financing as Athene Discloses $12.9 Billion in Digital Infrastructure Investments](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PSEhkX0JzWE1OeHhpNjJhQkJUZEh5YzVoTXN0VGdYN1poMVZoV2pFMWF6bHp1cVJBQWU0Nm53VmhrSHFzYTFhVG9qSWVUODhYSUhZNUF4WGc?oc=5)
-- **2026-11-03** — Stock Titan — [Retirement Services earnings rose 7.4% excluding notable items at Athene (ATH), but fell before that exclusion.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVJMZjh5OTlPcE85aGFzMmEwSTdxWmV3V3JhcFhRNlFQcllyWVFhS1U1MkJMbTJqSjFNa1BIQkM5U1JZUUFrVFdWU2FzeDdVN2oxUktrOWFQazFGMDRETFY0Z29keTJyWUNibHJ2YkVFMC11eUlndWNqVTdyZ0xVNUZqekpKSXZCcTBMeDItOWUxcTJFNGsxMldqTHo1Q1I3Wmw2UXJubGJjUQ?oc=5)
 
 ## Global Atlantic
 
@@ -34,11 +32,14 @@ Generated Mon 16 Nov 2026, 23:56 AST
 - **2026-11-04** — Royal Gazette | Bermuda — [Fortitude Re and Unum’s $3.8bn LTC deal closes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlEtMnB2OXBsbUtzY2JXWWsyeTNGX3c3T2E2Ml9xWGRKZG4xWDMxUjRaQnpOd1d0Y2VyS3hFc3lkSkhnU0IxX0JLRDlaR2dZT1RHVFNjLXZQN2NMZVVtYTZhOVNnejZia0FkclRvc1QtZHRmbEJYLTNXcU94QjNzcXBYa2JMUXhMQ1Z6dnUwLVluRHVJVklTM09ETEROS0owMkMwN1B1M0g3OEFPbEdIeFp3?oc=5)
 - **2026-11-03** — StreetInsider — [Fortitude Re closes $3.8B long-term care reinsurance deal with Unum](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDJhQ0FqeXJDazcweDN6aG9LVWh5bTY0a3lUcXRlc1Z0aGJaZ3BvWWwtMmN3VDRwQ3dEcTJuYXdxMUNKOFlTWjhtVWhxQ0F5bEVLbHdLUXpwdEtlWFVqbldCUndfUU9YTm0ybnVsUkp4TkRpY3l5V0diUUptajlFaVZIRDlTQzBLNVFuZ040Tnd0VUc5djlsX2RJVEdJaXM5NHdPcHp4RjZBY3ZsODdIQmYxOURybXVlOURraUFRUnNPSmlGTEhr?oc=5)
 - **2026-11-03** — TradingKey — [Unum Group Closes $3.8 Billion LTC Reinsurance Deal with Fortitude Re](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaGdKb0h6aUZ1WU1fTHhVQm54UTlkU3hHQ2RQMmx2eGpsMTNyVjhrZFozRXBZejVIeHFJakJDaTFZRXhQLVVrVnNzOERKc2J2U014bHBsSkpoS1dhcUE?oc=5)
-- **2026-11-03** — Quantisnow — [Unum Group Closes $3.8 Billion Long-Term Care Reinsurance Transaction with Fortitude Re](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSl9SUDBUZkpXZTFJY1oxT0VCc3B5Ymt1ZXpHaS1FR2tRNXNBMjdaYnpfbDJidENLUGJqdXJQVk5KalNfZk45TTBzSFp2UUdjY0k2aHZDcDFGbmNuNVlrWG43VklEOS1Ca1lydTQwNDN4M3ZtV05MNUFCSTdQRFhaWlFQa3k0TGNwbG1Lc2JnZEFQUVRYTjZScHVYRHpaWFJERDltOGd6N2FDUHc3Mk9Eck9KTkhTZw?oc=5)
-- **2026-11-03** — Business Wire — [Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbkJlekg5ckk5RmNFWGJ2MlJ5Vld5M0NaLVhXb0xCWnIyUFhidFFxemlCZlY5elNuZ0NMMmk0QldZVmM3RG1ON3ItLXVhX29EWDdHRzhuWTZqZnRpMkNvU19rZUZHbThtUVdidkl6em9RT25NcXVWd1B0MEZlY3lVUjhrZFFZd2NyNFMtaTlCNEdwRU9MeHk1SlRPYVlWU3BLVFd5NmFTcDFFaDl2ZHRicDRHdW9pcWJjdXdHZFdmRllQOUhyZDMzYjd0eTFwQzV0ZnpXSjVSOGNlbnJDVEhwSVhCeWFQOTl0SkcxSjVoUQ?oc=5)
+
+## Venerable
+
+- **2026-11-17** — Business Wire — [Venerable Names Miles Kaschalk and Charles Schwartz Co-Presidents](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUl9XemlwNTVwcGFjX21OUXFqejdyY3ZjT2hLMV8xLXlJUkNBN0h0cFhINnJyRlQ0VmxLdFBDcGZ4OW4xNFI4ZE53Yno5aW9oVlZULV8wbW5VU3BWa2ZQWHJMWG1IZ0tScjEtcE1YdWxoTDVBQ1VVMzBwRm5UVC14aDUzUVZFUWdwSzFieWwyU3A0T1U5VDZsdDE4ZXRIT2FCMzUwZ0o0NXJuQm9ZSkdnMTRzOTlhSjh3eWFibUxRTQ?oc=5)
 
 ## RGA
 
+- **2026-11-17** — ChartMill — [Reinsurance Group of America (NYSE:RGA) Fits Minervini Trend Template With High-Growth Momentum](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDREX2Q0ZGw3OUMtdzN6QTFrR2M3UGZYRVhUQkVBVEg3d0l0Tkw0UWwtb2hGT3R0djJCYzNQeXFNR3BMZ1lKRmd3SmdvNUlSRDE3WUxvbGx5Y3dxT0ZvZzJtTlhmQTRrZ05IQWw3QmxKQnlieVRKZVg3OVNSOGNxQ25hWUZWMnpjQ3U3RGgzc252V1I1NFVxZEFPNnM4ckxsbGMwODdfQmJNbDg1MDFTdTB3dFNVT05jRDJUbmd5cnhYYzFWam45TVp1eGplZ3RFWkotZGtTOXRvcXc?oc=5)
 - **2026-11-16** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-16** — Yahoo Finance — [Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5)
 - **2026-11-16** — Simply Wall St — [Reinsurance Group Of America (RGA), Why Is The Market Paying Closer Attention?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVRaU1g4QmhVUlp3ZXlmQmlMeHNYTm9LSFRqSmptWmZVM0dIU1QzbTlZMTNSYnpmQjd1WDFvTHYzd29KRlVySGxRbm0xd1l0Y2hMTGFucWJXVTZEN0F0SkxxNFl3RVI0cW1OUGV2RzIwYmE4VFdZbC1ISkhNN2tFWW4wRXlUTG5lWlBsdU0yMkZDU1Q1OFJMNzdnSDZob1JKcUgzTlI5WHFtT21ZMFUyMnNwRGxGTllpX1d1T1FSTW1icUxBeXd6Si05TVF5YWNndV9lUHFSUldBN0IwMkHSAeMBQVVfeXFMUFJ5d0ZuUmZ0N1lpNW1TdmxHYTBwbndkWW9wQUFpeTVMZHhwbmw4eHZPbmpZTEZqTGZQSGF6d2s2UVBnWkR4UTF3S3V6NW1IajVTMk5Makhjb2R6Rms2RGVRTzRYZ29RQVdSNUdlUjNyZUlJcUFHM3FWY000U2tYUXJFNVlYRVJPY25YbFVhTlVmbjNFWlI4OFBGcXBTdmJCcG93YVUyOENJZkVwX21Zd2lUMGIxci1IeGxfUmV4RVppU2hqRjJIYVRqcnZwRkVTMU9hOWlaZzlyMXNiSnF2VllRek0?oc=5)
@@ -46,11 +47,10 @@ Generated Mon 16 Nov 2026, 23:56 AST
 - **2026-11-13** — The Globe and Mail — [Reinsurance Group (RGA) Gets a Buy from Wells Fargo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzlMOFlnbjg0RHFNelpzdm5mTHZYT0N5SW5YZ1pHWUhJT004MGRWSTREUFZUUUJwX2pZQXRNdkl6aEY3WEMyWjA2SUZhQk5UZXl3Z21vTkdrWlFyWFdmbUp1SlZ0SEx2S3VLNWFVRDhmU3ZiUVpLV2ljR1hHMEU0SVhTY19rcjAxa0J1Z3ZucmhrLUR3X3V0dmcyMHZGZ3o5RGtRbGoxNExaM1FfdERKLWdKeWNMVm13Mks4MDlnVXk0MGZLdG9LT0xDc1BtUQ?oc=5)
 - **2026-11-13** — Stock Titan — [CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5)
 - **2026-11-13** — Stock Titan — [An adviser exercises stock awards at $129.72 at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLU1BeWhNNWdSSnZOb3BWTlVTdDVDWkE4ZzVsOHp4SkVOOUljdlJldUxkQTBBdUR6MUU1d3lERThicW9UZXNleEZ4dS05cVMzNHY5VWhJaS1RR3pmME05bjI0a041WGRaVjBQVWktMzJEbExlVzJyemVqTktvTzB2c3BkU1c0ak5adXE3QVBKcnVVbTJhN0o0MGFMUWJ6ZGpyMndjNl81NTVGNWx3UFRJY2RmVkQzWkZ3RVZkekEtMEt3a0U?oc=5)
+- **2026-11-13** — GuruFocus — [Reinsurance Group of America (RGA) EVP, Global Chief Risk Officer Jonathan Porter Sells 3,852 Shares](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0ZkMW1pdHNrOEc3clhtWndEZ3c5OEt5d0lNMi1jdDdDaVA5eFp4VmdMMmYxX1ZPb1A1U01HWk1UVFFMd1RIZUZCNVdBcUpmczlwZkJBQzRyYTctellIdVBYNWJaUkpVLVowMlZ5WlZvUmhIMEhuM1BwdlVBM3BUYktROHdkZmxkUUtWWElobWVjUDdjWGtZemM0MFdCYUlwSXNlczBKNjRpeDA1clhJR2UxVGtVRmgxYWFGSnd6c01odGE2OWRPcHVPbS1OdFA5?oc=5)
 - **2026-11-13** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) EVP Jonathan Porter Sells 3,852 Shares of Stock](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzBfdU5NQTJTTWdYaENuUHNTc1l1cXhMRU01V1BsUURmNUV0QTIwanRXekU3ZGtpODItU3BUd3BaX01pUjZLd2M4T2hxMXJiZFVEeEk2NEFlcDZzZWtTUVEzQXNuT0RyTzFhV0M5TFAxZV9teVk4M2lTcWN6WEh4NnhlQVNHMW1vWnZwUXVGRTJuTXE0QUUwSmFNWEowRF9hQXQ4OF85ZWlHTWJlQW1lTTJ1UTkzNmEzVzYyenlFb3BLdEw1X3cxR0xWV0xjb2ZhNkZkMHpENGQ1R2RRMktZ?oc=5)
 - **2026-11-13** — Stock Titan — [After selling 3,852 shares, Reinsurance Group of America (RGA) risk chief holds 11,033.](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2lVbHMyakNQY1VRa3gwSkpZVkJRbHZsY19ZTS1rQlAxb3NsbEdXUTlXTUF2Wk1JdW41NndqQWtVcjBkNU01dm5zZ3h2WXVqcjRrOGhVZmkzX2cxOC1tTk1fZTdaR1BNQ3NsejVBcXZCMGt0TWF6NjV2c3RNRGtMMk54YXMxTFFGN05OQ0I0S1FGVzQ2LW0tMjZUaU9WNUdXWm9PNzZqWkR2cHRQd3hLLTFkODdwWWRmWm9KTmRTUDB2NHc?oc=5)
 - **2026-11-13** — MarketBeat — [What is DOWLING & PARTN's Estimate for RGA FY2027 Earnings?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG1BX3gyT19pSXNBT2ZVWlUtVUpQNjRuYjhST2I2MFUxeGhTVHU4RHVQTmlseUpjNFFLUFVwTGE1LTdnQjlId1dxUmdiSy1xZ2doZjdQZWJoaThnZl9KWjNpOHhDYXc3NHMyQ3BlQ0VDYTBEaDR3V3EtZG1rVklmV2pDWnp6S0N6NTZiOVZJUXY2OElXVG9pTlNrRHFXY2Q2TkF6MVh4Q2ptTk9ZMEI3a3lRc3N6UUtOQnFJ?oc=5)
-- **2026-11-13** — Simply Wall St — [Is It Smart To Buy Reinsurance Group of America, Incorporated (NYSE:RGA) Before It Goes Ex-Dividend?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZUNWVGJJRUlwaWdWRkVGRUZmcjJxeC12RXVGS0thUHRTdzBlUnlTMlNSQk1LMkltTzlZMTRQdHNfcDFoZU13VUhELVVMWEx3WmdNWnl4ZUFBSlRKbUxyMURtbFpQX21NTUx1aVNiNWtPang2UlVEMUN6Sk84ZVBiOHdNd1U0UVlxZ3ByTko0ejA0a0FFZG5aN25CcTMtc3pBUVNqMVFDN0VVUGc2OElfMUtKby1Ea2ZtMEpLM19SRl9BOVVtVHpScGxXMUJ5VHpYcVBzaHJ1eFRtZ20weHfSAeMBQVVfeXFMTjJPdnFKQzM1QkhERkV4WDVId2ZLY3JNaWRhSkVEOU1yR3R6X1FTdE5idUZnbDI0UnVNRUpFdmc4ZmZaREloZjZZMm1udVFDWXlvWmRoYVNZU0pMdjZyazNXR2xKLXBpaThoYk15Z3Y4bWdqOWJOY1lCUHdndndIM04tbTNUQ1BuU3RJZ2NlSVEwVXFqOXh4eHVkSk1tVlhjQW9MTnNXUTRsZXB3VGJ4dHBneE5JTmZzQnk3ZkhybjVyNUNfM1pTSXRnSUktb0RpWEtqRlhlOWYyTkp3cXJYRXVBbGs?oc=5)
-- **2026-11-12** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Gets Price Target Increase from Wells Fargo & Company](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdzlrdWZLZ3J1NGkzcXE2bXdtTy1kbHQzQlFfa0VhbVJnbDBvMExwTHhCaUtqYmt3X2lEbjczLVVxYUhURUtUeW1CMEN0WFZ1ekdtYk93YnVMLWJORzNScUhjR21Wb3o1a2plSi13Z1pNaUJTbmxfLTJySWE1RTVySVFpZlBnVHNKV2ItZ1I0U1NLMlJzaVZVYWZfVGdnd3VrdGZhNThVMGtPeC1pQlBYMm9tY0hQVThXMFIwMThDSm5RZl84SWg0MUVDRFpsYkJXUGhLdGZjeWVsdElfYVJRWDM0OWhaNVVGTjVwaTZR?oc=5)
 
 ## Sagicor
 
@@ -62,7 +62,7 @@ Generated Mon 16 Nov 2026, 23:56 AST
 - **2026-11-11** — www.marketscreener.com — [Sagicor Financial : Management Discussion and Analysis (image/SFC MD%26A Q3 2026)](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFQwdFVpRG45cWZNVy02RENaXzJqR3VKNTdHN0NtRWgwMzZ0MVRBeWlHaEMxdldGZG9yVWdod3Awek4zcUU0OWg0ZDl3YjNMRGRsYlFYV3I2VS1wNDk1cEZ1YjAxSEI1YlFSYUE0aDljSThxSGtfTENTU05IMXYxOGJsX2N1b2tEV2tBMFBqMEVRdDRGSE5xSDZKS0VFZ3VTbVFrVFR5MU5ZdTRUOFRlTGc0TjA0VEdLMG83NjBDRGladTZ5eldtRkxB?oc=5)
 - **2026-11-11** — TradingView — [Sagicor Financial Reports Third Quarter 2026 Results](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYk1rUmZNd3pqd05MZndrUm1OTDZvY1lNTmRlS2ZWaEJyNlpOelNVTVFBTXdBbWEtMktfODNVWG05akVjRGdpUnNTWERXckI5bnZBRnBfVC1Pd1hfLWJtaTJSR1FxREhqOHFXMzNIcUJIMkxCbm03QUMzZTRXQVNnVWZqVXVMSEZMVFEwZDA4SVotcG1WNHZWT2Y4RTJyck5VSXcyWmJNUmR1S2pZZUNCQl90bw?oc=5)
 
-_No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Catalina_
+_No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Catalina_
 
 ---
 

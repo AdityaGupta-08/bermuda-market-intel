@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "prior_date": "2026-11-12",
+  "date": "2026-11-16",
+  "prior_date": "2026-11-13",
   "source": "ECB SDW (EUR AAA Govt \u2014 EIOPA proxy)",
   "url": "https://data.ecb.europa.eu/",
   "tenors": [
@@ -15,63 +15,63 @@
     "30Y"
   ],
   "yields": [
-    2.9563,
+    null,
+    3.1091,
+    null,
+    3.1739,
+    3.2649,
+    3.4224,
+    3.6183,
+    3.7077,
+    null
+  ],
+  "prior_yields": [
+    null,
     3.0718,
-    3.0953,
+    null,
     3.148,
     3.2469,
     3.4116,
     3.6133,
     3.7054,
-    3.6723
-  ],
-  "prior_yields": [
-    2.958,
-    3.0751,
-    3.0939,
-    3.1311,
-    3.2163,
-    3.3672,
-    3.5582,
-    3.6477,
-    3.6191
+    null
   ],
   "prior_1m_yields": [
-    2.9095,
+    null,
     3.0533,
-    3.1023,
+    null,
     3.1846,
     3.2964,
     3.4691,
     3.6749,
     3.7679,
-    3.7347
+    null
   ],
   "prior_1m_date": "2026-10-19",
   "prior_3m_yields": [
-    2.645,
+    null,
     2.7805,
-    2.8307,
+    null,
     2.9315,
     3.071,
     3.2886,
     3.5627,
     3.7089,
-    3.7376
+    null
   ],
   "prior_3m_date": "2026-08-18",
   "year_ago_yields": [
-    1.9366,
+    null,
     2.002,
-    2.0903,
+    null,
     2.298,
     2.5096,
     2.7879,
     3.1063,
     3.2647,
-    3.2864
+    null
   ],
   "year_ago_date": "2025-11-17",
   "note": "EUR AAA govt curve proxy. Actual EIOPA RFR includes UFR extrapolation.",
-  "_fetched": "2026-11-17T03:55:20.953568Z"
+  "_fetched": "2026-11-17T16:02:27.907660Z"
 }

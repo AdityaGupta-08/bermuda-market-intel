@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-17T03:56:39Z",
+  "updated": "2026-11-17T16:04:01Z",
   "lookback_days": 14,
   "feeds": [
     {
       "name": "Artemis.bm",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "count": 10,
+      "error": null
     },
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 7,
+      "count": 9,
       "error": null
     },
     {
@@ -65,19 +65,19 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 32,
+      "count": 34,
       "error": null
     },
     {
       "name": "Google News: Resolution Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "error": null
     },
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 7,
+      "count": 5,
       "error": null
     },
     {
@@ -89,19 +89,19 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 5,
+      "count": 7,
       "error": null
     },
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 9,
+      "count": 7,
       "error": null
     },
     {
@@ -112,6 +112,30 @@
     }
   ],
   "items": [
+    {
+      "id": "132d37709b9d",
+      "title": "Venerable Names Miles Kaschalk and Charles Schwartz Co-Presidents",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUl9XemlwNTVwcGFjX21OUXFqejdyY3ZjT2hLMV8xLXlJUkNBN0h0cFhINnJyRlQ0VmxLdFBDcGZ4OW4xNFI4ZE53Yno5aW9oVlZULV8wbW5VU3BWa2ZQWHJMWG1IZ0tScjEtcE1YdWxoTDVBQ1VVMzBwRm5UVC14aDUzUVZFUWdwSzFieWwyU3A0T1U5VDZsdDE4ZXRIT2FCMzUwZ0o0NXJuQm9ZSkdnMTRzOTlhSjh3eWFibUxRTQ?oc=5",
+      "source": "Business Wire",
+      "feed": "Google News: Venerable",
+      "date": "2026-11-17T14:30:00Z",
+      "summary": "",
+      "companies": [
+        "Venerable"
+      ]
+    },
+    {
+      "id": "aca4c6cc8d75",
+      "title": "Reinsurance Group of America (NYSE:RGA) Fits Minervini Trend Template With High-Growth Momentum",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDREX2Q0ZGw3OUMtdzN6QTFrR2M3UGZYRVhUQkVBVEg3d0l0Tkw0UWwtb2hGT3R0djJCYzNQeXFNR3BMZ1lKRmd3SmdvNUlSRDE3WUxvbGx5Y3dxT0ZvZzJtTlhmQTRrZ05IQWw3QmxKQnlieVRKZVg3OVNSOGNxQ25hWUZWMnpjQ3U3RGgzc252V1I1NFVxZEFPNnM4ckxsbGMwODdfQmJNbDg1MDFTdTB3dFNVT05jRDJUbmd5cnhYYzFWam45TVp1eGplZ3RFWkotZGtTOXRvcXc?oc=5",
+      "source": "ChartMill",
+      "feed": "Google News: RGA",
+      "date": "2026-11-17T09:11:03Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "9e0a35ca35eb",
       "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
@@ -230,6 +254,18 @@
       "summary": "",
       "companies": [
         "Sagicor"
+      ]
+    },
+    {
+      "id": "c34c1e41bfc7",
+      "title": "Reinsurance Group of America (RGA) EVP, Global Chief Risk Officer Jonathan Porter Sells 3,852 Shares",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0ZkMW1pdHNrOEc3clhtWndEZ3c5OEt5d0lNMi1jdDdDaVA5eFp4VmdMMmYxX1ZPb1A1U01HWk1UVFFMd1RIZUZCNVdBcUpmczlwZkJBQzRyYTctellIdVBYNWJaUkpVLVowMlZ5WlZvUmhIMEhuM1BwdlVBM3BUYktROHdkZmxkUUtWWElobWVjUDdjWGtZemM0MFdCYUlwSXNlczBKNjRpeDA1clhJR2UxVGtVRmgxYWFGSnd6c01odGE2OWRPcHVPbS1OdFA5?oc=5",
+      "source": "GuruFocus",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T17:38:11Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -861,7 +897,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-11-05T08:00:00Z",
       "summary": "",
       "companies": [
@@ -926,6 +962,18 @@
       "summary": "",
       "companies": [
         "Fortitude Re"
+      ]
+    },
+    {
+      "id": "01968f667bc1",
+      "title": "Reinsurance Group of America (RGA) reports Q3: everything you need to know ahead of earnings",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2lQNjhXMVZ3TjhJTDZRU2RkUkpsM0dIcy1RQkNDdG1UTlFhTmZIRWNIU0ZTTmpNYlJ5VVpWa1FrWExnSS02QmYxb2czSE9SRHFhTmpSQTk2dTNxNEFEMzZkUWxUUHdHSjRuMlZBTWE2RmJ5eV9wVTBzeDBMV3c4elpBSjRNZ0wzZVp6TEJ6b2hFd0lHLVNnc0lkdld0a2dCVDFGVDhZYmwzSmkwVnctNVJqNDZtNzk0ZDVWM19sNVJ2MDRBcGdNTFg2UTRZT2dBN0xSOGdRYUR4amR1ekE?oc=5",
+      "source": "StockStory",
+      "feed": "Google News: RGA",
+      "date": "2026-11-04T03:55:10Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -1005,18 +1053,6 @@
       "title": "Reinsurance Group of America, Incorporated $RGA Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM2Ntak9NOE9vek9Pclp4cVViQlh4LUNCZXRrS3pxaGNSbEpkN01aZXZSSFpiZ2ZIbVh6cXF0UUp4bmpfV3hpSXNCSnZ0NW5SdXRxTGtpYzlvbWJZMllxRmNkMEQ2TG1NRmVKV2h3cjM3WGtVM3Q1clY5TERVOUxhbjU1ZUpSVmdhamo0cU94NkRDMnBycDBvZlBxakxta1ExX1pvbEloQVVKRnZsdXY0ajFUX040M2hEbWthV1lUSzFSNUFpX1ZOcXNOWVV1aElXTktieW1hMFFHOG5ZVi1vdVU2TkwyWGZBY1plWlhR?oc=5",
       "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-11-03T08:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "01968f667bc1",
-      "title": "Reinsurance Group of America (RGA) reports Q3: everything you need to know ahead of earnings",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2ZqcUFHbm5acnBfYndnX09KcWpyRGM2UldWXzFSMzY3WkJVYzFUSkNyU2VYMHVVRm9feV9zMi1TbnR4U0F1M0hjTFBmODAwY2xmNFd0Q1djNmo1eHV5ekp5eEFzYzVQem5JLVhxUEptZm9kSHZrLW45UUVzOHF4S0RzQnRDaWhQWFpJZEFzNnZxVFFoa0JSWkVsSUxKdTRGWVdQeEVieHRUMEFPdzVjTDFDWHhTWGRNbi03REFWal9BV0JIdGdsOVJsMUJzMF9VWEVaekZ5Q1dDZ19GZmlQSVg2T0w?oc=5",
-      "source": "TradingView",
       "feed": "Google News: RGA",
       "date": "2026-11-03T08:00:00Z",
       "summary": "",

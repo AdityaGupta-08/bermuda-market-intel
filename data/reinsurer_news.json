@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:39:18Z",
+  "updated": "2026-11-17T03:56:39Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -34,9 +34,9 @@
     },
     {
       "name": "Google News: Global Atlantic",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "count": 5,
+      "error": null
     },
     {
       "name": "Google News: Kuvare",
@@ -46,9 +46,9 @@
     },
     {
       "name": "Google News: Martello Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "error": null
     },
     {
       "name": "Google News: Monument Re",
@@ -58,9 +58,9 @@
     },
     {
       "name": "Google News: Prismic Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "error": null
     },
     {
       "name": "Google News: RGA",
@@ -70,9 +70,9 @@
     },
     {
       "name": "Google News: Resolution Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Google News: Sagicor",
@@ -113,6 +113,18 @@
   ],
   "items": [
     {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-16T14:26:11Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "18a5f8ae2ea2",
       "title": "Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5",
@@ -122,6 +134,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "0c7182d645f9",
+      "title": "Global Atlantic launches ForeIncome Flex",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXZCLXdNU0dYbVpCODFWUlV0SjZiVlJsRjR4Yjltem5XMFRWNDh5bXdicldBUVpfME1KRmZnVC0tcmRhdkJERkFqQ1pBaDJUaXh4aE9NUjZnOUZLTFNzYzdKZGplSjdGWVFUWjRCT0ZBZUF3WlNnNW9hS0FqSzNnYnhLYUY3bVE?oc=5",
+      "source": "InsuranceNewsNet",
+      "feed": "Google News: Global Atlantic",
+      "date": "2026-11-16T13:12:46Z",
+      "summary": "",
+      "companies": [
+        "Global Atlantic"
       ]
     },
     {
@@ -143,18 +167,6 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-11-15T15:28:20Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-14T03:52:43Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -211,10 +223,10 @@
     {
       "id": "3ad749eb8798",
       "title": "What Sagicor Financial (SFC) Said on Its Q3 Earnings Call",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkNPMG83b2FqWVNocnotbWhOVFFUWG51ODNQTjFvWTVoRmJQRTFoWFFhbWthYnhPNU9JZEpuYkNNa2wzTDFURGt3YV9RQWpaVGdPcDI2cnNWbWRQNzBqWVJ2anp5TTNReEV5UGVpejk4OWFQWTAwUXlJUVhkZWRtTnUzUnJhcVlmV3NvcEVWeEFBb3hvWFpQNy1wVWs0RndVNjNYY2t0ZGkwUkNYMXBFQUM5LWhGZklWMkpQVA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTFMxU0RhZW1ybV9uZFg5SUJ5bEF1NDVDVTZDc3V5SFZ2RDRqU2E4dmxCdGo3TnNXbVpXSWZGOVBkUDl1Z1ZfVzRvV1ZEck9aaEdpNFBlMzY1YXdKMWdjSEJfNGJiWXNzT0YzZE13aExXS29veEVZZXN1UHREMHA5YmlqelFwXzJweFVlSHlfa0hWTEl5VnJuZUN5cklMeFlYY2hUeExMRWx6MDhGYmVMTFVQNWVVQ1ZBS3FrR0dtSUdZQno3LTJjVUlYcFBuSHlDNHNFOFA5OWp5RDhrSl9xMnJmem54LTdYMXpROW9CeXh2ZmJMUnpF?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: Sagicor",
-      "date": "2026-11-13T20:27:26Z",
+      "date": "2026-11-13T20:21:32Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -475,7 +487,7 @@
     {
       "id": "4d5ef74d0806",
       "title": "What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX0o2SzZhM3hIajV0QjVMQmxGY0ZjUWJIeF9xSDFaZEh3RzN2OGRjb0d6YS1XOGpvVWtDOUFvbnNqUEhOdjVsMWQtNl8xQ0N2dG9tZG1VYWMtbkMyYzBEQm9UbzQwemRoTXJhU2hOU0RzT3BlSWlnNVZoYUtvd3hDdUUtNkd2eWxvVjltRUF1OTJ5MlItOThOQUZscWtHMWtaYUlTeEV6MGFWY3BtRDczZDZ1YVhkVFJJWDh5Y3dHU01xMnVW?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUy1memhncUVTdnI3NTRUS2hiU2NDN0VCNnI5RHIxaldyelY0RWhKa1o0MjlIazUtaERTOWZqVk5XYlJPR3Nad09nNGdfcFhRdzh1eFlKZ0d2bDNLU3Fod2lSWVNpSmZjMDJzRWw2S0pqNHZlTVZyVFhmbG0ydkdZVHBrLWhjRWRFLUVSU2JvdERySUw3ZS1DUDh5SEo4bERHUENXdy1fNzROZms3RmlmY3VLLWdyeDY3elAzZjJPZjBDRmRWalE?oc=5",
       "source": "TradingView",
       "feed": "Google News: RGA",
       "date": "2026-11-07T20:14:13Z",
@@ -849,7 +861,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Fortitude Re",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-11-05T08:00:00Z",
       "summary": "",
       "companies": [
@@ -1751,18 +1763,6 @@
       "source": "www.dars.gov.et",
       "feed": "Google News: RGA",
       "date": "2026-10-04T18:44:13Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "f21807a7ca43",
-      "title": "Reinsurance Group of America upgraded to buy af...",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1d4V1A1RnJCeUdHZEFELXFpSVRsZGRpR1Z3M3pnR09VY3NBdXRWY3oyV2VrdWl5b0ZJbFdhUmZWQW0zajRqaHFDVHVOVjR1LVI5SHNxUnNiRHpXTG1vNGpSd0lZbC1kbEdQdmliTmdNMlFjd1ZycXJia0hZYWNGOEllWm5PYTMtcUJYelp3N19QZw?oc=5",
-      "source": "Pluang",
-      "feed": "Google News: RGA",
-      "date": "2026-10-03T03:55:55Z",
       "summary": "",
       "companies": [
         "RGA"

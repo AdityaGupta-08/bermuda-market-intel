@@ -1,15 +1,13 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 36 items
-Generated Mon 16 Nov 2026, 15:39 AST
+Bermuda life & annuity watchlist — last 14 days — 37 items
+Generated Mon 16 Nov 2026, 23:56 AST
 
 ## Feed status
 
-- ✅ **Google News (13 of 16 companies)** — 72 items
+- ✅ **Google News (15 of 16 companies)** — 76 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
-- ❌ **Google News: Global Atlantic** — failed: HTTPError: HTTP Error 429: Too Many Requests
-- ❌ **Google News: Martello Re** — failed: HTTPError: HTTP Error 429: Too Many Requests
-- ❌ **Google News: Prismic Re** — failed: HTTPError: HTTP Error 429: Too Many Requests
+- ❌ **Google News: Resolution Re** — failed: HTTPError: HTTP Error 429: Too Many Requests
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
@@ -21,6 +19,10 @@ Generated Mon 16 Nov 2026, 15:39 AST
 - **2026-11-05** — Stock Titan — [Net investment income rose to $5.32B, but Athene (ATH) swung to a quarterly loss.](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlNtVlhtaDFNVE5iRUFYUk04U3ZyOG45X3ByUEZzd2x0RDVnVDNvQ1J2eDJobGl1WEpqNnJGM3I1Z2FSM3M5emFsMDhQWU8yQlpFQVZZeFBnZWhIQVdzbXNTMjJYTDFOcXhwc0ZxUHJxZ0tTenhJVVVVeF9sR1BEb2o5bUs3WnF5Q0pCVVlIQjNIY0MwZEZVNFdwWFc0YlBRS0xZOWJCOGNTenc2TFFR?oc=5)
 - **2026-11-04** — www.tokenpost.com — [Apollo Outlines AI Financing as Athene Discloses $12.9 Billion in Digital Infrastructure Investments](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PSEhkX0JzWE1OeHhpNjJhQkJUZEh5YzVoTXN0VGdYN1poMVZoV2pFMWF6bHp1cVJBQWU0Nm53VmhrSHFzYTFhVG9qSWVUODhYSUhZNUF4WGc?oc=5)
 - **2026-11-03** — Stock Titan — [Retirement Services earnings rose 7.4% excluding notable items at Athene (ATH), but fell before that exclusion.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVJMZjh5OTlPcE85aGFzMmEwSTdxWmV3V3JhcFhRNlFQcllyWVFhS1U1MkJMbTJqSjFNa1BIQkM5U1JZUUFrVFdWU2FzeDdVN2oxUktrOWFQazFGMDRETFY0Z29keTJyWUNibHJ2YkVFMC11eUlndWNqVTdyZ0xVNUZqekpKSXZCcTBMeDItOWUxcTJFNGsxMldqTHo1Q1I3Wmw2UXJubGJjUQ?oc=5)
+
+## Global Atlantic
+
+- **2026-11-16** — InsuranceNewsNet — [Global Atlantic launches ForeIncome Flex](https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXZCLXdNU0dYbVpCODFWUlV0SjZiVlJsRjR4Yjltem5XMFRWNDh5bXdicldBUVpfME1KRmZnVC0tcmRhdkJERkFqQ1pBaDJUaXh4aE9NUjZnOUZLTFNzYzdKZGplSjdGWVFUWjRCT0ZBZUF3WlNnNW9hS0FqSzNnYnhLYUY3bVE?oc=5)
 
 ## Fortitude Re
 
@@ -37,10 +39,10 @@ Generated Mon 16 Nov 2026, 15:39 AST
 
 ## RGA
 
+- **2026-11-16** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-16** — Yahoo Finance — [Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5)
 - **2026-11-16** — Simply Wall St — [Reinsurance Group Of America (RGA), Why Is The Market Paying Closer Attention?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVRaU1g4QmhVUlp3ZXlmQmlMeHNYTm9LSFRqSmptWmZVM0dIU1QzbTlZMTNSYnpmQjd1WDFvTHYzd29KRlVySGxRbm0xd1l0Y2hMTGFucWJXVTZEN0F0SkxxNFl3RVI0cW1OUGV2RzIwYmE4VFdZbC1ISkhNN2tFWW4wRXlUTG5lWlBsdU0yMkZDU1Q1OFJMNzdnSDZob1JKcUgzTlI5WHFtT21ZMFUyMnNwRGxGTllpX1d1T1FSTW1icUxBeXd6Si05TVF5YWNndV9lUHFSUldBN0IwMkHSAeMBQVVfeXFMUFJ5d0ZuUmZ0N1lpNW1TdmxHYTBwbndkWW9wQUFpeTVMZHhwbmw4eHZPbmpZTEZqTGZQSGF6d2s2UVBnWkR4UTF3S3V6NW1IajVTMk5Makhjb2R6Rms2RGVRTzRYZ29RQVdSNUdlUjNyZUlJcUFHM3FWY000U2tYUXJFNVlYRVJPY25YbFVhTlVmbjNFWlI4OFBGcXBTdmJCcG93YVUyOENJZkVwX21Zd2lUMGIxci1IeGxfUmV4RVppU2hqRjJIYVRqcnZwRkVTMU9hOWlaZzlyMXNiSnF2VllRek0?oc=5)
 - **2026-11-15** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Plans Quarterly Dividend of $0.98](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTZXMDZZV3VYUmRGUm1ELWxIZERpNVpDX0dhbnN5YVhDVjNmeXlqN1hjUm9tY1ZYWER2YjJEYkxtaERZNEN3cWJ5TG1Ja1ZJb1pyT0xmLUdqMl9XeFBNNThUS0ZPLUdyOHlvOFpZWHZDQWxpZk9RX0thc0xsTkxyZXRWUHIzV2RWVnduclllaFljS01GS0hWMUFwRGlZRVZudVBnLU5QQmp1MkxLbU83cmNLbnRzUUhtM2Njbk02OFNudzRCNkZmdGIzSzBucmlhQUN4blN3bFgtYjFMaVE?oc=5)
-- **2026-11-13** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-13** — The Globe and Mail — [Reinsurance Group (RGA) Gets a Buy from Wells Fargo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzlMOFlnbjg0RHFNelpzdm5mTHZYT0N5SW5YZ1pHWUhJT004MGRWSTREUFZUUUJwX2pZQXRNdkl6aEY3WEMyWjA2SUZhQk5UZXl3Z21vTkdrWlFyWFdmbUp1SlZ0SEx2S3VLNWFVRDhmU3ZiUVpLV2ljR1hHMEU0SVhTY19rcjAxa0J1Z3ZucmhrLUR3X3V0dmcyMHZGZ3o5RGtRbGoxNExaM1FfdERKLWdKeWNMVm13Mks4MDlnVXk0MGZLdG9LT0xDc1BtUQ?oc=5)
 - **2026-11-13** — Stock Titan — [CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5)
 - **2026-11-13** — Stock Titan — [An adviser exercises stock awards at $129.72 at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLU1BeWhNNWdSSnZOb3BWTlVTdDVDWkE4ZzVsOHp4SkVOOUljdlJldUxkQTBBdUR6MUU1d3lERThicW9UZXNleEZ4dS05cVMzNHY5VWhJaS1RR3pmME05bjI0a041WGRaVjBQVWktMzJEbExlVzJyemVqTktvTzB2c3BkU1c0ak5adXE3QVBKcnVVbTJhN0o0MGFMUWJ6ZGpyMndjNl81NTVGNWx3UFRJY2RmVkQzWkZ3RVZkekEtMEt3a0U?oc=5)
@@ -52,7 +54,7 @@ Generated Mon 16 Nov 2026, 15:39 AST
 
 ## Sagicor
 
-- **2026-11-13** — MarketBeat — [What Sagicor Financial (SFC) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMivAFBVV95cUxObkNPMG83b2FqWVNocnotbWhOVFFUWG51ODNQTjFvWTVoRmJQRTFoWFFhbWthYnhPNU9JZEpuYkNNa2wzTDFURGt3YV9RQWpaVGdPcDI2cnNWbWRQNzBqWVJ2anp5TTNReEV5UGVpejk4OWFQWTAwUXlJUVhkZWRtTnUzUnJhcVlmV3NvcEVWeEFBb3hvWFpQNy1wVWs0RndVNjNYY2t0ZGkwUkNYMXBFQUM5LWhGZklWMkpQVA?oc=5)
+- **2026-11-13** — MarketBeat — [What Sagicor Financial (SFC) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTFMxU0RhZW1ybV9uZFg5SUJ5bEF1NDVDVTZDc3V5SFZ2RDRqU2E4dmxCdGo3TnNXbVpXSWZGOVBkUDl1Z1ZfVzRvV1ZEck9aaEdpNFBlMzY1YXdKMWdjSEJfNGJiWXNzT0YzZE13aExXS29veEVZZXN1UHREMHA5YmlqelFwXzJweFVlSHlfa0hWTEl5VnJuZUN5cklMeFlYY2hUeExMRWx6MDhGYmVMTFVQNWVVQ1ZBS3FrR0dtSUdZQno3LTJjVUlYcFBuSHlDNHNFOFA5OWp5RDhrSl9xMnJmem54LTdYMXpROW9CeXh2ZmJMUnpF?oc=5)
 - **2026-11-13** — Insurance Business — [Sagicor’s Q3 loss masks strong ivari capital position as rates squeeze earnings](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2pCQTlDYnQzXzh6UGpYMFd4QThJZDFaYXFrbHVMZWh1OE9fb2VIMjJ2SjFYaXp2YnZjQ3lDMzRhRkxJd09kMkhiMVU4eFV5bEp0cU1pOUZzRXQ4SS1BVHA1NUFwOXByZy1uRjNzc2JGR2xnMUt2UFNpa3RyRVpPd0YzT1JlM2Y0OGtaLUNjTWVRODFiR1Y0eWVFWEx0LUdabHdhNm1kbkhfMVdhWnluQTRGTUpmVjdON2ZVOHJERVpHWENDcWNCVzFRZ0JjQ25yTElLS1pPX1ppaFh1M0lrWnNCTjQ?oc=5)
 - **2026-11-12** — Kalkine Media — [What Explains the Split in Sagicor Financial (TSX:SFC) Quarterly Figures?](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0RTdXpzMzJLbXVBRUJvcGlIemlXQThVRG1zdThZdUpzd0lpa2RkLXNmZTNFaFJQQndJcU00dHlYWHVjS3hpQ0dHRGwyelhYLXJvSzNDaExBZTRBZDY4UTROOTZwakVnbUNQVHYxQUlWcGVuQ2V2cDdQdGVPMDhFLVJpTWZ5a0VkVDFNZm5MUTlNY3NzYVpyODcweUJXTm52M0cwRkdUN2ttdHNrZldnaVNMdFY?oc=5)
 - **2026-11-12** — Investing.com Canada — [Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEk2Q0JfaU5QbXQzQUMxWGp0Z1VFM0JQUVZ0N0EwTkw2eEJNcm80OURkWGpveEYyOWw5dE9McDdlcVJvd2stY19nVWVITnI5U21iSF9hRDhSTDBBZWlXY2NzV3ZwY1JsTjBhUW1xeWxUMjBLdUk2TFlCUFlqY1V1c0xnRTNKbzNoUksxWW9FM0RNOFV5anNna1ZLMXdLa21LVmx6MlExWnlhRm1nNE41ZHFrNTAtVldkRDNWZVRXV014OG9KRHEzMlpFYWFfX3VCRVFMVjViYTc2SW02SmpNOA?oc=5)
@@ -60,7 +62,7 @@ Generated Mon 16 Nov 2026, 15:39 AST
 - **2026-11-11** — www.marketscreener.com — [Sagicor Financial : Management Discussion and Analysis (image/SFC MD%26A Q3 2026)](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFQwdFVpRG45cWZNVy02RENaXzJqR3VKNTdHN0NtRWgwMzZ0MVRBeWlHaEMxdldGZG9yVWdod3Awek4zcUU0OWg0ZDl3YjNMRGRsYlFYV3I2VS1wNDk1cEZ1YjAxSEI1YlFSYUE0aDljSThxSGtfTENTU05IMXYxOGJsX2N1b2tEV2tBMFBqMEVRdDRGSE5xSDZKS0VFZ3VTbVFrVFR5MU5ZdTRUOFRlTGc0TjA0VEdLMG83NjBDRGladTZ5eldtRkxB?oc=5)
 - **2026-11-11** — TradingView — [Sagicor Financial Reports Third Quarter 2026 Results](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYk1rUmZNd3pqd05MZndrUm1OTDZvY1lNTmRlS2ZWaEJyNlpOelNVTVFBTXdBbWEtMktfODNVWG05akVjRGdpUnNTWERXckI5bnZBRnBfVC1Pd1hfLWJtaTJSR1FxREhqOHFXMzNIcUJIMkxCbm03QUMzZTRXQVNnVWZqVXVMSEZMVFEwZDA4SVotcG1WNHZWT2Y4RTJyck5VSXcyWmJNUmR1S2pZZUNCQl90bw?oc=5)
 
-_No news in the window: Global Atlantic, Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Catalina_
+_No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Venerable, Catalina_
 
 ---
 

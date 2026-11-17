@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:39:15Z",
+  "updated": "2026-11-17T03:56:37Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,13 +8,53 @@
   ],
   "items": [
     {
-      "id": "32c81663ed05",
-      "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
-      "source": "WKZO",
-      "date": "2026-11-16T17:57:56Z",
+      "id": "e85922764e56",
+      "title": "Nomura & Aventus Launch Misura Securitized Products, Private Credit Venture",
+      "source": "ABF Journal",
+      "date": "2026-11-17T02:49:03Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUViY1hhRjlIS3NBS2pveU1pemlDNzA0YnFhV01FdnZkWlpSSG84VGYyM1AxRXk0WGd4VTZqN1ZBdG5pTjgybUxEaEdPUGJhdlVXVkFrWHQ3Z1FLcUtLX1BydnpfVlRsUGpfSjV0NkE2T0tqWl95S3gzWFBDTk9wWUw1VnQ4dkR5MFU4YzlEMUEyLURob3BSaEdUTi12X2tWNGc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "9ea604f97d12",
+      "title": "Investing in healthcare: What to consider",
+      "source": "Chase Bank",
+      "date": "2026-11-17T01:47:56Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklzS3RHZy01NkNfRWgwczFvNm1McHVkUmpCNzNOS1hxTmZObGlnU1ItM2pwMkxXYW55MFUyNnNDRlVTRHktUVhmUm1qZTg0UTN2R0RVbjkyM0liNVlkekJzanV1X1FoNFZ6bmJIZ1k1ZTUtSmkyeXR2ZWM1Nnk0Unc4MFV6X2lpYXlMRWtkeTBBbFhCS1FJRWJzZ1ZNVjVSMXItS3BGaU8yYzdZekgtaG1LRmM?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f2889ac3a4ce",
+      "title": "Weekly market commentary",
+      "source": "BlackRock",
+      "date": "2026-11-17T00:02:56Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEpqTzZ6N2hJVVJIa1ZnY2hlMERqdTEwMWpKVlhtbVVhUmdFdXBRdlVmck5OLVQyWVYxaUU4dlRETXJseGJ0TUdyeGYtRXpfVXNIZGFTMGlSZ0t0TXhWdnlZSWVGWUtXczdFRU9NbW5PeWxRY1hMdXROcFQ2RDR5c0dkXzZpdzFQWVg4bzlKN3J6NHlFaFJmbndzRm1KUXBHc0xKdXFLWEg1aFctZlpnQ25vZVpSdzJ0WVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "cc94acd146db",
+      "title": "How Private Equity Ownership Puts Insurers at Risk",
+      "source": "WHARTON Knowledge",
+      "date": "2026-11-16T20:29:07Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVdNcjBMOGw2emo5c0U3cDE3YnhuOXlhaVJuc2hqTkt0M1BOdlBOdjUwaUZWTXJFR1E2SGQyeDFkVUJVSVY0bk9kcWU3MkpMOEVBVEJCMV9BZ1BQSEMwLXMwX1M1U05LeXFneF9HUHB3VmtaczBtem5QZV9hUjRfZUM1Y3B5NDY5VElzdUVCbEV3UHFhSDhId1dCZw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "32c81663ed05",
+      "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
+      "source": "WTVB",
+      "date": "2026-11-16T17:52:07Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEwxRGFhWFZ4emplMHRxTFhaQkRoS1JSdUtxaVRVZXp0bGZ2bXowTTlRLUNJT2pXcEV6cy1sSTdwc1Z0eUJfUXJwQVVPVDB0RzE3c283cHRIYmZzUUFmUkRndlRHY0xFY0F6QVNKenVRMk1oMFhrS3NpRzRvb2UzcnJzQU9kMUJKSjBWZExybXZSMFRjS3dxeS1tV0xZbDg3TlNUS2pRNjFDMDFXNzA1YlV6S053YWxIcTJlVg?oc=5",
       "isNew": false
     },
     {
@@ -45,6 +85,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVUyWkhWc1hpUHQyQmlyczlObllFV0FtWEcxbG5QeVc4MEFpQVozLVFXd2NKdExLd2o2Vnl1QllvR0Q5c2cxb09RaV9nOHNSS295akVKeGVTTUdKVWt4b0Q3RmFMOWpET0pCTWdaRFRwLWR6Q3BWZlotUnVkcEZLVUVEMUtRZ2xCYm9uZmlGZ3dRdjZuc2VjMmJhcnExblFNUXktVElQMUhXNDByRzZzWGM3UGtPeVNtLVdseDVOYUdoWTFadENv?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "82c4e8ca73fa",
+      "title": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move",
+      "source": "Bloomberg.com",
+      "date": "2026-11-16T10:16:26Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEV2d0pEVGhUanZROXNyZXgtMm5aUTE4NXJXQ2tuY2pBLWJSaDlLQ2s3MC1ScjZWdFhEZkF4WmotOEQ2Y0J4M3Ytb2tSYkVwVmVvTDVUX0VFb0F0LTVaeGx1MVY2Y2ZtS0E2Z2ZZOGdPNVFIVC05czF3NUhqTW1tWXM2YWdVX2YyYjd4ZGpOTlZ3Sl9EMHZKRjBEa1JFQTc4ZVhzb01EMmpWbEJGdEtycEo1Yw?oc=5",
       "isNew": false
     },
     {
@@ -255,56 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTFianIxSkJkamxENjJkSlAxQWZLRGFDMXl5ME01dHkzNExEV1VBZDJuTTZjS0NTdGZWOGt1NkpQMFlDOEdEYUpndWJSR2NfaE5FZlZ3blgtb1pxb1loSVI0cld2ZzdVZ3A0dURCdW9OS1ZVa0dTNTBXNzM3VGNjamc0SlNna0ItTXVSSFZUVFRFenVRSi1xcnZB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "2a98b0bc6dd5",
-      "title": "Willowdale Asset Management Appoints Frank Magliocco as Board Advisor",
-      "source": "Yahoo Finance",
-      "date": "2026-11-12T16:34:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM050ZHV6b3dXOGRwZDJxay1GQjZCRXpkMDcwWkV2M0ZyN2plSTBYX0d3RkFKTjNuVkNTTWRfb2UtQU8zelk3VFB3cWNuRkRYR2ZXYTMzZTFxMW1iQ2pTd0JQaTRmLVYzSlZScmZDR1pCb3RNU1d3T3NvRnVqam5HamEzZjBTV0prMHJ5d0JidUlyZU9MS3VHTEFTaENHSGJxakZlWXZjSQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4a4ee6b708c0",
-      "title": "Big Short: Fidelity & Guaranty",
-      "source": "Mispriced Assets | Nick Nemeth",
-      "date": "2026-11-12T16:23:07Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCMnl4TFZVVHN6b1BJUjFpNFF4VVIxTTBDSG93WFNfd3NvS0hDaXBMNEtEOGFaMkNsUWJUWUE0TnYxaXRqZXNXN0o3d2lPZVNyTENHaG5CclBTbFg4UlFSd0p2YzJ6ZDAxR3oxYVQ1azBadEhkNFJlQUVR?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "135fb382a320",
-      "title": "KBRA Assigns Preliminary Ratings to Navient Refinance Loan Trust 2026-C",
-      "source": "Business Wire",
-      "date": "2026-11-12T15:32:00Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0p1Umh1cDRqWkl2d29aOThFZlBVRXpxZEI2LVZnOElIVnN5bzlSQk5UV3RGSTE2alJPZGNLWDdWaDlnMHRvVmZFWTBUNURVTUhhNXJJNWZiU2xfLVVkU0J5VkFEdk9ydFl2WnM3QVF1dWJMLTFPQzNlbU9VV2RJMXNXSmhVU3I2SHA1ZUNKdlRrTnBmbGpPbTNrWEI4aU1CSFItNFh2R0pMWDBMRk44blV0RUdoVWx0ZWFCbXJCWDhzd2Myeldv?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ca4cec80895e",
-      "title": "Central bank dilemma: no easy answers for a new set of economic challenges",
-      "source": "Natixis Corporate & Investment Banking - Natixis CIB",
-      "date": "2026-11-12T12:33:15Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3N5Tmg5R2RmZUF0cnNremN4RW5aNEtac0NtWEZfaXRQa3JicklzVHZ5SXRwU0NGZEhwMWNVaVJ3MndaNUxCUHBKUFhlT2E4SVg3TjFnRzgxRVpVbXMzMGd1WlR3QVhjVGo1T0Fuc3ZfV3VHTVZuNldTTXhEZkdhazBOU1d6Q0Z4YUxDZ1FMaEp0TV8wVF8tSmxPRmlqSXRrQWhjcVdMd0tncDBCRnNuYw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "e2ec5fc902f4",
-      "title": "Why China Is Eyeing a Curious Tax on Its Government Bond Market",
-      "source": "Bloomberg",
-      "date": "2026-11-12T12:00:01Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVldaWVRyQWNnSHNqVmd5SHZ3c3ByY19zOHZ1UUdXcllDRldIVW9jVEpiOFA3Wmx4b0NwN0wtQ0RfVWQxTVBBdkVCbkRsSWtUNnRwc2YwX0JWV3NNaGdUc2tZalBjeXNCbDVsYndVT040LWR3aEVnaE1kamp6Z3hQcFdPMExaRW9Dd1RNS3N1bHRzblFNZ2lqNnJwZmhIWnZhdElFQWF2eTB1UVNOU2RUTWlPaUlNbS1R?oc=5",
       "isNew": false
     }
   ]

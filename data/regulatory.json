@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-18T01:00:41Z",
+  "updated": "2026-11-18T11:46:29Z",
   "naic": [
+    {
+      "id": "4a329bd581ee",
+      "title": "Blue Cross flags $5.5B in added medical coding costs at NAIC meeting",
+      "date": "2026-11-18",
+      "cat": "General",
+      "summary": "",
+      "source": "InsuranceNewsNet",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVdTa0JBb3FWVDJmQzJ1Uk5PYU1LLXl0Z3gxd21icjVMcFZUbGp1X1gyWGJWSzJYY2oxbDdRTlItdmt2MGkzSHhwX0dQN2RvVEY1N0tBSTJ6TUt2ZWFzaFpnTFBVeXVYN0ZhWVZ4WnpkOGRjbEVIZkxkQVE4dmp1Q2l2MXJjM0lVUlBDbUtyZ2UwUlQ3Vm55Qi1ZeHhaTnpqWFhJaHVmN1NsQWc?oc=5",
+      "isNew": true
+    },
     {
       "id": "aaa41baa8283",
       "title": "NAIC task force hears how flood mitigation could cut losses by up to 18%",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "privatedebtinvestor.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGpVVFJIbUs1R1hNcEJtQkJkX0M4T2p2SnF6SkZqY1FSU2Vhc2RfeWtWWXNPeF9BeVp3czVWdDJwd0ptclZwdnhqR3h6bHM3SHNPQk9wYk8wSjhTZkpydnMzMFFsTnFrMnNyTk14MkZfNmp3a3RiSXNJZFBIV2xucXNvZjRGWUdxUVpQVk1CY3A?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "dd61a0388d78",
-      "title": "NAIC Details State Oversight of Changing Insurance Investments and Risk",
-      "date": "2026-09-25",
-      "cat": "Investment",
-      "summary": "",
-      "source": "Program Business",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVpaLWNCV01QU1dfUnREeS03U2loTmVNN3lxN3V2c3FVMW5hcUY2UnVTMGo5NHFZdE55Wml2WlNRRmpnSHNUZ0J4a05Xbzl5cmh2OGVKYnZ1Rk9tUGRacFZEVlphTTQ5Z3p1MEhPTzkzcXFIZlgxX1FtS0RHSjZMRHJsMVhpeG8tYV9lWUxETlJ1ZnNjQl9xa0pKR0JNZUdXN0NTXy1UV3M?oc=5",
       "isNew": false
     }
   ],

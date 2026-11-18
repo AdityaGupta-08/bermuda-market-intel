@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T01:00:43Z",
+  "updated": "2026-11-18T11:46:30Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,7 +11,7 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 5,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 33,
+      "count": 31,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -142,7 +142,7 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalB1QVlUeE50ejdOWERLRW5Gd2VyLW9hb1FEWXZRakNXUG9yVXpzMGxnRkN1QVluZk03UTlBdXFMaXJZVWtJU2x6SGRUVVNsUGtYcUhfOVJBemJrMzE5UVJPRzQ4TWJEVDBrejdwTEVGMXFTMkpHaDF0MHBiZHFJOWQyLVRub3AzeHFFSzVPOUhWTWNqX20yZjZlNFIyZXMzLWJNNU1VdE50OE9Tel9LaU1ETVIyV1VLUnMtSEtkYzkzYVJVTlhJVGRR?oc=5",
       "source": "citybiz",
       "feed": "Google News: Venerable",
-      "date": "2026-11-17T21:16:12Z",
+      "date": "2026-11-17T21:21:09Z",
       "summary": "",
       "companies": [
         "Venerable"
@@ -158,6 +158,18 @@
       "summary": "",
       "companies": [
         "Sagicor"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-17T16:22:09Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -197,18 +209,6 @@
       ]
     },
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-16T14:26:11Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "18a5f8ae2ea2",
       "title": "Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5",
@@ -227,6 +227,18 @@
       "source": "InsuranceNewsNet",
       "feed": "Google News: Global Atlantic",
       "date": "2026-11-16T13:12:46Z",
+      "summary": "",
+      "companies": [
+        "Global Atlantic"
+      ]
+    },
+    {
+      "id": "b1463ef87ff9",
+      "title": "Global Atlantic Expands Retirement Income Suite with the Introduction of ForeIncome Flex",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTWJkSTZrdUg2S0JmQmRsZlpmQi1LYUtfUlQ5WTZjVk1GX0d5MmxjcTFoVHNxR0d6djE1OVMtb0RMMTg1SGIxeFA5QlhoVjhzQ240bWxoN0JXNGUxYkFDd2ExZnVSQjM4Y0J4V3IwaWRSU0ZnSGlDUjNXZlpQaTdxT2JWLVQ4SFRocGNqb1JTUTQ1MkZma0Z5SEE4QTEtNGItU2JCbHU5M0JDYm9CZUpKenVZWlZfMDdOZ0tPYVZfeENDdURJN2F2Y1VrN0ZXSFNSS2sxYXRZOVlMMjNkRmc?oc=5",
+      "source": "Business Wire",
+      "feed": "Google News: Global Atlantic",
+      "date": "2026-11-16T12:00:00Z",
       "summary": "",
       "companies": [
         "Global Atlantic"
@@ -287,6 +299,18 @@
       "source": "Stock Titan",
       "feed": "Google News: RGA",
       "date": "2026-11-13T21:08:53Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "c8438e8b480b",
+      "title": "After 664 shares cover the exercise price, Reinsurance Group of America (RGA) EVP nets 737 shares.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXhBY1gwTlBnOWtaTi1pd0pYMFV1b3NjYWVjWGlkV3N6VG16MlQ4emd4Zk44SDNKN3R6NHZ0M2tKbDVOeFBDdmJQclpRM3B2NzA3R1o0akxZTDkwMl90S0loSUlrdXhWR1B4SDJQYXl3SEg1bF82bnA4cmN1Z2Vac242SGdBaEVBZ1g4TVFqRnNKbHp4dVRzd2p2bUo4VjdPam1DRkVzeTUxcGdvZ1BDV2xMVi1KVUxfcUh4Ynh6UmtmT0E?oc=5",
+      "source": "Stock Titan",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T21:08:28Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -446,6 +470,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "bc246d763523",
+      "title": "Athene Hldg (ATH) Stock Price, News & Analysis",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5",
+      "source": "Stock Titan",
+      "feed": "Google News: Athene",
+      "date": "2026-11-12T12:50:55Z",
+      "summary": "",
+      "companies": [
+        "Athene"
       ]
     },
     {
@@ -969,7 +1005,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-11-05T08:00:00Z",
       "summary": "",
       "companies": [
@@ -1826,18 +1862,6 @@
       "summary": "",
       "companies": [
         "Talcott"
-      ]
-    },
-    {
-      "id": "bc246d763523",
-      "title": "Athene Hldg (ATH) Stock Price, News & Analysis",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5",
-      "source": "Stock Titan",
-      "feed": "Google News: Athene",
-      "date": "2026-10-06T12:00:00Z",
-      "summary": "",
-      "companies": [
-        "Athene"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T16:03:59Z",
+  "updated": "2026-11-18T01:00:41Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -8,10 +8,50 @@
   ],
   "items": [
     {
+      "id": "1d588ae74cc8",
+      "title": "MetLife Investment Management Closes $370 Million Opportunistic Real Estate Debt Fund",
+      "source": "citybiz",
+      "date": "2026-11-17T22:01:35Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORS1udC1paW1pVkFwVVVIakY5Qkl3OEJkSWQxaUlrNkpfWXM2RGdjV1E3alRFM0k1M0FZdmdpTkl4ZDVFTU1LUmNFbkw3UmtkT0dPSE1rNFJzeGw5RV9kRUk3a29MbGlpMlpHTlRVZ0pXdzNLb3hhZGoxUVA0eF9xMkc0N0dYcTU0SktGTndnWG15ZGNKZUdvYUh2VXlaZ1JXcnJHNFlGSlFkbmlXYkJCeTRfT21UaC01VjFaVHJNRnM?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "881c958a46ed",
+      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+      "source": "The New York Times",
+      "date": "2026-11-17T17:28:57Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2dXTHVZWHJEblJYalFkOE9VeVRXeEpIQXNQdHc2RnVaOGhSLVlZMFJzQkJvcHEtQVBMT0dSYzhlcGV1Mld0SzlyTG5fbHpmX1h4UHhyNjBkbjBkODRRQVJjODRUNUVzMEZNTTNSVzdSaEM1eWh0ZjF2VVYtMHZZRVBFWHJ5YVVpWVduQ0Mxc28?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "eb4c4696fdc5",
+      "title": "Axonic Insurance White Paper Calls for Greater Transparency and Risk-Based Oversight in the Annuity Market",
+      "source": "Business Wire",
+      "date": "2026-11-17T16:51:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZGNwLWpHd250SEQ2MU42NkJsZDh0dUkyWkZNMmQxZlp5eGJRVmJXUWVSRVNXdnVCUWVoMDZUVHdDanF2cVQ2YUtRRkhhX3YxVTBmT3R3ZHlISXZpd0ZpQ3ljYnNHVE5yejFMbEExUmdzaGZBOThycjhmcFRJbE5pZHBNUHI1SlFBYnlGS2NiMEhWT3dDLVk0c0Fna09nbFpEbmY4ZDE1bmNlNE04VTRLTnhxX1J2QU5aYkFoaGFuRGM0ZlZtVmcyUkwxa3JUeVdEY2hIcGNxQmpfVzE5ak1JU0pnS0Y2aGtCZlFUUTNGdEQwWlB1NWc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "eb7606e47183",
+      "title": "New Zealand Central Bank Warns of Rising Global Risks, Private Credit Exposure",
+      "source": "Insurance Journal",
+      "date": "2026-11-17T13:31:51Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Kd3JYTWx4M0MzeDFGcUxrWUxFU01TSlN4LW1FZDN2RDhoYXpYNGdhaUt5VG1ieXctTkw3bEU5UG1BLXluZTNNOWlxTG1oZFFvdmFCZXdFQVF1LXN4YnlvT3BDLTRzR0l1VDZUMlFiUThNcHVMUGt2QVd0TzNXdw?oc=5",
+      "isNew": false
+    },
+    {
       "id": "8a910e259077",
       "title": "Aberdeen Investments eyes insurance and advisory partnerships in 2027",
       "source": "Financial News London",
-      "date": "2026-11-17T10:46:16Z",
+      "date": "2026-11-17T10:48:09Z",
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0VCeWg2UHhseW5WWWFZUVFuNTl0Q0Y4Ukk3T3N1cUlDcFpwNjEzSUVoSUY1MWZibDRUR3dWMXZ0dTBrTThPU3M4X3F5OWR2X3J0ZmpqeXBSbUUyM1JVdWljODVsZ2E5cVFTVTZ0ZVRmbkVURElIVWxsUElaa2pDLVV4NTUwR2RjMHpoU1c5SkRxQlhDRDZJbjZtWnA1WFlwSU1fWVdpLUJFMzdPWEI3YWZ3?oc=5",
@@ -35,26 +75,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVlFJMzlDNTU1cDV3NlRoa3A3YUV3T2IyVXVmZWdjblR0NTN2eUxFT0dxdUJGSnlFZXdsNEQ0QVdBbFhkRTRoUlVWU1daUndVa1M2enE3S21lNXY1RGZIal9Bel96V1Na?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f2889ac3a4ce",
-      "title": "Weekly market commentary",
-      "source": "BlackRock",
-      "date": "2026-11-17T08:52:25Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "5e312cdb4692",
-      "title": "Weekly market commentary",
-      "source": "BlackRock",
-      "date": "2026-11-17T08:52:25Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
       "isNew": false
     },
     {
@@ -218,6 +238,26 @@
       "isNew": false
     },
     {
+      "id": "f2889ac3a4ce",
+      "title": "Weekly market commentary",
+      "source": "BlackRock",
+      "date": "2026-11-15T08:00:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "5e312cdb4692",
+      "title": "Weekly market commentary",
+      "source": "BlackRock",
+      "date": "2026-11-15T08:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+      "isNew": false
+    },
+    {
       "id": "2409d2f2d719",
       "title": "Brookfield Corporation: Buying BAM And Everything Else At A Discount",
       "source": "Seeking Alpha",
@@ -265,46 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEVzTm80NG1HTmR0RDZmUXRSbnkwQlJtbUxLYWt2dkE2V3Y4cmd2QV9Sd0ExZW1yak9IdmJRVUlLZkdKVzZ3YnBJYml1NFE2YndkNExtakpaS2xQZDVNejhFaG4xOTUwaUFzUzNESVh1NUR3VlowcGV5S3pIVllvWW5LVWxsMXNLR09NTW1qN3FMeWxxWWlsQkdDeGdHZ1NmeHk4R0x6eXloVDVMajkyd01MSHZxNmpIR0VUalk4Qkl6SjBsMWlfZFRhODJEZzQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "16472cc93cdb",
-      "title": "US Treasury warns against rate hikes during US-Iran war energy \u2018shock\u2019",
-      "source": "Al Jazeera",
-      "date": "2026-11-13T16:25:38Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f10d0fde6809",
-      "title": "3 U.S. Asset Manager Stocks for Investors Seeking Bond Income Now",
-      "source": "Yahoo Finance",
-      "date": "2026-11-13T14:11:38Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTkZLbG1aRExYQzlGMEw4NS1lc1czZy1ybVJKdG5qRnBZdThtR1Z2UGtxSlQwY3Q2LWpSSUtfNVV4Yy1XNS1ETXVQVGpsSWVXSWdZbXh2RmIwLTZETmdMUGwxdWNpZ0ZVUGR6Qkh6eVNtWm50eW9qN1YtSnlXUG9hc3BpLUFqSUQ2S1dsMEJMMVBaSGc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ff9788efff5b",
-      "title": "Nomura and Aventus Create Misura, an Investment Management Platform for Securitized Products and Private Credit",
-      "source": "Funds Society",
-      "date": "2026-11-13T14:10:24Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUXg3T3BwODhUQUFuTm9CSGVPSTFSSTdoNjVkZWNTYjlwbVlYYnFHWjFHQi01ZThISTRZbmowYXppTFVQVW9hTzR1S0hscGRWZURKX2UxRW8xcmFyZFVsNVZTa19oVWFCTVhGOEhMdjBRMjV4em9JVFk4NHdmSEI1VndpVXdSbTk0OUxZY2pFV2ZVVVVoQ2ZMdXl4SXNIU09CLWE0cWxpei15a2J1T25FbzE0X0V0MVozSFlMS043eUNobUpYaUM3ZE16U3NEeVRCRXBUeHlFRFEtcW5mLWQ0SVBaTUwtZUVKSFQ2WldR?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "906d7fa3d564",
-      "title": "NAIC fall meeting to take up private credit as insurer exposure tops $1.2T",
-      "source": "InsuranceNewsNet",
-      "date": "2026-11-13T11:02:15Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSl9GaHB1VW1Ud0VYeHAxRElmTEdjSDk4NFlxREFZZUpiT3dURFI0WkhDSjJpODQ2S3RQWGpVMnNaMHJxVUQyTmRCa0V1OWxKNkFQdlJFbHducnd6MUxHbE9tZmFCMWtTZU14X09iLXZhbmFXQzRIV0tVdWt4STJlMFRMNkpmUEVET0JzMlExM051VWc2OU0wcm5QenpELURmVFo4T29qWWpmU1M1Smo0WUw3Yw?oc=5",
       "isNew": false
     }
   ]

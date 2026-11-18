@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-17T16:04:01Z",
+  "updated": "2026-11-18T01:00:43Z",
   "lookback_days": 14,
   "feeds": [
     {
       "name": "Artemis.bm",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "name": "Google News: Aspida",
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 34,
+      "count": 33,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 5,
+      "count": 7,
       "error": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -112,6 +112,66 @@
     }
   ],
   "items": [
+    {
+      "id": "074e3e2c5895",
+      "title": "Sagicor Earnings Call Shows Growth Amid Market Volatility",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczlZTm9YVVV2dlJ1VklPel9DOFNkQ2V0NF9wS3pOZFE2OGtkUlBCeTVJcEd3TkR0WVhRODJ3WWJzSVdHMWlCY29DM2d4TkhlaDhWMFJ5NUY3LTUwYnI4M3RiR2ptQml4MU9FX0lmYkd1dXF2RjhnUGRra25FSDlhSDh6cjRsS3p0U254c2k0VlpwRkxhbjBYRE1NcWY1d0JENkVCdTVkWGJIR3VCT1E?oc=5",
+      "source": "TipRanks",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-18T00:24:38Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "bd8df5e7ecc7",
+      "title": "Fortitude Re ratings affirmed by Fitch with stable outlook",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFdNd1liMkMwTVhvekdoM0l5NmhkYUVPakxiT0tBVGgwc0FPekJMbGxMcE14T0R5UVN6Q1JYSjdjUEFaSnBacUcwQVM3b1BSbUhyZ3lPbm1mVGZfZGhneVQwa0VSLTFsbTJldTBIODZSLXpDQUZOa09DUDlTTjVlM2xFOTJxWDdWUVJzSk1ETl8?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-18T00:19:27Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "9f474b781aec",
+      "title": "Venerable Appoints Miles Kaschalk and Charles Schwartz Co-Presidents Effective January 2027",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalB1QVlUeE50ejdOWERLRW5Gd2VyLW9hb1FEWXZRakNXUG9yVXpzMGxnRkN1QVluZk03UTlBdXFMaXJZVWtJU2x6SGRUVVNsUGtYcUhfOVJBemJrMzE5UVJPRzQ4TWJEVDBrejdwTEVGMXFTMkpHaDF0MHBiZHFJOWQyLVRub3AzeHFFSzVPOUhWTWNqX20yZjZlNFIyZXMzLWJNNU1VdE50OE9Tel9LaU1ETVIyV1VLUnMtSEtkYzkzYVJVTlhJVGRR?oc=5",
+      "source": "citybiz",
+      "feed": "Google News: Venerable",
+      "date": "2026-11-17T21:16:12Z",
+      "summary": "",
+      "companies": [
+        "Venerable"
+      ]
+    },
+    {
+      "id": "5588bdb923e3",
+      "title": "Is Sagicor Financial (TSX:SFC) Turning Stronger Operating Results Into Sustainable Performance?",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2J3Nnp3VmdHbjFRN19NcmREYTl3YUwySUdmcTJXM0JhNjZUbjYtU3htZlBJR1FaRTV6bGFIZGZBSHdTMkJhTExUWE90U2ZqS3ZxazRwMnlMS3RGNVFJYnlDeHV5MjJkd1dyYUJKb3Bqa0RrYlIzZzU2X2FkY21JWDkxOXNiT0tDLXpISGNjU1FtSkVqVGgxQ2hrM0xDdVB4cFc3el85ZjlxeW5ZRFVIUXBuT2FCZVF3eEVrc1BENGxpd0FhUFpGRjBoVl9XOGczR1E?oc=5",
+      "source": "Kalkine Media",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-17T21:09:00Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
+      ]
+    },
+    {
+      "id": "0d35077b67b8",
+      "title": "What Makes Reinsurance Group (RGA) a Strong Momentum Stock: Buy Now?",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEg5dldEV1BUQ1V0bDMyUG5XYmc2bHdxMFRlaDBOTXRVYllBVXI5OXVkeTNuQTgzY2ROS0xwRVA1U3dPSlQxWExLbEU1MC1reGdFQzIwOEhxUHdCdWw4Wk12RWJTNWhNS1FJemxYZjJMT2dmSTJfSk1Ed0t3eXZjeGFGN0plOTMtS1NF?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News: RGA",
+      "date": "2026-11-17T16:00:03Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "132d37709b9d",
       "title": "Venerable Names Miles Kaschalk and Charles Schwartz Co-Presidents",
@@ -242,6 +302,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "32d7d3a81f78",
+      "title": "Athene Holding Ltd. (ATH-PA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FcDdZY3lURHgybjVRVEFPWHBsdVpRaHZsMU9lZDdOS2hibHFrY0VJQWNTTXdrdVJHUEtVaWRFam10eDkyem9UWGo5ZzhJMjN2NGhaUQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: Athene",
+      "date": "2026-11-13T21:00:02Z",
+      "summary": "",
+      "companies": [
+        "Athene"
       ]
     },
     {
@@ -897,7 +969,7 @@
       "title": "Fortitude Re closes $3.8bn Unum deal, cuts carrier\u2019s LTC reserves by 40%",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWtJMVBNRkNJaVFpOWVrVVVrcDFodDExWl9lYmlER2F1TVVNdG1wSTZSQ2dUbkhOcUxsTm1xcVNYd0lyeVBVei0yOVJud2hRSWZCRjVtNlhKNTViSWU2ZThhRmVrbjc3N0tVVVRDYUVaZTZMNzZldERWcXlZdVFMNGI0TU8waksxaG9ndDlPdEZhckFxMUtSUzJGWVhzYTdwbXg3X1UxZ2MzazdCaDBOTFlXd2YzTk1aUi1TWThaZzI5U0E1QkpkRWpwVXYwbVk?oc=5",
       "source": "Insurance Business",
-      "feed": "Google News: Fortitude Re",
+      "feed": "Google News: Global Atlantic",
       "date": "2026-11-05T08:00:00Z",
       "summary": "",
       "companies": [

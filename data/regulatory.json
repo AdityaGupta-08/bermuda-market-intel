@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-18T11:46:29Z",
+  "updated": "2026-11-18T20:33:23Z",
   "naic": [
+    {
+      "id": "00d19d8a3fb7",
+      "title": "NAIC task force to address LTC riders",
+      "date": "2026-11-18",
+      "cat": "General",
+      "summary": "",
+      "source": "InsuranceNewsNet",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaW1oeHZOc09oY002cEt1eTRhOTM1eXNhdkVpdGlYcHIybW9Xbl9razFSY1FoZXI3ZkgyTU5WX2gxVEFwX3l6ZWljWXFrMDByNi15Mi1hY25zdXVLekV0Q1hSWE9RMWxlUWVxRU9SWjlWSkxmRXVtS1hkNG91Vno5WUVQZw?oc=5",
+      "isNew": true
+    },
     {
       "id": "4a329bd581ee",
       "title": "Blue Cross flags $5.5B in added medical coding costs at NAIC meeting",
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVE1rOEdRM0pnYlU2ZzZETHBfQXlrcG1hTDNReHpDNUwtM3hKSkFoRFdKcmdJMVlmeUtlNllwVWs2NTVHT3EydEVrd2lZSU9iR3JKd2dFVV9DbTY5R2FXUXNUU1R5akNDUWFWM1h3MTNjYTdGbXBLdzRrdmVfcmlxWnQwSjVxVUNIdGNldVJDV1dJR1hjc3BrTVF2SXFUQU9IMWxhWGc1X01yUkpoczU5TnlBMFpnWk1kS08zUGxwS19iWndkS01TZTYzTWRSb1phOWl4cnhWY1NlN052OUhHS1dBems?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "0825351e0678",
-      "title": "NAIC defends regulatory model following TWG probes",
-      "date": "2026-09-25",
-      "cat": "General",
-      "summary": "",
-      "source": "privatedebtinvestor.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGpVVFJIbUs1R1hNcEJtQkJkX0M4T2p2SnF6SkZqY1FSU2Vhc2RfeWtWWXNPeF9BeVp3czVWdDJwd0ptclZwdnhqR3h6bHM3SHNPQk9wYk8wSjhTZkpydnMzMFFsTnFrMnNyTk14MkZfNmp3a3RiSXNJZFBIV2xucXNvZjRGWUdxUVpQVk1CY3A?oc=5",
       "isNew": false
     }
   ],

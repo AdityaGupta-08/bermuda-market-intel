@@ -1,74 +1,74 @@
 {
   "date": "2026-11-18",
   "source": "FRED ICE BofA / TradingEconomics",
-  "status": "ok",
+  "status": "partial",
   "sovereign": {
     "us_5y": {
       "name": "US 5Y CDS",
       "spread": 25.0,
       "prior": null,
       "date": "2026-11-18",
-      "source": "TradingEconomics"
+      "source": "cache"
     }
   },
   "corporate": {
     "aaa": {
       "name": "AAA Corp",
-      "spread": 45,
-      "prior": 44,
+      "spread": 47,
+      "prior": 45,
       "series_id": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "credit.json"
     },
     "aa": {
       "name": "AA Corp",
-      "spread": 65,
-      "prior": 64,
+      "spread": 67,
+      "prior": 65,
       "series_id": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "credit.json"
     },
     "a": {
       "name": "A Corp",
-      "spread": 74,
-      "prior": 73,
+      "spread": 76,
+      "prior": 74,
       "series_id": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "credit.json"
     },
     "bbb": {
       "name": "BBB Corp",
-      "spread": 112,
-      "prior": 111,
+      "spread": 115,
+      "prior": 112,
       "series_id": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "credit.json"
     },
     "bb": {
       "name": "BB Corp",
-      "spread": 196,
-      "prior": 186,
+      "spread": 204,
+      "prior": 196,
       "series_id": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "credit.json"
     },
     "b": {
       "name": "B Corp",
-      "spread": 357,
-      "prior": 344,
+      "spread": 368,
+      "prior": 357,
       "series_id": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "credit.json"
     },
     "ccc": {
       "name": "CCC Corp",
-      "spread": 1310,
-      "prior": 1316,
+      "spread": 1329,
+      "prior": 1310,
       "series_id": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "source": "credit.json"
     }
   },
   "sector": {},
-  "_fetched": "2026-11-18T11:45:22.497734Z"
+  "_fetched": "2026-11-18T20:32:19.996449Z"
 }

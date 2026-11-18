@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 37 items
-Generated Wed 18 Nov 2026, 07:46 AST
+Bermuda life & annuity watchlist — last 14 days — 39 items
+Generated Wed 18 Nov 2026, 16:33 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 81 items
+- ✅ **Google News (16 of 16 companies)** — 82 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -26,6 +26,8 @@ Generated Wed 18 Nov 2026, 07:46 AST
 
 ## Fortitude Re
 
+- **2026-11-18** — Beinsure — [Fitch affirms Fortitude Re’s A- ratings with stable outlook](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFFyMUJQQ2VycmNaamRGQ2Jmck4xXzhfQzROSWtzZ0RxbWVsc3ZaUmFKSlpFVmNoeEd2YUR6TWpJb1dSbXQ2Nll0Umpzb0ZBeUdTTDlzcG9LVXlYZ01zQ2lBU1NnWmtPOVRYd0JPM1ppc3o5eHBaZlVzbGR1T3ZMXzJnVWJraVpDNWhfaw?oc=5)
+- **2026-11-18** — Royal Gazette | Bermuda — [Fitch affirms Fortitude Re’s A- rating, citing block deal growth](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1BidGhEOUk3Tklxbmx1MVdVSXVLWWdxalhwTEV4XzZUQXFQX3lUeDB3WlVhbDBDVGFTZTZSQWY1S0dIODR4UUJZaTJ6ek9xTGluNmdhT3pVME55WGlJN2wtSXN3U1ZrdXNRbW1aOHR2U1V0Zi05TndNeDZfYXZxZGQ2eWlheV9wWDJWbXM0TmNWaVdnaXFJYkZaYzJ5UkNXZWJLQWpvekFUeDY0NGt3VWh1SDZMV2c5UjVFWHhWVW9JdnVwWm05cw?oc=5)
 - **2026-11-17** — Traders Union — [Fortitude Re ratings affirmed by Fitch with stable outlook](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFdNd1liMkMwTVhvekdoM0l5NmhkYUVPakxiT0tBVGgwc0FPekJMbGxMcE14T0R5UVN6Q1JYSjdjUEFaSnBacUcwQVM3b1BSbUhyZ3lPbm1mVGZfZGhneVQwa0VSLTFsbTJldTBIODZSLXpDQUZOa09DUDlTTjVlM2xFOTJxWDdWUVJzSk1ETl8?oc=5)
 - **2026-11-11** — ইন্স্যুরেন্স নিউজ বিডি — [Fortitude Re Completes $3.8 Billion Unum Long Term Care Deal](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laHlLelZmQTQxV29HR09mN0tJRUExbnd6T3pMbGR2TEZJdElseXV4N2hJbVp5QXNaS1VuZmM3T2xQdzJycUVDemtBc0QwTGZ4dmpqTzBLczFfakt5VXc?oc=5)
 - **2026-11-06** — Bernews — [Fortitude Re Completes $3.8B Unum Deal](https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZTJtTFRQN1VmWGxhazdQQVlybFRtV0xaS3VYbjQ4bWVUTFJITm1ZcC1oa3hnU0pvX0JKNU9ualZ0dGx2eVRkdFBsV2xUM1ZtUzh1bk1TR3JEVE5vTl9DcnI1V2NwdEFCd0dSRUJaMFI0MWpU?oc=5)

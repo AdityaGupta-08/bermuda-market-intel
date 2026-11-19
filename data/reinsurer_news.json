@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T20:33:24Z",
+  "updated": "2026-11-19T02:36:19Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 32,
+      "count": 41,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -449,6 +449,18 @@
       ]
     },
     {
+      "id": "4f77553ca287",
+      "title": "Reinsurance Group of America, Incorporated Share Price Live Today \u2013 NYSE:RGA Stock Price, Chart, News, History",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xejRLckJTSDhWYnpwNml0UXljYUt3TEFUU0d5WGVkeEpMeUFqdGRxZW4yZVNSdjJrelEyUE5wbXBkbWtRZmhDRXNWNWc2QjRkdzlMN0c4dDg?oc=5",
+      "source": "Upstox",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "8b4e061c9f9b",
       "title": "What Explains the Split in Sagicor Financial (TSX:SFC) Quarterly Figures?",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0RTdXpzMzJLbXVBRUJvcGlIemlXQThVRG1zdThZdUpzd0lpa2RkLXNmZTNFaFJQQndJcU00dHlYWHVjS3hpQ0dHRGwyelhYLXJvSzNDaExBZTRBZDY4UTROOTZwakVnbUNQVHYxQUlWcGVuQ2V2cDdQdGVPMDhFLVJpTWZ5a0VkVDFNZm5MUTlNY3NzYVpyODcweUJXTm52M0cwRkdUN2ttdHNrZldnaVNMdFY?oc=5",
@@ -475,10 +487,10 @@
     {
       "id": "da71407d7f09",
       "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEk2Q0JfaU5QbXQzQUMxWGp0Z1VFM0JQUVZ0N0EwTkw2eEJNcm80OURkWGpveEYyOWw5dE9McDdlcVJvd2stY19nVWVITnI5U21iSF9hRDhSTDBBZWlXY2NzV3ZwY1JsTjBhUW1xeWxUMjBLdUk2TFlCUFlqY1V1c0xnRTNKbzNoUksxWW9FM0RNOFV5anNna1ZLMXdLa21LVmx6MlExWnlhRm1nNE41ZHFrNTAtVldkRDNWZVRXV014OG9KRHEzMlpFYWFfX3VCRVFMVjViYTc2SW02SmpNOA?oc=5",
-      "source": "Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYl83TUVraHVMRFZjWXR4bHJHN0VDS1dBaFZwdXZVTHRUOGZKcW02ZEU3Q1VQaVRWbE5oRURBRTNUVmprS1k3WVIzS2JieTRnMnpZaXZ3b2dDLWhXS1dZeTROYWcwSzhlckQ1cFl5MksybEw3MVFraG9lNXQtdlNDQ2dkd25MWm1DdXRjQmoyWHBoVVlpbFdJUjRZYWxNNW5iQXdYNzFHVkhNRE1oa1JWR2NRTGxDVVhoTmNrSGtvdTMzeFlidFhBTEhZTGRUVVhFVERXejBWTDNEQQ?oc=5",
+      "source": "Investing.com",
       "feed": "Google News: Sagicor",
-      "date": "2026-11-12T16:09:59Z",
+      "date": "2026-11-12T15:52:43Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -725,18 +737,6 @@
       ]
     },
     {
-      "id": "643c651a427d",
-      "title": "RGA Q3 2026 deep dive: robust global underwriting and investment performance drive outperformance",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSXhuc2VSaEQtTG9tRW5vN051VXctejZSU1o2MXhnLW8wUzI0aW1rSlFraklDM0oxdHI1MW1VbmxXNzFORkNrWThiS1I3aWYtUFJ1VnhuRDVTdVdFaHk1TTNKMHEwNjF1VUphQi1PSG1pcV9nVk1VU1JaeXR5ZUJvSGIzM0M5YUJ6LUw2R1ZjbFhGbXNxeU1kMnFYVFZHY0NsREx4cmlrUS1mc01GNVRUZV9MNEs1V2ZGdi1sdmNpc0VkbUhKbVlXUllRMi0xOWlWSGdQNURyWXItWUxyQkw4ZEhZbFQ0LVowenJCNlN3?oc=5",
-      "source": "StockStory",
-      "feed": "Google News: RGA",
-      "date": "2026-11-06T19:08:48Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "0cf69b819a96",
       "title": "Reinsurance Group of America (RGA) Reports Strong Q3 2026 Results Amid Fair Valuation",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlBSTjBaSERwM1V0ZlB1VF9UUXlNWmtlazh6VnhyX2ZISzRUeExDQldpUXlrb0c2YUstZ2pzSXc1ZzNDaWUtbUp3d3Bqdlc1Y25OWkktbk9WT09qcGU3YTlOalFtZVIxV0hTUDExS3JRcWJzb0JzQ1hjeC05Yl9UT21NalZsWGIzZm5wSmxYWkc3clNWTTRCSGRyV3dUZmgwQ3hKU2xlRzc4blViV2hsNlRXSTRyQURyZ2xabWRqNA?oc=5",
@@ -785,10 +785,34 @@
       ]
     },
     {
+      "id": "27e24f108eb2",
+      "title": "Reinsurance Group of America 3Q 2026: Revenue $7.55B, EPS $6.92 \u2014 10-Q Summary",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQckxpSGtidUtBTHY4UTB6Z2Z0U000VjhGSGR3bkFIUWQ1VVNnQVNuNWd4M1E2Q3k0SDFBTk9lYktuRktvMGEwcG85cXJqVHlZZ1Z2U1JLSmNEYXozcnlmS3NSRXVfM2tQY0NDaTNEazdZc0xiWEJLb1lIQkdNVmdoanRyVHFHcWpMWFpua0JCOGkyTDREQU92UEpYUGNYZFlYWkJCMzNfckw2d0tzRjBTSkZ3V1Y0al9HLVlFOVRjVThIQ0E0ZVZ2SUdzeVlZQWM?oc=5",
+      "source": "TradingView",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "a67bbab9b771",
       "title": "Reinsurance Group of America (NYSE:RGA) - Stock Analysis",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSi1YQndPSF93UEFXbnpfY0tZS3lpdEVKVXNSbFBvbk5IcW5YSV8xOFN2OTNMMU82QW82N0VIT3lvaFc0ZGhkY0FwWllRNzN0b25ES2N3cEdiTXpCcTNjUjZ6dXBIeXplc3BTWEJCUDQ3eF9rOXY0TVpXYWgwVjJYVVdHbDQ3UQ?oc=5",
       "source": "Simply Wall St",
+      "feed": "Google News: RGA",
+      "date": "2026-11-06T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "643c651a427d",
+      "title": "RGA Q3 2026 deep dive: robust global underwriting and investment performance drive outperformance",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS1FVQTRJRUVwdDd5S1FKS0xyS0k3NW9qQUhlb0JWVE9XT2VCUHg4XzNub1Q4YjhLTG9KS2hGNU5uNzBtblBOVzRaTUpqTkhOQUVQX2swRGVfd0JmNTNLS3RfTmpST2VUMld2QzhxMDI1WW1jemxCNjBGY29SdzBBbHBudER0STVFV2ZzWFhDRDhlM2djX0JxZjBIYVBPWnVlUFZKUXlta1NxYkRQWVQ5d054dXJQdnQ4bVMwZ1B3QjJDQTFmVFpDQ0psSlpUMURyX244S05rWGxpNWtYVlRIZ0tBaGdfN0hCQTlMM0Z3?oc=5",
+      "source": "TradingView",
       "feed": "Google News: RGA",
       "date": "2026-11-06T08:00:00Z",
       "summary": "",
@@ -893,18 +917,6 @@
       ]
     },
     {
-      "id": "e9b6c49ea1cf",
-      "title": "RGA's Q3 2026 Earnings: Pension Transfers Fuel a 22% EPS Beat",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1BMZHNZcFdzNFpHMjdJc1pNNTkyV2VmVUdPck95UWthNHZBYnFvZUY2M3FNSGdmUGEzNWhIRkZWbGxWSERiX0FvTmtGdTFuRExjdURONTFJNEk1eHlHUUNEM1kwTTNmWnBudTBNUUNWS1ZyVzNPS2Iwa01nT0J1Y2llbUk3M3VfUTd4dDNGZGZQeUk4ems0Tm9BV0hBODBBS1ZPNU55WQ?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News: RGA",
-      "date": "2026-11-05T21:21:37Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "dc8f83cac8de",
       "title": "Net investment income rose to $5.32B, but Athene (ATH) swung to a quarterly loss.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlNtVlhtaDFNVE5iRUFYUk04U3ZyOG45X3ByUEZzd2x0RDVnVDNvQ1J2eDJobGl1WEpqNnJGM3I1Z2FSM3M5emFsMDhQWU8yQlpFQVZZeFBnZWhIQVdzbXNTMjJYTDFOcXhwc0ZxUHJxZ0tTenhJVVVVeF9sR1BEb2o5bUs3WnF5Q0pCVVlIQjNIY0MwZEZVNFdwWFc0YlBRS0xZOWJCOGNTenc2TFFR?oc=5",
@@ -914,18 +926,6 @@
       "summary": "",
       "companies": [
         "Athene"
-      ]
-    },
-    {
-      "id": "0999fef9348c",
-      "title": "Reinsurance Group of America Announces Third Quarter Results",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzE4QjVxRlY2S1NBUDAxM2RHUUlHU0lpNUdFZV9NbGpHd0Fiay02VlVMSndwSXJEU2ZsajJ6cWZKT2NPRWtsak1CdFhyZE15NU10LVhWY1dodE41MG95YTg4NjFEOHdOa0JiSVBKS2hhMzBRbFl3Q0xKVUl0SFhpUnpxZldNWVJ6ckJJLVBFZ3ZuWEVpWVpKaTg3TS1UbnRsUmczTV9aR3UzamxrS1U2cjY3NEF3a21N?oc=5",
-      "source": "Business Wire",
-      "feed": "Google News: RGA",
-      "date": "2026-11-05T21:15:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {
@@ -977,6 +977,18 @@
       ]
     },
     {
+      "id": "0999fef9348c",
+      "title": "Reinsurance Group of America Announces Third Quarter Results",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzE4QjVxRlY2S1NBUDAxM2RHUUlHU0lpNUdFZV9NbGpHd0Fiay02VlVMSndwSXJEU2ZsajJ6cWZKT2NPRWtsak1CdFhyZE15NU10LVhWY1dodE41MG95YTg4NjFEOHdOa0JiSVBKS2hhMzBRbFl3Q0xKVUl0SFhpUnpxZldNWVJ6ckJJLVBFZ3ZuWEVpWVpKaTg3TS1UbnRsUmczTV9aR3UzamxrS1U2cjY3NEF3a21N?oc=5",
+      "source": "Business Wire",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "6ba7f36eb7ea",
       "title": "Reinsurance Group of America (NYSE:RGA) reports upbeat Q3 2026",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnhNQWd0THBtQWlyYllGUzlOMUUtMEgzUDRZMWhvNDNmY1V4aXZ1UGhFdEVkV214aGMzRms4SHJHTHAxWnhVaUNTWGh4RUUzWTBTZnBWUUVTbXZGdWszM2E4S3kxTDlvNHJvT1N3UTFXY1E4S0NVR0pRaVlDeWRLWHcyN3hzNzlrTmJPcUlqcVVwM3RJNF9LVGtaUWpKMWp2?oc=5",
@@ -1017,6 +1029,18 @@
       "title": "Reinsurance Group (RGA) Reports Q3 Earnings: What Key Metrics Have to Say",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGcxY2pKRWZjUXdrVHVBdUdDWGdPRFlmdERXSXR6LUp0SDZRSkNQWFNydnBuYkVjTm1MZkw4MW1PeDZmSUhSNmkzdFlnd3VIRFZVb3hoREZlcGMzWDVaTUpWMW4xak01anNsYWI4WjdreDc1aXF5ZXBpN093SDA5WUZMQzFUUVYyYkJZZHhJRUx0aTZfOE5oYUw3MThKdw?oc=5",
       "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-05T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "e9b6c49ea1cf",
+      "title": "RGA's Q3 2026 Earnings: Pension Transfers Fuel a 22% EPS Beat",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1BMZHNZcFdzNFpHMjdJc1pNNTkyV2VmVUdPck95UWthNHZBYnFvZUY2M3FNSGdmUGEzNWhIRkZWbGxWSERiX0FvTmtGdTFuRExjdURONTFJNEk1eHlHUUNEM1kwTTNmWnBudTBNUUNWS1ZyVzNPS2Iwa01nT0J1Y2llbUk3M3VfUTd4dDNGZGZQeUk4ems0Tm9BV0hBODBBS1ZPNU55WQ?oc=5",
+      "source": "24/7 Wall St.",
       "feed": "Google News: RGA",
       "date": "2026-11-05T08:00:00Z",
       "summary": "",

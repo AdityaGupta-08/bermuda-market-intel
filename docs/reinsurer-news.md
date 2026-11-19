@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 39 items
-Generated Wed 18 Nov 2026, 16:33 AST
+Generated Wed 18 Nov 2026, 22:36 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 82 items
+- ✅ **Google News (16 of 16 companies)** — 92 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -61,7 +61,7 @@ Generated Wed 18 Nov 2026, 16:33 AST
 - **2026-11-13** — MarketBeat — [What Sagicor Financial (SFC) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTFMxU0RhZW1ybV9uZFg5SUJ5bEF1NDVDVTZDc3V5SFZ2RDRqU2E4dmxCdGo3TnNXbVpXSWZGOVBkUDl1Z1ZfVzRvV1ZEck9aaEdpNFBlMzY1YXdKMWdjSEJfNGJiWXNzT0YzZE13aExXS29veEVZZXN1UHREMHA5YmlqelFwXzJweFVlSHlfa0hWTEl5VnJuZUN5cklMeFlYY2hUeExMRWx6MDhGYmVMTFVQNWVVQ1ZBS3FrR0dtSUdZQno3LTJjVUlYcFBuSHlDNHNFOFA5OWp5RDhrSl9xMnJmem54LTdYMXpROW9CeXh2ZmJMUnpF?oc=5)
 - **2026-11-13** — Insurance Business — [Sagicor’s Q3 loss masks strong ivari capital position as rates squeeze earnings](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2pCQTlDYnQzXzh6UGpYMFd4QThJZDFaYXFrbHVMZWh1OE9fb2VIMjJ2SjFYaXp2YnZjQ3lDMzRhRkxJd09kMkhiMVU4eFV5bEp0cU1pOUZzRXQ4SS1BVHA1NUFwOXByZy1uRjNzc2JGR2xnMUt2UFNpa3RyRVpPd0YzT1JlM2Y0OGtaLUNjTWVRODFiR1Y0eWVFWEx0LUdabHdhNm1kbkhfMVdhWnluQTRGTUpmVjdON2ZVOHJERVpHWENDcWNCVzFRZ0JjQ25yTElLS1pPX1ppaFh1M0lrWnNCTjQ?oc=5)
 - **2026-11-12** — Kalkine Media — [What Explains the Split in Sagicor Financial (TSX:SFC) Quarterly Figures?](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0RTdXpzMzJLbXVBRUJvcGlIemlXQThVRG1zdThZdUpzd0lpa2RkLXNmZTNFaFJQQndJcU00dHlYWHVjS3hpQ0dHRGwyelhYLXJvSzNDaExBZTRBZDY4UTROOTZwakVnbUNQVHYxQUlWcGVuQ2V2cDdQdGVPMDhFLVJpTWZ5a0VkVDFNZm5MUTlNY3NzYVpyODcweUJXTm52M0cwRkdUN2ttdHNrZldnaVNMdFY?oc=5)
-- **2026-11-12** — Investing.com Canada — [Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEk2Q0JfaU5QbXQzQUMxWGp0Z1VFM0JQUVZ0N0EwTkw2eEJNcm80OURkWGpveEYyOWw5dE9McDdlcVJvd2stY19nVWVITnI5U21iSF9hRDhSTDBBZWlXY2NzV3ZwY1JsTjBhUW1xeWxUMjBLdUk2TFlCUFlqY1V1c0xnRTNKbzNoUksxWW9FM0RNOFV5anNna1ZLMXdLa21LVmx6MlExWnlhRm1nNE41ZHFrNTAtVldkRDNWZVRXV014OG9KRHEzMlpFYWFfX3VCRVFMVjViYTc2SW02SmpNOA?oc=5)
+- **2026-11-12** — Investing.com — [Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYl83TUVraHVMRFZjWXR4bHJHN0VDS1dBaFZwdXZVTHRUOGZKcW02ZEU3Q1VQaVRWbE5oRURBRTNUVmprS1k3WVIzS2JieTRnMnpZaXZ3b2dDLWhXS1dZeTROYWcwSzhlckQ1cFl5MksybEw3MVFraG9lNXQtdlNDQ2dkd25MWm1DdXRjQmoyWHBoVVlpbFdJUjRZYWxNNW5iQXdYNzFHVkhNRE1oa1JWR2NRTGxDVVhoTmNrSGtvdTMzeFlidFhBTEhZTGRUVVhFVERXejBWTDNEQQ?oc=5)
 - **2026-11-11** — marketscreener.com — [Sagicor Financial : Financial Statements (imageSFC Financial Statements Q3 2026)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3E5V2VDcWpmd21pRklab2ktVmduSlFKRU82SU1uLVA0WDNMeWFmTDQ2Q3dLeHVuY0JYeVVZUWpEempXTzBMcG8xZUZZQ28teEdBcHJkUEFXWW8xN1VpYng5RUdORnN3dU1zc2xUMjk1U2xORmJ3OENRbzhqRWZlajdkbnJoWUh1LW8xSzBRaWZyNFFvQXdsUThlR2VjMFVWZ3YtdUZfWTQyZHBpUDMwc1BVOWhReW1yS0hfcmlmT210UG9yMUlZbA?oc=5)
 - **2026-11-11** — www.marketscreener.com — [Sagicor Financial : Management Discussion and Analysis (image/SFC MD%26A Q3 2026)](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFQwdFVpRG45cWZNVy02RENaXzJqR3VKNTdHN0NtRWgwMzZ0MVRBeWlHaEMxdldGZG9yVWdod3Awek4zcUU0OWg0ZDl3YjNMRGRsYlFYV3I2VS1wNDk1cEZ1YjAxSEI1YlFSYUE0aDljSThxSGtfTENTU05IMXYxOGJsX2N1b2tEV2tBMFBqMEVRdDRGSE5xSDZKS0VFZ3VTbVFrVFR5MU5ZdTRUOFRlTGc0TjA0VEdLMG83NjBDRGladTZ5eldtRkxB?oc=5)
 - **2026-11-11** — TradingView — [Sagicor Financial Reports Third Quarter 2026 Results](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYk1rUmZNd3pqd05MZndrUm1OTDZvY1lNTmRlS2ZWaEJyNlpOelNVTVFBTXdBbWEtMktfODNVWG05akVjRGdpUnNTWERXckI5bnZBRnBfVC1Pd1hfLWJtaTJSR1FxREhqOHFXMzNIcUJIMkxCbm03QUMzZTRXQVNnVWZqVXVMSEZMVFEwZDA4SVotcG1WNHZWT2Y4RTJyck5VSXcyWmJNUmR1S2pZZUNCQl90bw?oc=5)

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T02:36:17Z",
+  "updated": "2026-11-19T11:45:37Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,46 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "fbf21a8f0cce",
+      "title": "Bond yields are rising everywhere\u2014except China",
+      "source": "The Economist",
+      "date": "2026-11-19T10:04:37Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDV6c3lGUngyMDRuWXBtNERZZFhpQktSNi1Gbm5uMVVRNmxXaHBSaXNCdnBQSF90WEJaeU1QNTluT3p1YmtFbUlmMFZPQzEwMHZRQjJWWTYtcDNpanVYUXJ6WEZiTzdwUWFuQ1Y4RHlCa1VoM3BDMjA4c1l1aTlmb0x2czUtQ3JRQmNUSHVuR0tpRm0tMWdmSGFSWncxVnJNODg5Z3lBM0c?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f6d9ddc78946",
+      "title": "Treasury, Eurozone Bond Yields Edge Higher",
+      "source": "WSJ",
+      "date": "2026-11-19T09:40:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxqWVA1Y044cTZjWkE0VlVFR3hrRVh1S0ZsLW5VVDZfNlRsT0dmNElmUG1ocmh5Wi11eGhRZEFTbEJpbjVjM3F4b0t1TGtiYTZ5UFlMdFBZSXBQdlNUQ2gxMklZclRVOG9JSkVBNFRmMmVSckpzeFQyZ1RxN250RjZpWXJUTnBKQmhhRXBCV2FERE50STNlZU5n?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "6e99f0ed7c8e",
+      "title": "New AI Index For Asset Management Launches -",
+      "source": "Insurance Edge",
+      "date": "2026-11-19T09:03:02Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDMxXzBZZGRwa2RDNm9fNVBONDF4Y0Vqd0UtVHZnWU1INnJVMlAybk5fdmtRdDFMRUFBYXZxTVdVTkQ0V3pnUFpTLU5UZFpBSkdxS3lMYmJId3kzWWlXNEd3RHhXZDF4UXE2elJvaFc1MWVfbV8xWTMxLWEtVWxKR29VbndrZlJ4?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "09ee3de260ba",
+      "title": "Newcomers shape global CLO market",
+      "source": "ION Analytics",
+      "date": "2026-11-19T01:09:21Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdW10TjFmSzVWUlhEQ0xIZm8yWXROc3NmM0dYWjRDNzVCcmZEOHNja29NdDZWMDVCNFViYnJOVkdqeURObVp3YmtDTTBOaWs0RTQyN091Q29ncEV2cjBEMDBWeGJWSFl4VzlLRzJTZWFSM2F5VHAyQVZCY21HTXZ5ZWVIRWRxMGhCa1p5Z3o4SkJQZw?oc=5",
+      "isNew": false
+    },
     {
       "id": "efb9c06c9248",
       "title": "4 Insurance Dividend Stocks to Buy in December for High Yields and Staying Power",
@@ -25,6 +65,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZ1dTVMaWpOX09EZkwweVhXTHFyOUVUOUlWWUYzTHR1Y0pGbkVLYVYxdlpYdHU5NHk4b0VXakZuMWNWTFdxYVNPX0poNHdBZ045azF6OXB3bzdEcW9jclJaY3dJLThEZWJaeV9XdGRXTV81SU9GRlFacjFoelBVUUI2andEZlcycVZEV2ROWS1MQ01TSGZsSFNhckg1Z09Sa1lFbDBkZW9sSmdkaDAyN0Npby1VX3kycE1udzhjWG1vUQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "58c65f8254c3",
+      "title": "InsuranceAUM Wraps Insurers\u2019 Private Credit Forum in Austin; Announces 2027 Events in Orlando, Chicago and Boston",
+      "source": "Yahoo Finance",
+      "date": "2026-11-18T15:28:00Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPblVabjRyTnhEM1VTWmJhb3BwUERzaUwzSkxEelNLeXo0a2wzRlFfek5tMHYxNlB3cDV6Tlp6Q0UxMHVaUXYxdmhEUm9naHZIWlJaeWg4SVJ5TU95eEZ5Z2N3NHFaZG90VDhPc045Z0F0OEdFaFdCb3ZUazdXS0h3bl9WcEZ6ZE12c0lOcnNiREFEQTBkd2VISzE2bGZpSGx4amlUdFg3UVBoN3M?oc=5",
       "isNew": false
     },
     {
@@ -138,6 +188,16 @@
       "isNew": false
     },
     {
+      "id": "ac45b7cc2393",
+      "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Rate Cycle",
+      "source": "Bloomberg.com",
+      "date": "2026-11-17T20:14:31Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJ3VWxtanltWDFIdk5Jc2U5eFdaUFp6aG1PVVkwVVNpNVZxRFRvQllPcjYwVGh1OVlpVG9pQ1QyX283NldTUnBMa0NxRllJd1E3UDVacklIdTh0MmxsQnc2LTRfaGFFR092OHZZNnUwNEFGLVBFaFF5M0paNFo5d0t4YUIyUDNOVnV5UVVyRTlJRmN6azkxTmNjR251eU8yaDVmX2tJdGpFNkdIekVRbndoMEo?oc=5",
+      "isNew": false
+    },
+    {
       "id": "eb4c4696fdc5",
       "title": "Axonic Insurance White Paper Calls for Greater Transparency and Risk-Based Oversight in the Annuity Market",
       "source": "Business Wire",
@@ -245,66 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVdNcjBMOGw2emo5c0U3cDE3YnhuOXlhaVJuc2hqTkt0M1BOdlBOdjUwaUZWTXJFR1E2SGQyeDFkVUJVSVY0bk9kcWU3MkpMOEVBVEJCMV9BZ1BQSEMwLXMwX1M1U05LeXFneF9HUHB3VmtaczBtem5QZV9hUjRfZUM1Y3B5NDY5VElzdUVCbEV3UHFhSDhId1dCZw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "1047f5dac9c7",
-      "title": "How Private Equity Ownership Puts Insurers at Risk",
-      "source": "WHARTON Knowledge",
-      "date": "2026-11-16T20:29:07Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVdNcjBMOGw2emo5c0U3cDE3YnhuOXlhaVJuc2hqTkt0M1BOdlBOdjUwaUZWTXJFR1E2SGQyeDFkVUJVSVY0bk9kcWU3MkpMOEVBVEJCMV9BZ1BQSEMwLXMwX1M1U05LeXFneF9HUHB3VmtaczBtem5QZV9hUjRfZUM1Y3B5NDY5VElzdUVCbEV3UHFhSDhId1dCZw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "32c81663ed05",
-      "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
-      "source": "WTVB",
-      "date": "2026-11-16T17:52:07Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEwxRGFhWFZ4emplMHRxTFhaQkRoS1JSdUtxaVRVZXp0bGZ2bXowTTlRLUNJT2pXcEV6cy1sSTdwc1Z0eUJfUXJwQVVPVDB0RzE3c283cHRIYmZzUUFmUkRndlRHY0xFY0F6QVNKenVRMk1oMFhrS3NpRzRvb2UzcnJzQU9kMUJKSjBWZExybXZSMFRjS3dxeS1tV0xZbDg3TlNUS2pRNjFDMDFXNzA1YlV6S053YWxIcTJlVg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "9dd8874434cf",
-      "title": "North Dakota State Investment Board terminates international small-cap value equity manager",
-      "source": "Pensions & Investments",
-      "date": "2026-11-16T17:29:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXJOS05JbkJkVjBuSnBwN3FUXzk1aGh1SWplSnZRdDgxM19XYnR1eF9NcGlDbk1jOXJQbGhMamo4U0VpUnlZV3dhekM1ZFN2a19UMjI2VC1ROVk5bzBjdFc3d0NmYS0zTWZDSlVFZklQRUpOQkpSR2xDMlBFRWMtVFFqM09IMVhCLWpuQmhNRFM1T192cjhvd0RkMGFTamZ0bXJVU1RIWGtxNkJrVjhPajhyQm5rbUpOcFotVmt1cw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "5a587c82c432",
-      "title": "Goldman Sachs Sees U.S. 10-Year Treasury Yield Falling to 4.6% by End of Next Year",
-      "source": "BigGo Finance",
-      "date": "2026-11-16T14:05:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40TkJ5Y1Z4LUJhY3dHamJQdE9pRi01SVpfOEE2Zi01ZUdEbzlrVGd2aVpNUzlfYjRKb1B2RTJwbFhLRl8yM1pwMkVKbkMzd1Z4TUxQOElVaXc3OXhJT0piYWRlNkdNX1RLU0lJX0UxRENqLTNDS2c?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "2f0027fc40eb",
-      "title": "JPMorgan Chase Tops The 2026 Finance Quantum Index; HSBC, Wells Fargo Share Second Place",
-      "source": "The Quantum Insider",
-      "date": "2026-11-16T14:01:15Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVUyWkhWc1hpUHQyQmlyczlObllFV0FtWEcxbG5QeVc4MEFpQVozLVFXd2NKdExLd2o2Vnl1QllvR0Q5c2cxb09RaV9nOHNSS295akVKeGVTTUdKVWt4b0Q3RmFMOWpET0pCTWdaRFRwLWR6Q3BWZlotUnVkcEZLVUVEMUtRZ2xCYm9uZmlGZ3dRdjZuc2VjMmJhcnExblFNUXktVElQMUhXNDByRzZzWGM3UGtPeVNtLVdseDVOYUdoWTFadENv?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "82c4e8ca73fa",
-      "title": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move",
-      "source": "Bloomberg.com",
-      "date": "2026-11-16T10:16:26Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEV2d0pEVGhUanZROXNyZXgtMm5aUTE4NXJXQ2tuY2pBLWJSaDlLQ2s3MC1ScjZWdFhEZkF4WmotOEQ2Y0J4M3Ytb2tSYkVwVmVvTDVUX0VFb0F0LTVaeGx1MVY2Y2ZtS0E2Z2ZZOGdPNVFIVC05czF3NUhqTW1tWXM2YWdVX2YyYjd4ZGpOTlZ3Sl9EMHZKRjBEa1JFQTc4ZVhzb01EMmpWbEJGdEtycEo1Yw?oc=5",
       "isNew": false
     }
   ]

@@ -5,7 +5,7 @@
     "gilt": "ok",
     "eur": "ok",
     "india": "ok",
-    "credit": "ok",
+    "credit": "partial",
     "cds": "partial: sovereign cache (2026-11-18)",
     "sofr": "ok",
     "bma_rates": "stale: latest workbook 2026-03-31, expected 2026-09-30",
@@ -13,6 +13,6 @@
     "inflation": "ok",
     "myga": "ok"
   },
-  "run": "2026-11-19T02:35:58.541094Z",
-  "_fetched": "2026-11-19T02:36:06.984380Z"
+  "run": "2026-11-19T11:44:10.048960Z",
+  "_fetched": "2026-11-19T11:45:28.905151Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:45:38Z",
+  "updated": "2026-11-19T20:40:54Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 30,
+      "count": 35,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 5,
+      "count": 3,
       "error": null
     },
     {
@@ -112,6 +112,30 @@
     }
   ],
   "items": [
+    {
+      "id": "7a4dd5d81e79",
+      "title": "Reinsurance Group of America upgraded by UBS with a new price target",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDNsalc2SjNka2wzT1ZTeVdLM0NrQ25BbzJPSEV0VmRHSmNQYldGd3I5MFoxcm9RTDF1cFVaRHFSZHN5dDdhV2ZNMElDRXJBUWlZODlBakotYTVxb3k0UjlKd2NkZ0pSU05zMGVZRUZvMkVsWEV3eWFIa1J2UWdiYUwzQjllR2czSXFTTmcxMEp5eGtDcHBmQnhPOGstQVE?oc=5",
+      "source": "Quantisnow",
+      "feed": "Google News: RGA",
+      "date": "2026-11-19T12:35:11Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "05ae5e0a96b3",
+      "title": "Reinsurance Group of America (NYSE:RGA) Stock Rating Upgraded by UBS Group",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmFpY3ljLUZ4N3JLRVFmMTNBTWhmMmVlUm5qNC02bm9QRzNtR3F0Snd4eURuRDRPMVFRQ2NYODYtdkVUNU1zZGNxMWZDYXdIdDRPaS1iZG4tOXBiNVdna3I1eVgtYUNGNHNUR2xDc1NKaHlvNjJ6UEVrWXZ4YjdKc3pIWHRHVFhDOWhRb1prMU53YXJ1UHdzT0ZaU3Jjdk9kbWNoWFlKQkNBcXZMcHJkS25Fa0V1d0xSYTN2cno4MC1LbVZfSGx5azBNaHJiWXM?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-19T12:11:31Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "a14da8aebe5d",
       "title": "Fitch affirms Fortitude Re\u2019s A- ratings with stable outlook",
@@ -287,6 +311,18 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-11-15T15:28:20Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "7e368f9c9c41",
+      "title": "Reinsurance Group (RGA) Q3 2026 Earnings Report - Results, Call & Slides",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWHhVNEY1S0g3eEZxd2JuOWlGdzV4TVVCMVhXd0pxNWpISllQN3d0LTVNcF9wRktIMUgwMVFNRGVUUkN4VkdVR3l6blplYTZHVDhJM0FKU0JtYXZhZHpoRzlVMXJJQXZHNE9r?oc=5",
+      "source": "TipRanks",
+      "feed": "Google News: RGA",
+      "date": "2026-11-14T00:30:03Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -581,6 +617,18 @@
       ]
     },
     {
+      "id": "aa2aaacd3212",
+      "title": "Reinsurance Group of America, Incorporated 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTElNMzdKRVFQRHBMZmtWenBUOVdHY21fSVJteEMwQnM5TlB6SHpWdFVXbENHcjhidzJ4Wl8yMnBSQ3hSSVlnNkQ0VTFDeWZFb1hrVk9PYlV3aGRUeDhHNVE2djEyTnZFT2dLU0hIa21XZlhrUmVwZk41Y2w1bEI5UVJEc0ZBakNYalgzeG0wWW01WnJTdF9CcFlSbHpOX2JsaUI1QmV6R3RYOTNrTmd0cXpmRmtiNm1CMzB5NmlBV0hHZE0?oc=5",
+      "source": "Seeking Alpha",
+      "feed": "Google News: RGA",
+      "date": "2026-11-10T23:14:37Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "cefc671bd195",
       "title": "Piper Sandler Maintains Reinsurance Group of America(RGA.US) With Buy Rating, Raises Target Price to $300",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1Zfc0xzWFk0M0pCNkJZdGtyaW10VDBJaVRNdV9kRlUtR0JDdjVaQmlUdUxHNk5pUXFQbHU4cEJId1JhejNZVUhNWlV1dXJmZkdseU5lS2oxaTlHQzM5c0ZSbFFrOTkwcG9XQjdtS2lMRU1KN1Z5bG51Xy1QNGQzb3VtUHRvZDVZd0FteUtLRkdlTjlBNUlpWVVaUUZoM0lRN2Vnb0VTSFZUNlRadDBEMw?oc=5",
@@ -665,24 +713,24 @@
       ]
     },
     {
-      "id": "4d5ef74d0806",
-      "title": "What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUy1memhncUVTdnI3NTRUS2hiU2NDN0VCNnI5RHIxaldyelY0RWhKa1o0MjlIazUtaERTOWZqVk5XYlJPR3Nad09nNGdfcFhRdzh1eFlKZ0d2bDNLU3Fod2lSWVNpSmZjMDJzRWw2S0pqNHZlTVZyVFhmbG0ydkdZVHBrLWhjRWRFLUVSU2JvdERySUw3ZS1DUDh5SEo4bERHUENXdy1fNzROZms3RmlmY3VLLWdyeDY3elAzZjJPZjBDRmRWalE?oc=5",
-      "source": "TradingView",
-      "feed": "Google News: RGA",
-      "date": "2026-11-07T20:14:13Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "c758a026209d",
       "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-11-07T16:11:52Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "4d5ef74d0806",
+      "title": "What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUy1memhncUVTdnI3NTRUS2hiU2NDN0VCNnI5RHIxaldyelY0RWhKa1o0MjlIazUtaERTOWZqVk5XYlJPR3Nad09nNGdfcFhRdzh1eFlKZ0d2bDNLU3Fod2lSWVNpSmZjMDJzRWw2S0pqNHZlTVZyVFhmbG0ydkdZVHBrLWhjRWRFLUVSU2JvdERySUw3ZS1DUDh5SEo4bERHUENXdy1fNzROZms3RmlmY3VLLWdyeDY3elAzZjJPZjBDRmRWalE?oc=5",
+      "source": "TradingView",
+      "feed": "Google News: RGA",
+      "date": "2026-11-07T08:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1922,18 +1970,6 @@
       "summary": "",
       "companies": [
         "Global Atlantic"
-      ]
-    },
-    {
-      "id": "4bf52a2fcf31",
-      "title": "Prismic Life to reinsure $5bn of Prudential\u2019s Japanese whole life policies",
-      "link": "https://www.reinsurancene.ws/prismic-life-to-reinsure-5bn-of-prudentials-japanese-whole-life-policies/",
-      "source": "Reinsurance News",
-      "feed": "Reinsurance News",
-      "date": "2026-10-05T14:00:57Z",
-      "summary": "Prismic Life Holding Company, LP, a reinsurance company providing capital and risk management solutions to insurers, has reached an agreement with Prudential Financial, Inc., covering a portfolio of Japanese whole life insurance business. As part of the arrangement, Prismic will assume reinsurance on approximately $5 billion of reserves associated with USD-denominated whole life policies issued [\u2026",
-      "companies": [
-        "Prismic Re"
       ]
     }
   ]

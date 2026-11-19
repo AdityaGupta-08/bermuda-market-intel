@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:45:37Z",
+  "updated": "2026-11-19T20:40:53Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,46 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "2223b3de7684",
+      "title": "Federal Reserve H.15: Rates, Formula & Guide",
+      "source": "CASRAI",
+      "date": "2026-11-19T18:25:41Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53TVk3b3VUZlRaZWxuckp1YlB0b3REZnFGbEtkQlYxSV9NQ1ZNSS1Kbmh2X1NWZG9WN05wSjNFMkxCYndIRjlFOHlKZ1FvSGd3Ukt6T0ZpLVdEZw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "4585a3ba9fb1",
+      "title": "Central bank \"higher for longer\" rates and what they mean for bonds and assets",
+      "source": "Yahoo Finance Singapore",
+      "date": "2026-11-19T16:29:11Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZElfNnU0c2pRLVFFdDU4MXpxeVdPd3FqMlRnX1NySUNLdVlxdUtGVlVvQXFmZ0VmaTU4MWVkbVpZRzA1SHRYaUZwWmhMbEVBRXo1bzhqWU1oaktHT0R4RHFoc0JQa3VDcGpsTmdFa2ZpV2hOU1A3dWRadVNEbkhNQkZ2UE83SW9O?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "855f870d56ff",
+      "title": "Traders Are Betting on Interest Rates Staying High for Years",
+      "source": "Bloomberg.com",
+      "date": "2026-11-19T13:52:51Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOendXZWRGalVfMHpfQTJhRGFXOXdyNW1hYmhhUDNXTWFfbWVLNy1mQmJhZEhKWDR1aVo0LTZ4Q3JhemNpQzR2M0hxNDlvanV3MmlVNVA3aEY0QkVtNEwzQWpDTWMwTWRfcUNmTngtMThtTjhHRGI2a3Z6VGhiWEIxZUNHdEFXT0R2R0F0S3BsLVlXY3M5SVcxUy1pYlVMak5Rd0hwVERQeF9DOHNzVjJQdw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "224d913c9d21",
+      "title": "Looking for Trouble: Assessing the Systemic Risks of Private Credit Funds for Canada",
+      "source": "C.D. Howe Institute",
+      "date": "2026-11-19T11:44:23Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFFkc1lBWnE2TnFjQU0zZFAtMXJhcUlCaUV3VElUMUl6U2lheFpWSF8tSVdlNzVIcDdyYWtzRWxIeUFDTFhqLU5aUUZLbjFMcDVoYVg0Qi1CY21oSHRRNEVtVGJsTW5fUUI3Qkd6bDUwTjR4VVdpX2RTRXNGaHIzTWkxZm83QldGZlYycUZxRzF0YVhfT3hfU25ZY2xqS0k0WVJGRlJFbExBNFBXQW9ycTNKQmlqdw?oc=5",
+      "isNew": false
+    },
     {
       "id": "fbf21a8f0cce",
       "title": "Bond yields are rising everywhere\u2014except China",
@@ -31,7 +71,7 @@
       "id": "6e99f0ed7c8e",
       "title": "New AI Index For Asset Management Launches -",
       "source": "Insurance Edge",
-      "date": "2026-11-19T09:03:02Z",
+      "date": "2026-11-19T09:15:57Z",
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDMxXzBZZGRwa2RDNm9fNVBONDF4Y0Vqd0UtVHZnWU1INnJVMlAybk5fdmtRdDFMRUFBYXZxTVdVTkQ0V3pnUFpTLU5UZFpBSkdxS3lMYmJId3kzWWlXNEd3RHhXZDF4UXE2elJvaFc1MWVfbV8xWTMxLWEtVWxKR29VbndrZlJ4?oc=5",
@@ -265,46 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUViY1hhRjlIS3NBS2pveU1pemlDNzA0YnFhV01FdnZkWlpSSG84VGYyM1AxRXk0WGd4VTZqN1ZBdG5pTjgybUxEaEdPUGJhdlVXVkFrWHQ3Z1FLcUtLX1BydnpfVlRsUGpfSjV0NkE2T0tqWl95S3gzWFBDTk9wWUw1VnQ4dkR5MFU4YzlEMUEyLURob3BSaEdUTi12X2tWNGc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "9ea604f97d12",
-      "title": "Investing in healthcare: What to consider",
-      "source": "Chase Bank",
-      "date": "2026-11-17T01:47:56Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklzS3RHZy01NkNfRWgwczFvNm1McHVkUmpCNzNOS1hxTmZObGlnU1ItM2pwMkxXYW55MFUyNnNDRlVTRHktUVhmUm1qZTg0UTN2R0RVbjkyM0liNVlkekJzanV1X1FoNFZ6bmJIZ1k1ZTUtSmkyeXR2ZWM1Nnk0Unc4MFV6X2lpYXlMRWtkeTBBbFhCS1FJRWJzZ1ZNVjVSMXItS3BGaU8yYzdZekgtaG1LRmM?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "b6205d8d99f3",
-      "title": "Gold hits one-year low at US$3,830.74 a troy ounce on Nov 16",
-      "source": "Nation Thailand",
-      "date": "2026-11-17T00:32:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ya0lVRkFMNWYwanZYWEl1TVZtUG1QaTRaeWFPVG04REJpYVdtSEpKZ2RxelVtaVBhTmZBRW9NT1diWnUtMzJrbUdJRnhTU2s4OUZBWW8zcVViWVpGZmZmTmJtMXgxdWhKMDhUZldMOGZGOHo3RUE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "cc94acd146db",
-      "title": "How Private Equity Ownership Puts Insurers at Risk",
-      "source": "WHARTON Knowledge",
-      "date": "2026-11-16T20:29:07Z",
-      "topic": "Structured Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVdNcjBMOGw2emo5c0U3cDE3YnhuOXlhaVJuc2hqTkt0M1BOdlBOdjUwaUZWTXJFR1E2SGQyeDFkVUJVSVY0bk9kcWU3MkpMOEVBVEJCMV9BZ1BQSEMwLXMwX1M1U05LeXFneF9HUHB3VmtaczBtem5QZV9hUjRfZUM1Y3B5NDY5VElzdUVCbEV3UHFhSDhId1dCZw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "1f35e72cbd11",
-      "title": "How Private Equity Ownership Puts Insurers at Risk",
-      "source": "WHARTON Knowledge",
-      "date": "2026-11-16T20:29:07Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVdNcjBMOGw2emo5c0U3cDE3YnhuOXlhaVJuc2hqTkt0M1BOdlBOdjUwaUZWTXJFR1E2SGQyeDFkVUJVSVY0bk9kcWU3MkpMOEVBVEJCMV9BZ1BQSEMwLXMwX1M1U05LeXFneF9HUHB3VmtaczBtem5QZV9hUjRfZUM1Y3B5NDY5VElzdUVCbEV3UHFhSDhId1dCZw?oc=5",
       "isNew": false
     }
   ]

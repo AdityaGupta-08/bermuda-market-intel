@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:21:07Z",
+  "updated": "2026-11-20T11:44:12Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,20 +11,20 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
       "name": "Google News: Catalina",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "error": null
     },
     {
       "name": "Google News: Fortitude Re",
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 33,
+      "count": 31,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "895c87193d6d",
+      "title": "Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Has Average Price Target of $292.25",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVlHMS1Gd2ZrRE1FZ2ZXaUY1NjFGblZValowZ2F0ZEJDbGNOX2hEb0h4bThQMklHZnJNWnc3YW5JWGo3WUdibXVTbklTX18wbVRLMGM3VFRrY05TUFFoUHlVM2c2ZDlpdkhLZk02Yzc5YWZ2dnZjcUhxV1lsek9oQmthRTNnam5rbDVXNEhkSXhHUVV0Q0d0R1p0RG1iemFHVVJxUi16VndSVnRLMkNXUFZNa3cwaFVLaGJ4LV92bWZxRmp5dVZKbWE2aWRWdmhoVV9UUkQ1TGdDeElZX2pKZlRLZ3NmVWZDNEE?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-20T07:17:04Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "7a4dd5d81e79",
       "title": "Reinsurance Group of America upgraded by UBS with a new price target",
@@ -155,6 +167,18 @@
       "source": "Royal Gazette | Bermuda",
       "feed": "Google News: Fortitude Re",
       "date": "2026-11-18T15:38:44Z",
+      "summary": "",
+      "companies": [
+        "Fortitude Re"
+      ]
+    },
+    {
+      "id": "0c04a076b0d2",
+      "title": "Fitch Affirms Fortitude Re at A- Financial Strength",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGh6RkhUeXFIbTIyZ2MxOUNrelVVMFNubW9uTHVyRU5oOGE4Q3pSenE3Nm1IcVhNRTRBaGJ6cGJqbmlVbGJ0NHh0SVNObDlLUDI2WWZvbkkzNDZWMklza2lzTEVPWW9sb2dDaVJtVTE1ZVVhc05sQXlxTjBudkItVXkzSS1rTVk?oc=5",
+      "source": "Wisevoter",
+      "feed": "Google News: Fortitude Re",
+      "date": "2026-11-18T08:00:00Z",
       "summary": "",
       "companies": [
         "Fortitude Re"
@@ -403,10 +427,10 @@
     {
       "id": "3ad749eb8798",
       "title": "What Sagicor Financial (SFC) Said on Its Q3 Earnings Call",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTFMxU0RhZW1ybV9uZFg5SUJ5bEF1NDVDVTZDc3V5SFZ2RDRqU2E4dmxCdGo3TnNXbVpXSWZGOVBkUDl1Z1ZfVzRvV1ZEck9aaEdpNFBlMzY1YXdKMWdjSEJfNGJiWXNzT0YzZE13aExXS29veEVZZXN1UHREMHA5YmlqelFwXzJweFVlSHlfa0hWTEl5VnJuZUN5cklMeFlYY2hUeExMRWx6MDhGYmVMTFVQNWVVQ1ZBS3FrR0dtSUdZQno3LTJjVUlYcFBuSHlDNHNFOFA5OWp5RDhrSl9xMnJmem54LTdYMXpROW9CeXh2ZmJMUnpF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkNPMG83b2FqWVNocnotbWhOVFFUWG51ODNQTjFvWTVoRmJQRTFoWFFhbWthYnhPNU9JZEpuYkNNa2wzTDFURGt3YV9RQWpaVGdPcDI2cnNWbWRQNzBqWVJ2anp5TTNReEV5UGVpejk4OWFQWTAwUXlJUVhkZWRtTnUzUnJhcVlmV3NvcEVWeEFBb3hvWFpQNy1wVWs0RndVNjNYY2t0ZGkwUkNYMXBFQUM5LWhGZklWMkpQVA?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: Sagicor",
-      "date": "2026-11-13T20:21:32Z",
+      "date": "2026-11-13T20:27:26Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -670,7 +694,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX3RTUlNXVVdVVkpjdnNoemM0VkplVEJmcnNXa2tYMndtMUp2cVYzcVI5d2UzLWwwRjFRMHRLUVJtSlR0X0RmV3diTHJaNkt0UE5rOGtCZ0NvQ0JzR0NkSGNZc19ab0dfVjVDY1dRdXFYQzVMaER1bGtaM25LdGxKb2xwam9oTmw2aWY2UnRoancwSUF3M0gyVDJnMzAzaTNvZHpvN3FzZGJLNVVXSEllSG92NWt5UVFRcTZTRnVWcmhtbUM4T2phVTRaalZlLUZSYzlwSmpUSWRLcnc2Qm1QamxPUnZvZFdJTjFR?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-11-09T17:03:24Z",
+      "date": "2026-11-09T08:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1454,18 +1478,6 @@
       "summary": "",
       "companies": [
         "Wilton Re"
-      ]
-    },
-    {
-      "id": "895c87193d6d",
-      "title": "Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Rated \"Buy\" by Sell-Side Analysts",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUY4NDlhT2NxeEZpMmZfU0g2TVMzVkZnbngwWng1NzVBS190Q0lFdm9HRjFTY2RJc2JwRGtaVC1NOTlWQjBFSGFZRGE1TzJXWDhWdFhQQUNTbzFxOEoySmY2dFFsSmlUbjFsZ0lVa3pJZ0V2a21OUVIxaUtLTUZXOUFDTWFQS3VqS1ZzRmdIeXNZZi1xMXZfN1hiUXYySWNMamstX1E4Uk4zb191bnE4eDcwc3ZWRUFfSFV6bTZlbUZBaUdrd2tzcW5VUHRyZmhLSkVCSDFEVGlwakVPdXVlRjI4cXdBTDQ?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-26T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {

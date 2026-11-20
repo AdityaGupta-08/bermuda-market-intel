@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:21:05Z",
+  "updated": "2026-11-20T11:44:10Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,26 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "3be50a2baf19",
+      "title": "Average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-11-20T02:44:47Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjJzSGJkTVU5TWFWbzJWOUppQmU4WlFXOE02UzBkUzJ6NDJzQUlIUXdXRnhFU0stNllYSU9VRk5tenZsc0xiV0NNNFpnczdjVGE5ejhIaHB3M3RLMkxuTWpGRU51NGN6TGpYUUpreHJzM2RCbS11MzgwNFdsQm5lbU9tWW1NT1RsRmUwRGxnSDNPaWJhaVE?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "64442390a2c9",
+      "title": "MetLife Says Growth Plan Is Ahead of Schedule as Retirement Demand Rises",
+      "source": "TradingView",
+      "date": "2026-11-19T22:12:12Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOVh5WWVmeldlSHZzRDhkdnhZSTBjektLMlNnQ29JMEJJMjB3R2tuXzdDbXRZc2tYbjJPMUZyeERHbVVYaVR3TFhaVmUtMWdXRVBlX3FKdE45aU5yVmE2TWpCQ0UzVU9vdjFxR0xYNllCOUNWVl9QRU1tdjZITTlUYjBudk5hZGpaaUlLMFk1WVVFN1lBb21TV2tNUTAzSWdZZjlJTVVRR2FOQ0QzZHIyT0JrYzdpQXdEUzFHNlVTbUtqVXhaWlZYMkFHbmNhdw?oc=5",
+      "isNew": false
+    },
     {
       "id": "f4762b9937e6",
       "title": "NAIC Fall Meeting: What CLO, Rated Fund and CFO Mark...",
@@ -285,26 +305,6 @@
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Kd3JYTWx4M0MzeDFGcUxrWUxFU01TSlN4LW1FZDN2RDhoYXpYNGdhaUt5VG1ieXctTkw3bEU5UG1BLXluZTNNOWlxTG1oZFFvdmFCZXdFQVF1LXN4YnlvT3BDLTRzR0l1VDZUMlFiUThNcHVMUGt2QVd0TzNXdw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8a910e259077",
-      "title": "Aberdeen Investments eyes insurance and advisory partnerships in 2027",
-      "source": "Financial News London",
-      "date": "2026-11-17T10:48:09Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0VCeWg2UHhseW5WWWFZUVFuNTl0Q0Y4Ukk3T3N1cUlDcFpwNjEzSUVoSUY1MWZibDRUR3dWMXZ0dTBrTThPU3M4X3F5OWR2X3J0ZmpqeXBSbUUyM1JVdWljODVsZ2E5cVFTVTZ0ZVRmbkVURElIVWxsUElaa2pDLVV4NTUwR2RjMHpoU1c5SkRxQlhDRDZJbjZtWnA1WFlwSU1fWVdpLUJFMzdPWEI3YWZ3?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c6762976f06f",
-      "title": "Thoma Bravo establishes first APAC office in Hong Kong",
-      "source": "PEI Private Equity",
-      "date": "2026-11-17T10:01:24Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaU03RTVVWG01UUtGR0hTXzItSHF6aGxjd1RMZktSUjBmdUVycGFxSUY2XzBqVlFqd0puSHczcXdnZ1p5YW43dlZtdDJLajVVZDhtcXR0Mi00NFh6WnZIUGR4aTFKallFcGNsak5ITS1Ca1M0a0t1dEg4ODBnV0NQT3lUcUtjaEJzWTJPbWhCODRvdzM1c2NVYkVnT0otZVU?oc=5",
       "isNew": false
     }
   ]

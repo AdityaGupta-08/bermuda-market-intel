@@ -1,13 +1,12 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 34 items
-Generated Thu 19 Nov 2026, 22:21 AST
+Generated Fri 20 Nov 2026, 07:44 AST
 
 ## Feed status
 
-- ✅ **Google News (15 of 16 companies)** — 79 items
+- ✅ **Google News (16 of 16 companies)** — 76 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
-- ❌ **Google News: Catalina** — failed: HTTPError: HTTP Error 429: Too Many Requests
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
@@ -26,9 +25,9 @@ Generated Thu 19 Nov 2026, 22:21 AST
 
 - **2026-11-18** — Beinsure — [Fitch affirms Fortitude Re’s A- ratings with stable outlook](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFFyMUJQQ2VycmNaamRGQ2Jmck4xXzhfQzROSWtzZ0RxbWVsc3ZaUmFKSlpFVmNoeEd2YUR6TWpJb1dSbXQ2Nll0Umpzb0ZBeUdTTDlzcG9LVXlYZ01zQ2lBU1NnWmtPOVRYd0JPM1ppc3o5eHBaZlVzbGR1T3ZMXzJnVWJraVpDNWhfaw?oc=5)
 - **2026-11-18** — Royal Gazette | Bermuda — [Fitch affirms Fortitude Re’s A- rating, citing block deal growth](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1BidGhEOUk3Tklxbmx1MVdVSXVLWWdxalhwTEV4XzZUQXFQX3lUeDB3WlVhbDBDVGFTZTZSQWY1S0dIODR4UUJZaTJ6ek9xTGluNmdhT3pVME55WGlJN2wtSXN3U1ZrdXNRbW1aOHR2U1V0Zi05TndNeDZfYXZxZGQ2eWlheV9wWDJWbXM0TmNWaVdnaXFJYkZaYzJ5UkNXZWJLQWpvekFUeDY0NGt3VWh1SDZMV2c5UjVFWHhWVW9JdnVwWm05cw?oc=5)
+- **2026-11-18** — Wisevoter — [Fitch Affirms Fortitude Re at A- Financial Strength](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGh6RkhUeXFIbTIyZ2MxOUNrelVVMFNubW9uTHVyRU5oOGE4Q3pSenE3Nm1IcVhNRTRBaGJ6cGJqbmlVbGJ0NHh0SVNObDlLUDI2WWZvbkkzNDZWMklza2lzTEVPWW9sb2dDaVJtVTE1ZVVhc05sQXlxTjBudkItVXkzSS1rTVk?oc=5)
 - **2026-11-17** — Traders Union — [Fortitude Re ratings affirmed by Fitch with stable outlook](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFdNd1liMkMwTVhvekdoM0l5NmhkYUVPakxiT0tBVGgwc0FPekJMbGxMcE14T0R5UVN6Q1JYSjdjUEFaSnBacUcwQVM3b1BSbUhyZ3lPbm1mVGZfZGhneVQwa0VSLTFsbTJldTBIODZSLXpDQUZOa09DUDlTTjVlM2xFOTJxWDdWUVJzSk1ETl8?oc=5)
 - **2026-11-11** — ইন্স্যুরেন্স নিউজ বিডি — [Fortitude Re Completes $3.8 Billion Unum Long Term Care Deal](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laHlLelZmQTQxV29HR09mN0tJRUExbnd6T3pMbGR2TEZJdElseXV4N2hJbVp5QXNaS1VuZmM3T2xQdzJycUVDemtBc0QwTGZ4dmpqTzBLczFfakt5VXc?oc=5)
-- **2026-11-06** — Bernews — [Fortitude Re Completes $3.8B Unum Deal](https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZTJtTFRQN1VmWGxhazdQQVlybFRtV0xaS3VYbjQ4bWVUTFJITm1ZcC1oa3hnU0pvX0JKNU9ualZ0dGx2eVRkdFBsV2xUM1ZtUzh1bk1TR3JEVE5vTl9DcnI1V2NwdEFCd0dSRUJaMFI0MWpU?oc=5)
 
 ## Venerable
 
@@ -37,6 +36,7 @@ Generated Thu 19 Nov 2026, 22:21 AST
 
 ## RGA
 
+- **2026-11-20** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Has Average Price Target of $292.25](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVlHMS1Gd2ZrRE1FZ2ZXaUY1NjFGblZValowZ2F0ZEJDbGNOX2hEb0h4bThQMklHZnJNWnc3YW5JWGo3WUdibXVTbklTX18wbVRLMGM3VFRrY05TUFFoUHlVM2c2ZDlpdkhLZk02Yzc5YWZ2dnZjcUhxV1lsek9oQmthRTNnam5rbDVXNEhkSXhHUVV0Q0d0R1p0RG1iemFHVVJxUi16VndSVnRLMkNXUFZNa3cwaFVLaGJ4LV92bWZxRmp5dVZKbWE2aWRWdmhoVV9UUkQ1TGdDeElZX2pKZlRLZ3NmVWZDNEE?oc=5)
 - **2026-11-19** — Quantisnow — [Reinsurance Group of America upgraded by UBS with a new price target](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDNsalc2SjNka2wzT1ZTeVdLM0NrQ25BbzJPSEV0VmRHSmNQYldGd3I5MFoxcm9RTDF1cFVaRHFSZHN5dDdhV2ZNMElDRXJBUWlZODlBakotYTVxb3k0UjlKd2NkZ0pSU05zMGVZRUZvMkVsWEV3eWFIa1J2UWdiYUwzQjllR2czSXFTTmcxMEp5eGtDcHBmQnhPOGstQVE?oc=5)
 - **2026-11-19** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Rating Upgraded by UBS Group](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmFpY3ljLUZ4N3JLRVFmMTNBTWhmMmVlUm5qNC02bm9QRzNtR3F0Snd4eURuRDRPMVFRQ2NYODYtdkVUNU1zZGNxMWZDYXdIdDRPaS1iZG4tOXBiNVdna3I1eVgtYUNGNHNUR2xDc1NKaHlvNjJ6UEVrWXZ4YjdKc3pIWHRHVFhDOWhRb1prMU53YXJ1UHdzT0ZaU3Jjdk9kbWNoWFlKQkNBcXZMcHJkS25Fa0V1d0xSYTN2cno4MC1LbVZfSGx5azBNaHJiWXM?oc=5)
 - **2026-11-17** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
@@ -48,13 +48,12 @@ Generated Thu 19 Nov 2026, 22:21 AST
 - **2026-11-13** — TipRanks — [Reinsurance Group (RGA) Q3 2026 Earnings Report - Results, Call & Slides](https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWHhVNEY1S0g3eEZxd2JuOWlGdzV4TVVCMVhXd0pxNWpISllQN3d0LTVNcF9wRktIMUgwMVFNRGVUUkN4VkdVR3l6blplYTZHVDhJM0FKU0JtYXZhZHpoRzlVMXJJQXZHNE9r?oc=5)
 - **2026-11-13** — The Globe and Mail — [Reinsurance Group (RGA) Gets a Buy from Wells Fargo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzlMOFlnbjg0RHFNelpzdm5mTHZYT0N5SW5YZ1pHWUhJT004MGRWSTREUFZUUUJwX2pZQXRNdkl6aEY3WEMyWjA2SUZhQk5UZXl3Z21vTkdrWlFyWFdmbUp1SlZ0SEx2S3VLNWFVRDhmU3ZiUVpLV2ljR1hHMEU0SVhTY19rcjAxa0J1Z3ZucmhrLUR3X3V0dmcyMHZGZ3o5RGtRbGoxNExaM1FfdERKLWdKeWNMVm13Mks4MDlnVXk0MGZLdG9LT0xDc1BtUQ?oc=5)
 - **2026-11-13** — Stock Titan — [CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5)
-- **2026-11-13** — Stock Titan — [After 664 shares cover the exercise price, Reinsurance Group of America (RGA) EVP nets 737 shares.](https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXhBY1gwTlBnOWtaTi1pd0pYMFV1b3NjYWVjWGlkV3N6VG16MlQ4emd4Zk44SDNKN3R6NHZ0M2tKbDVOeFBDdmJQclpRM3B2NzA3R1o0akxZTDkwMl90S0loSUlrdXhWR1B4SDJQYXl3SEg1bF82bnA4cmN1Z2Vac242SGdBaEVBZ1g4TVFqRnNKbHp4dVRzd2p2bUo4VjdPam1DRkVzeTUxcGdvZ1BDV2xMVi1KVUxfcUh4Ynh6UmtmT0E?oc=5)
 
 ## Sagicor
 
 - **2026-11-17** — TipRanks — [Sagicor Earnings Call Shows Growth Amid Market Volatility](https://news.google.com/rss/articles/CBMirgFBVV95cUxOczlZTm9YVVV2dlJ1VklPel9DOFNkQ2V0NF9wS3pOZFE2OGtkUlBCeTVJcEd3TkR0WVhRODJ3WWJzSVdHMWlCY29DM2d4TkhlaDhWMFJ5NUY3LTUwYnI4M3RiR2ptQml4MU9FX0lmYkd1dXF2RjhnUGRra25FSDlhSDh6cjRsS3p0U254c2k0VlpwRkxhbjBYRE1NcWY1d0JENkVCdTVkWGJIR3VCT1E?oc=5)
 - **2026-11-17** — Kalkine Media — [Is Sagicor Financial (TSX:SFC) Turning Stronger Operating Results Into Sustainable Performance?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2J3Nnp3VmdHbjFRN19NcmREYTl3YUwySUdmcTJXM0JhNjZUbjYtU3htZlBJR1FaRTV6bGFIZGZBSHdTMkJhTExUWE90U2ZqS3ZxazRwMnlMS3RGNVFJYnlDeHV5MjJkd1dyYUJKb3Bqa0RrYlIzZzU2X2FkY21JWDkxOXNiT0tDLXpISGNjU1FtSkVqVGgxQ2hrM0xDdVB4cFc3el85ZjlxeW5ZRFVIUXBuT2FCZVF3eEVrc1BENGxpd0FhUFpGRjBoVl9XOGczR1E?oc=5)
-- **2026-11-13** — MarketBeat — [What Sagicor Financial (SFC) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTFMxU0RhZW1ybV9uZFg5SUJ5bEF1NDVDVTZDc3V5SFZ2RDRqU2E4dmxCdGo3TnNXbVpXSWZGOVBkUDl1Z1ZfVzRvV1ZEck9aaEdpNFBlMzY1YXdKMWdjSEJfNGJiWXNzT0YzZE13aExXS29veEVZZXN1UHREMHA5YmlqelFwXzJweFVlSHlfa0hWTEl5VnJuZUN5cklMeFlYY2hUeExMRWx6MDhGYmVMTFVQNWVVQ1ZBS3FrR0dtSUdZQno3LTJjVUlYcFBuSHlDNHNFOFA5OWp5RDhrSl9xMnJmem54LTdYMXpROW9CeXh2ZmJMUnpF?oc=5)
+- **2026-11-13** — MarketBeat — [What Sagicor Financial (SFC) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMivAFBVV95cUxObkNPMG83b2FqWVNocnotbWhOVFFUWG51ODNQTjFvWTVoRmJQRTFoWFFhbWthYnhPNU9JZEpuYkNNa2wzTDFURGt3YV9RQWpaVGdPcDI2cnNWbWRQNzBqWVJ2anp5TTNReEV5UGVpejk4OWFQWTAwUXlJUVhkZWRtTnUzUnJhcVlmV3NvcEVWeEFBb3hvWFpQNy1wVWs0RndVNjNYY2t0ZGkwUkNYMXBFQUM5LWhGZklWMkpQVA?oc=5)
 - **2026-11-13** — Insurance Business — [Sagicor’s Q3 loss masks strong ivari capital position as rates squeeze earnings](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2pCQTlDYnQzXzh6UGpYMFd4QThJZDFaYXFrbHVMZWh1OE9fb2VIMjJ2SjFYaXp2YnZjQ3lDMzRhRkxJd09kMkhiMVU4eFV5bEp0cU1pOUZzRXQ4SS1BVHA1NUFwOXByZy1uRjNzc2JGR2xnMUt2UFNpa3RyRVpPd0YzT1JlM2Y0OGtaLUNjTWVRODFiR1Y0eWVFWEx0LUdabHdhNm1kbkhfMVdhWnluQTRGTUpmVjdON2ZVOHJERVpHWENDcWNCVzFRZ0JjQ25yTElLS1pPX1ppaFh1M0lrWnNCTjQ?oc=5)
 - **2026-11-12** — Kalkine Media — [What Explains the Split in Sagicor Financial (TSX:SFC) Quarterly Figures?](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0RTdXpzMzJLbXVBRUJvcGlIemlXQThVRG1zdThZdUpzd0lpa2RkLXNmZTNFaFJQQndJcU00dHlYWHVjS3hpQ0dHRGwyelhYLXJvSzNDaExBZTRBZDY4UTROOTZwakVnbUNQVHYxQUlWcGVuQ2V2cDdQdGVPMDhFLVJpTWZ5a0VkVDFNZm5MUTlNY3NzYVpyODcweUJXTm52M0cwRkdUN2ttdHNrZldnaVNMdFY?oc=5)
 - **2026-11-12** — Investing.com — [Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYl83TUVraHVMRFZjWXR4bHJHN0VDS1dBaFZwdXZVTHRUOGZKcW02ZEU3Q1VQaVRWbE5oRURBRTNUVmprS1k3WVIzS2JieTRnMnpZaXZ3b2dDLWhXS1dZeTROYWcwSzhlckQ1cFl5MksybEw3MVFraG9lNXQtdlNDQ2dkd25MWm1DdXRjQmoyWHBoVVlpbFdJUjRZYWxNNW5iQXdYNzFHVkhNRE1oa1JWR2NRTGxDVVhoTmNrSGtvdTMzeFlidFhBTEhZTGRUVVhFVERXejBWTDNEQQ?oc=5)

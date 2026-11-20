@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:21:05Z",
+  "updated": "2026-11-20T11:44:10Z",
   "naic": [
     {
       "id": "c3a57db4d693",
@@ -79,6 +79,16 @@
       "summary": "",
       "source": "Cayman News Service",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEZGd3BSUzRORGs2bEVtOHE3MXZ1NTFrcDkwSnFiVFQ1Q0J1Tm9IOGlSMFZfZWMtelBfVU5UbTFmcDhMNm1YOGJBdlZXbkVZTjRIcnZZdjg1WmM5SWhMN3ZxVm9KZDFfb0t6WWxlQ3ZiMDlZUXpEXy11U2NOZjktQ3lEaVRaTGlOY3pIZVd1MXA5RDJ2dnlz?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "8b8cae71b2ec",
+      "title": "NAIC Credit Rating Provider (E) Working Group Moves Toward Adoption Of Due Diligence Framework",
+      "date": "2026-11-04",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX0hydTZLTVN6aFFFYmU2dVZLQ1pKNndZT0xLdlRSdk5EaGRwOGJPMUl2VVl0bmFQQng2V3lvUk9LWlltNnZlNWVtXzlVMXAwVWc2UERtc3ZoM1A4TWZxUmEwQ0xReGdtM3NUZkVGaDE2MTFDUGlEM2M2NVV5Q2NEbFhPNmIwSmdHVFY3UVBTME9FajloNmlWbGxEU2llMi1FeFcyM0JYZVduRllnYXkyVGNrRDlJUmVBUnlMbU5aTzFIcmVWajJhclpoMUc1Z2pLOElFbEJqZkZqWmVDaHFITjZVYmNhSm9STlE?oc=5",
       "isNew": false
     },
     {
@@ -240,16 +250,6 @@
       "source": "Mispriced Assets | Nick Nemeth",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDX0tUdGVEbGNRNk10eEpTcDNVbTZxMkM3Y3RLTGJEVTVZUVRvMHJUeHZfZUJYY01rb3VmZ2JScHJqMFBuLVhVN00tdlc0VXJuaEhQakV4QlJPMVpSVFU1eUl0cmhpalhhZzRULWlyc28tTUx1MXdsT3BNWG1aNzg?oc=5",
       "isNew": false
-    },
-    {
-      "id": "ff8a1c9afebb",
-      "title": "US insurance regulators defend oversight of insurers\u2019 growing private credit ties",
-      "date": "2026-09-25",
-      "cat": "Investment",
-      "summary": "",
-      "source": "Alternative Credit Investor",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkYwb2V3Q3k1WGQyX0tLU291V1FELWM2UG5ZLTRuMFlGQ2FzT09RSnllMkxvb1dodnNmOGV5cHlrNll5eGxHMUdibkFOMjR5WTJwRFZhZ19xZE5SbHY2RHZrb2huX3FjX0R4VE1nODExQ3FFc0hya3BXbVVFM3plaENPWEo0dWlLQjVFTTQ3Z1NoMWRTNC1ZRndxWUZ1cjZTWGVvcnpLY0hWRGZ2aVZiVlBvS2otdDljZkpRX1lTcXo0ejFncGppMXhn?oc=5",
-      "isNew": false
     }
   ],
   "bma": [
@@ -261,6 +261,16 @@
       "summary": "",
       "source": "Legal 500",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmJoQWtSdHpJRF92dEVNR2NzVmdjeDV0UC1kY0lqOVhCR3lmZXBIMEF5WWNxd2lYZ1hEVi1nOWgxQ0NsS2F5UG5odzF0cTk4OVkzUC1JeGdEZU1nQzNFY0l2UVJheE9Ka3N5NEl2QVBDc2ZDblpHQldXbVR4TjJHM1RhVUtreUlZMlV4VjhSck1YdFBrOFZsekNXbGd6OVplSndXVWpnUFJEU0FrbVBuLVpMUXNVWXR0N3c?oc=5",
+      "isNew": true
+    },
+    {
+      "id": "ffca0e1feb85",
+      "title": "Stablecoins In Bermuda Insurance, ILS And Fund Structures: The BMA Proposes A Controlled Pathway",
+      "date": "2026-11-17",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaW40YkI0YzZCNXRDVTlISlNoMGVHVzhheTktck1fTUZIaE83UVR4dDNibHF4b1A0RkxWVGxLSnJnUTRjX055UFlVdl9GbEt2dm1aNlk5VWRtLVNaZVlTWk1ZSmxKS0dtVmpqb0duTHdndzhEQXlsRGdfYndlUUh2N3Zub21NRkpIVUgtY3ZQM2JjbVBHRUNndmxya0lydzlTaTNQVzladXZCZFpOUnhNeDRpXzh6QkZOLWdOd2lmUTVzRHlWOGtFeTlNZkdlY0pfaUJKczBhTGlJbzI1Vzl5SmUyemI?oc=5",
       "isNew": true
     },
     {
@@ -281,6 +291,16 @@
       "summary": "",
       "source": "ICLG",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV21ZczJnRm1sQmlBTnpHeWszQUJDRTc0bVhPa3k1RXhnOWlXUG15R1N6NnZxZnR2eE5JQ1dSb2ludFlmWm0waUdWeVdNSHl5WHBheTBXaDBUREF3UUl2bDlMR0VCZUNyczIzMnVLRV8zbkJSVUZpWkJWTG1BZVZNMjFFUVdtZXZERTdkclZ1TmM?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "57bb04a14bb6",
+      "title": "Bermuda Monetary Authority's Proposed Resilience Code",
+      "date": "2026-10-30",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ293Q3dBUEU1SjJyNDBhQUdielhid3JGY2RXc2VtZDlkMzVJSlJvRlhQWEVxZTRXZ2NZeDZYOFh6Y1Zpd3lyMW9VRHdCWm5tbzJ6bDlBaHBINk9nWFo3V2l3YjE3bGtqYXEySndiOEpYZmVCTlhXUFpDVHA1Y29lVW0taXh6S1VSaVg3eFBCc1dkNkpvdGk5RHVITnEzcVFtZlVveFhsWEhXdVFjbEhEMTByUFRRT2tBRUZr?oc=5",
       "isNew": false
     },
     {
@@ -482,26 +502,6 @@
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3czb3ZwTzU1RXByMVdGdV9OQVczMzY5S0hrSXdXY1piTUZfMUlOeXJ0QkxKa3loLTQ0OWhSV25hOVh1b2JKOExuNXppZzR4WE1xT2lfbmFiY0ExMV81OTIyUVNlRUtWTXlFaEp0aURKMTc5OFFBQ00tam81VVBTZmJ0ampzb0NjZWZGUUpPN09JbHljLWJUcWtkbU0tcnN3NWZDZ2puSEM?oc=5",
       "isNew": false
-    },
-    {
-      "id": "9591e9d1ab34",
-      "title": "Ministry wants more bank fee oversight",
-      "date": "2026-08-10",
-      "cat": "General",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT1JWUHJKaGpHbDRkRXpSWFdXbE1mOFlwVEpNeHdsUFpEc3piS0JhV0lZcHFXR3JhVW9HS2hMQTdVcHVlT1hTWGZqRVljZGx0SUpJUDJaNWpJLUtJSFZTRzZRa3JfcEJOdDBLcFVINVk2ekJHMnNZeGpNSC1LTllmT2xDWFpDYzRjNGZhLUJNUVh4Y1RocjZ1RjhxTHFqdmpPZUlHUQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "3bbdb9a6e63c",
-      "title": "Consultation Opens On Bank Account Access",
-      "date": "2026-08-10",
-      "cat": "General",
-      "summary": "",
-      "source": "Bernews",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tTmdWVUZLZkUwcFpYY0RnbktoRlYzMS1Id1RDRTBNOEc0YUpNdWpNODhqWFN6VkNkc2dnV3ZnVHctTDFicmFEQnRGR3E3NnYwaGtKUkpvUDJPSW4tNHQzNW9jOHVMOXl4S1FadDc4VHR2WnZWRnE5dEN3?oc=5",
-      "isNew": false
     }
   ],
   "cayman": [
@@ -533,6 +533,16 @@
       "summary": "",
       "source": "Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdGlEdDdnaGZYeUVVdEE3SXN5ZVNhRUFhNkhfX2cxT2VPQmNJekRCUG16YnFJQ3g1Uk1BV1huYUhmVnJ5RGY5TW5yREVTbmI4VjNVMTZQeDlQTVlIS3Y1UnlOZUNQYVlvQkhDYmI2ZHBZempIckVvd01ncHA4UVk4b3JKR0Noc0t2a3JoX3BCRTRsd0E5OFE0czRXbFVsX2NmYjB2bXNnZEwtdjYxMFg1SW5iNm1wdzJuNDNFLXdnTzMyenh0VE5IWkZzVWdrY1lKOVFaM24tRQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "21a9059cfa3e",
+      "title": "Cayman Islands New AML Rule And New Sanctions Rule \u2014 Practical Guide For The Insurance Sector",
+      "date": "2026-10-22",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWkZQbjAzcXNaUllQYlBybGZvTzBKSmxuRnAxTUNkT0lnUkNIQUk2anIxZmlOSUFyYi1HS1g2Q2xYd0t1RHFrc1d5bjY5aE9JdGVQZWdXdlloU0lITlhoYVZac0JEZ0lwazVUTVBJZ29vbV9wOEJDekdERXNwdzlCc2FSdmRMNjFCbGs2MEhqSWNPUzVEcmQ1b2UwdUZNcW9JX1BaT0p3RXpkdEhtMUZkcUdqOTk3ZlRxbXFkRHNfQml0RzdqRE5XVmk3eEpITzVWMmsxaWgtVTZIOXFINURFakZnN09EWFNDMVJyMVVwVHgzT29FTXFj?oc=5",
       "isNew": false
     },
     {
@@ -603,6 +613,26 @@
       "summary": "",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPclA3Ui1ZUDNTdFMxT1BKSXVISm9fYUxuRkkxNlkzUk1CN290RWhhU09YeDJaMmJxUVNrdXNRc2g1NlBOaXJJeGRHbldYWXBWRGpRRGRzVmtwREUwbjRDVHp6V0dRb2ZkWUp4R01Mdll0UjJfRWZhZGtEQTRDMkNURHYtQTlUR1BuRlVSdkxEWTdWV051U3YwTnR4U2QwcXJ1?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "b790e161ad2f",
+      "title": "New CIMA AML Rule And Sanctions Rule: What Regulated Funds Need To Consider",
+      "date": "2026-09-18",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTlJ0MDNFRllQOVRlZ1NnZ1pDUV83YVA1czZyY2VXVnpwMlVwX0NDb3l3bFcwdy1Fa0xHTU9LaGVpQXFhTENHVXR5Y0pHNUEtdmdYUF9qTmgtekdBZnpwU29JNjJyRFNOaW5ydHdBb0dMQk5ZQTFHY2RFQWxyZTJVV09HMjFBemhWY2t5dVZFMzVoSU9hZF9FM3VRTGxMRmI5QVRTVnFCVnI4aXNVUG5aX21ZQjNGaTYtT1prMkg5YlhIOEI1VTNVZ1RGODBLQ01BQVpWVVc4VElTaFFzb21pUA?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "41b6b315b366",
+      "title": "New CIMA AML Rule And Sanctions Rule: What Regulated Entities Need To Consider",
+      "date": "2026-09-16",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOExJOUR1WmRJYnNJZnlxbl9UdkN0NmNCWlMzMlRjNHdpS29vNVZwWVJUQmQyM1lNV2FiNXpDSzNjRWN5UGZpNEdOcEJVU2NEckkzSzNTSGxienZiUlc4aDhZUlBfQ2NLTkRiRndWYzVPZlU3dW54YzZhTWpuc0w2czFFS0lydzZ0MUI0elpkVURlUlN0WlJBTU5WSGVWZldEczU0MzBtcGZuMVlTalZsa29qaTVOdGV5YlFSMEZQN2ZyakczQi1Ebi1kNHB0VjVBajBrWjdVc0FZWDdzMXVORjBVT012enhCZU5F?oc=5",
       "isNew": false
     },
     {
@@ -723,36 +753,6 @@
       "summary": "",
       "source": "Lexology",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFFjLW15TlVPOGd6bE43S0hXR0VFUEI3bXA0VFVScWxCUFhBcFN6dXFXd1BDYmJPd19DYUFUdUY0ZWxnRXhwWDhaQWxiU1FiSVM2NXozeGpWQkl4cUQ1eWlSdFJabUVEUGNoaXRVZXJoVVJNOUNFQXNxa0xMX215RlpuNFRtN2NzM3pJ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d061a7da0179",
-      "title": "CIRCA report examines Cayman role in Japanese capital strategies",
-      "date": "2026-07-28",
-      "cat": "Capital/Solvency",
-      "summary": "",
-      "source": "Captive Insurance Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2YyckdNRjRZbmJudWtCNktUek80N3d2RXM4YkktQXprT2xnRmZFcW0xa3I0WERNS3c3Q2dadUtfU0drU211bi00VHRRMlh6MDFGTl9OMHZBa3h6RWYwcHVUSzNSY3FZblRFdkotMjFVUUNkc1RMV2hGVnhhWEZlWlBIVkVwd2xOeVI0S0pDamxuMTFtSmk2cC0wdThnODFPYk92S1Zya3ktZG5LdU4wd3BrMTZ5bHpraDZGMFNrdFFfQmxzSm1Fc1FGeTRqSExUU3hqMHNUa291S1pEUGU4?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "4d062861f6db",
-      "title": "CIRCA rejects Apollo claims over Cayman's reinsurance standards",
-      "date": "2026-07-14",
-      "cat": "General",
-      "summary": "",
-      "source": "Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEI0T3hNdnh5M0U2ekhDYWJRRnplN3g1ZDVheG9NRUZwR2lxUjJaVDhLSkFGdjRWWENGRkJVVjJwQ0FMY05KenJha1JHZkd3em0wczVrOXFYbks4UGxfQUg0NDJQUVlQQ0hVOFNGWmsyMXM5NFlTV3F2YmlxbWQ3alZDcHQ1ajktRUhnTkdNX3Bia1dON3RVSGdqa1I1ZzNlWnNCX0Y5VU5SR2lpanlhSjRvc1pWUFlHN3FxbkZtM0NUVXc5NlRlWHAtTUoxX3lTTEdiYUpDTnZTUQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "2d47ab25fe62",
-      "title": "CIRCA rejects Apollo claims over Cayman's reinsurance standards",
-      "date": "2026-07-14",
-      "cat": "General",
-      "summary": "",
-      "source": "Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEI0T3hNdnh5M0U2ekhDYWJRRnplN3g1ZDVheG9NRUZwR2lxUjJaVDhLSkFGdjRWWENGRkJVVjJwQ0FMY05KenJha1JHZkd3em0wczVrOXFYbks4UGxfQUg0NDJQUVlQQ0hVOFNGWmsyMXM5NFlTV3F2YmlxbWQ3alZDcHQ1ajktRUhnTkdNX3Bia1dON3RVSGdqa1I1ZzNlWnNCX0Y5VU5SR2lpanlhSjRvc1pWUFlHN3FxbkZtM0NUVXc5NlRlWHAtTUoxX3lTTEdiYUpDTnZTUQ?oc=5",
       "isNew": false
     }
   ]

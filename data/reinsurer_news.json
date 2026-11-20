@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T11:44:12Z",
+  "updated": "2026-11-20T20:23:56Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 31,
+      "count": 28,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "b4ac2b6dcf3b",
+      "title": "AM Best Affirms Credit Ratings of Global Atlantic Financial Group Limited and Its Subsidiaries",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRDU2dHBxNEdGbmxzTW9mMFR2aFo4eUxoYkFpaGVaN1JwOWQ2ZkEwRS1XQW4tMGRQNk0xTDE5Q25weXktRV95bE9SQ1NOZWFNSVNvUVVpOEpiSGtFNkRfTDZwYTJiSktkX25wV0JQUHlMUnBYVDRfREtyV1E3V2d1SGtPaTlyQ1pIamhlNjZqa25rRkd5bXdnN3FDc1IyWWpWeXRyUWNYc09pbkFQUFVaU3Q0SDdZMjJQclhBM0JQdXpGdzZYQjVDaVlKc1huYlZoVUR3amZvRGdIaXVVTUJWaW5VSnlGQQ?oc=5",
+      "source": "Business Wire",
+      "feed": "Google News: Global Atlantic",
+      "date": "2026-11-20T20:19:00Z",
+      "summary": "",
+      "companies": [
+        "Global Atlantic"
+      ]
+    },
     {
       "id": "895c87193d6d",
       "title": "Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Has Average Price Target of $292.25",
@@ -173,6 +185,30 @@
       ]
     },
     {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-18T13:34:02Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "1afa5ded1043",
+      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdDWUxOcUxZNHc0ZG5VRVVCWXRaczFqMUxwRVdoMWhkVkFyb1NKd2RJME91VlZydzZ2NzFRR3VQOERDa2FlUVJ1UDE0UUtlWHFJRG51bXQxQnVpQUN4N203WDFteU5MY1pTcFpWaWUxdjhQS2pGcGlEUk01N09ySURDLXcxQml3VlF1RWxBYw?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-18T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "0c04a076b0d2",
       "title": "Fitch Affirms Fortitude Re at A- Financial Strength",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGh6RkhUeXFIbTIyZ2MxOUNrelVVMFNubW9uTHVyRU5oOGE4Q3pSenE3Nm1IcVhNRTRBaGJ6cGJqbmlVbGJ0NHh0SVNObDlLUDI2WWZvbkkzNDZWMklza2lzTEVPWW9sb2dDaVJtVTE1ZVVhc05sQXlxTjBudkItVXkzSS1rTVk?oc=5",
@@ -230,18 +266,6 @@
       "summary": "",
       "companies": [
         "Sagicor"
-      ]
-    },
-    {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-17T20:52:22Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {
@@ -617,18 +641,6 @@
       ]
     },
     {
-      "id": "1afa5ded1043",
-      "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0tZTl8xZGQ4eF9JMXRiS2lVdlNSb2Q5Rk9feEdEWEl2RklfOWRLV0t6UDdzRUlRVDI3UWI1dzlZQW1FRy0tajZlc3NfUDVQLW1LN2pBM19BNGx0aHdMV1FhQWx5SkhSYVNuSnJYX29YM2RrcGp5NHpwdWx1V1NSTVhJckpaT2JxRmExX2QtOA?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-11-11T19:06:57Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "817f055ebe87",
       "title": "Fortitude Re Completes $3.8 Billion Unum Long Term Care Deal",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laHlLelZmQTQxV29HR09mN0tJRUExbnd6T3pMbGR2TEZJdElseXV4N2hJbVp5QXNaS1VuZmM3T2xQdzJycUVDemtBc0QwTGZ4dmpqTzBLczFfakt5VXc?oc=5",
@@ -694,7 +706,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX3RTUlNXVVdVVkpjdnNoemM0VkplVEJmcnNXa2tYMndtMUp2cVYzcVI5d2UzLWwwRjFRMHRLUVJtSlR0X0RmV3diTHJaNkt0UE5rOGtCZ0NvQ0JzR0NkSGNZc19ab0dfVjVDY1dRdXFYQzVMaER1bGtaM25LdGxKb2xwam9oTmw2aWY2UnRoancwSUF3M0gyVDJnMzAzaTNvZHpvN3FzZGJLNVVXSEllSG92NWt5UVFRcTZTRnVWcmhtbUM4T2phVTRaalZlLUZSYzlwSmpUSWRLcnc2Qm1QamxPUnZvZFdJTjFR?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-11-09T08:00:00Z",
+      "date": "2026-11-09T17:03:24Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1946,30 +1958,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "d42d04a30682",
-      "title": "Venerable Annuity platform to add $4.5 bn of Guardian assets",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT09Nem9QcGxaQ1o1Y19WMkpNaFVxWGhhZXFiMmJRVUo3YmJZM09XNEZ0SEtTWUstdWUwWXBCWTYzYVZUWWNHdUhiMmJPMnNPNXkwNFpoUXY1YmtiNTAwZXQtTzVYaVVDbWdiVDcyeHVPRV9pS2NwaFFUa0JSd1lCVm5YRTV2YU5XTHA2TXJ5cw?oc=5",
-      "source": "Beinsure",
-      "feed": "Google News: Venerable",
-      "date": "2026-10-06T19:46:12Z",
-      "summary": "",
-      "companies": [
-        "Venerable"
-      ]
-    },
-    {
-      "id": "983d9d75579b",
-      "title": "Lincoln Financial closes $6.3 bn Talcott reinsurance transaction",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazg4R3pTQzBVTzh4QnhxdUpvRFZSX2JxYk5la1FlWXB2Z0xWa0E1OE5uVldBLVNFYlhCcUxNaDdxSzlQYmRJSFNVTmNFblBoS3M2eVN0dlZBTnZxTHlaNXNtcnQ1V044NFRoZnRCYUdPSmxucUFDeWpzSGphekZ4a3RQWmFib2hIUWtiVWVYZU9fb1lO?oc=5",
-      "source": "Beinsure",
-      "feed": "Google News: Fortitude Re",
-      "date": "2026-10-06T19:21:31Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
       ]
     }
   ]

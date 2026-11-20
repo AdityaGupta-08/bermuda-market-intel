@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T11:44:10Z",
+  "updated": "2026-11-20T20:23:54Z",
   "naic": [
     {
       "id": "c3a57db4d693",
@@ -29,6 +29,16 @@
       "summary": "",
       "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaW1oeHZOc09oY002cEt1eTRhOTM1eXNhdkVpdGlYcHIybW9Xbl9razFSY1FoZXI3ZkgyTU5WX2gxVEFwX3l6ZWljWXFrMDByNi15Mi1hY25zdXVLekV0Q1hSWE9RMWxlUWVxRU9SWjlWSkxmRXVtS1hkNG91Vno5WUVQZw?oc=5",
+      "isNew": true
+    },
+    {
+      "id": "a881f014c454",
+      "title": "NAIC Releases Version 7.0 Of Its AI Risk Evaluation Supplement Ahead Of Fall National Meeting",
+      "date": "2026-11-18",
+      "cat": "Governance",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeU1Pa2U1MmtnQkNIUHp4d05lQy04RVVTRHBEc1ZtOXRibk1fQS04aUZQUl9ud1QwTmdnQnhLdV9qZVQ0WldTSzVtTmFUQ3VlcFR5TkJCdmlJWjFvb3l5azdLRVdULXM1N3kwbndiTHJ6dnRhX1ZqT3ozUmZHTUJmNUdPY1B6TXMtejZNNnQ1SFE2OTNvcngzbkJRM0xXV1VsVFBudXRPaEsxODRJUVRhYUFrTkJrV2tndTZLQ2lOb2dnVHIwV1p6WlJzQUZ6dVVpd0lYVVFERk5ycnRMc0RKSGZtbTdoOW44dkE?oc=5",
       "isNew": true
     },
     {
@@ -240,16 +250,6 @@
       "source": "Dentons",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXo2MjJpbEVHV2NETFZXRElnakFoRHFTTnh1cTVILU5KdnpMOTNUYllKOWhwcTF0ZlI4aEx0NmpwdFdydVVpeXdkV3Z2ZWNyZEF5dFVCZ1owQXZpUEpyS2Z3Wmh5S3g2YW03S0s3YUFNV3VlZmVqRnFKRVFaQXJRNk9BYnVfQWh1SlhJTDFteUlWdGg0TnJIWkhvRGVEUlRNUnl2ZmpDRExIQmNR?oc=5",
       "isNew": false
-    },
-    {
-      "id": "7d406b36caf8",
-      "title": "The NAIC\u2019s Answer Doesn\u2019t Hold Up",
-      "date": "2026-09-27",
-      "cat": "General",
-      "summary": "",
-      "source": "Mispriced Assets | Nick Nemeth",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDX0tUdGVEbGNRNk10eEpTcDNVbTZxMkM3Y3RLTGJEVTVZUVRvMHJUeHZfZUJYY01rb3VmZ2JScHJqMFBuLVhVN00tdlc0VXJuaEhQakV4QlJPMVpSVFU1eUl0cmhpalhhZzRULWlyc28tTUx1MXdsT3BNWG1aNzg?oc=5",
-      "isNew": false
     }
   ],
   "bma": [
@@ -271,6 +271,16 @@
       "summary": "",
       "source": "Legal 500",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaW40YkI0YzZCNXRDVTlISlNoMGVHVzhheTktck1fTUZIaE83UVR4dDNibHF4b1A0RkxWVGxLSnJnUTRjX055UFlVdl9GbEt2dm1aNlk5VWRtLVNaZVlTWk1ZSmxKS0dtVmpqb0duTHdndzhEQXlsRGdfYndlUUh2N3Zub21NRkpIVUgtY3ZQM2JjbVBHRUNndmxya0lydzlTaTNQVzladXZCZFpOUnhNeDRpXzh6QkZOLWdOd2lmUTVzRHlWOGtFeTlNZkdlY0pfaUJKczBhTGlJbzI1Vzl5SmUyemI?oc=5",
+      "isNew": true
+    },
+    {
+      "id": "195fa7266248",
+      "title": "Bermuda Insurance Resolution Regime: What The BMA's Proposals Mean For Commercial Insurers",
+      "date": "2026-11-17",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdWJ5eHNDR0FRaHJ2bVVabVZyeUMxVW9zc1d1eE1qcHowUDJQZFlqalVTZHp1RHJoM3JYdEZReDRmekcwRHpzUUlKd0NDV0hTU01vcDVqeV9VOEFqb0t2MDVaWWdCS1BfaS03SVlpZDcxM0s1bmM2OWM4bk9NZmJocS1RUDZBRXlsRFN4YWxibVViV0hUNG84UDFYTm52cDVWaHVZTDZrYmtVVGxtZndQTnhWRHNJNV9kT0VIUGdERFlBOWItUV9BcklnMGpSNEJLNzhiQmxpUUZnYjhj?oc=5",
       "isNew": true
     },
     {
@@ -491,16 +501,6 @@
       "summary": "",
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1NuNGNLalFSVkVtdkk4Q1Z1YkJpRGxoY2FkU1dnamVRdmlEbG1Vbmp4UkxHTk0wTm9CX2xJdFJRd3Y5M1Y5OFhYNHZzQ0sxaDBSMVRuakhyeEVfaklGWk5MOVhBSDd3VkcwLW13SktSTHd0cl8zSTZrcDJHTEJqZFlKN1Y2eFo4di1LbGNZczluSHBmMU42VmFqU2Y1QQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "b6e174b0844c",
-      "title": "BMA tightens rules around \u2018key persons\u2019",
-      "date": "2026-08-13",
-      "cat": "General",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3czb3ZwTzU1RXByMVdGdV9OQVczMzY5S0hrSXdXY1piTUZfMUlOeXJ0QkxKa3loLTQ0OWhSV25hOVh1b2JKOExuNXppZzR4WE1xT2lfbmFiY0ExMV81OTIyUVNlRUtWTXlFaEp0aURKMTc5OFFBQ00tam81VVBTZmJ0ampzb0NjZWZGUUpPN09JbHljLWJUcWtkbU0tcnN3NWZDZ2puSEM?oc=5",
       "isNew": false
     }
   ],

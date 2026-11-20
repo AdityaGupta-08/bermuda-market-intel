@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:40:53Z",
+  "updated": "2026-11-20T02:21:05Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "f4762b9937e6",
+      "title": "NAIC Fall Meeting: What CLO, Rated Fund and CFO Mark...",
+      "source": "Dechert",
+      "date": "2026-11-19T20:51:54Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTgtMHpSa3JoZU1YazhTY3BnM2hzOS1GajBWaVBmY1JCa2tpeDctemJ3U1l5aFNSVEVIbkhxMlFDSmgweDVpRVMyRHBqcjRrQmE3eEZrWlAyQnhIZ3gzVFFxVHR2X1U5MXJPVmlXUjNqQTZ1VEpzdk9zM3FlUktIci11MkFPOUdMUXV6WUJ5bnhzZHR0X2VicGdLYkR2aVBveVdYVUFQRk84MXl4SXg3YWdhc3oyM3ZDTFZr?oc=5",
+      "isNew": false
+    },
     {
       "id": "2223b3de7684",
       "title": "Federal Reserve H.15: Rates, Formula & Guide",
@@ -108,6 +118,16 @@
       "isNew": false
     },
     {
+      "id": "e56f77d26289",
+      "title": "Private Capital Faces Inertia in \u20ac10 Trillion EU Asset Hunt",
+      "source": "Bloomberg.com",
+      "date": "2026-11-18T15:38:45Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZ1dTVMaWpOX09EZkwweVhXTHFyOUVUOUlWWUYzTHR1Y0pGbkVLYVYxdlpYdHU5NHk4b0VXakZuMWNWTFdxYVNPX0poNHdBZ045azF6OXB3bzdEcW9jclJaY3dJLThEZWJaeV9XdGRXTV81SU9GRlFacjFoelBVUUI2andEZlcycVZEV2ROWS1MQ01TSGZsSFNhckg1Z09Sa1lFbDBkZW9sSmdkaDAyN0Npby1VX3kycE1udzhjWG1vUQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "58c65f8254c3",
       "title": "InsuranceAUM Wraps Insurers\u2019 Private Credit Forum in Austin; Announces 2027 Events in Orlando, Chicago and Boston",
       "source": "Yahoo Finance",
@@ -165,6 +185,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWFTTDl2UlhrX1FLZWZLbW43X1loeGc4SWY3OUFCT3R1cUlSeWtnY0RPZ2NianprYjFUQ2kwMnplTDVNeXhWaEoxLTVxeXhvcVpPcFhjeUNkaEZaRjNsUVZyRU9icmlDSVRuNjI5ZHlvS1lSUmhtN183WnlST1VhRDd5OWluQWdTVmctTzZUWUFNS1NGM05EY1labkhlVW83?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "8756a065bf14",
+      "title": "Why Tech Stocks Are So Sensitive to Inflation and Rising Yields",
+      "source": "StoneX",
+      "date": "2026-11-18T10:07:29Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFhBNWg2dkZxS3ZZT1J6MklvM1o5NHRQYmV2SFNNYjZTdDFHTlFDQ0xjQVJ6ZzdQSHlTRER1TnpyQ1dzNHVRajJXUEJNWWZwbDZRSWVQMW4xVEFTdWVJZXFrYkIzVjJfNlZpQzQweWt5dll2VVcxQTdZdjRMUGozT2JOaTRURl93Y0Z0ekRydXNtRllOaG9uWG1nOHlQSm1hQVIzTg?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaU03RTVVWG01UUtGR0hTXzItSHF6aGxjd1RMZktSUjBmdUVycGFxSUY2XzBqVlFqd0puSHczcXdnZ1p5YW43dlZtdDJLajVVZDhtcXR0Mi00NFh6WnZIUGR4aTFKallFcGNsak5ITS1Ca1M0a0t1dEg4ODBnV0NQT3lUcUtjaEJzWTJPbWhCODRvdzM1c2NVYkVnT0otZVU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d80bc8f4c1b7",
-      "title": "Oil Crisis: The Gold Paradox",
-      "source": "GoldBroker",
-      "date": "2026-11-17T09:28:01Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVlFJMzlDNTU1cDV3NlRoa3A3YUV3T2IyVXVmZWdjblR0NTN2eUxFT0dxdUJGSnlFZXdsNEQ0QVdBbFhkRTRoUlVWU1daUndVa1M2enE3S21lNXY1RGZIal9Bel96V1Na?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "881c958a46ed",
-      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
-      "source": "The New York Times",
-      "date": "2026-11-17T05:00:07Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2dXTHVZWHJEblJYalFkOE9VeVRXeEpIQXNQdHc2RnVaOGhSLVlZMFJzQkJvcHEtQVBMT0dSYzhlcGV1Mld0SzlyTG5fbHpmX1h4UHhyNjBkbjBkODRRQVJjODRUNUVzMEZNTTNSVzdSaEM1eWh0ZjF2VVYtMHZZRVBFWHJ5YVVpWVduQ0Mxc28?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "e85922764e56",
-      "title": "Nomura & Aventus Launch Misura Securitized Products, Private Credit Venture",
-      "source": "ABF Journal",
-      "date": "2026-11-17T02:49:03Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUViY1hhRjlIS3NBS2pveU1pemlDNzA0YnFhV01FdnZkWlpSSG84VGYyM1AxRXk0WGd4VTZqN1ZBdG5pTjgybUxEaEdPUGJhdlVXVkFrWHQ3Z1FLcUtLX1BydnpfVlRsUGpfSjV0NkE2T0tqWl95S3gzWFBDTk9wWUw1VnQ4dkR5MFU4YzlEMUEyLURob3BSaEdUTi12X2tWNGc?oc=5",
       "isNew": false
     }
   ]

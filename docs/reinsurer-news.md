@@ -1,12 +1,13 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 37 items
-Generated Thu 19 Nov 2026, 16:40 AST
+Bermuda life & annuity watchlist — last 14 days — 34 items
+Generated Thu 19 Nov 2026, 22:21 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 79 items
+- ✅ **Google News (15 of 16 companies)** — 79 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
+- ❌ **Google News: Catalina** — failed: HTTPError: HTTP Error 429: Too Many Requests
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
@@ -15,9 +16,6 @@ Generated Thu 19 Nov 2026, 16:40 AST
 - **2026-11-13** — Yahoo! Finance Canada — [Athene Holding Ltd. (ATH-PA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FcDdZY3lURHgybjVRVEFPWHBsdVpRaHZsMU9lZDdOS2hibHFrY0VJQWNTTXdrdVJHUEtVaWRFam10eDkyem9UWGo5ZzhJMjN2NGhaUQ?oc=5)
 - **2026-11-12** — InsuranceNewsNet — [Athene CEO criticizes offshore reinsurance, risk-taking by competitors](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5)
 - **2026-11-12** — Stock Titan — [Athene Hldg (ATH) Stock Price, News & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5)
-- **2026-11-05** — TradingView — [Athene Reports $1.16 Billion Common-Stockholder Loss; Spread Earnings Reach $844 Million](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1FYM0NTUVU5OWh6V2FwdGthTFo5azZTS0ZtUlk2V0Q1TTJEZGNDd1puYjdHRXB1Y2hzdjFPTDdkQl9NbkE0Y2VMZlF4eDV3RHVtN1ZPdlhPS2FqM1libG0tWFp3Wm9ZSzlsbEdIYXdWT0NsUDJMUGxocE1mNEQxLV8zcFlZcDZOVVJpV0E0a25FTWpUTEgxOVJTa1lpSnF3OUhtRjM2eUFfZFo0S05uQjJWQXVVMG9iSU9jb0JDVVpqVC16WnhicVI5M1F5S0ladmM0NjBoSDVrSGx0LU5GUw?oc=5)
-- **2026-11-05** — Stock Titan — [Net investment income rose 14% at Athene Holding (ATH), but Q3 ended in a common-stockholder loss.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzVuZTJpdENIWXZJNGh5d242ZDdGeWMyTXc4NF9DWWIzR1NObkdQRzBlMl9BRjR1dFUzN1NEdkVsSWMyZ25lY2N0aDNsX2pud29GVzBYSWdWSTdxbVg2ODRlbGhuTV81Y0VLRG5Mb1ZxblVnS21EU2V0YXlHYzljV2cxM3d5Ull1VXdtdEhiNW5xUVBfTG9fUHVjSVJ6THlUSUotY2VEMDhsUQ?oc=5)
-- **2026-11-05** — Stock Titan — [Net investment income rose to $5.32B, but Athene (ATH) swung to a quarterly loss.](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlNtVlhtaDFNVE5iRUFYUk04U3ZyOG45X3ByUEZzd2x0RDVnVDNvQ1J2eDJobGl1WEpqNnJGM3I1Z2FSM3M5emFsMDhQWU8yQlpFQVZZeFBnZWhIQVdzbXNTMjJYTDFOcXhwc0ZxUHJxZ0tTenhJVVVVeF9sR1BEb2o5bUs3WnF5Q0pCVVlIQjNIY0MwZEZVNFdwWFc0YlBRS0xZOWJCOGNTenc2TFFR?oc=5)
 
 ## Global Atlantic
 

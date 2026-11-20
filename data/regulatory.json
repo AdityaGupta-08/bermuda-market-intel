@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:40:53Z",
+  "updated": "2026-11-20T02:21:05Z",
   "naic": [
     {
       "id": "c3a57db4d693",
@@ -59,7 +59,7 @@
       "summary": "",
       "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSl9GaHB1VW1Ud0VYeHAxRElmTEdjSDk4NFlxREFZZUpiT3dURFI0WkhDSjJpODQ2S3RQWGpVMnNaMHJxVUQyTmRCa0V1OWxKNkFQdlJFbHducnd6MUxHbE9tZmFCMWtTZU14X09iLXZhbmFXQzRIV0tVdWt4STJlMFRMNkpmUEVET0JzMlExM051VWc2OU0wcm5QenpELURmVFo4T29qWWpmU1M1Smo0WUw3Yw?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "527d57292fd2",
@@ -254,6 +254,16 @@
   ],
   "bma": [
     {
+      "id": "a3a7fa1ca151",
+      "title": "Fund Financing And Bermuda\u2019s Fund-structuring Toolkit",
+      "date": "2026-11-19",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmJoQWtSdHpJRF92dEVNR2NzVmdjeDV0UC1kY0lqOVhCR3lmZXBIMEF5WWNxd2lYZ1hEVi1nOWgxQ0NsS2F5UG5odzF0cTk4OVkzUC1JeGdEZU1nQzNFY0l2UVJheE9Ka3N5NEl2QVBDc2ZDblpHQldXbVR4TjJHM1RhVUtreUlZMlV4VjhSck1YdFBrOFZsekNXbGd6OVplSndXVWpnUFJEU0FrbVBuLVpMUXNVWXR0N3c?oc=5",
+      "isNew": true
+    },
+    {
       "id": "fd6e5305c8b2",
       "title": "Relm executive: stablecoins could hasten insurance payouts",
       "date": "2026-11-16",
@@ -262,6 +272,16 @@
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkEtLVhfbHhUaFZqeElBVjdtRXQybERJNDJCVnA0c1RZN29VTjdSVkxWUjRwMGNVWWlaNEo0RWpDZnFVbi1PX3hYUjNmb0E0ZjYzMFY0WHpxWGphNjAxMUprQ2NmQXYzRV9FclVESnFJejljbWlVclBxUGp4VWpiazZ4bG1vUlVZa2ZCVjNKN05mcE9FTy1KQkZuWXpiVnYyeVBzQlZ5MG9xZnpkQjZDei1kNzlJRHZQM0loWVMwU29JVGM?oc=5",
       "isNew": true
+    },
+    {
+      "id": "98d7a44946c8",
+      "title": "Bermuda - Insurance & Reinsurance Laws and Regulations 2026",
+      "date": "2026-11-12",
+      "cat": "General",
+      "summary": "",
+      "source": "ICLG",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV21ZczJnRm1sQmlBTnpHeWszQUJDRTc0bVhPa3k1RXhnOWlXUG15R1N6NnZxZnR2eE5JQ1dSb2ludFlmWm0waUdWeVdNSHl5WHBheTBXaDBUREF3UUl2bDlMR0VCZUNyczIzMnVLRV8zbkJSVUZpWkJWTG1BZVZNMjFFUVdtZXZERTdkclZ1TmM?oc=5",
+      "isNew": false
     },
     {
       "id": "60e5f92b94fa",
@@ -301,6 +321,16 @@
       "summary": "",
       "source": "JD Supra",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXZXbE1FbTl5ZzR5ZVA3TURPelZGYTRmZEE3ODZZbXFmVWFZcU9qZGxCbGxzLTNmTUVzMkh6VEJPRll6b0dza2EyaWFZbmQ5SE8xOWVHeUtQVzJfRW9JQ1VoeGtZamxmUnM5QlI3YVB1U085VlQ3bkpMdlE0c19uSlNsempHdw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "56a89c9b1c59",
+      "title": "BMA investment webinar tomorrow",
+      "date": "2026-10-07",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Royal Gazette | Bermuda",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSEpJQmF3RC1CeFhrMjFBeDJTNWxCTjRlUXQ1MWFzWDJWUjJLQmg3aF9JQ21Cczc1c2dpZ3VDdGJxZUxZV1Foc1M5VGdoVjdRMmg1RGh4d1BoMm52M1F3aDA1LTJsSDZaOUFHdzZ5VkFoSGZKZGkzOEVLbFZwY0swMGdjd3BJblQ4bHZJZmFiVjlUYUViX2Z3RTZJaFRSUklUUXlnMg?oc=5",
       "isNew": false
     },
     {
@@ -471,36 +501,6 @@
       "summary": "",
       "source": "Bernews",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tTmdWVUZLZkUwcFpYY0RnbktoRlYzMS1Id1RDRTBNOEc0YUpNdWpNODhqWFN6VkNkc2dnV3ZnVHctTDFicmFEQnRGR3E3NnYwaGtKUkpvUDJPSW4tNHQzNW9jOHVMOXl4S1FadDc4VHR2WnZWRnE5dEN3?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "dcfab414fd57",
-      "title": "BMA publishes Q2 2026 regulatory update",
-      "date": "2026-07-24",
-      "cat": "General",
-      "summary": "",
-      "source": "Captive Insurance Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRkRleEFhSmw5Zng1WnJqMWZHR1dvZVJwTUpmTlFnMUNxWXdZTUVVbnJMYTFlamZmRUhWcV9sTWtKME5KbnRTWFNKU3RlZnZlaTdnVFN3WXJGZzEtYU9GSTFTb3o4dmluNkpNd3gyd0FIa1JWdmpRVVE2TFhrUHBWaV9yNENFbExBUHNncGlscS16Z2Z5d2FGbnIzcGdpVjBkUG1LNmh5Z00zbHlaVVdVU2t2N3lUQk1RUFpOaS1vanYwaHRSRlVWS281blZpcV90dzdGWUJoMUJ5YkRRYUpZ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "0539553f2ffd",
-      "title": "Exclusive: Bermuda stakes its claim in potential use of institutional stablecoins",
-      "date": "2026-07-23",
-      "cat": "General",
-      "summary": "",
-      "source": "Intelligent Insurer",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXB1QTRBMWJFMnlNc21aVTJ6VXVHNEVNUU5ZbjVUdTVCdDc3LXBmNHROUVlNQTJkTVZLTElUTmtYdjV2S2tQTEY1VnJWNUJ2Yk12QllaNTRQa2hPakRBVE9nbWpsMnBCaW5QRm1NdWlRTi1tME5kaU1oR1RsZHJGaVhOTTdxa01MNzJoemc2VG90WWQzNHdicU9TWk4tV01lWmc1NXZGYzU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "1748f565765f",
-      "title": "Exclusive: Bermuda stakes its claim in potential use of institutional stablecoins",
-      "date": "2026-07-23",
-      "cat": "General",
-      "summary": "",
-      "source": "Intelligent Insurer",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXB1QTRBMWJFMnlNc21aVTJ6VXVHNEVNUU5ZbjVUdTVCdDc3LXBmNHROUVlNQTJkTVZLTElUTmtYdjV2S2tQTEY1VnJWNUJ2Yk12QllaNTRQa2hPakRBVE9nbWpsMnBCaW5QRm1NdWlRTi1tME5kaU1oR1RsZHJGaVhOTTdxa01MNzJoemc2VG90WWQzNHdicU9TWk4tV01lWmc1NXZGYzU?oc=5",
       "isNew": false
     }
   ],

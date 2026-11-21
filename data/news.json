@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T02:17:27Z",
+  "updated": "2026-11-21T11:04:25Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,36 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "d6bb0d13f8eb",
+      "title": "Korea Investment Holdings turns to Cardif Life after KDB deal falls through",
+      "source": "The Korea Herald",
+      "date": "2026-11-21T07:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oN0Z4cklKNjFrVF9LYndNeGpJUzBsYUN0N3BPNGVaNVZOZzdXeFhqTUh6Z3NhdEd2cXRXUkRpRm8yRFo3YmxQRHppZllmZktWckZwY3hTcw?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "8ae9a928852c",
+      "title": "New Insurance Opportunities: Why Transparency Matters - AllianceBernstein - Commentaries",
+      "source": "Advisor Perspectives",
+      "date": "2026-11-20T15:59:58Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHdwQ1lMRVI0eVltSnZtZlAtNXVRX3pBSlQ4NEM1WnM5bEd2djNSaTNYdG95cllsS2d1TlRvOFlZN2hnNVNKWVB0amJWcjZqLVNzdmN4YzdGUHhFV2NidHEwTmt4NGJtaWVMaHR4Y05jVEt1LThvZzZQLVNqS29DTkoyb3BBanNMSkJSa3p4STEyVm9aNnR6X0dlZGxvbXBMMDVtbDh1SQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "fcc8d0c67607",
+      "title": "Oil loses grip on bond markets as inflation \u2018virus\u2019 spreads",
+      "source": "Financial Times",
+      "date": "2026-11-20T05:01:49Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkZnaUY5Ni1VV2RvQXB3YWdWTnByc0xNYUt0MW5yYUlZLThpWXpNTzJBSjBROF9CQV9hd1M0MVVCNnB4QW0zd1VIdVhjQ3ZScEZvQ01HblVPTFQ4emlReFRfVnlnOFV1emJvQWtZU3BYT2tOY1JWUThTcUZlMzkzZTlaMnY?oc=5",
+      "isNew": false
+    },
     {
       "id": "2d5ceb1a6fc2",
       "title": "Egypt\u2019s FRA clears 10 companies to expand fintech use in financial services",
@@ -70,11 +100,11 @@
     {
       "id": "4585a3ba9fb1",
       "title": "Central bank \"higher for longer\" rates and what they mean for bonds and assets",
-      "source": "Yahoo Finance Singapore",
-      "date": "2026-11-19T16:29:11Z",
+      "source": "Investing.com",
+      "date": "2026-11-19T16:13:57Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZElfNnU0c2pRLVFFdDU4MXpxeVdPd3FqMlRnX1NySUNLdVlxdUtGVlVvQXFmZ0VmaTU4MWVkbVpZRzA1SHRYaUZwWmhMbEVBRXo1bzhqWU1oaktHT0R4RHFoc0JQa3VDcGpsTmdFa2ZpV2hOU1A3dWRadVNEbkhNQkZ2UE83SW9O?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWZaWHAxSVFJbmRYd1F5ZGo0SkpYdkdLT1o1OVJJY3pSMUJQUWZLUGh4Wk9mQkdQdzFrUHRZX2hqS0dfWG5LQW1nU1JybjVCVnBxMzNiSlF4U3V5WUE5Skl6eWhFUWtBUFE3T1ZDRVZzc2RrMm4xMHVJazF0ZUR2RmEwQ3BaZmlIVEwzN3dMQVMxUnR6VGYwTFFDVi14ME9qQmN5NGMtQVR5N3U1bTUxbHRLdENId29SUkhsSjc4d0duQmotNEM3cmVkZEdkamkzNkhB?oc=5",
       "isNew": false
     },
     {
@@ -275,36 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNUlwSUxlN0p4RjhLa2lZa0Y3SDM4SFBPWWVoUEs0N0xSbmw2UFhmOWl0bGJzTU1vcDZfRW80VWY0ZmZtX2VIczJKZ1luRFVpTnVXNGtlcTFtbVVNckxrS1ozNFFoS0JDaWRLRXktZTQ1RnU0enBScm02UF9veDZac1ppalBUMHBsUVRScGJwN2hJcUJjX0kxVmtJLTZMLUF6Tl9GZGlhbkFqaDE5c0trZThYa203MHFISURpZFpNNml3S3dlZE92NzdkSVExblpaMTFyc0E3bjJlVDdDblMwT1NqWDl3V1ZXT2Nr?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "0106704a6f24",
-      "title": "Walter fallout tests state annuity regulators",
-      "source": "InvestmentNews",
-      "date": "2026-11-18T00:20:54Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGxqVTdjVzdkMExoazNDTVBaemxEOGpmeHNHS0kwbk1vT0hSbTFRaDFBa0VCYUQ2c05pTVlDQVAyTkRzSWlDM1ltRm10My05c08zTzIyc3JHVnRKZ0ZsN2RYckJpblYtMkEyMnQ0R1A0V1JhZGpubTNPNXA4T0licUZ0dTk5VkNrSFhUbzFuX09jc2NpOUVlYkQzQlUzeXkyZGNqX0prLXhIUThJVG9GcWN3?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "19fbe0344143",
-      "title": "Asset Side: Private Credit and the Blending of Insurance and Alternative Asset Management | The Life & Annuity Industry at a Crossroads",
-      "source": "The Capitol Forum",
-      "date": "2026-11-17T21:51:02Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY3JmczRRblpBN0xoOE9XNEd5NGJxZFM3S2JrRXQzT3c4MGk4SkhIaS1nejVLVFVjQVk4ZGJOTThvTFZiRm9hS3JzRHZNZjJ1LWtIZy1TQnE5YUUtYUdHRFRNRHNwVVhfd1lwRmQwRWRiRHR5NVZaNnhUbTFUU3ZEX1prZWpuVEthbGx1VlZOMHZOTURSdjFCd2ZxVWFvYVpIWllobEdmNEl5dTR3RmN4bGlHdGpoZm54eW82ZFpPNnVmSWw0M09OQTNsQWdTeFN0WFotR09RSWlwTTJTbDIyYlk1ODV2bHV3SkFEMkRJWXpLTlFXeHVNWTVVTGE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ac45b7cc2393",
-      "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Rate Cycle",
-      "source": "Bloomberg.com",
-      "date": "2026-11-17T20:14:31Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJ3VWxtanltWDFIdk5Jc2U5eFdaUFp6aG1PVVkwVVNpNVZxRFRvQllPcjYwVGh1OVlpVG9pQ1QyX283NldTUnBMa0NxRllJd1E3UDVacklIdTh0MmxsQnc2LTRfaGFFR092OHZZNnUwNEFGLVBFaFF5M0paNFo5d0t4YUIyUDNOVnV5UVVyRTlJRmN6azkxTmNjR251eU8yaDVmX2tJdGpFNkdIekVRbndoMEo?oc=5",
       "isNew": false
     }
   ]

@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 37 items
-Generated Fri 20 Nov 2026, 22:17 AST
+Generated Sat 21 Nov 2026, 07:04 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 75 items
+- ✅ **Google News (16 of 16 companies)** — 66 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -19,8 +19,8 @@ Generated Fri 20 Nov 2026, 22:17 AST
 ## Global Atlantic
 
 - **2026-11-20** — InvestmentNews — [Global Atlantic touts lifetime income, flexibility, with new fixed index annuity](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFgyRWYwV1lRZ2xfRzdaeVAwdFRnbG5wc0tsVVY1VFRSdW9udFBCcncxdEJ3ajBoQ0VqNHlweWsta1dqNDFQdUVfcFNRS0NabU5NdHVrYU10eTZtd1RTTGI1VVNjM0FnNk9ROFZzdE85NkdvVVFrNWFvNkJzRU5qeVJZQVhQcUxlOF9hVll5UHRWWDBwSXRIamczbk9ld2JWYVlUQUtlMU9oZ0pOaXBCaU1Fa1VNVFNVWkdGamVxUHgzR1AxcnFITkpXTzFZQ3A0bk1Gc2NxSDlHQXhwQ1E?oc=5)
+- **2026-11-20** — InsuranceNewsNet — [AM Best Affirms Credit Ratings of Global Atlantic Financial Group Limited and Its Subsidiaries](https://news.google.com/rss/articles/CBMizwFBVV95cUxORlptdGJSNDhHZnNUbEp2VTNFSHhVNkNHTngtc0J0R0oySXFDRUlQX2k0UGxmdDdhLThyeGZ0OW5Gb01IM0JtMWJ0OU5iMlFuQVJINzFlZWViWnA0SVVqNXU5UnFxN215dnNLS3BudXlXcUZaM3lXb1EzX3lvRnZEd0FqSHJreW1tU2xxSk1pN1lfbjdIZ056azNSTFJJazdnOENxV3U0b0tuMzJyT2tNZ1UxZFdkOFYzemtuRTU5LS1qY1k1TVlGd2dRZ2hjcnc?oc=5)
 - **2026-11-20** — Traders Union — [Global Atlantic ratings affirmed by AM Best with stable outlook](https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFVuQkt2ejkxWTRMSVdYeU9tMTQxd0hfLXRNZG1pRXgzbnk5ZkRKMkRUQjRJSUxFeEpXVnYyLVNqdk1GVGw5M28xbWNCWHBzSVl2d1JQSjNPRmJha3NnOHhqdl82eWxJUFVXR2w3VW5kSDc4Z1Jsdm8weTV3OUNlVXpsUWpEclZua09VMWhIX19pUFVNT0Vj?oc=5)
-- **2026-11-20** — FinancialContent — [AM Best Affirms Credit Ratings of Global Atlantic Financial Group Limited and Its Subsidiaries](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZmtqeFVqeEdMQVc1cDZDNDhoUnpoMkU3Q0NrdmN3dGxiaF9OZThhMEl5MlRuYlRMeUQ2S3ZtRHRCNWwzbUFmdU15TS1BNklXZ1RfY0lYdnEzTzgtVTB2NGkwOS1HckEwQWVUekUxX0UwUTFMQ3hXcTFqdE0wYUJCZURUdkZSelJiSEFwRldZTWJoT25hc0s4ZG5zODh3TXdZalR4SW5ONURRLU5KWjN5RU5RelZIdkZHaHFmcTh3VTViN2NtMU5Tbl81TVh3U09RNUF0VUEtQ25hOEFKUG8wUzJ6RU10Yk1ZX3c?oc=5)
 - **2026-11-16** — InsuranceNewsNet — [Global Atlantic launches ForeIncome Flex](https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXZCLXdNU0dYbVpCODFWUlV0SjZiVlJsRjR4Yjltem5XMFRWNDh5bXdicldBUVpfME1KRmZnVC0tcmRhdkJERkFqQ1pBaDJUaXh4aE9NUjZnOUZLTFNzYzdKZGplSjdGWVFUWjRCT0ZBZUF3WlNnNW9hS0FqSzNnYnhLYUY3bVE?oc=5)
 - **2026-11-16** — Business Wire — [Global Atlantic Expands Retirement Income Suite with the Introduction of ForeIncome Flex](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTWJkSTZrdUg2S0JmQmRsZlpmQi1LYUtfUlQ5WTZjVk1GX0d5MmxjcTFoVHNxR0d6djE1OVMtb0RMMTg1SGIxeFA5QlhoVjhzQ240bWxoN0JXNGUxYkFDd2ExZnVSQjM4Y0J4V3IwaWRSU0ZnSGlDUjNXZlpQaTdxT2JWLVQ4SFRocGNqb1JTUTQ1MkZma0Z5SEE4QTEtNGItU2JCbHU5M0JDYm9CZUpKenVZWlZfMDdOZ0tPYVZfeENDdURJN2F2Y1VrN0ZXSFNSS2sxYXRZOVlMMjNkRmc?oc=5)
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T02:17:30Z",
+  "updated": "2026-11-21T11:04:27Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 11,
+      "count": 6,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 27,
+      "count": 25,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -125,24 +125,24 @@
       ]
     },
     {
-      "id": "fa7eb03d18d5",
-      "title": "Global Atlantic ratings affirmed by AM Best with stable outlook",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFVuQkt2ejkxWTRMSVdYeU9tMTQxd0hfLXRNZG1pRXgzbnk5ZkRKMkRUQjRJSUxFeEpXVnYyLVNqdk1GVGw5M28xbWNCWHBzSVl2d1JQSjNPRmJha3NnOHhqdl82eWxJUFVXR2w3VW5kSDc4Z1Jsdm8weTV3OUNlVXpsUWpEclZua09VMWhIX19pUFVNT0Vj?oc=5",
-      "source": "Traders Union",
+      "id": "b4ac2b6dcf3b",
+      "title": "AM Best Affirms Credit Ratings of Global Atlantic Financial Group Limited and Its Subsidiaries",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORlptdGJSNDhHZnNUbEp2VTNFSHhVNkNHTngtc0J0R0oySXFDRUlQX2k0UGxmdDdhLThyeGZ0OW5Gb01IM0JtMWJ0OU5iMlFuQVJINzFlZWViWnA0SVVqNXU5UnFxN215dnNLS3BudXlXcUZaM3lXb1EzX3lvRnZEd0FqSHJreW1tU2xxSk1pN1lfbjdIZ056azNSTFJJazdnOENxV3U0b0tuMzJyT2tNZ1UxZFdkOFYzemtuRTU5LS1qY1k1TVlGd2dRZ2hjcnc?oc=5",
+      "source": "InsuranceNewsNet",
       "feed": "Google News: Global Atlantic",
-      "date": "2026-11-20T20:21:34Z",
+      "date": "2026-11-20T20:22:19Z",
       "summary": "",
       "companies": [
         "Global Atlantic"
       ]
     },
     {
-      "id": "b4ac2b6dcf3b",
-      "title": "AM Best Affirms Credit Ratings of Global Atlantic Financial Group Limited and Its Subsidiaries",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZmtqeFVqeEdMQVc1cDZDNDhoUnpoMkU3Q0NrdmN3dGxiaF9OZThhMEl5MlRuYlRMeUQ2S3ZtRHRCNWwzbUFmdU15TS1BNklXZ1RfY0lYdnEzTzgtVTB2NGkwOS1HckEwQWVUekUxX0UwUTFMQ3hXcTFqdE0wYUJCZURUdkZSelJiSEFwRldZTWJoT25hc0s4ZG5zODh3TXdZalR4SW5ONURRLU5KWjN5RU5RelZIdkZHaHFmcTh3VTViN2NtMU5Tbl81TVh3U09RNUF0VUEtQ25hOEFKUG8wUzJ6RU10Yk1ZX3c?oc=5",
-      "source": "FinancialContent",
+      "id": "fa7eb03d18d5",
+      "title": "Global Atlantic ratings affirmed by AM Best with stable outlook",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFVuQkt2ejkxWTRMSVdYeU9tMTQxd0hfLXRNZG1pRXgzbnk5ZkRKMkRUQjRJSUxFeEpXVnYyLVNqdk1GVGw5M28xbWNCWHBzSVl2d1JQSjNPRmJha3NnOHhqdl82eWxJUFVXR2w3VW5kSDc4Z1Jsdm8weTV3OUNlVXpsUWpEclZua09VMWhIX19pUFVNT0Vj?oc=5",
+      "source": "Traders Union",
       "feed": "Google News: Global Atlantic",
-      "date": "2026-11-20T20:19:00Z",
+      "date": "2026-11-20T20:21:34Z",
       "summary": "",
       "companies": [
         "Global Atlantic"
@@ -497,18 +497,6 @@
       ]
     },
     {
-      "id": "48f760413558",
-      "title": "Reinsurance Group of America (NYSE:RGA) EVP Jonathan Porter Sells 3,852 Shares of Stock",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzBfdU5NQTJTTWdYaENuUHNTc1l1cXhMRU01V1BsUURmNUV0QTIwanRXekU3ZGtpODItU3BUd3BaX01pUjZLd2M4T2hxMXJiZFVEeEk2NEFlcDZzZWtTUVEzQXNuT0RyTzFhV0M5TFAxZV9teVk4M2lTcWN6WEh4NnhlQVNHMW1vWnZwUXVGRTJuTXE0QUUwSmFNWEowRF9hQXQ4OF85ZWlHTWJlQW1lTTJ1UTkzNmEzVzYyenlFb3BLdEw1X3cxR0xWV0xjb2ZhNkZkMHpENGQ1R2RRMktZ?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-11-13T16:10:33Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "09a3eba98bb9",
       "title": "After selling 3,852 shares, Reinsurance Group of America (RGA) risk chief holds 11,033.",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2lVbHMyakNQY1VRa3gwSkpZVkJRbHZsY19ZTS1rQlAxb3NsbEdXUTlXTUF2Wk1JdW41NndqQWtVcjBkNU01dm5zZ3h2WXVqcjRrOGhVZmkzX2cxOC1tTk1fZTdaR1BNQ3NsejVBcXZCMGt0TWF6NjV2c3RNRGtMMk54YXMxTFFGN05OQ0I0S1FGVzQ2LW0tMjZUaU9WNUdXWm9PNzZqWkR2cHRQd3hLLTFkODdwWWRmWm9KTmRTUDB2NHc?oc=5",
@@ -561,6 +549,18 @@
       "title": "Reinsurance Group of America, Incorporated Share Price Live Today \u2013 NYSE:RGA Stock Price, Chart, News, History",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xejRLckJTSDhWYnpwNml0UXljYUt3TEFUU0d5WGVkeEpMeUFqdGRxZW4yZVNSdjJrelEyUE5wbXBkbWtRZmhDRXNWNWc2QjRkdzlMN0c4dDg?oc=5",
       "source": "Upstox",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "48f760413558",
+      "title": "Reinsurance Group of America (NYSE:RGA) EVP Jonathan Porter Sells 3,852 Shares of Stock",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzBfdU5NQTJTTWdYaENuUHNTc1l1cXhMRU01V1BsUURmNUV0QTIwanRXekU3ZGtpODItU3BUd3BaX01pUjZLd2M4T2hxMXJiZFVEeEk2NEFlcDZzZWtTUVEzQXNuT0RyTzFhV0M5TFAxZV9teVk4M2lTcWN6WEh4NnhlQVNHMW1vWnZwUXVGRTJuTXE0QUUwSmFNWEowRF9hQXQ4OF85ZWlHTWJlQW1lTTJ1UTkzNmEzVzYyenlFb3BLdEw1X3cxR0xWV0xjb2ZhNkZkMHpENGQ1R2RRMktZ?oc=5",
+      "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-11-13T08:00:00Z",
       "summary": "",
@@ -773,24 +773,24 @@
       ]
     },
     {
-      "id": "c758a026209d",
-      "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5",
+      "id": "4d5ef74d0806",
+      "title": "What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOGlpQi1OMFA5SkpzRHVycV9RODI2MnRkTVFlZ1ZlbFZULWZGT1ROdnZRTnNDUF9la3Azcm5qOUExSExmMHNrZk9abUlLTEhtZDZKNXBIWFk5dlk5WFp4LWVROUx1eldZZVhXYnlqUVNxT0ZPRGV4ZXVUNFhyNVAxQnVhTXBweDJmbGxaZ3Vialpfa1N6d3FCY1ZkMUt5X2JXRmRiZjJkSkcxanppMEpiemZGcVMyeWlRSnFfYllCcU40VTBlYmljSVRWYw?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-11-07T16:11:52Z",
+      "date": "2026-11-07T20:28:40Z",
       "summary": "",
       "companies": [
         "RGA"
       ]
     },
     {
-      "id": "4d5ef74d0806",
-      "title": "What Reinsurance Group of America (RGA) Said on Its Q3 Earnings Call",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUy1memhncUVTdnI3NTRUS2hiU2NDN0VCNnI5RHIxaldyelY0RWhKa1o0MjlIazUtaERTOWZqVk5XYlJPR3Nad09nNGdfcFhRdzh1eFlKZ0d2bDNLU3Fod2lSWVNpSmZjMDJzRWw2S0pqNHZlTVZyVFhmbG0ydkdZVHBrLWhjRWRFLUVSU2JvdERySUw3ZS1DUDh5SEo4bERHUENXdy1fNzROZms3RmlmY3VLLWdyeDY3elAzZjJPZjBDRmRWalE?oc=5",
-      "source": "TradingView",
+      "id": "c758a026209d",
+      "title": "Reinsurance Group of America, Incorporated $RGA Stock Purchased by Sumitomo Mitsui Trust Group Inc.",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUgtZ20xeXBxc2o4Um1Sa3lpcV9HcHVTQWRodkpVMFQ0RnB3aHV2N0dPU0NiZUM4TFV5cDdiOXE1NDctcUhIdmo3TlRXRGNsZGdCWGg0c3VmY25oNnpRTVdSVGRscEltM1pzellzdFBoVEpuaUpuRi00X3k0Z0NTX2YyUnROQzI5MkkyRmhIMjdBaUhudXZhWlZLSTR4VnhNckpveEdxTUNvN1U0Nm8tTk1la3I5T2U3VE5ZSU5lQjQtNmZEZ0FnS29qRWRCNk1FblNiRVBtNmZmMG1EYnJMZlpaOEw5NmxsLUhyZDFn?oc=5",
+      "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-11-07T08:00:00Z",
+      "date": "2026-11-07T16:11:52Z",
       "summary": "",
       "companies": [
         "RGA"

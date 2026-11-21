@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:23:54Z",
+  "updated": "2026-11-21T02:17:27Z",
   "naic": [
     {
       "id": "c3a57db4d693",
@@ -404,6 +404,16 @@
       "isNew": false
     },
     {
+      "id": "d0b16fad1d3d",
+      "title": "Navigating BMA\u2019s Proposed AI Guidance Note",
+      "date": "2026-09-14",
+      "cat": "Governance",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWNrWnBaVlhzTUZHOWg2Q3hXVmNUNkQxckc5UVAtdnUzMDdEUERIZHRkcUZmRk1uWEhMbmtndG5tWWRmbkdiRTJpNC1GYWlQSXZ6WEFEVlJBdVJRYTBLclAwMkVwMFNfTFBlUG1NdVJfTWdVdmdnTlUyZmctb0dLeEJNVG5ZU2ctYVdoRHE4REpzV2JvMUl2RnlnX2JSNVFrclFaR29aVzZzZVk?oc=5",
+      "isNew": false
+    },
+    {
       "id": "a9d3c2a96684",
       "title": "Jerome Wilson, Karim Creary: Navigating BMA\u2019s proposed AI guidance note",
       "date": "2026-09-14",
@@ -492,19 +502,19 @@
       "source": "Bernews",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMaXl4eXRTMllDZEtiNkFXdVF3OEIzYXVJb3F2ME0yV0h0NHlERWZib3ItRGMwamphamI0d2tJcVlzVVdJeFhUUFlxajJEYVh5M2tIX01UeGl2eVlhbFo5Qlc4c1lCaFdCXzd5bmNDclVVRm8?oc=5",
       "isNew": false
-    },
-    {
-      "id": "08adc0750aa8",
-      "title": "BMA proposes AI safeguards",
-      "date": "2026-08-17",
-      "cat": "Governance",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1NuNGNLalFSVkVtdkk4Q1Z1YkJpRGxoY2FkU1dnamVRdmlEbG1Vbmp4UkxHTk0wTm9CX2xJdFJRd3Y5M1Y5OFhYNHZzQ0sxaDBSMVRuakhyeEVfaklGWk5MOVhBSDd3VkcwLW13SktSTHd0cl8zSTZrcDJHTEJqZFlKN1Y2eFo4di1LbGNZczluSHBmMU42VmFqU2Y1QQ?oc=5",
-      "isNew": false
     }
   ],
   "cayman": [
+    {
+      "id": "15368dcc13e7",
+      "title": "New CIMA Rule And Statement Of Guidance On Reinsurance Arrangements",
+      "date": "2026-11-17",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOTNRdWVublU1RGRtV0s5UUFNakI5UGNVV29lN2c1bUpyc043cmhYTmtaOTFMNm54UjBTTC1HaWNON3E4djhWTXBGcDVkcG5EaGN1ak8ya25MbU9sUHZJVHMzVGtneXFYbjRmd0g4TVNjUkJOM3RSczRJTnpHVWFZWGljMlpQQi12ZE9TRkRaNzFocjJQbzVsSDRic2ZPS1dWRWctUUdBeWczc2J5TTJVVXVjVzRmbXhNZTNCa0M5S1pMMUJCd2l4UTBR?oc=5",
+      "isNew": true
+    },
     {
       "id": "5fcdea8bb837",
       "title": "CIMA launches CGMA Week 2026",
@@ -626,6 +636,16 @@
       "isNew": false
     },
     {
+      "id": "eb9e95b461ac",
+      "title": "Corporate Governance In The Spotlight: Key Takeaways From CIMA\u2019s 2026 Thematic Review Of Reinsurance Companies",
+      "date": "2026-09-17",
+      "cat": "Governance",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOXzJlNWg3NGoxUFhya05Ld0FLVGJfTHhuMmw0UUlzbTlMdmJWY2VCaUdZZ1VJNmhJMzRUMC1oMjJBeWdQUGRCcEU5LVJBSll3ZzhFaWJFYWRaMm1oQU01d1k0X05MUUx5Tm1Sblllc2cwbnF5ZHhQZkktSnVoQUVNaGpvSXQwaDlhemRiM2gtTG4zbmFqWDF3WWR1WjB5V2VIUXM3UWY5c3hMaC1GdXAtZjRaeC1PMVVkbjNMRDB5Y3hkbVVseGY2TjVQUEktY0pkYWI2cFd6emFaNDRjVXdZTTF5ZHVkemRLS205dWVERXgwNldrWWhqOHZRWjBsMUI4?oc=5",
+      "isNew": false
+    },
+    {
       "id": "41b6b315b366",
       "title": "New CIMA AML Rule And Sanctions Rule: What Regulated Entities Need To Consider",
       "date": "2026-09-16",
@@ -733,26 +753,6 @@
       "summary": "",
       "source": "Cayman Finance",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjctUnRXSmlFbHZINHdNSHFEQ19OTzVXeXMtVnJuejBDbHBMZEY1ZjNTWW1FLUVwVm5BdXdWbDFBTWhXQzNobWt6eWZlRmpWVUY5TGNncjJQQTFKczl0RWNnSnRNaG5tdnJGOTRFanBaYl9vWnNrR3RoaDFTZzRBT2VwUkRSQ3NpTEJkakcwV0I1YmtSY25qYVFlMA?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "18983b42581c",
-      "title": "Cayman issues 20 licences in H1 as QJS bid advances",
-      "date": "2026-07-29",
-      "cat": "General",
-      "summary": "",
-      "source": "Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS2lqcVB0NzVrNldvOTNtUTVjNnZTOWdUdjVtMmhvX0ZRUlA2UEt1SFF0QVlJd3dybmE3U1JiNF80TVloYmhjLXNlQWlSMHItZW1CdDlsdklOZ0lhc3E2V0RIeTlVejZxcEdCN2ZiU21Sa016QlQxMGJ6MG5OZ1dnUXQyT21QVjNTaWVWRmFGUm5kSktsanFtQnd6OEo4MFk2bnZHOVBKS2ZBaU5CNjRiWmMxd1Q1YmlKRW1LWDMyZ05RaWVnQWlVZHpqTQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d18bf147dabc",
-      "title": "CIMA Issues New AML Rule and New Sanctions Rule: Key Obligations for Cayman Islands Regulated Financial Service Providers",
-      "date": "2026-07-29",
-      "cat": "General",
-      "summary": "",
-      "source": "Lexology",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFFjLW15TlVPOGd6bE43S0hXR0VFUEI3bXA0VFVScWxCUFhBcFN6dXFXd1BDYmJPd19DYUFUdUY0ZWxnRXhwWDhaQWxiU1FiSVM2NXozeGpWQkl4cUQ1eWlSdFJabUVEUGNoaXRVZXJoVVJNOUNFQXNxa0xMX215RlpuNFRtN2NzM3pJ?oc=5",
       "isNew": false
     }
   ]

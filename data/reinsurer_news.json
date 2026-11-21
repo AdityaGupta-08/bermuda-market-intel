@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:23:56Z",
+  "updated": "2026-11-21T02:17:30Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 11,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 28,
+      "count": 27,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -113,15 +113,51 @@
   ],
   "items": [
     {
+      "id": "1f9fbc897ced",
+      "title": "Global Atlantic touts lifetime income, flexibility, with new fixed index annuity",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFgyRWYwV1lRZ2xfRzdaeVAwdFRnbG5wc0tsVVY1VFRSdW9udFBCcncxdEJ3ajBoQ0VqNHlweWsta1dqNDFQdUVfcFNRS0NabU5NdHVrYU10eTZtd1RTTGI1VVNjM0FnNk9ROFZzdE85NkdvVVFrNWFvNkJzRU5qeVJZQVhQcUxlOF9hVll5UHRWWDBwSXRIamczbk9ld2JWYVlUQUtlMU9oZ0pOaXBCaU1Fa1VNVFNVWkdGamVxUHgzR1AxcnFITkpXTzFZQ3A0bk1Gc2NxSDlHQXhwQ1E?oc=5",
+      "source": "InvestmentNews",
+      "feed": "Google News: Global Atlantic",
+      "date": "2026-11-20T20:58:57Z",
+      "summary": "",
+      "companies": [
+        "Global Atlantic"
+      ]
+    },
+    {
+      "id": "fa7eb03d18d5",
+      "title": "Global Atlantic ratings affirmed by AM Best with stable outlook",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFVuQkt2ejkxWTRMSVdYeU9tMTQxd0hfLXRNZG1pRXgzbnk5ZkRKMkRUQjRJSUxFeEpXVnYyLVNqdk1GVGw5M28xbWNCWHBzSVl2d1JQSjNPRmJha3NnOHhqdl82eWxJUFVXR2w3VW5kSDc4Z1Jsdm8weTV3OUNlVXpsUWpEclZua09VMWhIX19pUFVNT0Vj?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News: Global Atlantic",
+      "date": "2026-11-20T20:21:34Z",
+      "summary": "",
+      "companies": [
+        "Global Atlantic"
+      ]
+    },
+    {
       "id": "b4ac2b6dcf3b",
       "title": "AM Best Affirms Credit Ratings of Global Atlantic Financial Group Limited and Its Subsidiaries",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRDU2dHBxNEdGbmxzTW9mMFR2aFo4eUxoYkFpaGVaN1JwOWQ2ZkEwRS1XQW4tMGRQNk0xTDE5Q25weXktRV95bE9SQ1NOZWFNSVNvUVVpOEpiSGtFNkRfTDZwYTJiSktkX25wV0JQUHlMUnBYVDRfREtyV1E3V2d1SGtPaTlyQ1pIamhlNjZqa25rRkd5bXdnN3FDc1IyWWpWeXRyUWNYc09pbkFQUFVaU3Q0SDdZMjJQclhBM0JQdXpGdzZYQjVDaVlKc1huYlZoVUR3amZvRGdIaXVVTUJWaW5VSnlGQQ?oc=5",
-      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZmtqeFVqeEdMQVc1cDZDNDhoUnpoMkU3Q0NrdmN3dGxiaF9OZThhMEl5MlRuYlRMeUQ2S3ZtRHRCNWwzbUFmdU15TS1BNklXZ1RfY0lYdnEzTzgtVTB2NGkwOS1HckEwQWVUekUxX0UwUTFMQ3hXcTFqdE0wYUJCZURUdkZSelJiSEFwRldZTWJoT25hc0s4ZG5zODh3TXdZalR4SW5ONURRLU5KWjN5RU5RelZIdkZHaHFmcTh3VTViN2NtMU5Tbl81TVh3U09RNUF0VUEtQ25hOEFKUG8wUzJ6RU10Yk1ZX3c?oc=5",
+      "source": "FinancialContent",
       "feed": "Google News: Global Atlantic",
       "date": "2026-11-20T20:19:00Z",
       "summary": "",
       "companies": [
         "Global Atlantic"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-20T17:37:18Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -182,18 +218,6 @@
       "summary": "",
       "companies": [
         "Fortitude Re"
-      ]
-    },
-    {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-18T13:34:02Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {
@@ -451,10 +475,10 @@
     {
       "id": "3ad749eb8798",
       "title": "What Sagicor Financial (SFC) Said on Its Q3 Earnings Call",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkNPMG83b2FqWVNocnotbWhOVFFUWG51ODNQTjFvWTVoRmJQRTFoWFFhbWthYnhPNU9JZEpuYkNNa2wzTDFURGt3YV9RQWpaVGdPcDI2cnNWbWRQNzBqWVJ2anp5TTNReEV5UGVpejk4OWFQWTAwUXlJUVhkZWRtTnUzUnJhcVlmV3NvcEVWeEFBb3hvWFpQNy1wVWs0RndVNjNYY2t0ZGkwUkNYMXBFQUM5LWhGZklWMkpQVA?oc=5",
-      "source": "MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnhBcV9JYVBiX1UtRHZNdnRPY0d3X29MX0c5a1BDODZfd1pDc19nV1l2YnZJSV9JLXJlSlB5M21kSHNORVFrSXR5SmxOZ3RBYVlURXdUUW1hTkdMeXN1czlKVHM1QmU3dDdxOGY2c0luZmhGS1FBbWVjZlI5TVhfVmFLajRuckh5LUlYdGZiWG1PRkJYTTU1c2tR?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News: Sagicor",
-      "date": "2026-11-13T20:27:26Z",
+      "date": "2026-11-13T20:14:34Z",
       "summary": "",
       "companies": [
         "Sagicor"
@@ -706,7 +730,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX3RTUlNXVVdVVkpjdnNoemM0VkplVEJmcnNXa2tYMndtMUp2cVYzcVI5d2UzLWwwRjFRMHRLUVJtSlR0X0RmV3diTHJaNkt0UE5rOGtCZ0NvQ0JzR0NkSGNZc19ab0dfVjVDY1dRdXFYQzVMaER1bGtaM25LdGxKb2xwam9oTmw2aWY2UnRoancwSUF3M0gyVDJnMzAzaTNvZHpvN3FzZGJLNVVXSEllSG92NWt5UVFRcTZTRnVWcmhtbUM4T2phVTRaalZlLUZSYzlwSmpUSWRLcnc2Qm1QamxPUnZvZFdJTjFR?oc=5",
       "source": "MarketBeat",
       "feed": "Google News: RGA",
-      "date": "2026-11-09T17:03:24Z",
+      "date": "2026-11-09T08:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

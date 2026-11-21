@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:04:27Z",
+  "updated": "2026-11-21T19:18:00Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,13 +11,13 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 25,
+      "count": 26,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "8dc68b61e3e1",
+      "title": "AM Best Affirms Global Atlantic Group Ratings",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxUlg2QW4yODJGVDJtWmFjWmFBekhUMHpWaWVJNkdZRElxTEFZTXFRU295Qm9QRldOWm1hY3FEdlpXdTJscnNGMkNRbnp3Y2szMzExMUZCTk9qRnljclZuX2x6UFFoRUlXYzRJUVpicVJGZV9ySFNteEdrS19OYVU?oc=5",
+      "source": "Bernews",
+      "feed": "Google News: Global Atlantic",
+      "date": "2026-11-21T11:56:39Z",
+      "summary": "",
+      "companies": [
+        "Global Atlantic"
+      ]
+    },
     {
       "id": "1f9fbc897ced",
       "title": "Global Atlantic touts lifetime income, flexibility, with new fixed index annuity",
@@ -581,18 +593,6 @@
       ]
     },
     {
-      "id": "a507ec8bdc51",
-      "title": "Athene CEO criticizes offshore reinsurance, risk-taking by competitors",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5",
-      "source": "InsuranceNewsNet",
-      "feed": "Google News: Athene",
-      "date": "2026-11-12T17:41:37Z",
-      "summary": "",
-      "companies": [
-        "Athene"
-      ]
-    },
-    {
       "id": "da71407d7f09",
       "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYl83TUVraHVMRFZjWXR4bHJHN0VDS1dBaFZwdXZVTHRUOGZKcW02ZEU3Q1VQaVRWbE5oRURBRTNUVmprS1k3WVIzS2JieTRnMnpZaXZ3b2dDLWhXS1dZeTROYWcwSzhlckQ1cFl5MksybEw3MVFraG9lNXQtdlNDQ2dkd25MWm1DdXRjQmoyWHBoVVlpbFdJUjRZYWxNNW5iQXdYNzFHVkhNRE1oa1JWR2NRTGxDVVhoTmNrSGtvdTMzeFlidFhBTEhZTGRUVVhFVERXejBWTDNEQQ?oc=5",
@@ -623,6 +623,18 @@
       "source": "Stock Titan",
       "feed": "Google News: Athene",
       "date": "2026-11-12T12:50:55Z",
+      "summary": "",
+      "companies": [
+        "Athene"
+      ]
+    },
+    {
+      "id": "a507ec8bdc51",
+      "title": "Athene CEO criticizes offshore reinsurance, risk-taking by competitors",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5",
+      "source": "InsuranceNewsNet",
+      "feed": "Google News: Athene",
+      "date": "2026-11-12T08:00:00Z",
       "summary": "",
       "companies": [
         "Athene"

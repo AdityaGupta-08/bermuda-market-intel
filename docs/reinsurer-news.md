@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 37 items
-Generated Sat 21 Nov 2026, 07:04 AST
+Bermuda life & annuity watchlist — last 14 days — 38 items
+Generated Sat 21 Nov 2026, 15:18 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 66 items
+- ✅ **Google News (16 of 16 companies)** — 71 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -13,11 +13,12 @@ Generated Sat 21 Nov 2026, 07:04 AST
 
 - **2026-11-13** — Stock Titan — [Athene and Apollo entities report shared power over 608,000 Calamos (CSQ) Series F preferred shares.](https://news.google.com/rss/articles/CBMiygFBVV95cUxPay1TbGthYW1HQVpLZGx2ZENEck5YeWJ3RTVkajk4MU4tanVmMDhuNFBmRFBEei1RSXU3ZFlqZTVkQlpxWGUwalNHV2pTLWlpcXZEeGFyVW1zSUhsb0RLbmtsYUlNZTlaNUVDbkRZdXJuQjJIWmxOYy1jUTMzQUNUOTZEQ2FBZ2F4aUF1U1o3VW5pUGtGSTZpVWdpZ1hkc0JHR0pYTHFHbnYyQzlRajktN0NiMlU3SjJVTjZkTTZtWUROYnU1TFVvSm13?oc=5)
 - **2026-11-13** — Yahoo! Finance Canada — [Athene Holding Ltd. (ATH-PA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FcDdZY3lURHgybjVRVEFPWHBsdVpRaHZsMU9lZDdOS2hibHFrY0VJQWNTTXdrdVJHUEtVaWRFam10eDkyem9UWGo5ZzhJMjN2NGhaUQ?oc=5)
-- **2026-11-12** — InsuranceNewsNet — [Athene CEO criticizes offshore reinsurance, risk-taking by competitors](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5)
 - **2026-11-12** — Stock Titan — [Athene Hldg (ATH) Stock Price, News & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5)
+- **2026-11-12** — InsuranceNewsNet — [Athene CEO criticizes offshore reinsurance, risk-taking by competitors](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5)
 
 ## Global Atlantic
 
+- **2026-11-21** — Bernews — [AM Best Affirms Global Atlantic Group Ratings](https://news.google.com/rss/articles/CBMif0FVX3lxTFAxUlg2QW4yODJGVDJtWmFjWmFBekhUMHpWaWVJNkdZRElxTEFZTXFRU295Qm9QRldOWm1hY3FEdlpXdTJscnNGMkNRbnp3Y2szMzExMUZCTk9qRnljclZuX2x6UFFoRUlXYzRJUVpicVJGZV9ySFNteEdrS19OYVU?oc=5)
 - **2026-11-20** — InvestmentNews — [Global Atlantic touts lifetime income, flexibility, with new fixed index annuity](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFgyRWYwV1lRZ2xfRzdaeVAwdFRnbG5wc0tsVVY1VFRSdW9udFBCcncxdEJ3ajBoQ0VqNHlweWsta1dqNDFQdUVfcFNRS0NabU5NdHVrYU10eTZtd1RTTGI1VVNjM0FnNk9ROFZzdE85NkdvVVFrNWFvNkJzRU5qeVJZQVhQcUxlOF9hVll5UHRWWDBwSXRIamczbk9ld2JWYVlUQUtlMU9oZ0pOaXBCaU1Fa1VNVFNVWkdGamVxUHgzR1AxcnFITkpXTzFZQ3A0bk1Gc2NxSDlHQXhwQ1E?oc=5)
 - **2026-11-20** — InsuranceNewsNet — [AM Best Affirms Credit Ratings of Global Atlantic Financial Group Limited and Its Subsidiaries](https://news.google.com/rss/articles/CBMizwFBVV95cUxORlptdGJSNDhHZnNUbEp2VTNFSHhVNkNHTngtc0J0R0oySXFDRUlQX2k0UGxmdDdhLThyeGZ0OW5Gb01IM0JtMWJ0OU5iMlFuQVJINzFlZWViWnA0SVVqNXU5UnFxN215dnNLS3BudXlXcUZaM3lXb1EzX3lvRnZEd0FqSHJreW1tU2xxSk1pN1lfbjdIZ056azNSTFJJazdnOENxV3U0b0tuMzJyT2tNZ1UxZFdkOFYzemtuRTU5LS1qY1k1TVlGd2dRZ2hjcnc?oc=5)
 - **2026-11-20** — Traders Union — [Global Atlantic ratings affirmed by AM Best with stable outlook](https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFVuQkt2ejkxWTRMSVdYeU9tMTQxd0hfLXRNZG1pRXgzbnk5ZkRKMkRUQjRJSUxFeEpXVnYyLVNqdk1GVGw5M28xbWNCWHBzSVl2d1JQSjNPRmJha3NnOHhqdl82eWxJUFVXR2w3VW5kSDc4Z1Jsdm8weTV3OUNlVXpsUWpEclZua09VMWhIX19pUFVNT0Vj?oc=5)

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:04:25Z",
+  "updated": "2026-11-21T19:17:58Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "014f50603b89",
+      "title": "NAIC Fall Meeting: What CLO, Rated Fund And CFO Market Participants Need To Know",
+      "source": "Legal 500",
+      "date": "2026-11-21T08:24:10Z",
+      "topic": "Structured Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcmNNeXByOVp4NXpsaXFpbDU0ZmZaZEFuTVhxQ0h5SjBRZnFmQkEwLUVKN0RzTlhHVFN5ZGRLVlVWNzIwa3NOeUxOMGd2T0pNeHd4enBGNWdYNmgwdGo1Q2hYQVRjYzlrVm12ZEY3ZW5mYnFSQXlDMG5nS01RM29ZOS1Ddlo3OTB3blNnVU9oamJmb0R6eHN5WnE0b3hid0FneUFpOWxwbE5lcWk4OU84MnFXa2Q4VG9wVWtudmZucERHWWhCY0RHUGlNYldhaHQ0b080NWhYbw?oc=5",
+      "isNew": false
+    },
     {
       "id": "d6bb0d13f8eb",
       "title": "Korea Investment Holdings turns to Cardif Life after KDB deal falls through",
@@ -31,7 +41,7 @@
       "id": "fcc8d0c67607",
       "title": "Oil loses grip on bond markets as inflation \u2018virus\u2019 spreads",
       "source": "Financial Times",
-      "date": "2026-11-20T05:01:49Z",
+      "date": "2026-11-20T05:01:51Z",
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkZnaUY5Ni1VV2RvQXB3YWdWTnByc0xNYUt0MW5yYUlZLThpWXpNTzJBSjBROF9CQV9hd1M0MVVCNnB4QW0zd1VIdVhjQ3ZScEZvQ01HblVPTFQ4emlReFRfVnlnOFV1emJvQWtZU3BYT2tOY1JWUThTcUZlMzkzZTlaMnY?oc=5",
@@ -100,11 +110,11 @@
     {
       "id": "4585a3ba9fb1",
       "title": "Central bank \"higher for longer\" rates and what they mean for bonds and assets",
-      "source": "Investing.com",
-      "date": "2026-11-19T16:13:57Z",
+      "source": "Yahoo Finance Singapore",
+      "date": "2026-11-19T16:29:11Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWZaWHAxSVFJbmRYd1F5ZGo0SkpYdkdLT1o1OVJJY3pSMUJQUWZLUGh4Wk9mQkdQdzFrUHRZX2hqS0dfWG5LQW1nU1JybjVCVnBxMzNiSlF4U3V5WUE5Skl6eWhFUWtBUFE3T1ZDRVZzc2RrMm4xMHVJazF0ZUR2RmEwQ3BaZmlIVEwzN3dMQVMxUnR6VGYwTFFDVi14ME9qQmN5NGMtQVR5N3U1bTUxbHRLdENId29SUkhsSjc4d0duQmotNEM3cmVkZEdkamkzNkhB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZElfNnU0c2pRLVFFdDU4MXpxeVdPd3FqMlRnX1NySUNLdVlxdUtGVlVvQXFmZ0VmaTU4MWVkbVpZRzA1SHRYaUZwWmhMbEVBRXo1bzhqWU1oaktHT0R4RHFoc0JQa3VDcGpsTmdFa2ZpV2hOU1A3dWRadVNEbkhNQkZ2UE83SW9O?oc=5",
       "isNew": false
     },
     {
@@ -268,6 +278,16 @@
       "isNew": false
     },
     {
+      "id": "5553f4ad09d8",
+      "title": "Financial Stability Review, November 2026",
+      "source": "European Central Bank",
+      "date": "2026-11-18T09:03:04Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1k5cldKRUxEeDl2MmFyWk0xWVZ4ajFKUV90Si0ydVJTM1NtN3EzbF82dWM4Rjg0alF1Q3gwVjFMdm1keUtONkZDWHpQbzJ5TXp2WUJLS1AtZ3BjTzQ1UThYaUhFM1JWN2dpZC1IZEtkN1NTelJPek5vbVVkUXl5VHhMZnpWMWVWT1Jxb0lhMndvVXF2R1pCa3J0emRQMFBTTGI2WExBYzVBQQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "37655ca6374f",
       "title": "Private capital giants chase a bigger share as EU eases insurance rules",
       "source": "AMWatch",
@@ -285,26 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBseFlwOUF2Ymswd1hhQV9iQTd2TUo3S3NXazVVcVRHSDdNd3B4eGd4VGgtR2VTYlBRN2NhMnUzNU9GMDh0bjU1VzdTblBSaGktOUlXLWs5MmxROWZPOE9JSEkyMC1VZ2c?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "f4211045142b",
-      "title": "Strategic: Strengthen your core",
-      "source": "UBS",
-      "date": "2026-11-18T04:15:12Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHhZMV9lLUpJVEJfS09UYldGV3NEWmlCMjRiQXVrM2RvR1Y2NnBvSVFza3hxc3o1Umh2SDBUcXNaQ3VvZ3RuYjlXc0pWYV9lQ2RjTE5UMllJZ3REbGZXdkdBZ1Jtc2l3TVdLQkRMckVKdy1JX0xJdEh1aVVyU2dBZUhYVkY2aWFRVldudEdn?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "0d289e4901cd",
-      "title": "Best\u2019s Commentary: Shanghai Cross-Border Investment Pilot Unlocks Overseas Growth Potential of China Non-Life Companies",
-      "source": "InsuranceNewsNet",
-      "date": "2026-11-18T01:03:37Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNUlwSUxlN0p4RjhLa2lZa0Y3SDM4SFBPWWVoUEs0N0xSbmw2UFhmOWl0bGJzTU1vcDZfRW80VWY0ZmZtX2VIczJKZ1luRFVpTnVXNGtlcTFtbVVNckxrS1ozNFFoS0JDaWRLRXktZTQ1RnU0enBScm02UF9veDZac1ppalBUMHBsUVRScGJwN2hJcUJjX0kxVmtJLTZMLUF6Tl9GZGlhbkFqaDE5c0trZThYa203MHFISURpZFpNNml3S3dlZE92NzdkSVExblpaMTFyc0E3bjJlVDdDblMwT1NqWDl3V1ZXT2Nr?oc=5",
       "isNew": false
     }
   ]

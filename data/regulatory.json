@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:17:58Z",
+  "updated": "2026-11-22T01:22:01Z",
   "naic": [
     {
       "id": "664088d0b1e2",
@@ -394,6 +394,16 @@
       "isNew": false
     },
     {
+      "id": "f71bfba80589",
+      "title": "Bermuda Investment Funds - Summer 2026 Update",
+      "date": "2026-09-15",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDg0Y3ZxRmpfdlBhRnkwcFEzTXNobkRKeXNNR2EyWnJNVzZxZFFCbFo0a3M1bFMyT2ZCSzVaUm10cTZWT1VYOHBOMkJhR0pjbFgwUFJaM2dQYmU2aVpRbE84WGFPMmsySFFpaHdQcDFwWkItbTA4anRVemY5OWVfc1k1SjFsSWxQYm5jVkh4dVk2QkV1UzBVNnFYSTFETTd6TXlFTGFwQ2ZGZmx4X2c?oc=5",
+      "isNew": false
+    },
+    {
       "id": "ef0f8962fc9d",
       "title": "Navigating BMA\u2019s proposed AI guidance note",
       "date": "2026-09-14",
@@ -492,19 +502,19 @@
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVEJSMnhBY2czSFNvUDJjRXNUTFB4ZHBrOXpISDRuTHNYVkFIRG5TaUlKNkdSRFFjeU9SNDl5dWJPN1V6a3lnX01PblM2U3NwWU1OZGJDdVRScDh6N2JCSXJ0WVJXSnRDdFNRQzhkeVZWVENId3Nlb2Faa0NYNS02TlNPZ3RGajdCa2ZkTmp6NmQxMUk5dGF5Z25UZzFwb254WUl3M1o0V2tJbk1kNlk2ODdtR0VuOTlleW5JVlZQNC0?oc=5",
       "isNew": false
-    },
-    {
-      "id": "bdf53ddc1afa",
-      "title": "BMA Register Seven New Insurers In July",
-      "date": "2026-08-20",
-      "cat": "General",
-      "summary": "",
-      "source": "Bernews",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMaXl4eXRTMllDZEtiNkFXdVF3OEIzYXVJb3F2ME0yV0h0NHlERWZib3ItRGMwamphamI0d2tJcVlzVVdJeFhUUFlxajJEYVh5M2tIX01UeGl2eVlhbFo5Qlc4c1lCaFdCXzd5bmNDclVVRm8?oc=5",
-      "isNew": false
     }
   ],
   "cayman": [
+    {
+      "id": "0aa7041fb4b7",
+      "title": "Insurance Prudential Requirements Cayman Islands 2026",
+      "date": "2026-11-22",
+      "cat": "General",
+      "summary": "",
+      "source": "Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVlRZl94VmR2UmFPeE85TFQyQXhPaklEelRwQmRkTnFmMG8wWEk0TVdRREF3TGx1ejZuNnIwdUxVM2pYZm53QmZrTWpTZmRGTGhQc3ptRE8zRE1EVnMwck5abzlRaEtDYW9PMzBvQ0ZyZ0Fxd2x6LThvTUpxSy1yOU16Tl9pd2paTGR1Vm5UWWxMUWZrNlYzdmkwclJLT1E?oc=5",
+      "isNew": true
+    },
     {
       "id": "15368dcc13e7",
       "title": "New CIMA Rule And Statement Of Guidance On Reinsurance Arrangements",
@@ -743,16 +753,6 @@
       "summary": "",
       "source": "ICLG",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1BZLW15Ykl0ckU5UkI2Y3MzMlBPQmpTX0t3bGVmUW1rSVY4dHRMUE1SUVFZNTRiQlFzU2hEbnpuQUpTMlktR0M0THJoa0dqMVZzR2x5VmY1SzNwQ0lNVzdpcjVxM2U5Q3h0ZmZvZkxlMzd2c3phdl9pSjc1UE1SdmZsUUotNTRqdGdsZ0sxeXNtc0RSY1FtSTEtX3lfZw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "18c5e2dacc5a",
-      "title": "Cayman maintains strong captive insurance licensing growth",
-      "date": "2026-07-29",
-      "cat": "Licensing",
-      "summary": "",
-      "source": "Cayman Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjctUnRXSmlFbHZINHdNSHFEQ19OTzVXeXMtVnJuejBDbHBMZEY1ZjNTWW1FLUVwVm5BdXdWbDFBTWhXQzNobWt6eWZlRmpWVUY5TGNncjJQQTFKczl0RWNnSnRNaG5tdnJGOTRFanBaYl9vWnNrR3RoaDFTZzRBT2VwUkRSQ3NpTEJkakcwV0I1YmtSY25qYVFlMA?oc=5",
       "isNew": false
     }
   ]

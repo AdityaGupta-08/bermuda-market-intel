@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:18:00Z",
+  "updated": "2026-11-22T01:22:02Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 13,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 26,
+      "count": 21,
       "error": null
     },
     {
@@ -113,6 +113,18 @@
   ],
   "items": [
     {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-21T16:09:36Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "8dc68b61e3e1",
       "title": "AM Best Affirms Global Atlantic Group Ratings",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxUlg2QW4yODJGVDJtWmFjWmFBekhUMHpWaWVJNkdZRElxTEFZTXFRU295Qm9QRldOWm1hY3FEdlpXdTJscnNGMkNRbnp3Y2szMzExMUZCTk9qRnljclZuX2x6UFFoRUlXYzRJUVpicVJGZV9ySFNteEdrS19OYVU?oc=5",
@@ -158,18 +170,6 @@
       "summary": "",
       "companies": [
         "Global Atlantic"
-      ]
-    },
-    {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-20T17:37:18Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {

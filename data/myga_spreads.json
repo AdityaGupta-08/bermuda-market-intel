@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "state": "FL",
   "premium": 100000,
   "source": "My Annuity Store rate marketplace (AnnuityRateWatch data)",
@@ -180,5 +180,5 @@
       "ust_pct": 4.92
     }
   },
-  "_fetched": "2026-11-21T19:17:42.259207Z"
+  "_fetched": "2026-11-22T19:42:42.568490Z"
 }

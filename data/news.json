@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T11:28:46Z",
+  "updated": "2026-11-22T19:42:57Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "886b6f77acfb",
+      "title": "From Hawkish Risk to Risk-Off: The Bond Market's Next Big Test",
+      "source": "The Dark Side Of The Boom",
+      "date": "2026-11-22T15:16:09Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVThuUUUzUVhQUzZ6OGFISkNZcTM2dmZ3am5XVG5nRjdNemRfa00tUGRuYVVSd2xkVkxfUkNEMnlHQUNkdk1rQ3Zlal91VTZkeUJNVkIxSTRJbGlzeVI1QlczbFFmbVd1UDlsRTY5UkxPeVBOWnJvLUJKYkV2Mmg4QXk2QQ?oc=5",
+      "isNew": false
+    },
     {
       "id": "014f50603b89",
       "title": "NAIC Fall Meeting: What CLO, Rated Fund And CFO Market Participants Need To Know",
@@ -140,11 +150,11 @@
     {
       "id": "4585a3ba9fb1",
       "title": "Central bank \"higher for longer\" rates and what they mean for bonds and assets",
-      "source": "Yahoo Finance Singapore",
-      "date": "2026-11-19T16:29:11Z",
+      "source": "Investing.com",
+      "date": "2026-11-19T16:13:57Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZElfNnU0c2pRLVFFdDU4MXpxeVdPd3FqMlRnX1NySUNLdVlxdUtGVlVvQXFmZ0VmaTU4MWVkbVpZRzA1SHRYaUZwWmhMbEVBRXo1bzhqWU1oaktHT0R4RHFoc0JQa3VDcGpsTmdFa2ZpV2hOU1A3dWRadVNEbkhNQkZ2UE83SW9O?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWZaWHAxSVFJbmRYd1F5ZGo0SkpYdkdLT1o1OVJJY3pSMUJQUWZLUGh4Wk9mQkdQdzFrUHRZX2hqS0dfWG5LQW1nU1JybjVCVnBxMzNiSlF4U3V5WUE5Skl6eWhFUWtBUFE3T1ZDRVZzc2RrMm4xMHVJazF0ZUR2RmEwQ3BaZmlIVEwzN3dMQVMxUnR6VGYwTFFDVi14ME9qQmN5NGMtQVR5N3U1bTUxbHRLdENId29SUkhsSjc4d0duQmotNEM3cmVkZEdkamkzNkhB?oc=5",
       "isNew": false
     },
     {
@@ -230,7 +240,7 @@
     {
       "id": "e56f77d26289",
       "title": "Private Capital Faces Inertia in \u20ac10 Trillion EU Asset Hunt",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-18T15:38:45Z",
       "topic": "Insurance AM",
       "summary": "",
@@ -295,16 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWFTTDl2UlhrX1FLZWZLbW43X1loeGc4SWY3OUFCT3R1cUlSeWtnY0RPZ2NianprYjFUQ2kwMnplTDVNeXhWaEoxLTVxeXhvcVpPcFhjeUNkaEZaRjNsUVZyRU9icmlDSVRuNjI5ZHlvS1lSUmhtN183WnlST1VhRDd5OWluQWdTVmctTzZUWUFNS1NGM05EY1labkhlVW83?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "8756a065bf14",
-      "title": "Why Tech Stocks Are So Sensitive to Inflation and Rising Yields",
-      "source": "StoneX",
-      "date": "2026-11-18T10:07:29Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFhBNWg2dkZxS3ZZT1J6MklvM1o5NHRQYmV2SFNNYjZTdDFHTlFDQ0xjQVJ6ZzdQSHlTRER1TnpyQ1dzNHVRajJXUEJNWWZwbDZRSWVQMW4xVEFTdWVJZXFrYkIzVjJfNlZpQzQweWt5dll2VVcxQTdZdjRMUGozT2JOaTRURl93Y0Z0ekRydXNtRllOaG9uWG1nOHlQSm1hQVIzTg?oc=5",
       "isNew": false
     }
   ]

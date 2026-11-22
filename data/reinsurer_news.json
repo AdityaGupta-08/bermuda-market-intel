@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:22:02Z",
+  "updated": "2026-11-22T11:28:48Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -29,13 +29,13 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 13,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 21,
+      "count": 22,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -425,18 +425,6 @@
       ]
     },
     {
-      "id": "b3ce63a7ad5e",
-      "title": "Reinsurance Group (RGA) Gets a Buy from Wells Fargo",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzlMOFlnbjg0RHFNelpzdm5mTHZYT0N5SW5YZ1pHWUhJT004MGRWSTREUFZUUUJwX2pZQXRNdkl6aEY3WEMyWjA2SUZhQk5UZXl3Z21vTkdrWlFyWFdmbUp1SlZ0SEx2S3VLNWFVRDhmU3ZiUVpLV2ljR1hHMEU0SVhTY19rcjAxa0J1Z3ZucmhrLUR3X3V0dmcyMHZGZ3o5RGtRbGoxNExaM1FfdERKLWdKeWNMVm13Mks4MDlnVXk0MGZLdG9LT0xDc1BtUQ?oc=5",
-      "source": "The Globe and Mail",
-      "feed": "Google News: RGA",
-      "date": "2026-11-13T23:42:09Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "9bf0ad5336a7",
       "title": "CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5",
@@ -573,6 +561,18 @@
       "title": "Reinsurance Group of America (NYSE:RGA) EVP Jonathan Porter Sells 3,852 Shares of Stock",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzBfdU5NQTJTTWdYaENuUHNTc1l1cXhMRU01V1BsUURmNUV0QTIwanRXekU3ZGtpODItU3BUd3BaX01pUjZLd2M4T2hxMXJiZFVEeEk2NEFlcDZzZWtTUVEzQXNuT0RyTzFhV0M5TFAxZV9teVk4M2lTcWN6WEh4NnhlQVNHMW1vWnZwUXVGRTJuTXE0QUUwSmFNWEowRF9hQXQ4OF85ZWlHTWJlQW1lTTJ1UTkzNmEzVzYyenlFb3BLdEw1X3cxR0xWV0xjb2ZhNkZkMHpENGQ1R2RRMktZ?oc=5",
       "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-13T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "b3ce63a7ad5e",
+      "title": "Reinsurance Group (RGA) Gets a Buy from Wells Fargo",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzlMOFlnbjg0RHFNelpzdm5mTHZYT0N5SW5YZ1pHWUhJT004MGRWSTREUFZUUUJwX2pZQXRNdkl6aEY3WEMyWjA2SUZhQk5UZXl3Z21vTkdrWlFyWFdmbUp1SlZ0SEx2S3VLNWFVRDhmU3ZiUVpLV2ljR1hHMEU0SVhTY19rcjAxa0J1Z3ZucmhrLUR3X3V0dmcyMHZGZ3o5RGtRbGoxNExaM1FfdERKLWdKeWNMVm13Mks4MDlnVXk0MGZLdG9LT0xDc1BtUQ?oc=5",
+      "source": "The Globe and Mail",
       "feed": "Google News: RGA",
       "date": "2026-11-13T08:00:00Z",
       "summary": "",
@@ -1979,18 +1979,6 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-10-08T19:17:35Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "170b4b6ac3ae",
-      "title": "Reinsurance Group of America Announces Third Quarter Earnings Release Date, Webcast",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWxQRHVEY2xMZGtCemFHSk9LMmM4ZHdEcjh0cEliVHEwT2RtYm5qeEJMSFVhZnc2WGZ5bkhGVzJKVW1NM2owZGs0a2xoVjBxdEQtcjNLX3g1V0tjTWp5SE4zWXVFZW90cTZSVFQ4TWFUQ2NOZVlOdTdQQ1FYWUlqNktuNUhfc0pPRDZzSEEzdW5vOGpFUnVHOFF2Z29tYS0wMFliNDVJSVNHRnIwVkNKYmRiMmpRSy1sV2x6aTVvb1J6OHo5N1MwSDFjVzZvRUxnTXR1Nm9n?oc=5",
-      "source": "Business Wire",
-      "feed": "Google News: RGA",
-      "date": "2026-10-08T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

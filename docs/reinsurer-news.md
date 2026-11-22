@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 38 items
-Generated Sat 21 Nov 2026, 21:22 AST
+Generated Sun 22 Nov 2026, 07:28 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 72 items
+- ✅ **Google News (16 of 16 companies)** — 67 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -51,7 +51,7 @@ Generated Sat 21 Nov 2026, 21:22 AST
 - **2026-11-16** — Simply Wall St — [Reinsurance Group Of America (RGA), Why Is The Market Paying Closer Attention?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVRaU1g4QmhVUlp3ZXlmQmlMeHNYTm9LSFRqSmptWmZVM0dIU1QzbTlZMTNSYnpmQjd1WDFvTHYzd29KRlVySGxRbm0xd1l0Y2hMTGFucWJXVTZEN0F0SkxxNFl3RVI0cW1OUGV2RzIwYmE4VFdZbC1ISkhNN2tFWW4wRXlUTG5lWlBsdU0yMkZDU1Q1OFJMNzdnSDZob1JKcUgzTlI5WHFtT21ZMFUyMnNwRGxGTllpX1d1T1FSTW1icUxBeXd6Si05TVF5YWNndV9lUHFSUldBN0IwMkHSAeMBQVVfeXFMUFJ5d0ZuUmZ0N1lpNW1TdmxHYTBwbndkWW9wQUFpeTVMZHhwbmw4eHZPbmpZTEZqTGZQSGF6d2s2UVBnWkR4UTF3S3V6NW1IajVTMk5Makhjb2R6Rms2RGVRTzRYZ29RQVdSNUdlUjNyZUlJcUFHM3FWY000U2tYUXJFNVlYRVJPY25YbFVhTlVmbjNFWlI4OFBGcXBTdmJCcG93YVUyOENJZkVwX21Zd2lUMGIxci1IeGxfUmV4RVppU2hqRjJIYVRqcnZwRkVTMU9hOWlaZzlyMXNiSnF2VllRek0?oc=5)
 - **2026-11-15** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Plans Quarterly Dividend of $0.98](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTZXMDZZV3VYUmRGUm1ELWxIZERpNVpDX0dhbnN5YVhDVjNmeXlqN1hjUm9tY1ZYWER2YjJEYkxtaERZNEN3cWJ5TG1Ja1ZJb1pyT0xmLUdqMl9XeFBNNThUS0ZPLUdyOHlvOFpZWHZDQWxpZk9RX0thc0xsTkxyZXRWUHIzV2RWVnduclllaFljS01GS0hWMUFwRGlZRVZudVBnLU5QQmp1MkxLbU83cmNLbnRzUUhtM2Njbk02OFNudzRCNkZmdGIzSzBucmlhQUN4blN3bFgtYjFMaVE?oc=5)
 - **2026-11-13** — TipRanks — [Reinsurance Group (RGA) Q3 2026 Earnings Report - Results, Call & Slides](https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWHhVNEY1S0g3eEZxd2JuOWlGdzV4TVVCMVhXd0pxNWpISllQN3d0LTVNcF9wRktIMUgwMVFNRGVUUkN4VkdVR3l6blplYTZHVDhJM0FKU0JtYXZhZHpoRzlVMXJJQXZHNE9r?oc=5)
-- **2026-11-13** — The Globe and Mail — [Reinsurance Group (RGA) Gets a Buy from Wells Fargo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzlMOFlnbjg0RHFNelpzdm5mTHZYT0N5SW5YZ1pHWUhJT004MGRWSTREUFZUUUJwX2pZQXRNdkl6aEY3WEMyWjA2SUZhQk5UZXl3Z21vTkdrWlFyWFdmbUp1SlZ0SEx2S3VLNWFVRDhmU3ZiUVpLV2ljR1hHMEU0SVhTY19rcjAxa0J1Z3ZucmhrLUR3X3V0dmcyMHZGZ3o5RGtRbGoxNExaM1FfdERKLWdKeWNMVm13Mks4MDlnVXk0MGZLdG9LT0xDc1BtUQ?oc=5)
+- **2026-11-13** — Stock Titan — [CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5)
 
 ## Sagicor
 

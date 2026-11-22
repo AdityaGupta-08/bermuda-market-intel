@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:22:01Z",
+  "updated": "2026-11-22T11:28:46Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -28,6 +28,26 @@
       "isNew": false
     },
     {
+      "id": "bb0038e8a5f9",
+      "title": "RIA annuity growth hinges on planning software integration",
+      "source": "InvestmentNews",
+      "date": "2026-11-20T21:08:57Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1FOV0U1eVowc21talk1S0pVRUZvOVNoVFZkYjRhTGNNV2E4OVJmdDhYdUZkMGhvSjRyRnpKdDBieHF3MXhzWHR3MTZ6emd3SUlxZVZ4VXEtSG9fTzJ0MWNMaTVBdDdHYUg0YUdyT0Jwbm9lZUY3SjNDRXF4NF9jVWx2RE51RjNFaXNVOHZoeUY1Sy13TEd3UGZNa0NJSWRCUmZ5WXVsdG5mSk00cW9iRUt0OTlsZUN1eGd4WGVUTThLTms?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "bd35fefcb3c0",
+      "title": "AI Trading Doubts Spark Flight to Safety; U.S. Treasuries Rise for Fifth Straight Day as 10-Year Yield Falls Below 5%",
+      "source": "BigGo Finance",
+      "date": "2026-11-20T16:56:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zMnhQa29RV2RhNUQ4bUV1a2FfVEgtcm5XZDJYbDZ0SF9lS1o3TjlGVEhZRVFLWEx4NDE4Mkl6ZExUX0hYLWg4OC1oSTBOM2szX3d6TDY1eGczXzlIMi1nNllvZGNaVjZVLU1Wb0s4a0liUWoza3c?oc=5",
+      "isNew": false
+    },
+    {
       "id": "8ae9a928852c",
       "title": "New Insurance Opportunities: Why Transparency Matters - AllianceBernstein - Commentaries",
       "source": "Advisor Perspectives",
@@ -35,6 +55,16 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHdwQ1lMRVI0eVltSnZtZlAtNXVRX3pBSlQ4NEM1WnM5bEd2djNSaTNYdG95cllsS2d1TlRvOFlZN2hnNVNKWVB0amJWcjZqLVNzdmN4YzdGUHhFV2NidHEwTmt4NGJtaWVMaHR4Y05jVEt1LThvZzZQLVNqS29DTkoyb3BBanNMSkJSa3p4STEyVm9aNnR6X0dlZGxvbXBMMDVtbDh1SQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "446f2ae697c7",
+      "title": "Japan's bank shares slide even as Ueda vows more rate rises",
+      "source": "Yahoo Finance",
+      "date": "2026-11-20T09:51:23Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnVhMkIzWDRGaWFIWktfczZyZnQ2ZFZVTzMwT181dkhCOFRtdGJucXpZTVV0cVRCOFV2OFpSRXp0V242YXp5MUpsWkZoNDdCbkVyRWlsZnRDeVhrcFk2MldiVE4tWVZpZDdjTnA2Q3lxd3o3bnFmOGpTb0p1Q2tyaDdjRDBSYkdyb3ctOEF1S2F1cUxobnM0LXRR?oc=5",
       "isNew": false
     },
     {
@@ -200,7 +230,7 @@
     {
       "id": "e56f77d26289",
       "title": "Private Capital Faces Inertia in \u20ac10 Trillion EU Asset Hunt",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-18T15:38:45Z",
       "topic": "Insurance AM",
       "summary": "",
@@ -275,36 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFhBNWg2dkZxS3ZZT1J6MklvM1o5NHRQYmV2SFNNYjZTdDFHTlFDQ0xjQVJ6ZzdQSHlTRER1TnpyQ1dzNHVRajJXUEJNWWZwbDZRSWVQMW4xVEFTdWVJZXFrYkIzVjJfNlZpQzQweWt5dll2VVcxQTdZdjRMUGozT2JOaTRURl93Y0Z0ekRydXNtRllOaG9uWG1nOHlQSm1hQVIzTg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "5553f4ad09d8",
-      "title": "Financial Stability Review, November 2026",
-      "source": "European Central Bank",
-      "date": "2026-11-18T09:03:04Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1k5cldKRUxEeDl2MmFyWk0xWVZ4ajFKUV90Si0ydVJTM1NtN3EzbF82dWM4Rjg0alF1Q3gwVjFMdm1keUtONkZDWHpQbzJ5TXp2WUJLS1AtZ3BjTzQ1UThYaUhFM1JWN2dpZC1IZEtkN1NTelJPek5vbVVkUXl5VHhMZnpWMWVWT1Jxb0lhMndvVXF2R1pCa3J0emRQMFBTTGI2WExBYzVBQQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "37655ca6374f",
-      "title": "Private capital giants chase a bigger share as EU eases insurance rules",
-      "source": "AMWatch",
-      "date": "2026-11-18T07:54:35Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhQW43Sm5CNzgxX1JRakVfcDQ5VXJMazNjUVB0YmNvYVRvRGt4YU9hYXYweGQyVzFIOGdkWkl1ZU9uaXdtUGVFSFFnUXZmeW9OVEI1bHJCSDFKbFVfT0NWMVdSQ0pEczNuS1RPZk81TQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "847aad90c643",
-      "title": "The eurozone\u2019s FROGS problem",
-      "source": "GIS Reports",
-      "date": "2026-11-18T07:00:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBseFlwOUF2Ymswd1hhQV9iQTd2TUo3S3NXazVVcVRHSDdNd3B4eGd4VGgtR2VTYlBRN2NhMnUzNU9GMDh0bjU1VzdTblBSaGktOUlXLWs5MmxROWZPOE9JSEkyMC1VZ2c?oc=5",
       "isNew": false
     }
   ]

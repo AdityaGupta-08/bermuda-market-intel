@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:22:01Z",
+  "updated": "2026-11-22T11:28:46Z",
   "naic": [
     {
       "id": "664088d0b1e2",
@@ -304,6 +304,16 @@
       "isNew": false
     },
     {
+      "id": "d77f778db7d0",
+      "title": "Bermuda Investment Funds - Spring 2026 Update",
+      "date": "2026-10-31",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0l0N3NGV0pmQmNGak1zSHdCdkJZMks5UHlUSUY5T2NUUnlFQ1IyX29iTGplZ3NMQ0t4em5ZOWxRdmp4R09jY3RSc2dsV19vZi1qUnZlVm5yT0RoMjJuTTNkSDJNbkxjc3ZsUTN3MWxUWVdRcEFBXzlsRzRXelBJZ3U5T3lNUGRDZDBPM3RmYWpSd3JYdy1WWFRLeXdjbjc4M3ltbWJadHFKb2xSNFE?oc=5",
+      "isNew": false
+    },
+    {
       "id": "57bb04a14bb6",
       "title": "Bermuda Monetary Authority's Proposed Resilience Code",
       "date": "2026-10-30",
@@ -341,6 +351,16 @@
       "summary": "",
       "source": "JD Supra",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlRoR0NDcXlFMnFaeV91b1dJZHVPdGRhWjRCc0Fnc3Y3dXJVSV9Va2ZWbHJkZEI1MlUzZFVsUnJDcEZMWFY1azlfTlJHc0ZhSnc3SFgzcmZxWHZQcWE5TlFTV3ZBNDdqY2Q2U0RoX0dEcjc3R3FrUFZNaXVqZ0pDdHBvbHA?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "fffe47f76d62",
+      "title": "Modernising And Internationalising Bermuda\u2019s Banking Sector",
+      "date": "2026-10-14",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzMtdFpYMU5XeUlKLWlYZzVVbVFaSVNvN2RuVzk2UzNVaFNmVGNMaElhY0x3ajQ0N2FKZGI2WTVIbUE0VTFKak5kTjVYekhibjNXcFRPYWNjMnVLOEZrd2hkbHN6V0xhbnRjUjJxQ0o0bVRHRTNyc2tvamx6UjJNRW5jbjhfVHVxQ2UyM2t1cFE2aUVXdlR3WFgwLUhTbE92T2ZGcTF4b1o4MGNhTFo2M2VfblQwNWJSUnFLNVJQaV9VZw?oc=5",
       "isNew": false
     },
     {
@@ -481,26 +501,6 @@
       "summary": "",
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnhuOHlNU0FXaDlkSVJFSFBuUnd6RzlnS2FhZlRMN3NaZGIxcHNRTWl2YlNxbUU5STh3R1ByUzE0VmhyeGtqa0FqZC1abllER0Y1Ukd6VVBHbllvblFlbi1wTXRtWnYzaGJ4ZHB0a3BhZ2pvNTVBV3ZuNjZtMWlrUTN1aUR5THNDRkVfZmo3VG5TczNvdGRRWXJSUDVwYzRNaWd1b0RtOWdUS2oxTHZRamtud0FRVlBFcVRScFAwTTM2NHc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "1e635a9c163e",
-      "title": "Consultation On Proposed Insurance Rules",
-      "date": "2026-08-24",
-      "cat": "General",
-      "summary": "",
-      "source": "Bernews",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtMk5oeGM2aThiN1Zud1A4NWtYdy1fTVBDc1pscG15QWFwcVlEU0RqQ3lCb1pJYzNWSV9QdXRYWEFWTFFGd05iY0dNT1VZMUxMRUwzbGtDS1lvUG1nYWxhN203RVluS21PM1haNDJyVC1xd2NuTXc?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "9a8c897c3aea",
-      "title": "BMA seeks tougher oversight for global insurance groups",
-      "date": "2026-08-24",
-      "cat": "General",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVEJSMnhBY2czSFNvUDJjRXNUTFB4ZHBrOXpISDRuTHNYVkFIRG5TaUlKNkdSRFFjeU9SNDl5dWJPN1V6a3lnX01PblM2U3NwWU1OZGJDdVRScDh6N2JCSXJ0WVJXSnRDdFNRQzhkeVZWVENId3Nlb2Faa0NYNS02TlNPZ3RGajdCa2ZkTmp6NmQxMUk5dGF5Z25UZzFwb254WUl3M1o0V2tJbk1kNlk2ODdtR0VuOTlleW5JVlZQNC0?oc=5",
       "isNew": false
     }
   ],

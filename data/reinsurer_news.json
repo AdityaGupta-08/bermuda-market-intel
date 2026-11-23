@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:42:59Z",
+  "updated": "2026-11-23T01:46:03Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 8,
+      "count": 6,
       "error": null
     },
     {

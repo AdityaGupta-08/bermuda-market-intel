@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:42:57Z",
+  "updated": "2026-11-23T01:45:59Z",
   "naic": [
     {
       "id": "664088d0b1e2",
@@ -291,7 +291,7 @@
       "summary": "",
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkEtLVhfbHhUaFZqeElBVjdtRXQybERJNDJCVnA0c1RZN29VTjdSVkxWUjRwMGNVWWlaNEo0RWpDZnFVbi1PX3hYUjNmb0E0ZjYzMFY0WHpxWGphNjAxMUprQ2NmQXYzRV9FclVESnFJejljbWlVclBxUGp4VWpiazZ4bG1vUlVZa2ZCVjNKN05mcE9FTy1KQkZuWXpiVnYyeVBzQlZ5MG9xZnpkQjZDei1kNzlJRHZQM0loWVMwU29JVGM?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "98d7a44946c8",
@@ -321,6 +321,16 @@
       "summary": "",
       "source": "Legal 500",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ293Q3dBUEU1SjJyNDBhQUdielhid3JGY2RXc2VtZDlkMzVJSlJvRlhQWEVxZTRXZ2NZeDZYOFh6Y1Zpd3lyMW9VRHdCWm5tbzJ6bDlBaHBINk9nWFo3V2l3YjE3bGtqYXEySndiOEpYZmVCTlhXUFpDVHA1Y29lVW0taXh6S1VSaVg3eFBCc1dkNkpvdGk5RHVITnEzcVFtZlVveFhsWEhXdVFjbEhEMTByUFRRT2tBRUZr?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "b8294c526c07",
+      "title": "Bermuda Digital Assets - October 2026 Update",
+      "date": "2026-10-28",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVZnNTluWkhiaGUtTkN4MWR2VlZNWWFkSVQ3bHNBVkN3SmFIaXZDd3BNdUtvdHpnRmJEeEpUMHJYd3pobDl1RHItTGVTWDJ3WE9RcFNkR0VzZWJZQWVlNUtiYWllREtCdEtMbVRGZExKUHpZaThBcjdNZkd6bEFCZUNfNC1DQTU5ZmtsVHhlRkhFSDRkWXhIdDAwRFkwRnp1b2kwRVAwWlhzamY4?oc=5",
       "isNew": false
     },
     {
@@ -491,16 +501,6 @@
       "summary": "",
       "source": "Insurance Day",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTlHVFA2c2R3andDVS1sOGdDQWxmenRORk1oTi1ERDlWZENncTBkQXN0UHZGMTJac1hZODBXVVJ4TExUTkhubWI3WXBOUmxLdUZucERpQ2xmQk11cm5hVmxRbHNES29QS3R6NDQ1LUl5TlhfM3lzVUN6ZWcxU3Eya2ZtMDNUS1FXb3hNMVR6UDZHVTRlZlJiYw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "49542a62fc0e",
-      "title": "New BMA preapproval process for Bermuda funds",
-      "date": "2026-08-24",
-      "cat": "Licensing",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnhuOHlNU0FXaDlkSVJFSFBuUnd6RzlnS2FhZlRMN3NaZGIxcHNRTWl2YlNxbUU5STh3R1ByUzE0VmhyeGtqa0FqZC1abllER0Y1Ukd6VVBHbllvblFlbi1wTXRtWnYzaGJ4ZHB0a3BhZ2pvNTVBV3ZuNjZtMWlrUTN1aUR5THNDRkVfZmo3VG5TczNvdGRRWXJSUDVwYzRNaWd1b0RtOWdUS2oxTHZRamtud0FRVlBFcVRScFAwTTM2NHc?oc=5",
       "isNew": false
     }
   ],

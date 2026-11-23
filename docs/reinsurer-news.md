@@ -1,12 +1,13 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 38 items
-Generated Sun 22 Nov 2026, 21:46 AST
+Bermuda life & annuity watchlist — last 14 days — 39 items
+Generated Mon 23 Nov 2026, 08:46 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 64 items
+- ✅ **Google News (15 of 16 companies)** — 62 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
+- ❌ **Google News: Monument Re** — failed: HTTPError: HTTP Error 429: Too Many Requests
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
@@ -35,16 +36,17 @@ Generated Sun 22 Nov 2026, 21:46 AST
 
 ## Venerable
 
+- **2026-11-20** — Pennsylvania Business Report - — [Venerable Holdings names co-presidents](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnZGWE15ZElFd01mZnFkaEM0ajh4ZG9DTE1RbVNjbF9tMzAtV0pGOVdwYUNMSC03VGp0QzcyaE0xeTZWUGw2MlpwVExWbUcxMFlpZnNGR0pwRVdwZE9fREt6STZTZ084T09nWnFlSnBZSDBlc01PdzJGRnBxcnNiLWF3?oc=5)
 - **2026-11-17** — citybiz — [Venerable Appoints Miles Kaschalk and Charles Schwartz Co-Presidents Effective January 2027](https://news.google.com/rss/articles/CBMiygFBVV95cUxQalB1QVlUeE50ejdOWERLRW5Gd2VyLW9hb1FEWXZRakNXUG9yVXpzMGxnRkN1QVluZk03UTlBdXFMaXJZVWtJU2x6SGRUVVNsUGtYcUhfOVJBemJrMzE5UVJPRzQ4TWJEVDBrejdwTEVGMXFTMkpHaDF0MHBiZHFJOWQyLVRub3AzeHFFSzVPOUhWTWNqX20yZjZlNFIyZXMzLWJNNU1VdE50OE9Tel9LaU1ETVIyV1VLUnMtSEtkYzkzYVJVTlhJVGRR?oc=5)
 - **2026-11-17** — Business Wire — [Venerable Names Miles Kaschalk and Charles Schwartz Co-Presidents](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUl9XemlwNTVwcGFjX21OUXFqejdyY3ZjT2hLMV8xLXlJUkNBN0h0cFhINnJyRlQ0VmxLdFBDcGZ4OW4xNFI4ZE53Yno5aW9oVlZULV8wbW5VU3BWa2ZQWHJMWG1IZ0tScjEtcE1YdWxoTDVBQ1VVMzBwRm5UVC14aDUzUVZFUWdwSzFieWwyU3A0T1U5VDZsdDE4ZXRIT2FCMzUwZ0o0NXJuQm9ZSkdnMTRzOTlhSjh3eWFibUxRTQ?oc=5)
 
 ## RGA
 
-- **2026-11-21** — Yahoo Finance UK — [Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history](https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yXy1Yd0VxYl81bGtMT0p2WXQ5QnVqQlRXSTk4UUROZlVMeXJMbnJ2VXI2dlZQREFtVDZEa25ETVBmMkxOUTdJTTAzR04tT0RY?oc=5)
+- **2026-11-21** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-20** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Has Average Price Target of $292.25](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVlHMS1Gd2ZrRE1FZ2ZXaUY1NjFGblZValowZ2F0ZEJDbGNOX2hEb0h4bThQMklHZnJNWnc3YW5JWGo3WUdibXVTbklTX18wbVRLMGM3VFRrY05TUFFoUHlVM2c2ZDlpdkhLZk02Yzc5YWZ2dnZjcUhxV1lsek9oQmthRTNnam5rbDVXNEhkSXhHUVV0Q0d0R1p0RG1iemFHVVJxUi16VndSVnRLMkNXUFZNa3cwaFVLaGJ4LV92bWZxRmp5dVZKbWE2aWRWdmhoVV9UUkQ1TGdDeElZX2pKZlRLZ3NmVWZDNEE?oc=5)
 - **2026-11-19** — Quantisnow — [Reinsurance Group of America upgraded by UBS with a new price target](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDNsalc2SjNka2wzT1ZTeVdLM0NrQ25BbzJPSEV0VmRHSmNQYldGd3I5MFoxcm9RTDF1cFVaRHFSZHN5dDdhV2ZNMElDRXJBUWlZODlBakotYTVxb3k0UjlKd2NkZ0pSU05zMGVZRUZvMkVsWEV3eWFIa1J2UWdiYUwzQjllR2czSXFTTmcxMEp5eGtDcHBmQnhPOGstQVE?oc=5)
 - **2026-11-19** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Rating Upgraded by UBS Group](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmFpY3ljLUZ4N3JLRVFmMTNBTWhmMmVlUm5qNC02bm9QRzNtR3F0Snd4eURuRDRPMVFRQ2NYODYtdkVUNU1zZGNxMWZDYXdIdDRPaS1iZG4tOXBiNVdna3I1eVgtYUNGNHNUR2xDc1NKaHlvNjJ6UEVrWXZ4YjdKc3pIWHRHVFhDOWhRb1prMU53YXJ1UHdzT0ZaU3Jjdk9kbWNoWFlKQkNBcXZMcHJkS25Fa0V1d0xSYTN2cno4MC1LbVZfSGx5azBNaHJiWXM?oc=5)
-- **2026-11-18** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdDWUxOcUxZNHc0ZG5VRVVCWXRaczFqMUxwRVdoMWhkVkFyb1NKd2RJME91VlZydzZ2NzFRR3VQOERDa2FlUVJ1UDE0UUtlWHFJRG51bXQxQnVpQUN4N203WDFteU5MY1pTcFpWaWUxdjhQS2pGcGlEUk01N09ySURDLXcxQml3VlF1RWxBYw?oc=5)
+- **2026-11-18** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMikAFBVV95cUxQai1qZW50NkR0elBkY1RVSlJKOFQ2U2kzZW1nMEw4MjQ2Mkh1MnZtTjBzLXJvSlFUZUVZbWI2UFpaQ1pRMU14XzhwNnJqZWY3Mkx1NGRrUEdxU2tQMkk0b1NIN1hhcUhRU3I5c1BlbzdWSzFlX3pJdWY3WmwtczJ4V0hvbkFObEU1T0EyWWlRYlE?oc=5)
 - **2026-11-17** — Yahoo Finance Australia — [What Makes Reinsurance Group (RGA) a Strong Momentum Stock: Buy Now?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEg5dldEV1BUQ1V0bDMyUG5XYmc2bHdxMFRlaDBOTXRVYllBVXI5OXVkeTNuQTgzY2ROS0xwRVA1U3dPSlQxWExLbEU1MC1reGdFQzIwOEhxUHdCdWw4Wk12RWJTNWhNS1FJemxYZjJMT2dmSTJfSk1Ed0t3eXZjeGFGN0plOTMtS1NF?oc=5)
 - **2026-11-17** — ChartMill — [Reinsurance Group of America (NYSE:RGA) Fits Minervini Trend Template With High-Growth Momentum](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDREX2Q0ZGw3OUMtdzN6QTFrR2M3UGZYRVhUQkVBVEg3d0l0Tkw0UWwtb2hGT3R0djJCYzNQeXFNR3BMZ1lKRmd3SmdvNUlSRDE3WUxvbGx5Y3dxT0ZvZzJtTlhmQTRrZ05IQWw3QmxKQnlieVRKZVg3OVNSOGNxQ25hWUZWMnpjQ3U3RGgzc252V1I1NFVxZEFPNnM4ckxsbGMwODdfQmJNbDg1MDFTdTB3dFNVT05jRDJUbmd5cnhYYzFWam45TVp1eGplZ3RFWkotZGtTOXRvcXc?oc=5)
 - **2026-11-16** — Yahoo Finance — [Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5)

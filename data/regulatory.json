@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-23T01:45:59Z",
+  "updated": "2026-11-23T12:46:13Z",
   "naic": [
+    {
+      "id": "f2aed5a9e50a",
+      "title": "Cayman reinsurers challenge NAIC recapture charge on data and process grounds",
+      "date": "2026-11-23",
+      "cat": "General",
+      "summary": "",
+      "source": "Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOVRKYWhzOVVxOXZhNEhqRlJSVThMTTE4RldzaVFXT3poNHZKcE1iNzVHMS03MGUzSUxraTA3a2FBLWZWNWx2WmZlQlRpaDZaQjUtQ1c3SGNhYVdvdUpScFJQTzhaWjNJRDhjaFhaQk41cXg4aUtFWEVlREt0RERGMmdvUFFIZlRkSkU5NE9uaXRjWGNMcklZUGNFOG9kcTZ0VkZXdUNiRjh4dmpWNXpmbE4zaDNjZFZka1p5dkZCRFh6bzlmOHZvQWtVa0ZHZnZWMHIwZG9PTGMxbDFmQ2VMcHlOWGhETUJxSDZxXzNn?oc=5",
+      "isNew": true
+    },
     {
       "id": "664088d0b1e2",
       "title": "NAIC Fall Meeting: What CLO, Rated Fund And CFO Market Participants Need To Know",
@@ -240,16 +250,6 @@
       "source": "Captive Insurance Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUXhQYzltUnBEQk1LZW9jd0tiSGY5dno3NTBqV05ycjhvOHAxSy1lVWJsemZyYlBhQ0NjUVFaMEFrdWRZeVBKb014SHktWFNoLWJ5bHdtelBKZDk5YkRKUWpMVlhUN01WbjUyM3BCWmViTmdPTTFvNy1pdUEtTFFDbWpNc1h4RWV3WWxFY3ZnWXNpVGhrTWR6eGJtMWpaYVdzaS1vYVd5dUxNSnVBcEhMTzIzVmRLZGtZZXgtd3BrSnhPMVJIZ2lWMjVXcHFOSGFPNGtrdUR2aE1UempNMUtJ?oc=5",
       "isNew": false
-    },
-    {
-      "id": "f116607aa10f",
-      "title": "The Cayman Islands Makes Its Mark At The NAIC 2026 Summer National Meeting",
-      "date": "2026-10-02",
-      "cat": "General",
-      "summary": "",
-      "source": "Legal 500",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbk9SYWZydW5LQlZxSHFmam9XS3JuVll6MnNucWlDLXliYU1MblhtVHhiSDh0d3RuWkhzVGhCNi04ZkFwMl9iNUIwZmlBX3N5aWpCUkVzSGRGSEQxUlFXRUM2MkdRUmJNVGFRMVZMeVlKTkZzTDdJdGVRVndlcmxxdDc1UjYtRjN3VWh1cWFzNlVnSDllTmNMV0VOMTJLVWx2QTExbUJYaEViZFFscEZwVjRVU1hKQ29HeFdUVms2RFoybjY5Vng0aWdWbWJsSWpjdWhF?oc=5",
-      "isNew": false
     }
   ],
   "bma": [
@@ -331,6 +331,16 @@
       "summary": "",
       "source": "Legal 500",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVZnNTluWkhiaGUtTkN4MWR2VlZNWWFkSVQ3bHNBVkN3SmFIaXZDd3BNdUtvdHpnRmJEeEpUMHJYd3pobDl1RHItTGVTWDJ3WE9RcFNkR0VzZWJZQWVlNUtiYWllREtCdEtMbVRGZExKUHpZaThBcjdNZkd6bEFCZUNfNC1DQTU5ZmtsVHhlRkhFSDRkWXhIdDAwRFkwRnp1b2kwRVAwWlhzamY4?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "a03609bd405c",
+      "title": "Police Certificates Become Part Of BMA Vetting",
+      "date": "2026-10-23",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbEpvcGphMWJtNE5RUXlObkpxRnNya0pLZzFQRmpRc1haYjc0azNiVlR5bTVBaTNQLTIzbVBfaFZSQlAwN0ZUZjVrb1R5YnM3UnZtMS0tSjA4emNqLXNmTVNtOU1YY2wtTDlPZEk3dVRQXzc1UVdmVXhmQkRsTnd6Q1ZtUGtFMDZ3RXdIazZ0Rl8xSnk3bjdCdEx3UjZYWU9ZWVo1VUM2TUJuOENxZHN5Y1BR?oc=5",
       "isNew": false
     },
     {
@@ -491,16 +501,6 @@
       "summary": "",
       "source": "Bernews",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83QXNnMlpoUnBXT3NYR2ZtcXFzR1FxY25UYVBoVE14cjdIWHhIMU1selltV0dSVzdhN0twSXY4SWhob2V3a0hvNG00WkxsdDhFeFBheTl3bXZyOHduaF9wNW9Cck5wV3RrYmQzZ2pDWEFOVkl2UEo1RnA5aw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "b8f2c54b94e3",
-      "title": "BMA moots new rules for international insurance groups",
-      "date": "2026-08-25",
-      "cat": "General",
-      "summary": "",
-      "source": "Insurance Day",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTlHVFA2c2R3andDVS1sOGdDQWxmenRORk1oTi1ERDlWZENncTBkQXN0UHZGMTJac1hZODBXVVJ4TExUTkhubWI3WXBOUmxLdUZucERpQ2xmQk11cm5hVmxRbHNES29QS3R6NDQ1LUl5TlhfM3lzVUN6ZWcxU3Eya2ZtMDNUS1FXb3hNMVR6UDZHVTRlZlJiYw?oc=5",
       "isNew": false
     }
   ],

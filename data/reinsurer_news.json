@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T01:46:03Z",
+  "updated": "2026-11-23T12:46:15Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 10,
+      "count": 9,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -52,9 +52,9 @@
     },
     {
       "name": "Google News: Monument Re",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Google News: Prismic Re",
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 22,
+      "count": 19,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -95,13 +95,13 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
       "name": "Google News: Wilton Re",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -113,18 +113,6 @@
   ],
   "items": [
     {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yXy1Yd0VxYl81bGtMT0p2WXQ5QnVqQlRXSTk4UUROZlVMeXJMbnJ2VXI2dlZQREFtVDZEa25ETVBmMkxOUTdJTTAzR04tT0RY?oc=5",
-      "source": "Yahoo Finance UK",
-      "feed": "Google News: RGA",
-      "date": "2026-11-21T14:03:18Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "8dc68b61e3e1",
       "title": "AM Best Affirms Global Atlantic Group Ratings",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxUlg2QW4yODJGVDJtWmFjWmFBekhUMHpWaWVJNkdZRElxTEFZTXFRU295Qm9QRldOWm1hY3FEdlpXdTJscnNGMkNRbnp3Y2szMzExMUZCTk9qRnljclZuX2x6UFFoRUlXYzRJUVpicVJGZV9ySFNteEdrS19OYVU?oc=5",
@@ -134,6 +122,18 @@
       "summary": "",
       "companies": [
         "Global Atlantic"
+      ]
+    },
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News: RGA",
+      "date": "2026-11-21T10:43:08Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -170,6 +170,18 @@
       "summary": "",
       "companies": [
         "Global Atlantic"
+      ]
+    },
+    {
+      "id": "5281aa7d2b08",
+      "title": "Venerable Holdings names co-presidents",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnZGWE15ZElFd01mZnFkaEM0ajh4ZG9DTE1RbVNjbF9tMzAtV0pGOVdwYUNMSC03VGp0QzcyaE0xeTZWUGw2MlpwVExWbUcxMFlpZnNGR0pwRVdwZE9fREt6STZTZ084T09nWnFlSnBZSDBlc01PdzJGRnBxcnNiLWF3?oc=5",
+      "source": "Pennsylvania Business Report -",
+      "feed": "Google News: Venerable",
+      "date": "2026-11-20T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "Venerable"
       ]
     },
     {
@@ -235,7 +247,7 @@
     {
       "id": "1afa5ded1043",
       "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdDWUxOcUxZNHc0ZG5VRVVCWXRaczFqMUxwRVdoMWhkVkFyb1NKd2RJME91VlZydzZ2NzFRR3VQOERDa2FlUVJ1UDE0UUtlWHFJRG51bXQxQnVpQUN4N203WDFteU5MY1pTcFpWaWUxdjhQS2pGcGlEUk01N09ySURDLXcxQml3VlF1RWxBYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQai1qZW50NkR0elBkY1RVSlJKOFQ2U2kzZW1nMEw4MjQ2Mkh1MnZtTjBzLXJvSlFUZUVZbWI2UFpaQ1pRMU14XzhwNnJqZWY3Mkx1NGRrUEdxU2tQMkk0b1NIN1hhcUhRU3I5c1BlbzdWSzFlX3pJdWY3WmwtczJ4V0hvbkFObEU1T0EyWWlRYlE?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-11-18T08:00:00Z",
@@ -1931,42 +1943,6 @@
       "source": "Simply Wall Street",
       "feed": "Google News: RGA",
       "date": "2026-10-10T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "c75a8736568d",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Hit a 52 Week High, Can the Run Continue?",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjVuZGVKSnhudndIcWNObUh6RXVzUFBhaVRYQWlLZFpkWmNOMVUwbzZnN3dZODIwNmdTMWlXN3h2ZkNrUk1lMV8yWnFWQTFFTlRPd1ljLVJRRHhJUVh2OXVhYS1mUFBQU3BianFHckFOdC1KZUVSWXl1b3lfaGRCUlM5QUpqaEUyWFFCR0xKZEdFaUhrV2ttNG1PemlSbHVOUlFBRW5weGRuUGM?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-09T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "d5e388dfd066",
-      "title": "Reinsurance Group of America, Incorporated $RGA Shares Sold by Douglas Lane & Associates LLC",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnI1UVRLQWdOV1otQUJ4dnR3VVJMUXczQzNGaF9LQmQ5NTJUYjk5djY1WlhCYURucGFmRi1wVGhnSzhKRlRNOXUwRmpRNTZ5RllEeC0ySnNvM2hubGt3ekVRR0twVm5Ra3Z0RkxOeEFhckY5V3d4cXNHNHM5Zk55RWVsR2tLZFYzNjdIY3JETVNpZDZEQlNfVEFDRkdhWjNYV21mYm1naWJaRVFYdGhrQ1dQcWRVWTFRb1hySUlEcmNZY0t3ekJxUHRBekdBZnZYNlc0RWIzM3FTa24wWDdNZ2F1OA?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-09T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "afbea86eda49",
-      "title": "Reinsurance Group of America (RGA) Stock Price, News & Analysis $RGA",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRd19Scl9UZ2dsdkpPSTVZMjN1TTlKUmdoQVN6R3BFcGlCTFMwZF9XbDZjVlBNQ0RIRHIyQVZybk9DNzJiZzIyaDBpVVNuR3NDOXVGdHlB?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-09T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

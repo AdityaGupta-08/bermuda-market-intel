@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-24T02:14:17Z",
+  "updated": "2026-11-24T13:46:24Z",
   "naic": [
+    {
+      "id": "92052d807dc3",
+      "title": "Johnson Lambert creates two new advisory practices after NAIC highlights AI issues",
+      "date": "2026-11-24",
+      "cat": "Governance",
+      "summary": "",
+      "source": "Captive International",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZVgxbEctbWd6V2tqMlNTVW02eHUwVEQ2dWZaV1ZIZUQwNkFMYXd6TDZMandTZXJGZzktRzVsZm9ZT3A4SERjcDBrajMzNGEyTWMtRWlFT1JFUUpKYmlYOXEtNktJcDM4Y1pYVWxrOUlTU3ZVeV9ZT2d2emtyUGNFQ3dHRE5oNXdja3FTeXBjNkdma3Q0QS1rR2xDMk42eHVXMThJRWc2SVZtYlhsejUzQThYampBQmdYZXZvZ05ZWjFCeW8?oc=5",
+      "isNew": true
+    },
     {
       "id": "f2aed5a9e50a",
       "title": "Cayman reinsurers challenge NAIC recapture charge on data and process grounds",
@@ -22,6 +32,16 @@
       "isNew": true
     },
     {
+      "id": "679f2809bc89",
+      "title": "NAIC votes to accredit trio of State regulatory departments",
+      "date": "2026-11-19",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Captive International",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmZ4TlBmVzJLX1hTRnpTc2UzX1BYcnJkSVpjMWtFR0dwODRWSC1fQm5hcHE2djU3bTl5SEVxQndYdm1ORVhWUVg5dG95dUMwQklqak95YlJISFVOWEVGYmNUTjItYXlXTzVZc2VISlE2cVRnQ2pMQzAyeUhmZGJEcVdqYW53NHBDRmtpTzdleGptTU5aR0RObUFfdC0?oc=5",
+      "isNew": true
+    },
+    {
       "id": "c3a57db4d693",
       "title": "NAIC adopts credit rating agency framework despite industry concerns",
       "date": "2026-11-19",
@@ -39,6 +59,16 @@
       "summary": "",
       "source": "The Manila Times",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLXc0eTBGcnNlSE9xMUREMWVSc19Jbnozd0dZbWd5Vy1nQWRNNE9Nd19idWNhdVJDdWtsbWEyaUxNQ3htcU1haGQ5SEdCWHppeElHV0pySmtYZUYzRUJzS3kwRWNFSlZLemVYYnhoQVVYbUV5Umx1M1ZvWnV2NEdjLXNnVVZXYkRVbW5IRW02Z3FNTHlDbDZPUllVa29La2NxTUQ2NC05ZE4zY0FlM0g1OFRwQmFhSmZzMEloOFZTakQzdHFGSE45eWIxVEV3bTYzTEg5eksyM2U3ODNSZ21wa3JYYWN5TGxNVW4zVXZ2RWlWLUxvcjBfX9IB_gFBVV95cUxQREtzTTVjVHFfRVpXWXVxMlpBV005SWdiSGh2V2FuMWRxblNsVGE0Y3FkOXQ2cTE4ZzA0bXpyT1BDbEtwMnEwTHlRUmZtZnB2MzFrU3oxc01HYzdfTGxFaFFFUDV4WTFoZmFYTXRaT1M2V2FHenFTN2s5M21xWF9MTHgxMElPOWQxQ3A3cFRzWWJXYzhOdVFoa1ZRV0lISXd5RzZGQy02V0UwR3VvSVZieHhYTWZNbVJURmJqRGRKLWkySVVSYnNMeE1naVlZWXFkemdxb01feVhPR1JTSzlPeF9kN1I1NEF1ZVNfejU0eGQtQVlaUm0xbEF2OVJEZw?oc=5",
+      "isNew": true
+    },
+    {
+      "id": "65239a31c45c",
+      "title": "Reinsurers urge NAIC to reconsider capital charge for offshore reinsurance \u2013 Insurance News",
+      "date": "2026-11-18",
+      "cat": "Capital/Solvency",
+      "summary": "",
+      "source": "Insurance News Net",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkxwSVRheUpMV0J5RGNtak5Xc3AyY2ViT1FEREJhZU9VbF9KRUdrZ3lWbzQxenFTT0JZZzNjMTFDczF2Nk1iQzV3X1l4d09TalFxRGZmN3g3QXdvLXJXOXhmeEd1U2ZZRXIzVHZsSFBMeWFRbTJaWkF3SmZadUxHZUVxUW9ieFJFQk1TNFo2V0I5U1JkMjB3MTBjYndtbXZOQlV2NjhfMnlsOENJUHI0TFpNT0U?oc=5",
       "isNew": true
     },
     {
@@ -67,7 +97,7 @@
       "date": "2026-11-18",
       "cat": "General",
       "summary": "",
-      "source": "InsuranceNewsNet",
+      "source": "Insurance News Net",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVdTa0JBb3FWVDJmQzJ1Uk5PYU1LLXl0Z3gxd21icjVMcFZUbGp1X1gyWGJWSzJYY2oxbDdRTlItdmt2MGkzSHhwX0dQN2RvVEY1N0tBSTJ6TUt2ZWFzaFpnTFBVeXVYN0ZhWVZ4WnpkOGRjbEVIZkxkQVE4dmp1Q2l2MXJjM0lVUlBDbUtyZ2UwUlQ3Vm55Qi1ZeHhaTnpqWFhJaHVmN1NsQWc?oc=5",
       "isNew": true
     },
@@ -79,6 +109,26 @@
       "summary": "",
       "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQThHNGxZaGdRd0o1LXNIVGJKM0RlV1FjclQ1dHotQmJYTjV3VXNxYVpMUTdBMWgwdmdXNWhkUVREclZUODFnY0k2eTM5OGc2YTFEN3ZZR19fSlJwNXRDUkpfZ2pUSmFaVnRjQTRBNlphd29uSzFRSklaSnd0NmFiMFFOVEFPbU85N0lzamtnb1p4WHZZQXhZM2hWVUNULUpLd1R2YTRiNlZKc2pmX0d5cA?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "22a9e20dbfce",
+      "title": "NAIC reaccredits Hawaii, New Mexico and South Carolina insurance departments",
+      "date": "2026-11-17",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Captive Insurance Times",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV0N4VVVPLUZaVUtEQkE5ckdoSjc1cHV4X1Frb0hKTEhReTJxRHFkN1FHb0F4M2hWdVduLU5UR0RPLWwxbzJNOEdqaWNCT09ZQm02RkdxUWcwbFhqTllUam1NX3I5Q2d3U2p6MHNoMG84YWdSc0JmNHo5LUE1Y2JTMUd2dHVNRmV0cHBHYmVUMkxMTnlBLUpuR09udTlGSGdDb2ZKaUFKdXFqQ0dBZTNOZ3RnTFZTZlBiNUh3Q0V1NU9NZ3N1MlRsSnN6ckQzLWVyTmF6RWxBcWh3ZXl4YnhDdTB0NGQ0UQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "3b1ea3649d13",
+      "title": "NAIC releases version 7.0 of its AI Risk Evaluation Supplement Ahead of Fall National Meeting",
+      "date": "2026-11-13",
+      "cat": "Governance",
+      "summary": "",
+      "source": "McDermott Will & Schulte",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU2hXV090OGZmOVFzc1N1dkhiX2J3MWlXTk9CSlVZaTU5cUtTaEdxUVJPRlRpbGlMSVBiU3ZRVUpRR2N3dTJNcWdDWlJKUlFJWG1MX3FlTnpJYVpxeklBcjhnbVA3c0pyYVlCLUZWLWdVYnlJYW1xOEZYNTBaaTFpQTFPb2FJQV82cHJqOENiNlhpSUF4Mjl6SUl4Ync5ZUI4VUVwcTFhbTE5bHBFUjVpTVQzaXF6cEFpcWh6TmNjSUIzSlN1Ny1INFFfZjM?oc=5",
       "isNew": false
     },
     {
@@ -192,63 +242,13 @@
       "isNew": false
     },
     {
-      "id": "701877cdf43f",
-      "title": "NAIC strengthens oversight of insurers\u2019 private credit risks",
-      "date": "2026-10-12",
-      "cat": "Investment",
+      "id": "258fe81e6d09",
+      "title": "From Pilot to Practice: What the NAIC\u2019s AI Review Means for Insurers | Events | Insights",
+      "date": "2026-10-15",
+      "cat": "Governance",
       "summary": "",
-      "source": "Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1lxUlExSGhZV0NDVVJwYlZaTDFhR1VscDk2NVlTR3ZkYS14WVVUOW5Dc3FpT0RoQURoVkNId01VREtjTERBTDdQdHRlOUZQUE92WGlibWc0VWVPNWpKT2t4RTNkVEtLakZwcGF0VXVfVHBHLUswYnZHVHNQQm1qbXlZcmRkM3B2OXoxUHR3Zw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "98c82a609eb0",
-      "title": "Life insurers\u2019 fastest-growing private credit vehicle draws NAIC scrutiny",
-      "date": "2026-10-12",
-      "cat": "Capital/Solvency",
-      "summary": "",
-      "source": "Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSkduS01VcWVVUnNVMGpzVVBSNU9TcFNrWmFMRlBLdXN5ZTZPaWNDR1d1eXJBdENZWktDWXNoT0JiMmtWUFFDUFNISEJWUGJoNzRyV1hFTmIzS0xXcGFwV0RuMFJZVFcxMU5hTnVZQTFYTXh4Y3pLYy1vSFRoNlNFWGVERkxiRW5CcUpkeG5BSmc1WF9UcEdfSGIteXVlYV9wYWZfcEYtZnJiY1B6UXVhSWl0MXFqSXl6Q21BU3JPeFpIMUFVU2JINGgtWk9yYlRSYWltbWh4NlVocE0?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "3c0ce96a370e",
-      "title": "Insurance Regulators Tighten Reinsurance Capital, ILS and Risk Transfer Rules",
-      "date": "2026-10-12",
-      "cat": "Capital/Solvency",
-      "summary": "",
-      "source": "Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wSHNjUlZOUzh4eDFqajFON3BXRkM0NWpEWHBkdk5aV0xKdXVhQ25idnNhMlByR19UeWx1Vy1QS0dHYWtuWnVMd2ZTWE1POHU4eUhtXzM4aTZfRG0wclZ1bGtJNW5PMTNWOW1PckFSa0ZFdjVxRVZkb1lB?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "aebf0bfefef6",
-      "title": "NAIC seeks comment on ABS issues",
-      "date": "2026-10-08",
-      "cat": "General",
-      "summary": "",
-      "source": "Herbert Smith Freehills Kramer",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenB6VXFoMHFRSExPanc3b1d2dXdralZhTUd3UzVueXlKdGtjVldlRVZ1VkxxTnpscjVPa3pPVWdqcVpOSE84ZXY1NjdldlE3RXVVRHBPbmZPamtLWVJ5cnNFdFRfYWlCa0JLcWFlNWI1TlE5c3lJSkZBSGlXVHc0cQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "44cbef6796ea",
-      "title": "Industry pushes back on NAIC's life reinsurance recapture charge",
-      "date": "2026-10-07",
-      "cat": "General",
-      "summary": "",
-      "source": "Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQng0MFJNbnNLZ0M1Y3g1VjVLVDdBS2J0Yk9rNDc5dS1vMVhMS1MwYmFuUUVVZVctVWJLMHBMcF9VMWdBcmZjdktjOE1jM2hZNDJ6bzlaczB1T2FYeWhmV1I2SVFkaHNEVGpZRlYwRHI2NjF5MExLVVRmaFN6b2pVdUFoYWNQbmplbkZGRTBTT2JwYmZrdXlqdnZBZU85azgzMmlIYzBhQkd5ZEVZNGdXTGJRMWNTVHQwVGI1SjFqeXdNNF82T29VcEktbTZNWmcwQzhoTUFUR2pXaUU?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c1d5c6f8d206",
-      "title": "CIRCA urges NAIC to base reinsurance recapture charge on risk, not domicile",
-      "date": "2026-10-06",
-      "cat": "General",
-      "summary": "",
-      "source": "Captive Insurance Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUXhQYzltUnBEQk1LZW9jd0tiSGY5dno3NTBqV05ycjhvOHAxSy1lVWJsemZyYlBhQ0NjUVFaMEFrdWRZeVBKb014SHktWFNoLWJ5bHdtelBKZDk5YkRKUWpMVlhUN01WbjUyM3BCWmViTmdPTTFvNy1pdUEtTFFDbWpNc1h4RWV3WWxFY3ZnWXNpVGhrTWR6eGJtMWpaYVdzaS1vYVd5dUxNSnVBcEhMTzIzVmRLZGtZZXgtd3BrSnhPMVJIZ2lWMjVXcHFOSGFPNGtrdUR2aE1UempNMUtJ?oc=5",
+      "source": "Faegre Drinker Biddle & Reath LLP",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHlSYWM1UGFla2d3MVlLU3UtM25aQUdWOEJzaDF6UUVQcG5ZdzhQMW55cVN1NlhQczNPbW9TZWtWY2pQZ3B6WHJ1YWtHdGhoTG9lNk5qVDRpUTdPd1RfVUdaM0hoZ3lHWTJNc1YzSXJWYmJHM0p4SFJiTTFnUmRQLUJBdnY2LTZpczlBcjlrNnZDbHFXQ3hSaTlpcjh4SW9Yb3ZUUWZTUkQydWhGaFJsZ1RaR0pOZEdnYkhGMnJRZXI?oc=5",
       "isNew": false
     }
   ],

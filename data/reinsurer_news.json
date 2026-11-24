@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:14:18Z",
+  "updated": "2026-11-24T13:46:26Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -10,9 +10,9 @@
     },
     {
       "name": "Google News: Aspida",
-      "ok": true,
-      "count": 2,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Google News: Athene",
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 15,
+      "count": 8,
       "error": null
     },
     {
@@ -64,9 +64,9 @@
     },
     {
       "name": "Google News: RGA",
-      "ok": true,
-      "count": 20,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Google News: Resolution Re",
@@ -95,14 +95,14 @@
     {
       "name": "Google News: Venerable",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
       "name": "Google News: Wilton Re",
-      "ok": true,
-      "count": 2,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Reinsurance News",
@@ -1931,18 +1931,6 @@
       "source": "Simply Wall Street",
       "feed": "Google News: RGA",
       "date": "2026-10-11T12:33:25Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "4ba3313daf33",
-      "title": "Is Earnings Beat Streak Altering The Investment Case For RGA Stock?",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjNBUHBvTjJxUXB2QlE4Si1FRk8zb19jXzVGSmdiNGVRaDlEaGZOdUd1NUJCUENSV1R5Zzk2bnRuUWczXzlpRElBbFc0TkkwNVMwaXNLUFJCMVVLY1NTZnhPQTlZVUhnNWhaMHQxMms2b0pwQ1diSXpLbnRZb3h3NjZoeng3UXEtZFdqbG1ieDdMOUN0aGpSVW9Ia09CcjJpOHFoSDlwWGZ1NW1OSGV0STJWVXpsUHRpdGEyTDNzSE00SVlvbDdnd0hrMTU1WU9RZWxldjVFbDBFcS1mWWfSAeMBQVVfeXFMTXpweVRKWGIyMWRaYkllUGJGQllBX01kWGFRLU9PRzQxbUtkZW9PTnZ4bFBhelZjUDlERnRvMFJQa3NzZ29LVjhlYm05V21WVEJPX0JlQng4VmdvSF9xMUNPQ0ttQ2RRMjJxbjNTczdueWY1LTh3V25BbW5yV01VbTduRTl0MUlUVzRmZ0lQZ2RtV2RrVXE5TmRHZTNMS2pyd2Q0bEpkN1U2MkduSURTbDMwLU1xQk94UDBJdXhjOURrOTMweHdRRWtOOUZnUmNzNXJwTkd0TERmbjFWOGhuZWtuUXM?oc=5",
-      "source": "Simply Wall Street",
-      "feed": "Google News: RGA",
-      "date": "2026-10-10T07:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

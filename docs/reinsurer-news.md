@@ -1,12 +1,15 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 39 items
-Generated Mon 23 Nov 2026, 22:14 AST
+Generated Tue 24 Nov 2026, 09:46 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 69 items
+- ✅ **Google News (13 of 16 companies)** — 39 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
+- ❌ **Google News: Aspida** — failed: HTTPError: HTTP Error 429: Too Many Requests
+- ❌ **Google News: RGA** — failed: HTTPError: HTTP Error 429: Too Many Requests
+- ❌ **Google News: Wilton Re** — failed: HTTPError: HTTP Error 429: Too Many Requests
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene

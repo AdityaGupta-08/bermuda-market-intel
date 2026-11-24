@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:46:26Z",
+  "updated": "2026-11-24T23:55:37Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -10,14 +10,14 @@
     },
     {
       "name": "Google News: Aspida",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "count": 2,
+      "error": null
     },
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 8,
+      "count": 16,
       "error": null
     },
     {
@@ -64,9 +64,9 @@
     },
     {
       "name": "Google News: RGA",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "count": 16,
+      "error": null
     },
     {
       "name": "Google News: Resolution Re",
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "name": "Google News: Wilton Re",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Reinsurance News",
@@ -118,7 +118,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
       "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-11-21T10:43:08Z",
+      "date": "2026-11-24T10:55:55Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -394,7 +394,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVRaU1g4QmhVUlp3ZXlmQmlMeHNYTm9LSFRqSmptWmZVM0dIU1QzbTlZMTNSYnpmQjd1WDFvTHYzd29KRlVySGxRbm0xd1l0Y2hMTGFucWJXVTZEN0F0SkxxNFl3RVI0cW1OUGV2RzIwYmE4VFdZbC1ISkhNN2tFWW4wRXlUTG5lWlBsdU0yMkZDU1Q1OFJMNzdnSDZob1JKcUgzTlI5WHFtT21ZMFUyMnNwRGxGTllpX1d1T1FSTW1icUxBeXd6Si05TVF5YWNndV9lUHFSUldBN0IwMkHSAeMBQVVfeXFMUFJ5d0ZuUmZ0N1lpNW1TdmxHYTBwbndkWW9wQUFpeTVMZHhwbmw4eHZPbmpZTEZqTGZQSGF6d2s2UVBnWkR4UTF3S3V6NW1IajVTMk5Makhjb2R6Rms2RGVRTzRYZ29RQVdSNUdlUjNyZUlJcUFHM3FWY000U2tYUXJFNVlYRVJPY25YbFVhTlVmbjNFWlI4OFBGcXBTdmJCcG93YVUyOENJZkVwX21Zd2lUMGIxci1IeGxfUmV4RVppU2hqRjJIYVRqcnZwRkVTMU9hOWlaZzlyMXNiSnF2VllRek0?oc=5",
       "source": "Simply Wall St",
       "feed": "Google News: RGA",
-      "date": "2026-11-16T04:31:05Z",
+      "date": "2026-11-16T08:00:00Z",
       "summary": "",
       "companies": [
         "RGA"

@@ -1,15 +1,12 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 39 items
-Generated Tue 24 Nov 2026, 09:46 AST
+Generated Tue 24 Nov 2026, 19:55 AST
 
 ## Feed status
 
-- ✅ **Google News (13 of 16 companies)** — 39 items
+- ✅ **Google News (16 of 16 companies)** — 67 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
-- ❌ **Google News: Aspida** — failed: HTTPError: HTTP Error 429: Too Many Requests
-- ❌ **Google News: RGA** — failed: HTTPError: HTTP Error 429: Too Many Requests
-- ❌ **Google News: Wilton Re** — failed: HTTPError: HTTP Error 429: Too Many Requests
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
@@ -44,7 +41,7 @@ Generated Tue 24 Nov 2026, 09:46 AST
 
 ## RGA
 
-- **2026-11-21** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
+- **2026-11-24** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-20** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Has Average Price Target of $292.25](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVlHMS1Gd2ZrRE1FZ2ZXaUY1NjFGblZValowZ2F0ZEJDbGNOX2hEb0h4bThQMklHZnJNWnc3YW5JWGo3WUdibXVTbklTX18wbVRLMGM3VFRrY05TUFFoUHlVM2c2ZDlpdkhLZk02Yzc5YWZ2dnZjcUhxV1lsek9oQmthRTNnam5rbDVXNEhkSXhHUVV0Q0d0R1p0RG1iemFHVVJxUi16VndSVnRLMkNXUFZNa3cwaFVLaGJ4LV92bWZxRmp5dVZKbWE2aWRWdmhoVV9UUkQ1TGdDeElZX2pKZlRLZ3NmVWZDNEE?oc=5)
 - **2026-11-19** — Quantisnow — [Reinsurance Group of America upgraded by UBS with a new price target](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDNsalc2SjNka2wzT1ZTeVdLM0NrQ25BbzJPSEV0VmRHSmNQYldGd3I5MFoxcm9RTDF1cFVaRHFSZHN5dDdhV2ZNMElDRXJBUWlZODlBakotYTVxb3k0UjlKd2NkZ0pSU05zMGVZRUZvMkVsWEV3eWFIa1J2UWdiYUwzQjllR2czSXFTTmcxMEp5eGtDcHBmQnhPOGstQVE?oc=5)
 - **2026-11-19** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Rating Upgraded by UBS Group](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmFpY3ljLUZ4N3JLRVFmMTNBTWhmMmVlUm5qNC02bm9QRzNtR3F0Snd4eURuRDRPMVFRQ2NYODYtdkVUNU1zZGNxMWZDYXdIdDRPaS1iZG4tOXBiNVdna3I1eVgtYUNGNHNUR2xDc1NKaHlvNjJ6UEVrWXZ4YjdKc3pIWHRHVFhDOWhRb1prMU53YXJ1UHdzT0ZaU3Jjdk9kbWNoWFlKQkNBcXZMcHJkS25Fa0V1d0xSYTN2cno4MC1LbVZfSGx5azBNaHJiWXM?oc=5)

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-23",
   "source": "FRED ICE BofA / TradingEconomics",
   "status": "partial",
   "sovereign": {
@@ -14,61 +14,61 @@
   "corporate": {
     "aaa": {
       "name": "AAA Corp",
-      "spread": 50,
-      "prior": 47,
+      "spread": 48,
+      "prior": 50,
       "series_id": "",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "source": "credit.json"
     },
     "aa": {
       "name": "AA Corp",
-      "spread": 72,
-      "prior": 68,
+      "spread": 70,
+      "prior": 72,
       "series_id": "",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "source": "credit.json"
     },
     "a": {
       "name": "A Corp",
-      "spread": 81,
-      "prior": 78,
+      "spread": 80,
+      "prior": 81,
       "series_id": "",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "source": "credit.json"
     },
     "bbb": {
       "name": "BBB Corp",
-      "spread": 122,
-      "prior": 117,
+      "spread": 120,
+      "prior": 122,
       "series_id": "",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "source": "credit.json"
     },
     "bb": {
       "name": "BB Corp",
-      "spread": 229,
-      "prior": 210,
+      "spread": 219,
+      "prior": 229,
       "series_id": "",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "source": "credit.json"
     },
     "b": {
       "name": "B Corp",
-      "spread": 408,
-      "prior": 380,
+      "spread": 393,
+      "prior": 408,
       "series_id": "",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "source": "credit.json"
     },
     "ccc": {
       "name": "CCC Corp",
-      "spread": 1402,
-      "prior": 1361,
+      "spread": 1387,
+      "prior": 1402,
       "series_id": "",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "source": "credit.json"
     }
   },
   "sector": {},
-  "_fetched": "2026-11-24T13:45:01.893504Z"
+  "_fetched": "2026-11-24T23:54:29.827267Z"
 }

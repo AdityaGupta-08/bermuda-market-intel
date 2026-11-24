@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:46:13Z",
+  "updated": "2026-11-24T02:14:17Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -11,7 +11,7 @@
       "id": "d65b129d8bf3",
       "title": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike",
       "source": "Reuters",
-      "date": "2026-11-23T10:15:44Z",
+      "date": "2026-11-23T13:44:20Z",
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVBOV1JkUG5VWHhvOE9VZEFvalhOUmExSjg4X1Y1SnVSUGt2S21aMUtVcWlsVFlmRFE5bW1veGxJc2NaenlkSk1MLUhOUVoxbzktUUptakFodGpHWm15YTZLQnpxNS1LU3F5M21WOTlLaWd4NlZnd01udUxHRUM2N0huV0l1cHgzUkFnOEVIRjRVaTlmTzJLWlJCWDBOLUg1eGNCTEJkUExiZmZxU0RXaUtwOHhodw?oc=5",
@@ -31,7 +31,7 @@
       "id": "e2345c6afaaf",
       "title": "Insurers drive RNF, CFO surge",
       "source": "Alternative Credit Investor",
-      "date": "2026-11-23T09:33:45Z",
+      "date": "2026-11-23T09:39:27Z",
       "topic": "Private Credit",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2J4R0w3dGNnMUFXaG5kVUt6UlQ4cDY5STlkNUpqREJST3FiVm96bWwtYW14MEhKZGdXdkUzT295cDlWNnlNZFM0eVRyY21wcHk4X2pFLUdkMjFfM2p4NDFkaV9TRkxRcDkzSkZQT2Y3VDRhRUNSTHhRYVRuVlFrTm5mdWk?oc=5",
@@ -48,16 +48,6 @@
       "isNew": false
     },
     {
-      "id": "26cf2f67deab",
-      "title": "New Insurance Opportunities: Why Transparency Matters",
-      "source": "Seeking Alpha",
-      "date": "2026-11-22T21:00:00Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmhSX3I5cjVuOEhsbElqTmNsWE1TbW1xQUZwc1U4d2dZX0VKQm5JTlM1eDJTZFNoNGt5c0ZvT05WQ0t3bEtiM2V5aTdwWng5eDZYQ3o2b0FaN3BLRDVqdElwTEFuQUZFQUZKYi1Rd1NLWVNRTnhQYkxOS0Nzc3RIRU5PWHRNaE1QNi1uSTJLeC02TW9YVmc5MA?oc=5",
-      "isNew": false
-    },
-    {
       "id": "886b6f77acfb",
       "title": "From Hawkish Risk to Risk-Off: The Bond Market's Next Big Test",
       "source": "The Dark Side Of The Boom",
@@ -65,6 +55,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVThuUUUzUVhQUzZ6OGFISkNZcTM2dmZ3am5XVG5nRjdNemRfa00tUGRuYVVSd2xkVkxfUkNEMnlHQUNkdk1rQ3Zlal91VTZkeUJNVkIxSTRJbGlzeVI1QlczbFFmbVd1UDlsRTY5UkxPeVBOWnJvLUJKYkV2Mmg4QXk2QQ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "bb31fb2c2458",
+      "title": "Bienvenido a VanEck",
+      "source": "VanEck",
+      "date": "2026-11-21T15:53:08Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUpiNTVnOXNJbGJxZXNOVE82bW4wMzlNeE0tU2VGN2ZHZkFuYnRBcWFZWHhxcXh3Ty1yRWRzN1hpS20wZVRWa3hyWF9rSGhPUlBIdnN2M19nUW9FVTNjck1CZFFnblN3cU0zOFIyVHMxZlREOGgxcWNIbjgzY2FkeW5tZkxDVmN0THZEdWRWMnpvTVlENnBDWDN6S3d2LUxEdmtMTXZlckgwWjNhZGR5RTZycHVXWWhjUGJ1Q0hDUFZDM3RRdFpGNmV5Qnd4dlo2LWkxQ1JrNHExYmk4OUcxbg?oc=5",
       "isNew": false
     },
     {
@@ -115,6 +115,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zMnhQa29RV2RhNUQ4bUV1a2FfVEgtcm5XZDJYbDZ0SF9lS1o3TjlGVEhZRVFLWEx4NDE4Mkl6ZExUX0hYLWg4OC1oSTBOM2szX3d6TDY1eGczXzlIMi1nNllvZGNaVjZVLU1Wb0s4a0liUWoza3c?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "26cf2f67deab",
+      "title": "New Insurance Opportunities: Why Transparency Matters",
+      "source": "AllianceBernstein",
+      "date": "2026-11-20T16:53:13Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNanZ4TkRWdUNJcUlLLU1ycEE4aHkzd1FGVVhNQjRqNnhWZ2IyZ2ZFY19MdVNsampWZjU5WUN1SUI4eGQ4SWdwdHhRNUFtWkwyaHV4UFdvbllRZmdyblhsUk5xMXVvOVVCSUQ4NjhvSXJOdmZXRjdsRVNaR0FEWUI3enhnclpESFFoVU5WbDdDS3dCcFZaVUpwRkhGMlFmakt2OVg2ckNLbnhXQWhnb3lSY3hzYUlWWTJBWWd4TXN6dXNCNEd6a3RCcVZRTVhBYmZQblllVEkwSndQOFBBVjFF?oc=5",
       "isNew": false
     },
     {
@@ -268,6 +278,16 @@
       "isNew": false
     },
     {
+      "id": "88d40b8266f6",
+      "title": "Insurance investment outlook 2027: Optimising portfolios amid shifting markets",
+      "source": "BNP Paribas Asset Management",
+      "date": "2026-11-19T08:00:00Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONXJSeDlFRkNwdTJuT3I2M0dESjZHREJzZlpiYjZ0OHVhZ2YyMUdvZ0dpbDQzRTdPT0ZpeHlSek03cXZsakhnQmRnYXZyZm44TjN2UFlIckE2ZW5iQlFXMVh5MWVUU3FZcXRWWWYyUEh2TTBzYVlrcEctMVhBR0x0OU9scy1HeWg5dkdINEpiX293QXc1Mmg1azNUSkM0NzhBVjduZjFqRkRJdzd1QnRwa2J5Y1FtTUtyMG9VMzJlMHlnblp4QzlSRDlzeng2OG5BUHB2MXg2YVZfOFVSek9mRmluQnA2T1RJRDJfMmtrc0s?oc=5",
+      "isNew": false
+    },
+    {
       "id": "09ee3de260ba",
       "title": "Newcomers shape global CLO market",
       "source": "ION Analytics",
@@ -285,26 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0xDOXpHVDg2U2piSl9qRzE0d1Bnbnh5V0pHTThma0o2RVBuLTdlS0ZNa1QxRzMxYXFaQmVKNHRwelNWXzBSdFBvR3dCNWFOOXg0OGJfNmZ5cGNmbTQxeUtKOTU5eHROcU8tYnE4T0hYbVJicEZBclZlUEtIMVVEUkJiZTdMbUlGSGlGZVByOG9ENjh1Wk5xcUdZUG9VUUJmaUs4bm9lY2xzR2E4NDhkQWh3V3FyeElVRzZMYlkxVlViQQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "bde7ab4f4292",
-      "title": "Private Fund Giants Battle Inertia in \u20ac10 Trillion EU Asset Hunt",
-      "source": "Bloomberg.com",
-      "date": "2026-11-18T15:38:45Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZ1dTVMaWpOX09EZkwweVhXTHFyOUVUOUlWWUYzTHR1Y0pGbkVLYVYxdlpYdHU5NHk4b0VXakZuMWNWTFdxYVNPX0poNHdBZ045azF6OXB3bzdEcW9jclJaY3dJLThEZWJaeV9XdGRXTV81SU9GRlFacjFoelBVUUI2andEZlcycVZEV2ROWS1MQ01TSGZsSFNhckg1Z09Sa1lFbDBkZW9sSmdkaDAyN0Npby1VX3kycE1udzhjWG1vUQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "e56f77d26289",
-      "title": "Private Capital Faces Inertia in \u20ac10 Trillion EU Asset Hunt",
-      "source": "Bloomberg.com",
-      "date": "2026-11-18T15:38:45Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZ1dTVMaWpOX09EZkwweVhXTHFyOUVUOUlWWUYzTHR1Y0pGbkVLYVYxdlpYdHU5NHk4b0VXakZuMWNWTFdxYVNPX0poNHdBZ045azF6OXB3bzdEcW9jclJaY3dJLThEZWJaeV9XdGRXTV81SU9GRlFacjFoelBVUUI2andEZlcycVZEV2ROWS1MQ01TSGZsSFNhckg1Z09Sa1lFbDBkZW9sSmdkaDAyN0Npby1VX3kycE1udzhjWG1vUQ?oc=5",
       "isNew": false
     }
   ]

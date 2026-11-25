@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:37:35Z",
+  "updated": "2026-11-25T19:19:05Z",
   "naic": [
     {
       "id": "92052d807dc3",
@@ -97,7 +97,7 @@
       "date": "2026-11-18",
       "cat": "General",
       "summary": "",
-      "source": "Insurance News Net",
+      "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVdTa0JBb3FWVDJmQzJ1Uk5PYU1LLXl0Z3gxd21icjVMcFZUbGp1X1gyWGJWSzJYY2oxbDdRTlItdmt2MGkzSHhwX0dQN2RvVEY1N0tBSTJ6TUt2ZWFzaFpnTFBVeXVYN0ZhWVZ4WnpkOGRjbEVIZkxkQVE4dmp1Q2l2MXJjM0lVUlBDbUtyZ2UwUlQ3Vm55Qi1ZeHhaTnpqWFhJaHVmN1NsQWc?oc=5",
       "isNew": false
     },
@@ -253,6 +253,16 @@
     }
   ],
   "bma": [
+    {
+      "id": "917161c48f91",
+      "title": "Bermuda regulator weighs sustainable finance opportunities and risks",
+      "date": "2026-11-25",
+      "cat": "General",
+      "summary": "",
+      "source": "Captive International",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjJzdzB2NHN0aHp4R01wcnF3ZnNEckhZS3JtM3BZbzV0Tmt2MS1Penc2dHU1RWlqQThwRUlQZUlvbWkzX2Z1MWNKSl9YWjJKaENxMDZGQU1tcmVUV00wU3VOLWxYQVY3a01TYTY3TW1JSDZIOVF1ellxQkc0QU9mRkM2bUdEcnFfdFFIdXF2UzBmN18zRU9remNSbnJONlRUUnVjYzh1V3A?oc=5",
+      "isNew": true
+    },
     {
       "id": "a3a7fa1ca151",
       "title": "Fund Financing And Bermuda\u2019s Fund-structuring Toolkit",
@@ -491,16 +501,6 @@
       "summary": "",
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEkyWkpUQlZXRjFhcXpoN21ndi1uRUJJb3NmaGlQaHNxMUhEZkdYWU5vbmJ6bmxfbGxjVTBQSm5nWmZmampWNjZIQlVoU0pXUHY0bW1PR1V5VTVzWHYyWHpRNlhEZ3VzR2RwNWRQQ2MwRWRlR2RmU0lWRUVjQWZOYWpuMGNESWxkMnVoQ3ZFMl92NmRJTUNXOXowTGcyT0htcGZ1eG1PRzhDaFNsUnMtZGFCZUEyMDVia3hIeHdBTS14RGpmQXVJNG9xN0g?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c08cc230fa97",
-      "title": "A look at the BMA\u2019s AI consultation paper",
-      "date": "2026-08-28",
-      "cat": "Governance",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0tsTC1oWm1KTVJNcklfODRlRUw4cDdUOExSUjJuRnEyS0hMSFowOHpmS1B3YjJ1WlBNNnlRR2pTUGw3UGRJNE13bDRQNll0a3hZd05rZUV1clhNTDNTSXBwVWhqZFFYZWp5cUtkbTFPSGpRQVh0UTdVNVRYZ0dod1BYS05qVzJJVjZPd3AxSmQ4OElJeWliQ092VTFiTmlDcVBJUnJYV1BJQk1JSk5fSUVFTGRXeEZtYlc0?oc=5",
       "isNew": false
     }
   ],

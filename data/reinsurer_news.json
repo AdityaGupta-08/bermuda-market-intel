@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:37:38Z",
+  "updated": "2026-11-25T19:19:08Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -29,7 +29,7 @@
     {
       "name": "Google News: Fortitude Re",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 15,
+      "count": 17,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -112,6 +112,30 @@
     }
   ],
   "items": [
+    {
+      "id": "ec15c9601c9b",
+      "title": "Case study: Talcott retail annuity transformation",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNG5oaUhSZkMxUFJMa29TWXl4S2xJeGNwX1YtYVlKMDU4S0JjRlNWQUR3N20wQ2ZrUC1FQzEwSE92U1hhZGhENnFBcVpfeEhVNENzOEFGRzdmY01jRlZJakxHVUdYS2owT2YzcU9FR2RIa1lFOVJFV19BdTIxbmR5SlFfUldVNlNESkktOWNSU3BWcDAyM3NQdkdQVFlTckpZalEyaEw4ZUxlQjYtTnc?oc=5",
+      "source": "EY",
+      "feed": "Google News: Talcott",
+      "date": "2026-11-25T14:36:31Z",
+      "summary": "",
+      "companies": [
+        "Talcott"
+      ]
+    },
+    {
+      "id": "9b3a464b9c90",
+      "title": "Reinsurance Group of America, Incorporated $RGA Stock: State Street Corp Decreases Position",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXZxaDhRV3QyalljMHJNdUxwNG5Danh5T29hNFdyZEtfSHdNY0xQSVNrMFlMeHBtN1Vqa3gxQkNJTU9xczVnd19EUktjUnZPVW5EQWRHU2tQLVA5MkVLU2NPTlpCZlI2a0M1RWU0b0wwUU9kcWJKNTdLcHhkX09yVTJwazYxX0xkTTZHeHdyT0RYMlU3eXFHZVJLbkpyTlRSLVo3RHJ0LUVOMjJVYWQ2RWd0M2IwWjBCd0lXRDM0SkRYajZqUG43a0tkS3FCalpGYU5wRVI4bllvUGc4TndPcTJycw?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-25T10:09:17Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "9e0a35ca35eb",
       "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
@@ -1922,18 +1946,6 @@
       "summary": "",
       "companies": [
         "Talcott"
-      ]
-    },
-    {
-      "id": "2e29ba6aaaa7",
-      "title": "Reinsurance Group Of America Could Be 8% Undervalued After Four Straight Earnings Beats",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVG5rN2RUQmV5ZmYtaUVuRVhlU01KREEwQ0dBZG5KRU9EV1NyQTRYV1hIZEhZMVlUdlBRQWFYY0tNV3hZaFhrYklrQkdITUZwZkF4cU9aZVJJdmZsUGR1VGFBblVpN2h1blBhdlR6WTVLYmhzcDdmWXBLeUExYTlJZnp6ZHJ0cmh6NE91dXFkM3VyaUpDbk9GNWZYRjU0WS1QNWx0Q0NmelZoSWZveWhfSkFYbkVtekRpRmZBZWZDTHBqbEZaUjRscmJnSk1jM0lIeDlMRDl5NDV4Tlk3U0HSAeMBQVVfeXFMTzYwQWo4alVoVE9ScFZPUEtKaW5FeUk5OGF6RmRCSnZtSUl1T2NBWVRfUHdoYk1kWUJHamV1V2NHYWtpMFlSM3pNR2h4QWFGSkhhc0c5ZnVvVV9XSHhOWi1zUWdDV25fM1RLLWdtdjN4eE1CZjFsRERtUE55RzlyNU5sSDVEeExlUHFHRWRaYVp3U3ZLSzV0TFFOQlZoTHhWbDFfMnFGdFRwZDNicXh1eXEybTJTSU9hT3AxRmQyRjZNeHN3dFh1UE9ZXzFPMzBCQ01VU3dWQUhWcU8wazFJbE45bVk?oc=5",
-      "source": "Simply Wall Street",
-      "feed": "Google News: RGA",
-      "date": "2026-10-11T12:33:25Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     }
   ]

@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 39 items
-Generated Wed 25 Nov 2026, 04:37 AST
+Generated Wed 25 Nov 2026, 15:19 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 58 items
+- ✅ **Google News (16 of 16 companies)** — 62 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -31,7 +31,10 @@ Generated Wed 25 Nov 2026, 04:37 AST
 - **2026-11-18** — Royal Gazette | Bermuda — [Fitch affirms Fortitude Re’s A- rating, citing block deal growth](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1BidGhEOUk3Tklxbmx1MVdVSXVLWWdxalhwTEV4XzZUQXFQX3lUeDB3WlVhbDBDVGFTZTZSQWY1S0dIODR4UUJZaTJ6ek9xTGluNmdhT3pVME55WGlJN2wtSXN3U1ZrdXNRbW1aOHR2U1V0Zi05TndNeDZfYXZxZGQ2eWlheV9wWDJWbXM0TmNWaVdnaXFJYkZaYzJ5UkNXZWJLQWpvekFUeDY0NGt3VWh1SDZMV2c5UjVFWHhWVW9JdnVwWm05cw?oc=5)
 - **2026-11-18** — Wisevoter — [Fitch Affirms Fortitude Re at A- Financial Strength](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGh6RkhUeXFIbTIyZ2MxOUNrelVVMFNubW9uTHVyRU5oOGE4Q3pSenE3Nm1IcVhNRTRBaGJ6cGJqbmlVbGJ0NHh0SVNObDlLUDI2WWZvbkkzNDZWMklza2lzTEVPWW9sb2dDaVJtVTE1ZVVhc05sQXlxTjBudkItVXkzSS1rTVk?oc=5)
 - **2026-11-17** — Traders Union — [Fortitude Re ratings affirmed by Fitch with stable outlook](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFdNd1liMkMwTVhvekdoM0l5NmhkYUVPakxiT0tBVGgwc0FPekJMbGxMcE14T0R5UVN6Q1JYSjdjUEFaSnBacUcwQVM3b1BSbUhyZ3lPbm1mVGZfZGhneVQwa0VSLTFsbTJldTBIODZSLXpDQUZOa09DUDlTTjVlM2xFOTJxWDdWUVJzSk1ETl8?oc=5)
-- **2026-11-11** — ইন্স্যুরেন্স নিউজ বিডি — [Fortitude Re Completes $3.8 Billion Unum Long Term Care Deal](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laHlLelZmQTQxV29HR09mN0tJRUExbnd6T3pMbGR2TEZJdElseXV4N2hJbVp5QXNaS1VuZmM3T2xQdzJycUVDemtBc0QwTGZ4dmpqTzBLczFfakt5VXc?oc=5)
+
+## Talcott
+
+- **2026-11-25** — EY — [Case study: Talcott retail annuity transformation](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNG5oaUhSZkMxUFJMa29TWXl4S2xJeGNwX1YtYVlKMDU4S0JjRlNWQUR3N20wQ2ZrUC1FQzEwSE92U1hhZGhENnFBcVpfeEhVNENzOEFGRzdmY01jRlZJakxHVUdYS2owT2YzcU9FR2RIa1lFOVJFV19BdTIxbmR5SlFfUldVNlNESkktOWNSU3BWcDAyM3NQdkdQVFlTckpZalEyaEw4ZUxlQjYtTnc?oc=5)
 
 ## Venerable
 
@@ -41,6 +44,7 @@ Generated Wed 25 Nov 2026, 04:37 AST
 
 ## RGA
 
+- **2026-11-25** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock: State Street Corp Decreases Position](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXZxaDhRV3QyalljMHJNdUxwNG5Danh5T29hNFdyZEtfSHdNY0xQSVNrMFlMeHBtN1Vqa3gxQkNJTU9xczVnd19EUktjUnZPVW5EQWRHU2tQLVA5MkVLU2NPTlpCZlI2a0M1RWU0b0wwUU9kcWJKNTdLcHhkX09yVTJwazYxX0xkTTZHeHdyT0RYMlU3eXFHZVJLbkpyTlRSLVo3RHJ0LUVOMjJVYWQ2RWd0M2IwWjBCd0lXRDM0SkRYajZqUG43a0tkS3FCalpGYU5wRVI4bllvUGc4TndPcTJycw?oc=5)
 - **2026-11-24** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-20** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Has Average Price Target of $292.25](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVlHMS1Gd2ZrRE1FZ2ZXaUY1NjFGblZValowZ2F0ZEJDbGNOX2hEb0h4bThQMklHZnJNWnc3YW5JWGo3WUdibXVTbklTX18wbVRLMGM3VFRrY05TUFFoUHlVM2c2ZDlpdkhLZk02Yzc5YWZ2dnZjcUhxV1lsek9oQmthRTNnam5rbDVXNEhkSXhHUVV0Q0d0R1p0RG1iemFHVVJxUi16VndSVnRLMkNXUFZNa3cwaFVLaGJ4LV92bWZxRmp5dVZKbWE2aWRWdmhoVV9UUkQ1TGdDeElZX2pKZlRLZ3NmVWZDNEE?oc=5)
 - **2026-11-19** — Quantisnow — [Reinsurance Group of America upgraded by UBS with a new price target](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDNsalc2SjNka2wzT1ZTeVdLM0NrQ25BbzJPSEV0VmRHSmNQYldGd3I5MFoxcm9RTDF1cFVaRHFSZHN5dDdhV2ZNMElDRXJBUWlZODlBakotYTVxb3k0UjlKd2NkZ0pSU05zMGVZRUZvMkVsWEV3eWFIa1J2UWdiYUwzQjllR2czSXFTTmcxMEp5eGtDcHBmQnhPOGstQVE?oc=5)
@@ -52,7 +56,6 @@ Generated Wed 25 Nov 2026, 04:37 AST
 - **2026-11-16** — Yahoo Finance — [Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5)
 - **2026-11-15** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Plans Quarterly Dividend of $0.98](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTZXMDZZV3VYUmRGUm1ELWxIZERpNVpDX0dhbnN5YVhDVjNmeXlqN1hjUm9tY1ZYWER2YjJEYkxtaERZNEN3cWJ5TG1Ja1ZJb1pyT0xmLUdqMl9XeFBNNThUS0ZPLUdyOHlvOFpZWHZDQWxpZk9RX0thc0xsTkxyZXRWUHIzV2RWVnduclllaFljS01GS0hWMUFwRGlZRVZudVBnLU5QQmp1MkxLbU83cmNLbnRzUUhtM2Njbk02OFNudzRCNkZmdGIzSzBucmlhQUN4blN3bFgtYjFMaVE?oc=5)
 - **2026-11-13** — TipRanks — [Reinsurance Group (RGA) Q3 2026 Earnings Report - Results, Call & Slides](https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWHhVNEY1S0g3eEZxd2JuOWlGdzV4TVVCMVhXd0pxNWpISllQN3d0LTVNcF9wRktIMUgwMVFNRGVUUkN4VkdVR3l6blplYTZHVDhJM0FKU0JtYXZhZHpoRzlVMXJJQXZHNE9r?oc=5)
-- **2026-11-13** — Stock Titan — [CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5)
 
 ## Sagicor
 
@@ -66,7 +69,7 @@ Generated Wed 25 Nov 2026, 04:37 AST
 - **2026-11-11** — www.marketscreener.com — [Sagicor Financial : Management Discussion and Analysis (image/SFC MD%26A Q3 2026)](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFQwdFVpRG45cWZNVy02RENaXzJqR3VKNTdHN0NtRWgwMzZ0MVRBeWlHaEMxdldGZG9yVWdod3Awek4zcUU0OWg0ZDl3YjNMRGRsYlFYV3I2VS1wNDk1cEZ1YjAxSEI1YlFSYUE0aDljSThxSGtfTENTU05IMXYxOGJsX2N1b2tEV2tBMFBqMEVRdDRGSE5xSDZKS0VFZ3VTbVFrVFR5MU5ZdTRUOFRlTGc0TjA0VEdLMG83NjBDRGladTZ5eldtRkxB?oc=5)
 - **2026-11-11** — TradingView — [Sagicor Financial Reports Third Quarter 2026 Results](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYk1rUmZNd3pqd05MZndrUm1OTDZvY1lNTmRlS2ZWaEJyNlpOelNVTVFBTXdBbWEtMktfODNVWG05akVjRGdpUnNTWERXckI5bnZBRnBfVC1Pd1hfLWJtaTJSR1FxREhqOHFXMzNIcUJIMkxCbm03QUMzZTRXQVNnVWZqVXVMSEZMVFEwZDA4SVotcG1WNHZWT2Y4RTJyck5VSXcyWmJNUmR1S2pZZUNCQl90bw?oc=5)
 
-_No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Talcott, Catalina_
+_No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Catalina_
 
 ---
 

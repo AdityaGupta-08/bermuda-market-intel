@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 39 items
-Generated Tue 24 Nov 2026, 19:55 AST
+Generated Wed 25 Nov 2026, 04:37 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 67 items
+- ✅ **Google News (16 of 16 companies)** — 58 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -14,7 +14,7 @@ Generated Tue 24 Nov 2026, 19:55 AST
 - **2026-11-13** — Stock Titan — [Athene and Apollo entities report shared power over 608,000 Calamos (CSQ) Series F preferred shares.](https://news.google.com/rss/articles/CBMiygFBVV95cUxPay1TbGthYW1HQVpLZGx2ZENEck5YeWJ3RTVkajk4MU4tanVmMDhuNFBmRFBEei1RSXU3ZFlqZTVkQlpxWGUwalNHV2pTLWlpcXZEeGFyVW1zSUhsb0RLbmtsYUlNZTlaNUVDbkRZdXJuQjJIWmxOYy1jUTMzQUNUOTZEQ2FBZ2F4aUF1U1o3VW5pUGtGSTZpVWdpZ1hkc0JHR0pYTHFHbnYyQzlRajktN0NiMlU3SjJVTjZkTTZtWUROYnU1TFVvSm13?oc=5)
 - **2026-11-13** — Yahoo! Finance Canada — [Athene Holding Ltd. (ATH-PA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FcDdZY3lURHgybjVRVEFPWHBsdVpRaHZsMU9lZDdOS2hibHFrY0VJQWNTTXdrdVJHUEtVaWRFam10eDkyem9UWGo5ZzhJMjN2NGhaUQ?oc=5)
 - **2026-11-12** — Stock Titan — [Athene Hldg (ATH) Stock Price, News & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5)
-- **2026-11-12** — Insurance News Net — [Athene CEO criticizes offshore reinsurance, risk-taking by competitors](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5)
+- **2026-11-12** — InsuranceNewsNet — [Athene CEO criticizes offshore reinsurance, risk-taking by competitors](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5)
 
 ## Global Atlantic
 
@@ -48,8 +48,8 @@ Generated Tue 24 Nov 2026, 19:55 AST
 - **2026-11-18** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdDWUxOcUxZNHc0ZG5VRVVCWXRaczFqMUxwRVdoMWhkVkFyb1NKd2RJME91VlZydzZ2NzFRR3VQOERDa2FlUVJ1UDE0UUtlWHFJRG51bXQxQnVpQUN4N203WDFteU5MY1pTcFpWaWUxdjhQS2pGcGlEUk01N09ySURDLXcxQml3VlF1RWxBYw?oc=5)
 - **2026-11-17** — Yahoo Finance Australia — [What Makes Reinsurance Group (RGA) a Strong Momentum Stock: Buy Now?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEg5dldEV1BUQ1V0bDMyUG5XYmc2bHdxMFRlaDBOTXRVYllBVXI5OXVkeTNuQTgzY2ROS0xwRVA1U3dPSlQxWExLbEU1MC1reGdFQzIwOEhxUHdCdWw4Wk12RWJTNWhNS1FJemxYZjJMT2dmSTJfSk1Ed0t3eXZjeGFGN0plOTMtS1NF?oc=5)
 - **2026-11-17** — ChartMill — [Reinsurance Group of America (NYSE:RGA) Fits Minervini Trend Template With High-Growth Momentum](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDREX2Q0ZGw3OUMtdzN6QTFrR2M3UGZYRVhUQkVBVEg3d0l0Tkw0UWwtb2hGT3R0djJCYzNQeXFNR3BMZ1lKRmd3SmdvNUlSRDE3WUxvbGx5Y3dxT0ZvZzJtTlhmQTRrZ05IQWw3QmxKQnlieVRKZVg3OVNSOGNxQ25hWUZWMnpjQ3U3RGgzc252V1I1NFVxZEFPNnM4ckxsbGMwODdfQmJNbDg1MDFTdTB3dFNVT05jRDJUbmd5cnhYYzFWam45TVp1eGplZ3RFWkotZGtTOXRvcXc?oc=5)
-- **2026-11-16** — Yahoo Finance — [Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5)
 - **2026-11-16** — Simply Wall St — [Reinsurance Group Of America (RGA), Why Is The Market Paying Closer Attention?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVRaU1g4QmhVUlp3ZXlmQmlMeHNYTm9LSFRqSmptWmZVM0dIU1QzbTlZMTNSYnpmQjd1WDFvTHYzd29KRlVySGxRbm0xd1l0Y2hMTGFucWJXVTZEN0F0SkxxNFl3RVI0cW1OUGV2RzIwYmE4VFdZbC1ISkhNN2tFWW4wRXlUTG5lWlBsdU0yMkZDU1Q1OFJMNzdnSDZob1JKcUgzTlI5WHFtT21ZMFUyMnNwRGxGTllpX1d1T1FSTW1icUxBeXd6Si05TVF5YWNndV9lUHFSUldBN0IwMkHSAeMBQVVfeXFMUFJ5d0ZuUmZ0N1lpNW1TdmxHYTBwbndkWW9wQUFpeTVMZHhwbmw4eHZPbmpZTEZqTGZQSGF6d2s2UVBnWkR4UTF3S3V6NW1IajVTMk5Makhjb2R6Rms2RGVRTzRYZ29RQVdSNUdlUjNyZUlJcUFHM3FWY000U2tYUXJFNVlYRVJPY25YbFVhTlVmbjNFWlI4OFBGcXBTdmJCcG93YVUyOENJZkVwX21Zd2lUMGIxci1IeGxfUmV4RVppU2hqRjJIYVRqcnZwRkVTMU9hOWlaZzlyMXNiSnF2VllRek0?oc=5)
+- **2026-11-16** — Yahoo Finance — [Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5)
 - **2026-11-15** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Plans Quarterly Dividend of $0.98](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTZXMDZZV3VYUmRGUm1ELWxIZERpNVpDX0dhbnN5YVhDVjNmeXlqN1hjUm9tY1ZYWER2YjJEYkxtaERZNEN3cWJ5TG1Ja1ZJb1pyT0xmLUdqMl9XeFBNNThUS0ZPLUdyOHlvOFpZWHZDQWxpZk9RX0thc0xsTkxyZXRWUHIzV2RWVnduclllaFljS01GS0hWMUFwRGlZRVZudVBnLU5QQmp1MkxLbU83cmNLbnRzUUhtM2Njbk02OFNudzRCNkZmdGIzSzBucmlhQUN4blN3bFgtYjFMaVE?oc=5)
 - **2026-11-13** — TipRanks — [Reinsurance Group (RGA) Q3 2026 Earnings Report - Results, Call & Slides](https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWHhVNEY1S0g3eEZxd2JuOWlGdzV4TVVCMVhXd0pxNWpISllQN3d0LTVNcF9wRktIMUgwMVFNRGVUUkN4VkdVR3l6blplYTZHVDhJM0FKU0JtYXZhZHpoRzlVMXJJQXZHNE9r?oc=5)
 - **2026-11-13** — Stock Titan — [CEO Tony Kin Shun Cheng receives 1,727 net shares at Reinsurance Group of America (RGA).](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkxlSzdDaWVsd0QzMVlqd1k3LVlKbTNFM3pwRm13d1liR0VfSUczaGRVNUtWbVE5QW53WHJnTVQ5Wm1lZGhuRmlYM1NGZmMzR21aLXpHUE5HSkUzREdtMDYxYU9pektKMV9KMjBxWW1LQXV3cEFHOVF5NkNBdzBfU0Z2RXlRMFZrTTdTNUxYaFVDZm9FYlpLSTZVdThKZTNsTTZGQWt0Nmh4VDhBelhWWldWSElBcTJvTE1BaTQzZ0F6ZzQ?oc=5)

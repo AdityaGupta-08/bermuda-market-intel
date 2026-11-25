@@ -1637,8 +1637,8 @@
     }
   ],
   "year_ago": {
-    "rate": 3.96,
-    "date": "2025-11-24"
+    "rate": 4.01,
+    "date": "2025-11-25"
   },
   "term_rates": {
     "1M": {
@@ -1661,5 +1661,5 @@
     }
   },
   "note": "Published daily by NY Fed at ~8:00 AM ET. Averages are backward-looking compounded (30/90/180-day) via FRED.",
-  "_fetched": "2026-11-24T23:54:34.478141Z"
+  "_fetched": "2026-11-25T08:36:24.669579Z"
 }

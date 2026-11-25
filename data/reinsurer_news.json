@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T23:55:37Z",
+  "updated": "2026-11-25T08:37:38Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 16,
+      "count": 8,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 16,
+      "count": 15,
       "error": null
     },
     {
@@ -353,18 +353,6 @@
       ]
     },
     {
-      "id": "18a5f8ae2ea2",
-      "title": "Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-11-16T13:40:03Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "0c7182d645f9",
       "title": "Global Atlantic launches ForeIncome Flex",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXZCLXdNU0dYbVpCODFWUlV0SjZiVlJsRjR4Yjltem5XMFRWNDh5bXdicldBUVpfME1KRmZnVC0tcmRhdkJERkFqQ1pBaDJUaXh4aE9NUjZnOUZLTFNzYzdKZGplSjdGWVFUWjRCT0ZBZUF3WlNnNW9hS0FqSzNnYnhLYUY3bVE?oc=5",
@@ -393,6 +381,18 @@
       "title": "Reinsurance Group Of America (RGA), Why Is The Market Paying Closer Attention?",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVRaU1g4QmhVUlp3ZXlmQmlMeHNYTm9LSFRqSmptWmZVM0dIU1QzbTlZMTNSYnpmQjd1WDFvTHYzd29KRlVySGxRbm0xd1l0Y2hMTGFucWJXVTZEN0F0SkxxNFl3RVI0cW1OUGV2RzIwYmE4VFdZbC1ISkhNN2tFWW4wRXlUTG5lWlBsdU0yMkZDU1Q1OFJMNzdnSDZob1JKcUgzTlI5WHFtT21ZMFUyMnNwRGxGTllpX1d1T1FSTW1icUxBeXd6Si05TVF5YWNndV9lUHFSUldBN0IwMkHSAeMBQVVfeXFMUFJ5d0ZuUmZ0N1lpNW1TdmxHYTBwbndkWW9wQUFpeTVMZHhwbmw4eHZPbmpZTEZqTGZQSGF6d2s2UVBnWkR4UTF3S3V6NW1IajVTMk5Makhjb2R6Rms2RGVRTzRYZ29RQVdSNUdlUjNyZUlJcUFHM3FWY000U2tYUXJFNVlYRVJPY25YbFVhTlVmbjNFWlI4OFBGcXBTdmJCcG93YVUyOENJZkVwX21Zd2lUMGIxci1IeGxfUmV4RVppU2hqRjJIYVRqcnZwRkVTMU9hOWlaZzlyMXNiSnF2VllRek0?oc=5",
       "source": "Simply Wall St",
+      "feed": "Google News: RGA",
+      "date": "2026-11-16T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "18a5f8ae2ea2",
+      "title": "Is Reinsurance Group of America (RGA) Stock Undervalued Right Now?",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU5aM1htZ1Y1RlE5cmZUaXZ4MmFfNnR2R2RxeW1saEcyQ3RrUEhOYUdfcGFyZWdnZ1dZWlR2Z2NlVjJ2V3lPWkhJZ09oNGd0dzB1VGdOd0FicVgwR1NQNVBaOU80bE5HOW03aG4xTHVkTG1sVjhoMHhpTFFtUU52UkdQYm9mYmdfbzVxNjluUU5MUi0zdmlXQ2tCMEgyN1h4Y3c?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-11-16T08:00:00Z",
       "summary": "",
@@ -644,7 +644,7 @@
       "id": "a507ec8bdc51",
       "title": "Athene CEO criticizes offshore reinsurance, risk-taking by competitors",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5",
-      "source": "Insurance News Net",
+      "source": "InsuranceNewsNet",
       "feed": "Google News: Athene",
       "date": "2026-11-12T08:00:00Z",
       "summary": "",

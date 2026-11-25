@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T23:55:35Z",
+  "updated": "2026-11-25T08:37:35Z",
   "naic": [
     {
       "id": "92052d807dc3",
@@ -69,7 +69,7 @@
       "summary": "",
       "source": "Insurance News Net",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkxwSVRheUpMV0J5RGNtak5Xc3AyY2ViT1FEREJhZU9VbF9KRUdrZ3lWbzQxenFTT0JZZzNjMTFDczF2Nk1iQzV3X1l4d09TalFxRGZmN3g3QXdvLXJXOXhmeEd1U2ZZRXIzVHZsSFBMeWFRbTJaWkF3SmZadUxHZUVxUW9ieFJFQk1TNFo2V0I5U1JkMjB3MTBjYndtbXZOQlV2NjhfMnlsOENJUHI0TFpNT0U?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "00d19d8a3fb7",
@@ -77,9 +77,9 @@
       "date": "2026-11-18",
       "cat": "General",
       "summary": "",
-      "source": "Insurance News Net",
+      "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaW1oeHZOc09oY002cEt1eTRhOTM1eXNhdkVpdGlYcHIybW9Xbl9razFSY1FoZXI3ZkgyTU5WX2gxVEFwX3l6ZWljWXFrMDByNi15Mi1hY25zdXVLekV0Q1hSWE9RMWxlUWVxRU9SWjlWSkxmRXVtS1hkNG91Vno5WUVQZw?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a881f014c454",
@@ -89,7 +89,7 @@
       "summary": "",
       "source": "Legal 500",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeU1Pa2U1MmtnQkNIUHp4d05lQy04RVVTRHBEc1ZtOXRibk1fQS04aUZQUl9ud1QwTmdnQnhLdV9qZVQ0WldTSzVtTmFUQ3VlcFR5TkJCdmlJWjFvb3l5azdLRVdULXM1N3kwbndiTHJ6dnRhX1ZqT3ozUmZHTUJmNUdPY1B6TXMtejZNNnQ1SFE2OTNvcngzbkJRM0xXV1VsVFBudXRPaEsxODRJUVRhYUFrTkJrV2tndTZLQ2lOb2dnVHIwV1p6WlJzQUZ6dVVpd0lYVVFERk5ycnRMc0RKSGZtbTdoOW44dkE?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4a329bd581ee",
@@ -99,7 +99,7 @@
       "summary": "",
       "source": "Insurance News Net",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVdTa0JBb3FWVDJmQzJ1Uk5PYU1LLXl0Z3gxd21icjVMcFZUbGp1X1gyWGJWSzJYY2oxbDdRTlItdmt2MGkzSHhwX0dQN2RvVEY1N0tBSTJ6TUt2ZWFzaFpnTFBVeXVYN0ZhWVZ4WnpkOGRjbEVIZkxkQVE4dmp1Q2l2MXJjM0lVUlBDbUtyZ2UwUlQ3Vm55Qi1ZeHhaTnpqWFhJaHVmN1NsQWc?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aaa41baa8283",
@@ -324,6 +324,16 @@
       "isNew": false
     },
     {
+      "id": "d136d3966ee6",
+      "title": "Bermuda Economic Substance Amendment Act 2021",
+      "date": "2026-10-30",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2J6RHNvTXpHYzI5R19ycXN5dl9RNHBqWE5CbTdmd3U1Y2FLemN4akJBcjJVVzlyY1R4YUdDQUlvS3FmUWJMcl9CQ2ZuWklpVHFjeEZUM2RWSEJHdXRLZHV0Tk5Bd1FDekViNlh0SVE0bU91NV9hSmdZMl9xSzNDamw3VkF0Q09rNklfQnQ5a21mU3cteThORG9GMmJfY3hxWG02Y0drRTNjUEoycUFHQQ?oc=5",
+      "isNew": false
+    },
+    {
       "id": "b8294c526c07",
       "title": "Bermuda Digital Assets - October 2026 Update",
       "date": "2026-10-28",
@@ -341,6 +351,16 @@
       "summary": "",
       "source": "Legal 500",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbEpvcGphMWJtNE5RUXlObkpxRnNya0pLZzFQRmpRc1haYjc0azNiVlR5bTVBaTNQLTIzbVBfaFZSQlAwN0ZUZjVrb1R5YnM3UnZtMS0tSjA4emNqLXNmTVNtOU1YY2wtTDlPZEk3dVRQXzc1UVdmVXhmQkRsTnd6Q1ZtUGtFMDZ3RXdIazZ0Rl8xSnk3bjdCdEx3UjZYWU9ZWVo1VUM2TUJuOENxZHN5Y1BR?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "f153beb7bf95",
+      "title": "2026 Bermuda International Life And Annuity Conference: Key Takeaways",
+      "date": "2026-10-22",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSUhuX1NVcGNTVWpMOEc5QnBwTnNvUUlnV0d0cVpLbjJwbFdpWjJ3Z2V6a2Z0R3F0TVUwczlnM0RrWWZ2TXpsbE1PT0dyOXBVUnVYQnhzYkk0SjhsSllLZ0FhMXE3dmxFb1hDMWROVW1vMGJSbFVFWG5uVEhWWThWWUdfZDRfNk1XNzBmM05BWWs1bkJQUkJMc05aaHpiU25tSWR1NXdhN3ZwS2F6SlRENXRvczJMQzNMaVgxbzlnOFViQQ?oc=5",
       "isNew": false
     },
     {
@@ -482,29 +502,49 @@
       "source": "Royal Gazette | Bermuda",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0tsTC1oWm1KTVJNcklfODRlRUw4cDdUOExSUjJuRnEyS0hMSFowOHpmS1B3YjJ1WlBNNnlRR2pTUGw3UGRJNE13bDRQNll0a3hZd05rZUV1clhNTDNTSXBwVWhqZFFYZWp5cUtkbTFPSGpRQVh0UTdVNVRYZ0dod1BYS05qVzJJVjZPd3AxSmQ4OElJeWliQ092VTFiTmlDcVBJUnJYV1BJQk1JSk5fSUVFTGRXeEZtYlc0?oc=5",
       "isNew": false
-    },
-    {
-      "id": "ab0e896b3799",
-      "title": "BMA takes first step towards bank-failure regime",
-      "date": "2026-08-27",
-      "cat": "General",
-      "summary": "",
-      "source": "Royal Gazette | Bermuda",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVlNweFlyMy1yRV82Tk9BY1JKbW4xa2hpNU5JX2ZRTlkwczBRbnNHRTVkd3JwVk5LazU4ZHdjY1dqbG9iOXFZT2tuZ1c4V1V4TWhoY2dIcFU1OXJVYTh4dFlRNDB5c0F2UVVMNjBXbENKRGEyVEV2aVo1X0N4RGZySVBubTdsdFQwT09qSUN5VkVmZFFxbDVYbVBlRDhPXzNvbUI1WVQ4Z0dnV25DVjR2MkVXb0RiOFZFVWxr?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d2292a4da23f",
-      "title": "Official Govt & Legal Notices For August 26 2026",
-      "date": "2026-08-26",
-      "cat": "General",
-      "summary": "",
-      "source": "Bernews",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83QXNnMlpoUnBXT3NYR2ZtcXFzR1FxY25UYVBoVE14cjdIWHhIMU1selltV0dSVzdhN0twSXY4SWhob2V3a0hvNG00WkxsdDhFeFBheTl3bXZyOHduaF9wNW9Cck5wV3RrYmQzZ2pDWEFOVkl2UEo1RnA5aw?oc=5",
-      "isNew": false
     }
   ],
   "cayman": [
+    {
+      "id": "84557da6e528",
+      "title": "AML Inspection Cayman Islands: 2026 Readiness Guide",
+      "date": "2026-11-25",
+      "cat": "General",
+      "summary": "",
+      "source": "Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLThuRUhhYWM2SXRTcFRGM3Y4VzRwMTR5VVVBd1VuN2xkNWhTYnFhdGVFNVZBY0lWWHBub1ZUQnJPbW9VRURKeHBxU1VfU3BuYm5BeVdkOXpvZ3ZkSFRZNll3WlNtWF9SdExPMTVpdjg1SUh1Ny15MUd6WnI5V0gwYUk5LWotXzc0TTBQLUljaEZ6cTNNYVJMbQ?oc=5",
+      "isNew": true
+    },
+    {
+      "id": "59fecfd4ed21",
+      "title": "VASP Licensing Cayman Islands: 2026 Guide for Business",
+      "date": "2026-11-24",
+      "cat": "Licensing",
+      "summary": "",
+      "source": "Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDltaS13MFB6WTZkRGZRb3V2RGI1S1UzQ3BXZGZWdmlWYmIyNEFCT2VvWEw3dTQ4TFJ2cFhSaVdvM09oVmpEMGJhX1FKTXEzWHc0R3Z5OHRkMjdsX3gtakZucF8xYm8wMWdfU09LMTJBaGVUQnZMeF9IWkJCeHpCTnRZZEFmLWhYZkRrR1Vud3g2MUY4RUE?oc=5",
+      "isNew": true
+    },
+    {
+      "id": "d1e1a81668c6",
+      "title": "Money Laundering Reporting Officer Cayman Islands Guide",
+      "date": "2026-11-24",
+      "cat": "Reporting",
+      "summary": "",
+      "source": "Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXZGbDFWSlZJdENnXzlYd3B6UU5nRGhrb2puQXJkRlF6ZzZ4RDJ1M1l5VWJSWm9HNEZGWWpDUE9uVVV1S21rN25QSWxTRDYzc3ZWMlRmenkzbzU4LVRSZUlJcWx3UmJKaEdzMkktM1hUbS1VZlFybE1JcWNMUjhFRUFqMmRSeHd3Yzg4dU9mLWI5SllwRG5GQm1oZlFFYXRn?oc=5",
+      "isNew": true
+    },
+    {
+      "id": "b4fac3a459cc",
+      "title": "SPV Director Duties in Cayman: A 2026 Governance Guide for Boards and Sponsors",
+      "date": "2026-11-22",
+      "cat": "Governance",
+      "summary": "",
+      "source": "Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWE14cXQtaTMwSDZrRTRQZ1BVaGlmMUl6VWUtNklIZkxDd0hSbnBfNEoxTzc0VFl2dnYtakFwek9YcEdmZ0lQUEVCdWdGSjlHWUQ1NHh6OWxUU3NjWXF0SV9NZUljVW1QLW81UmRWeEtrSmJCLW1ISzk1OXZST3ZVOWZEWGZqLXdGUmNLeE9IQkk?oc=5",
+      "isNew": true
+    },
     {
       "id": "0aa7041fb4b7",
       "title": "Insurance Prudential Requirements Cayman Islands 2026",
@@ -616,6 +656,16 @@
       "isNew": false
     },
     {
+      "id": "17bacf138aa1",
+      "title": "The Cayman Islands Makes Its Mark At The NAIC 2026 Summer National Meeting",
+      "date": "2026-10-02",
+      "cat": "General",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbk9SYWZydW5LQlZxSHFmam9XS3JuVll6MnNucWlDLXliYU1MblhtVHhiSDh0d3RuWkhzVGhCNi04ZkFwMl9iNUIwZmlBX3N5aWpCUkVzSGRGSEQxUlFXRUM2MkdRUmJNVGFRMVZMeVlKTkZzTDdJdGVRVndlcmxxdDc1UjYtRjN3VWh1cWFzNlVnSDllTmNMV0VOMTJLVWx2QTExbUJYaEViZFFscEZwVjRVU1hKQ29HeFdUVms2RFoybjY5Vng0aWdWbWJsSWpjdWhF?oc=5",
+      "isNew": false
+    },
+    {
       "id": "4c91980eada9",
       "title": "Appointment Notice - CIMA+ ANNOUNCES THE APPOINTMENT OF DENNIS BURNS AS MARKET LEADER, PORTS AND MARINE",
       "date": "2026-10-01",
@@ -643,6 +693,16 @@
       "summary": "",
       "source": "Legal 500",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTlJ0MDNFRllQOVRlZ1NnZ1pDUV83YVA1czZyY2VXVnpwMlVwX0NDb3l3bFcwdy1Fa0xHTU9LaGVpQXFhTENHVXR5Y0pHNUEtdmdYUF9qTmgtekdBZnpwU29JNjJyRFNOaW5ydHdBb0dMQk5ZQTFHY2RFQWxyZTJVV09HMjFBemhWY2t5dVZFMzVoSU9hZF9FM3VRTGxMRmI5QVRTVnFCVnI4aXNVUG5aX21ZQjNGaTYtT1prMkg5YlhIOEI1VTNVZ1RGODBLQ01BQVpWVVc4VElTaFFzb21pUA?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "401ad9c7db4f",
+      "title": "CIMA\u2019S New AML Audit Rules Effective 18 September 2026 And What Investment Funds Need To Know",
+      "date": "2026-09-18",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPa2dzdkhheExtMDFEVU9TTXVEVGFGVlMxd2NFMlFreVNESHJoSEpwM1pLLTlzMjNRblh6SHA2d3otc0I1ODk4Vi1JNVcxY3ZzR0lLcU1uS240SWJWN183Z3Q5ZXJOSVd0b3phTXZPaUk1ZnVsSGRtR2w3c0ZBanRlUFVXS2Y2NndYMGVNMmlRVldfeXVUQmRxc1QwR2QtVVVGNmQ0aXhVZk9tNjQ3cGI3clZSQkJ4T0VzWEJIOW1fN3JWWEk0dzJubFNfSE94SFNoLWt1a1ZDWU43SFo5ZklFVnFQOXYwNGtNZzkwdzJLeFBpRmVEMHc?oc=5",
       "isNew": false
     },
     {
@@ -693,66 +753,6 @@
       "summary": "",
       "source": "Captive International",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGJ0OXE0X2RZb0lpLVJQNlNnOTl1T1lBcXRCd05iYm81ZW9QTldUMUlzd2Nla2x1ZHpqdzU2dXlNdWNHd2tkR1I3S29jREdZaEd4TVR1RlV5WkVvUzFCSUFZeGVmVlhwQ0czX2ZzQ2dmTlN2eUl0cjlza1U1NDhxdS1HZVM3STN2bmk4TTlqMXVqMm9EUVE?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "bf67e6b0ac27",
-      "title": "CIMA removes 120 struck or dissolved entities from register",
-      "date": "2026-08-29",
-      "cat": "General",
-      "summary": "",
-      "source": "Cayman Compass",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVpJRDVRQ2VYX3dpZzNnczNwR0tib3Vqd2pqOXhZdUJpWl9ZZW5sdk15X3FqRGRxWmVMbURDNE5jUXlfMlFZNDV1X3VXYVBlX0ZkcjlGdVpKeVphM3FCSUs2TTJRZW9LZnl4MjJZNkJTdU05dFhDbkY4SDNfR18tRWpybUJneUhZSVh3clo3WW0tRWFkc29YbjhOZ0xsNHNXOVI0?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "eb831e35bcfb",
-      "title": "Cayman Islands' new AML Rule and new Sanctions Rule - practical guide for investment funds",
-      "date": "2026-08-24",
-      "cat": "Investment",
-      "summary": "",
-      "source": "Cayman Finance",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdi13dnhON09ZdWo3bkR1TWVXWHdjVFJTc3VjNnVjNDY3N0M3dGFwUjFiSUQ5b2JoMHBRU3pqQ0hxbWlSN2hnTVp4YlNaNjdqdjF5Tl94cW1mU1NqWl9lcUJoX0JadHN2QlZuc3J1Z3E4THlJbzNRMjRuYWFSa0s5NUdTOG1UMDhETy1kS0Z0cmRpYlU1NGtCUmFoLUJOTUsxd2xiVU1fUTVoWF9abGlRcmhrc0U3cFF6WDNRWHhmSHl1Zw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "830d963cc682",
-      "title": "The Cayman Islands\u2019 path to Qualified Jurisdiction status: A pivotal moment for reinsurance",
-      "date": "2026-08-19",
-      "cat": "General",
-      "summary": "",
-      "source": "Cayman Finance",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVU9oN19GaWVwc3J6VWdyM29Cb0FndDdlenNiR0loWFVfNTliaHlrVUkta3VQZVNxa21DS01lU0hZRS10SktzUlM0eTBSdWpNZEJIdWRvU1A0bXgzeWZHMVpYQ2F5S3p6TWl1aUFCWE9mT05XR2VNVktMcUdDYmlCWmROc292RjNMb3hfVWM4X0xMaHZCOFF0VHd6Sl9YOGNsaFktbm01TUsyS0RtV1oxbXhfb1p0MG5fejR1cnEtS0pHd1NQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "d5c145c64639",
-      "title": "Guide to Cayman Islands private funds: structure, registration and regulation",
-      "date": "2026-08-18",
-      "cat": "Licensing",
-      "summary": "",
-      "source": "JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmZwYXNvSEYySVNIVHlPeDBRS1JkYlpteTVLOHBXRWtiZ05NZHlER1VHOFp5aHJIbHlfaFlVZzN0SV9XUmNlMF9NbWNfdXpWejlRV0xtR0dERVlET1VMeFFHekFGSGw0NzJjYU9KQW5kYS1rSHdzdm02Y3pPcHo1V21WVUNXZW8?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "2d5882d835c2",
-      "title": "Cayman Islands applies for NAIC Qualified Jurisdiction Status (QJS)",
-      "date": "2026-08-17",
-      "cat": "General",
-      "summary": "",
-      "source": "Reinsurance News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1NrUUNVT2FwVmtQSUF6Qk9QVURpSTBENXlBaFJlU2FPVE9pVVdZdG1jOHc4clYtX0hJNTd1RlJPTWxQemI5ejh0c1JTRVVzaTI0LUZSSFlMNHM3STNkUTdEbkRDQW5mUGNNR3ZhR1FoSXNUY09DRnBmQzNmVTE0VWNyOGlQVlJZRGFST2hnMTQwY0x1eDJPYUxkaw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "c24ffc43080c",
-      "title": "Cayman Islands - Alternative Investment Funds Laws and Regulations 2026",
-      "date": "2026-08-12",
-      "cat": "Investment",
-      "summary": "",
-      "source": "ICLG",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1BZLW15Ykl0ckU5UkI2Y3MzMlBPQmpTX0t3bGVmUW1rSVY4dHRMUE1SUVFZNTRiQlFzU2hEbnpuQUpTMlktR0M0THJoa0dqMVZzR2x5VmY1SzNwQ0lNVzdpcjVxM2U5Q3h0ZmZvZkxlMzd2c3phdl9pSjc1UE1SdmZsUUotNTRqdGdsZ0sxeXNtc0RSY1FtSTEtX3lfZw?oc=5",
       "isNew": false
     }
   ]

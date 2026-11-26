@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:35:42Z",
+  "updated": "2026-11-26T16:56:44Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,36 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "37a1660a0904",
+      "title": "Private Credit Pulse \u2013 Q3 2026",
+      "source": "Legal 500",
+      "date": "2026-11-26T15:22:15Z",
+      "topic": "Private Credit",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHlQU2hsdGxrTGZ5X2JSd0ZESzZpdUJDdlIzNFNZRUFEWEF6UU5IOGlLa3NkVS1ReG50cW50ejZPLWNoTjhEUkJYZGdKZkpkblZxVVQ3aGJKQWhIVEgwYnZ6UDVxc2tILWNOcFJPMFRORGVIcHRTOEh1T2xHbzl1UDlTQUNJanBJQjBXenpLOXVtLU10OG5LLUJhb2RwcnBhZ3c?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "08b0fbe1f64a",
+      "title": "Hern\u00e1ndez de Cos Set to Succeed Lagarde: Where Next for ECB Interest Rates?",
+      "source": "Morningstar",
+      "date": "2026-11-26T14:44:30Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFNzckoxVG5FSkM2MDd1N1VFUktvRTdhd1k4R0l6UllTbWtJTTNKNS1tWXJwZkNVaW1qV3k3SjVxNHBpQlRPSmp4RW1Bd0xQS3pqSnlQNUNWejNnUnMxTjVDOXFKUkIySEdncHZmWGVOeTRVaFVQZUxuZHZxVWhjWVBGaUdtVDJVUW5wWnBVOTVadkdMbWlrS1l1Zy00NHVuUUdLamFzWURVUE9hUWlZ?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "05bc4fadd636",
+      "title": "India swaps, treasury bills signal possibility of outsized RBI rate hike next week",
+      "source": "Reuters",
+      "date": "2026-11-26T10:21:58Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTURLc0UwZjNUdy05dVdJMVFLLUpDNUQwN19INXh3cVcwdW5fM2k3eDV2bnY4ZkZkMDVzSjN4N3Yzcm9CQ1MtT1hmaVJzMmY5VkpMUzgxQzVrQm1zZzU2OERSak1TeU84dDlTOVk0aEZSNXFGcUNzaFo2bVlXN2wwYjRScUxtVE9GeXFFRjBFdWdlZ2tjOEpnQ19UTmVJVnlBQ0ZVclBQdHhieTd0SDJlVEU3c0ZTaFZFazB6cVAtbWpqMmU2?oc=5",
+      "isNew": false
+    },
     {
       "id": "712e0463b873",
       "title": "AI investment boom raises risks for insurers: Swiss Re",
@@ -275,36 +305,6 @@
       "topic": "Insurance AM",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oN0Z4cklKNjFrVF9LYndNeGpJUzBsYUN0N3BPNGVaNVZOZzdXeFhqTUh6Z3NhdEd2cXRXUkRpRm8yRFo3YmxQRHppZllmZktWckZwY3hTcw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "ecb7bc5f6c89",
-      "title": "New Insurance Opportunities: Why Transparency Matters",
-      "source": "AllianceBernstein",
-      "date": "2026-11-21T00:03:32Z",
-      "topic": "Private Credit",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUjlMRW1PV0dGMHMwZHhDNFBSUG9zdnYwYTNkV1dVR1dvUWRNOTc2VTdseTZQQmpZclhteUp1cEtCU3daY0VSenBGVTVNaWhOTFBDSEZZdEEycmZaQkQ5YXB1Vm9XQjBZTjR3a2hqZGZaSWp1REpObHJrbmNJLWdtUHoyZUNzRndDemxqcWtObmxEQjVyaTlWandKY3lrcU5vZVZ5Q3ZDeUJxVGVVMk1od3lHUG14TTFvNDhDb2tjSmdEMWREZUFod2hjbWNYTzAxcFhpdg?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "bb0038e8a5f9",
-      "title": "RIA annuity growth hinges on planning software integration",
-      "source": "InvestmentNews",
-      "date": "2026-11-20T21:08:57Z",
-      "topic": "Insurance AM",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1FOV0U1eVowc21talk1S0pVRUZvOVNoVFZkYjRhTGNNV2E4OVJmdDhYdUZkMGhvSjRyRnpKdDBieHF3MXhzWHR3MTZ6emd3SUlxZVZ4VXEtSG9fTzJ0MWNMaTVBdDdHYUg0YUdyT0Jwbm9lZUY3SjNDRXF4NF9jVWx2RE51RjNFaXNVOHZoeUY1Sy13TEd3UGZNa0NJSWRCUmZ5WXVsdG5mSk00cW9iRUt0OTlsZUN1eGd4WGVUTThLTms?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "bd35fefcb3c0",
-      "title": "AI Trading Doubts Spark Flight to Safety; U.S. Treasuries Rise for Fifth Straight Day as 10-Year Yield Falls Below 5%",
-      "source": "BigGo Finance",
-      "date": "2026-11-20T16:56:00Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zMnhQa29RV2RhNUQ4bUV1a2FfVEgtcm5XZDJYbDZ0SF9lS1o3TjlGVEhZRVFLWEx4NDE4Mkl6ZExUX0hYLWg4OC1oSTBOM2szX3d6TDY1eGczXzlIMi1nNllvZGNaVjZVLU1Wb0s4a0liUWoza3c?oc=5",
       "isNew": false
     }
   ]

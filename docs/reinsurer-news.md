@@ -1,7 +1,7 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 36 items
-Generated Wed 25 Nov 2026, 23:35 AST
+Bermuda life & annuity watchlist — last 14 days — 33 items
+Generated Thu 26 Nov 2026, 12:56 AST
 
 ## Feed status
 
@@ -13,8 +13,6 @@ Generated Wed 25 Nov 2026, 23:35 AST
 
 - **2026-11-13** — Stock Titan — [Athene and Apollo entities report shared power over 608,000 Calamos (CSQ) Series F preferred shares.](https://news.google.com/rss/articles/CBMiygFBVV95cUxPay1TbGthYW1HQVpLZGx2ZENEck5YeWJ3RTVkajk4MU4tanVmMDhuNFBmRFBEei1RSXU3ZFlqZTVkQlpxWGUwalNHV2pTLWlpcXZEeGFyVW1zSUhsb0RLbmtsYUlNZTlaNUVDbkRZdXJuQjJIWmxOYy1jUTMzQUNUOTZEQ2FBZ2F4aUF1U1o3VW5pUGtGSTZpVWdpZ1hkc0JHR0pYTHFHbnYyQzlRajktN0NiMlU3SjJVTjZkTTZtWUROYnU1TFVvSm13?oc=5)
 - **2026-11-13** — Yahoo! Finance Canada — [Athene Holding Ltd. (ATH-PA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FcDdZY3lURHgybjVRVEFPWHBsdVpRaHZsMU9lZDdOS2hibHFrY0VJQWNTTXdrdVJHUEtVaWRFam10eDkyem9UWGo5ZzhJMjN2NGhaUQ?oc=5)
-- **2026-11-12** — Stock Titan — [Athene Hldg (ATH) Stock Price, News & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5)
-- **2026-11-12** — InsuranceNewsNet — [Athene CEO criticizes offshore reinsurance, risk-taking by competitors](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlZmWFlHcnEyNWtHNi1WcTJZaVRSRWg4MkpPM2JkaWtfWEc3Mk02bk90OU5CZWszVGVzM3JVUmgwVHphLWFTQTc0SWFNQzFLUlFrZWV6SDRfUVNoOXlWVnExZ2t3bzVUMWFrc3dEeVgxcE1rejRZNHVUYTlfZ3MtMV9fS1E4aS1rN3dFTFBPX0lrbnAxQndUZHJoMnZsWDNkRkdhdlhtX1REX05XcXc?oc=5)
 
 ## Global Atlantic
 
@@ -34,7 +32,7 @@ Generated Wed 25 Nov 2026, 23:35 AST
 
 ## Talcott
 
-- **2026-11-25** — EY — [Case study: Talcott retail annuity transformation](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNG5oaUhSZkMxUFJMa29TWXl4S2xJeGNwX1YtYVlKMDU4S0JjRlNWQUR3N20wQ2ZrUC1FQzEwSE92U1hhZGhENnFBcVpfeEhVNENzOEFGRzdmY01jRlZJakxHVUdYS2owT2YzcU9FR2RIa1lFOVJFV19BdTIxbmR5SlFfUldVNlNESkktOWNSU3BWcDAyM3NQdkdQVFlTckpZalEyaEw4ZUxlQjYtTnc?oc=5)
+- **2026-11-26** — EY — [Case study: Talcott retail annuity transformation](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVk2V3lqeFAzb0VGdjRMdENveExDZEhiaWNYNUx4S1FDUDhfZEFpNUFhOHpsRV83Y3pHNjJJYTNwczhwT2htOHloZ0dvTDB5eDBfM1hLZzRfNXVqSFlBTzExclhSTU5WTEgtTVdleVRXLUZ3WkJkQWg3dzdJVUd0bnQ1TXVhNXlmWU5PMm1CQVNtM2lTSUFqdHNqQ3U2elVEc3JGWVZLejdnX1dHWFE?oc=5)
 
 ## Venerable
 
@@ -44,6 +42,8 @@ Generated Wed 25 Nov 2026, 23:35 AST
 
 ## RGA
 
+- **2026-11-26** — Yahoo Finance — [Reinsurance Group of America, Incorporated (RGA) Hits Fresh High: Is There Still Room to Run?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlZpTU5MZFNDRmtrbFlzYW9ScEl1bi1zYWlkdzFXN3VoXzZpWnZtdlZ6RkZ4RTRfM1ROTmxIQjhCcGU0UHVHWDhGbWhUZ0FsT19pUmVSSF9uTHcyR2NOOFFzbVRiVl9COHNnMGI0dGVudWtjR1B5QXlxdElNeXNlT2xIei0wTzJiM2RMM21JSjBxd2RaV3AzVDFuV3ptM1ZVMC1HWlRIa3lkcFk?oc=5)
+- **2026-11-25** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2FaSkhlUGEya3JnRG1VSDN1UXBaUmhCX3BYYXBqa0IzalFsZVBYY3JsMXpfa3hmVVUxLXRoT0VFTUtPNk1hYWQ3ZnFsQVZ4bTQwRkVzYWFxa2F6ZWs5LUx1dTZQMlNRcy1CT3lqZWhuR3c1OTd3aGtUa20yU2xVMHRHZkp0VXA1NkZyemxTWQ?oc=5)
 - **2026-11-25** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Hits New 52-Week High - Still a Buy?](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmJYWE9NaUZOVTh3b0FGVHdJU1dmNjh4Q2FpX1E2RXBPVXlXYTZyZjZ3MUgyeEZmTnFPSk95cUR4LVZEZFFhTVBjM1ZZcGR0a2tFNGRVcnJrM3REbG84MlNDOEt0Q0ctVl9IdHBQdHBNejZrWkNXTkFlNFdEbVdlSHNULWk2VmRhRFdoNC1QSGt5OHQ2SE9OM0kzVlBWX2dIY2JlYXdHUnBXRlpGaEdhNDRCT2VnT0Y5T1pFeWt2R2x4RllDTnA2aG5SOA?oc=5)
 - **2026-11-25** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock: State Street Corp Decreases Position](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXZxaDhRV3QyalljMHJNdUxwNG5Danh5T29hNFdyZEtfSHdNY0xQSVNrMFlMeHBtN1Vqa3gxQkNJTU9xczVnd19EUktjUnZPVW5EQWRHU2tQLVA5MkVLU2NPTlpCZlI2a0M1RWU0b0wwUU9kcWJKNTdLcHhkX09yVTJwazYxX0xkTTZHeHdyT0RYMlU3eXFHZVJLbkpyTlRSLVo3RHJ0LUVOMjJVYWQ2RWd0M2IwWjBCd0lXRDM0SkRYajZqUG43a0tkS3FCalpGYU5wRVI4bllvUGc4TndPcTJycw?oc=5)
 - **2026-11-25** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
@@ -51,11 +51,9 @@ Generated Wed 25 Nov 2026, 23:35 AST
 - **2026-11-20** — MarketBeat — [Reinsurance Group of America, Incorporated (NYSE:RGA) Stock Has Average Price Target of $292.25](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVlHMS1Gd2ZrRE1FZ2ZXaUY1NjFGblZValowZ2F0ZEJDbGNOX2hEb0h4bThQMklHZnJNWnc3YW5JWGo3WUdibXVTbklTX18wbVRLMGM3VFRrY05TUFFoUHlVM2c2ZDlpdkhLZk02Yzc5YWZ2dnZjcUhxV1lsek9oQmthRTNnam5rbDVXNEhkSXhHUVV0Q0d0R1p0RG1iemFHVVJxUi16VndSVnRLMkNXUFZNa3cwaFVLaGJ4LV92bWZxRmp5dVZKbWE2aWRWdmhoVV9UUkQ1TGdDeElZX2pKZlRLZ3NmVWZDNEE?oc=5)
 - **2026-11-19** — Quantisnow — [Reinsurance Group of America upgraded by UBS with a new price target](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDNsalc2SjNka2wzT1ZTeVdLM0NrQ25BbzJPSEV0VmRHSmNQYldGd3I5MFoxcm9RTDF1cFVaRHFSZHN5dDdhV2ZNMElDRXJBUWlZODlBakotYTVxb3k0UjlKd2NkZ0pSU05zMGVZRUZvMkVsWEV3eWFIa1J2UWdiYUwzQjllR2czSXFTTmcxMEp5eGtDcHBmQnhPOGstQVE?oc=5)
 - **2026-11-19** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Rating Upgraded by UBS Group](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmFpY3ljLUZ4N3JLRVFmMTNBTWhmMmVlUm5qNC02bm9QRzNtR3F0Snd4eURuRDRPMVFRQ2NYODYtdkVUNU1zZGNxMWZDYXdIdDRPaS1iZG4tOXBiNVdna3I1eVgtYUNGNHNUR2xDc1NKaHlvNjJ6UEVrWXZ4YjdKc3pIWHRHVFhDOWhRb1prMU53YXJ1UHdzT0ZaU3Jjdk9kbWNoWFlKQkNBcXZMcHJkS25Fa0V1d0xSYTN2cno4MC1LbVZfSGx5azBNaHJiWXM?oc=5)
-- **2026-11-18** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdDWUxOcUxZNHc0ZG5VRVVCWXRaczFqMUxwRVdoMWhkVkFyb1NKd2RJME91VlZydzZ2NzFRR3VQOERDa2FlUVJ1UDE0UUtlWHFJRG51bXQxQnVpQUN4N203WDFteU5MY1pTcFpWaWUxdjhQS2pGcGlEUk01N09ySURDLXcxQml3VlF1RWxBYw?oc=5)
 - **2026-11-17** — Yahoo Finance Australia — [What Makes Reinsurance Group (RGA) a Strong Momentum Stock: Buy Now?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEg5dldEV1BUQ1V0bDMyUG5XYmc2bHdxMFRlaDBOTXRVYllBVXI5OXVkeTNuQTgzY2ROS0xwRVA1U3dPSlQxWExLbEU1MC1reGdFQzIwOEhxUHdCdWw4Wk12RWJTNWhNS1FJemxYZjJMT2dmSTJfSk1Ed0t3eXZjeGFGN0plOTMtS1NF?oc=5)
 - **2026-11-17** — kalkine.com — [What Moved Reinsurance Group of America (NYSE:RGA) on the S&P MidCap 400: Shares Opened Flat Ahead of Tuesday's Ex-Dividend Date With No Company News](https://news.google.com/rss/articles/CBMiigJBVV95cUxObEY1cFgyOUlBZFNVOUVXXzBxcE5HclduSG5aTmRDNjhqb3FOa0ZHUFp4QjV5Q3FGcDZUcmRCekYzODZ5ZDV3T0ttUl94aEYwdWptU01rNEN0dVVKWkwtalhadE1KaDhrM0lHUnZuV0w5WG1IYlRQVHBNc1ZSdnBsYjZkTFo5ZHMteERldThMTDNGRkdHbUdZcVA4WEhNZTB3QV9OcWRITENvaDZocTIyZHpvOUg5UFlwQTJPMVp1dW9tM2NxUlpfWHZ5clZlb0dtckRZQnVXN2I3d1pONy1YTC1BeGRZZFNZLW5PVDkxTExDcHBsX0VrQm11aEpuWTFzQ0VMa3JiYlNsUQ?oc=5)
 - **2026-11-17** — ChartMill — [Reinsurance Group of America (NYSE:RGA) Fits Minervini Trend Template With High-Growth Momentum](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDREX2Q0ZGw3OUMtdzN6QTFrR2M3UGZYRVhUQkVBVEg3d0l0Tkw0UWwtb2hGT3R0djJCYzNQeXFNR3BMZ1lKRmd3SmdvNUlSRDE3WUxvbGx5Y3dxT0ZvZzJtTlhmQTRrZ05IQWw3QmxKQnlieVRKZVg3OVNSOGNxQ25hWUZWMnpjQ3U3RGgzc252V1I1NFVxZEFPNnM4ckxsbGMwODdfQmJNbDg1MDFTdTB3dFNVT05jRDJUbmd5cnhYYzFWam45TVp1eGplZ3RFWkotZGtTOXRvcXc?oc=5)
-- **2026-11-16** — Simply Wall St — [Reinsurance Group Of America (RGA), Why Is The Market Paying Closer Attention?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVRaU1g4QmhVUlp3ZXlmQmlMeHNYTm9LSFRqSmptWmZVM0dIU1QzbTlZMTNSYnpmQjd1WDFvTHYzd29KRlVySGxRbm0xd1l0Y2hMTGFucWJXVTZEN0F0SkxxNFl3RVI0cW1OUGV2RzIwYmE4VFdZbC1ISkhNN2tFWW4wRXlUTG5lWlBsdU0yMkZDU1Q1OFJMNzdnSDZob1JKcUgzTlI5WHFtT21ZMFUyMnNwRGxGTllpX1d1T1FSTW1icUxBeXd6Si05TVF5YWNndV9lUHFSUldBN0IwMkHSAeMBQVVfeXFMUFJ5d0ZuUmZ0N1lpNW1TdmxHYTBwbndkWW9wQUFpeTVMZHhwbmw4eHZPbmpZTEZqTGZQSGF6d2s2UVBnWkR4UTF3S3V6NW1IajVTMk5Makhjb2R6Rms2RGVRTzRYZ29RQVdSNUdlUjNyZUlJcUFHM3FWY000U2tYUXJFNVlYRVJPY25YbFVhTlVmbjNFWlI4OFBGcXBTdmJCcG93YVUyOENJZkVwX21Zd2lUMGIxci1IeGxfUmV4RVppU2hqRjJIYVRqcnZwRkVTMU9hOWlaZzlyMXNiSnF2VllRek0?oc=5)
 
 ## Sagicor
 
@@ -64,7 +62,6 @@ Generated Wed 25 Nov 2026, 23:35 AST
 - **2026-11-13** — Yahoo Finance — [What Sagicor Financial (SFC) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnhBcV9JYVBiX1UtRHZNdnRPY0d3X29MX0c5a1BDODZfd1pDc19nV1l2YnZJSV9JLXJlSlB5M21kSHNORVFrSXR5SmxOZ3RBYVlURXdUUW1hTkdMeXN1czlKVHM1QmU3dDdxOGY2c0luZmhGS1FBbWVjZlI5TVhfVmFLajRuckh5LUlYdGZiWG1PRkJYTTU1c2tR?oc=5)
 - **2026-11-13** — Insurance Business — [Sagicor’s Q3 loss masks strong ivari capital position as rates squeeze earnings](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2pCQTlDYnQzXzh6UGpYMFd4QThJZDFaYXFrbHVMZWh1OE9fb2VIMjJ2SjFYaXp2YnZjQ3lDMzRhRkxJd09kMkhiMVU4eFV5bEp0cU1pOUZzRXQ4SS1BVHA1NUFwOXByZy1uRjNzc2JGR2xnMUt2UFNpa3RyRVpPd0YzT1JlM2Y0OGtaLUNjTWVRODFiR1Y0eWVFWEx0LUdabHdhNm1kbkhfMVdhWnluQTRGTUpmVjdON2ZVOHJERVpHWENDcWNCVzFRZ0JjQ25yTElLS1pPX1ppaFh1M0lrWnNCTjQ?oc=5)
 - **2026-11-12** — Kalkine Media — [What Explains the Split in Sagicor Financial (TSX:SFC) Quarterly Figures?](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0RTdXpzMzJLbXVBRUJvcGlIemlXQThVRG1zdThZdUpzd0lpa2RkLXNmZTNFaFJQQndJcU00dHlYWHVjS3hpQ0dHRGwyelhYLXJvSzNDaExBZTRBZDY4UTROOTZwakVnbUNQVHYxQUlWcGVuQ2V2cDdQdGVPMDhFLVJpTWZ5a0VkVDFNZm5MUTlNY3NzYVpyODcweUJXTm52M0cwRkdUN2ttdHNrZldnaVNMdFY?oc=5)
-- **2026-11-12** — Investing.com Canada — [Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEk2Q0JfaU5QbXQzQUMxWGp0Z1VFM0JQUVZ0N0EwTkw2eEJNcm80OURkWGpveEYyOWw5dE9McDdlcVJvd2stY19nVWVITnI5U21iSF9hRDhSTDBBZWlXY2NzV3ZwY1JsTjBhUW1xeWxUMjBLdUk2TFlCUFlqY1V1c0xnRTNKbzNoUksxWW9FM0RNOFV5anNna1ZLMXdLa21LVmx6MlExWnlhRm1nNE41ZHFrNTAtVldkRDNWZVRXV014OG9KRHEzMlpFYWFfX3VCRVFMVjViYTc2SW02SmpNOA?oc=5)
 
 _No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Catalina_
 

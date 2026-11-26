@@ -6,13 +6,13 @@
     "eur": "ok",
     "india": "ok",
     "credit": "ok",
-    "cds": "partial: sovereign cache (2026-11-18)",
+    "cds": "ok",
     "sofr": "ok",
     "bma_rates": "stale: latest workbook 2026-03-31, expected 2026-09-30",
     "commodities": "ok",
     "inflation": "ok",
     "myga": "ok"
   },
-  "run": "2026-11-26T03:35:24.322006Z",
-  "_fetched": "2026-11-26T03:35:31.057778Z"
+  "run": "2026-11-26T16:56:25.050606Z",
+  "_fetched": "2026-11-26T16:56:32.733543Z"
 }

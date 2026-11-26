@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:19:08Z",
+  "updated": "2026-11-26T03:35:45Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -11,7 +11,7 @@
     {
       "name": "Google News: Aspida",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 8,
+      "count": 15,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 17,
+      "count": 18,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -113,6 +113,18 @@
   ],
   "items": [
     {
+      "id": "cc8ba650400c",
+      "title": "Reinsurance Group of America (NYSE:RGA) Hits New 52-Week High - Still a Buy?",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmJYWE9NaUZOVTh3b0FGVHdJU1dmNjh4Q2FpX1E2RXBPVXlXYTZyZjZ3MUgyeEZmTnFPSk95cUR4LVZEZFFhTVBjM1ZZcGR0a2tFNGRVcnJrM3REbG84MlNDOEt0Q0ctVl9IdHBQdHBNejZrWkNXTkFlNFdEbVdlSHNULWk2VmRhRFdoNC1QSGt5OHQ2SE9OM0kzVlBWX2dIY2JlYXdHUnBXRlpGaEdhNDRCT2VnT0Y5T1pFeWt2R2x4RllDTnA2aG5SOA?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-25T19:28:01Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "ec15c9601c9b",
       "title": "Case study: Talcott retail annuity transformation",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNG5oaUhSZkMxUFJMa29TWXl4S2xJeGNwX1YtYVlKMDU4S0JjRlNWQUR3N20wQ2ZrUC1FQzEwSE92U1hhZGhENnFBcVpfeEhVNENzOEFGRzdmY01jRlZJakxHVUdYS2owT2YzcU9FR2RIa1lFOVJFV19BdTIxbmR5SlFfUldVNlNESkktOWNSU3BWcDAyM3NQdkdQVFlTckpZalEyaEw4ZUxlQjYtTnc?oc=5",
@@ -142,7 +154,19 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
       "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-11-24T10:55:55Z",
+      "date": "2026-11-25T09:09:54Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "dbb05a47e9b7",
+      "title": "Reinsurance Group of America (NYSE:RGA) Stock Gets Price Target Increase from Morgan Stanley",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzdGSjdUUUlCVmg0ejFZamYwWlJsd29Cc0kzYUQtcmNFcE1PVTN6ZEhwVWIxX3g2azFzbUFpanNLU3NNOWozb2Q4R0xiT0p1RUpPQVZZd0lDdlZxS0luTTgzRTJkeWcyU2E5SEtlS0FZOS1KZGJWczRuOE5iZVRhYk5keVpDN1k4RlpnWWFqQkVxYVU4cTNNbFRSSFNGeDlHS2RYREx0RzZLU2Y2WGpkR1BfVmdFaXZMcFg5TGNsTDlkMkl4b2p0aHg5RmdaUklvMG1JYk0xTXdfOEV6ZmFkbmFjWHBmNDQ?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-23T13:21:25Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -362,6 +386,18 @@
       "summary": "",
       "companies": [
         "Venerable"
+      ]
+    },
+    {
+      "id": "04433ffeac5b",
+      "title": "What Moved Reinsurance Group of America (NYSE:RGA) on the S&P MidCap 400: Shares Opened Flat Ahead of Tuesday's Ex-Dividend Date With No Company News",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObEY1cFgyOUlBZFNVOUVXXzBxcE5HclduSG5aTmRDNjhqb3FOa0ZHUFp4QjV5Q3FGcDZUcmRCekYzODZ5ZDV3T0ttUl94aEYwdWptU01rNEN0dVVKWkwtalhadE1KaDhrM0lHUnZuV0w5WG1IYlRQVHBNc1ZSdnBsYjZkTFo5ZHMteERldThMTDNGRkdHbUdZcVA4WEhNZTB3QV9OcWRITENvaDZocTIyZHpvOUg5UFlwQTJPMVp1dW9tM2NxUlpfWHZ5clZlb0dtckRZQnVXN2I3d1pONy1YTC1BeGRZZFNZLW5PVDkxTExDcHBsX0VrQm11aEpuWTFzQ0VMa3JiYlNsUQ?oc=5",
+      "source": "kalkine.com",
+      "feed": "Google News: RGA",
+      "date": "2026-11-17T10:12:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
       ]
     },
     {
@@ -629,30 +665,6 @@
       ]
     },
     {
-      "id": "da71407d7f09",
-      "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise By Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMzd0UEJfSU9wY0xaYmFwQnVSNUt4RDFScmx5djV0UkRVTDBwajlTc3dzUl9JUEdGMVFTczBrM2lXdEtYWFhFNFIyODdGTnowVHBrT28wSkh0RjVBeGpNTDdyMWQwVkN4YUtWbmRPeVNkS0Zud1ZuSUtJTEI2M2R2dno0Z2xtbTFMMjJQTTBjLUFYZXdxYnJEWFhMeDVhdW9PNi1CMndaWnlvRVRPNjdmX2FkVWxnQWdraHVseDVQVVZwenh1OGlrZlRHSUFpWGxmTjN5MmJlVFgxNTRMYjh0TA?oc=5",
-      "source": "Investing.com India",
-      "feed": "Google News: Sagicor",
-      "date": "2026-11-12T16:00:21Z",
-      "summary": "",
-      "companies": [
-        "Sagicor"
-      ]
-    },
-    {
-      "id": "dbb05a47e9b7",
-      "title": "Reinsurance Group of America (NYSE:RGA) Stock Gets Price Target Increase from Wells Fargo & Company",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdzlrdWZLZ3J1NGkzcXE2bXdtTy1kbHQzQlFfa0VhbVJnbDBvMExwTHhCaUtqYmt3X2lEbjczLVVxYUhURUtUeW1CMEN0WFZ1ekdtYk93YnVMLWJORzNScUhjR21Wb3o1a2plSi13Z1pNaUJTbmxfLTJySWE1RTVySVFpZlBnVHNKV2ItZ1I0U1NLMlJzaVZVYWZfVGdnd3VrdGZhNThVMGtPeC1pQlBYMm9tY0hQVThXMFIwMThDSm5RZl84SWg0MUVDRFpsYkJXUGhLdGZjeWVsdElfYVJRWDM0OWhaNVVGTjVwaTZR?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-11-12T14:08:53Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "bc246d763523",
       "title": "Athene Hldg (ATH) Stock Price, News & Analysis",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZ1RQQXRrdV9TS0gwbTRGZFlKSGhlSFVzTVF0WW82a09sLU9nV2x4WWtZTXhNSlh2MTl1TDdwd1VQeGtBTnpocm1QNWF4dFBMbEE?oc=5",
@@ -662,6 +674,18 @@
       "summary": "",
       "companies": [
         "Athene"
+      ]
+    },
+    {
+      "id": "da71407d7f09",
+      "title": "Earnings call transcript: Sagicor Financial tops Q3 2026 EPS view as core earnings rise",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEk2Q0JfaU5QbXQzQUMxWGp0Z1VFM0JQUVZ0N0EwTkw2eEJNcm80OURkWGpveEYyOWw5dE9McDdlcVJvd2stY19nVWVITnI5U21iSF9hRDhSTDBBZWlXY2NzV3ZwY1JsTjBhUW1xeWxUMjBLdUk2TFlCUFlqY1V1c0xnRTNKbzNoUksxWW9FM0RNOFV5anNna1ZLMXdLa21LVmx6MlExWnlhRm1nNE41ZHFrNTAtVldkRDNWZVRXV014OG9KRHEzMlpFYWFfX3VCRVFMVjViYTc2SW02SmpNOA?oc=5",
+      "source": "Investing.com Canada",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-12T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
       ]
     },
     {
@@ -1886,18 +1910,6 @@
       "summary": "",
       "companies": [
         "Talcott"
-      ]
-    },
-    {
-      "id": "cc8ba650400c",
-      "title": "Reinsurance Group of America (NYSE:RGA) Hits New 1-Year High - What's Next?",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjN4b0pFSFg3T1lab2haUU1IQUl3clJiSzAyaFB0TXNCdC1tRndEZ0NnNGJsTC16QlNTcFdYeVRFX0szTFczU0xMa0VUSjRjV281Z09JOU9YemUwZXRvOVV1Y2pxVWRoYWFrdm5FZXdzOHUwS1Q3WnlBbV9uWklaMHhkLTN4YnVXUndVbHBrcFFMRjlERWNfYWE1aWxlTWFmYk5wYkRyZF9ZTS1VNnlqQWhOSVlHUVA2eTJQQkhRaFpteU5FVFpvXw?oc=5",
-      "source": "MarketBeat",
-      "feed": "Google News: RGA",
-      "date": "2026-10-14T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     },
     {

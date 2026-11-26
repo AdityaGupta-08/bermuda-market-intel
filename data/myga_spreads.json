@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-26",
   "state": "FL",
   "premium": 100000,
   "source": "My Annuity Store rate marketplace (AnnuityRateWatch data)",
   "url": "https://myannuitystore.com/annuity-rates/marketplace/",
   "status": "ok",
-  "ust_date": "2026-11-24",
+  "ust_date": "2026-11-25",
   "terms": [
     3,
     5,
@@ -21,32 +21,32 @@
       "label": "A",
       "terms": {
         "3": {
-          "median_bp": 73.0,
-          "top_quartile_bp": 86.7,
-          "best_bp": 108.0,
+          "median_bp": 76.0,
+          "top_quartile_bp": 89.8,
+          "best_bp": 111.0,
           "n": 18,
-          "ust_pct": 4.67
+          "ust_pct": 4.64
         },
         "5": {
-          "median_bp": 106.0,
-          "top_quartile_bp": 116.0,
-          "best_bp": 161.0,
+          "median_bp": 110.0,
+          "top_quartile_bp": 120.0,
+          "best_bp": 165.0,
           "n": 21,
-          "ust_pct": 4.69
+          "ust_pct": 4.65
         },
         "7": {
-          "median_bp": 96.0,
-          "top_quartile_bp": 114.8,
-          "best_bp": 141.0,
+          "median_bp": 101.0,
+          "top_quartile_bp": 119.8,
+          "best_bp": 146.0,
           "n": 18,
-          "ust_pct": 4.79
+          "ust_pct": 4.74
         },
         "10": {
-          "median_bp": 74.0,
-          "top_quartile_bp": 89.0,
-          "best_bp": 134.0,
+          "median_bp": 80.0,
+          "top_quartile_bp": 95.0,
+          "best_bp": 140.0,
           "n": 9,
-          "ust_pct": 4.91
+          "ust_pct": 4.85
         }
       }
     },
@@ -54,32 +54,32 @@
       "label": "A-",
       "terms": {
         "3": {
-          "median_bp": 90.5,
-          "top_quartile_bp": 99.7,
-          "best_bp": 138.0,
+          "median_bp": 93.5,
+          "top_quartile_bp": 102.7,
+          "best_bp": 141.0,
           "n": 16,
-          "ust_pct": 4.67
+          "ust_pct": 4.64
         },
         "5": {
-          "median_bp": 116.0,
-          "top_quartile_bp": 131.0,
-          "best_bp": 161.0,
+          "median_bp": 120.0,
+          "top_quartile_bp": 135.0,
+          "best_bp": 165.0,
           "n": 15,
-          "ust_pct": 4.69
+          "ust_pct": 4.65
         },
         "7": {
-          "median_bp": 106.0,
-          "top_quartile_bp": 119.3,
-          "best_bp": 146.0,
+          "median_bp": 111.0,
+          "top_quartile_bp": 124.3,
+          "best_bp": 151.0,
           "n": 14,
-          "ust_pct": 4.79
+          "ust_pct": 4.74
         },
         "10": {
-          "median_bp": 104.0,
-          "top_quartile_bp": 127.8,
-          "best_bp": 134.0,
+          "median_bp": 110.0,
+          "top_quartile_bp": 133.8,
+          "best_bp": 140.0,
           "n": 6,
-          "ust_pct": 4.91
+          "ust_pct": 4.85
         }
       }
     },
@@ -87,32 +87,32 @@
       "label": "A++ / A+",
       "terms": {
         "3": {
-          "median_bp": 60.5,
-          "top_quartile_bp": 83.0,
-          "best_bp": 88.0,
+          "median_bp": 63.5,
+          "top_quartile_bp": 86.0,
+          "best_bp": 91.0,
           "n": 10,
-          "ust_pct": 4.67
+          "ust_pct": 4.64
         },
         "5": {
-          "median_bp": 96.0,
-          "top_quartile_bp": 116.0,
-          "best_bp": 126.0,
+          "median_bp": 100.0,
+          "top_quartile_bp": 120.0,
+          "best_bp": 130.0,
           "n": 13,
-          "ust_pct": 4.69
+          "ust_pct": 4.65
         },
         "7": {
-          "median_bp": 83.5,
-          "top_quartile_bp": 101.0,
-          "best_bp": 116.0,
+          "median_bp": 88.5,
+          "top_quartile_bp": 106.0,
+          "best_bp": 121.0,
           "n": 10,
-          "ust_pct": 4.79
+          "ust_pct": 4.74
         },
         "10": {
-          "median_bp": 31.5,
-          "top_quartile_bp": 57.7,
-          "best_bp": 84.0,
+          "median_bp": 37.5,
+          "top_quartile_bp": 63.8,
+          "best_bp": 90.0,
           "n": 2,
-          "ust_pct": 4.91
+          "ust_pct": 4.85
         }
       }
     },
@@ -120,65 +120,65 @@
       "label": "B++ / B+",
       "terms": {
         "3": {
-          "median_bp": 83.0,
-          "top_quartile_bp": 103.0,
-          "best_bp": 143.0,
+          "median_bp": 86.0,
+          "top_quartile_bp": 106.0,
+          "best_bp": 146.0,
           "n": 12,
-          "ust_pct": 4.67
+          "ust_pct": 4.64
         },
         "5": {
-          "median_bp": 111.0,
-          "top_quartile_bp": 127.2,
-          "best_bp": 181.0,
+          "median_bp": 115.0,
+          "top_quartile_bp": 131.2,
+          "best_bp": 185.0,
           "n": 14,
-          "ust_pct": 4.69
+          "ust_pct": 4.65
         },
         "7": {
-          "median_bp": 93.5,
-          "top_quartile_bp": 106.0,
-          "best_bp": 151.0,
+          "median_bp": 98.5,
+          "top_quartile_bp": 111.0,
+          "best_bp": 156.0,
           "n": 12,
-          "ust_pct": 4.79
+          "ust_pct": 4.74
         },
         "10": {
-          "median_bp": 96.5,
-          "top_quartile_bp": 109.0,
-          "best_bp": 144.0,
+          "median_bp": 102.5,
+          "top_quartile_bp": 115.0,
+          "best_bp": 150.0,
           "n": 8,
-          "ust_pct": 4.91
+          "ust_pct": 4.85
         }
       }
     }
   },
   "overall": {
     "3": {
-      "median_bp": 78.0,
-      "top_quartile_bp": 93.0,
-      "best_bp": 143.0,
+      "median_bp": 81.0,
+      "top_quartile_bp": 96.0,
+      "best_bp": 146.0,
       "n": 56,
-      "ust_pct": 4.67
+      "ust_pct": 4.64
     },
     "5": {
-      "median_bp": 111.0,
-      "top_quartile_bp": 119.5,
-      "best_bp": 181.0,
+      "median_bp": 115.0,
+      "top_quartile_bp": 123.5,
+      "best_bp": 185.0,
       "n": 63,
-      "ust_pct": 4.69
+      "ust_pct": 4.65
     },
     "7": {
-      "median_bp": 98.8,
-      "top_quartile_bp": 111.0,
-      "best_bp": 151.0,
+      "median_bp": 103.8,
+      "top_quartile_bp": 116.0,
+      "best_bp": 156.0,
       "n": 54,
-      "ust_pct": 4.79
+      "ust_pct": 4.74
     },
     "10": {
-      "median_bp": 84.0,
-      "top_quartile_bp": 99.0,
-      "best_bp": 144.0,
+      "median_bp": 90.0,
+      "top_quartile_bp": 105.0,
+      "best_bp": 150.0,
       "n": 25,
-      "ust_pct": 4.91
+      "ust_pct": 4.85
     }
   },
-  "_fetched": "2026-11-24T23:55:20.538174Z"
+  "_fetched": "2026-11-26T03:35:24.321012Z"
 }

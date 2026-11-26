@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-25T19:19:05Z",
+  "updated": "2026-11-26T03:35:42Z",
   "naic": [
+    {
+      "id": "b8bf7650f4a8",
+      "title": "NAIC Advances Development of a New RBC Charge for Cessions to Reinsurers in Non-Reciprocal Jurisdictions",
+      "date": "2026-11-25",
+      "cat": "General",
+      "summary": "",
+      "source": "Mayer Brown",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM0daUjhIcEpucnl5M21LUDRnamd2aXVvOHZWU2FLYk52NUdMc2diTGhBaTVkR2JrTnVkbzMyUVdKWU9lZDNPeVc2WXJrOVloMkt3NnpVRG51N3BIQUZlSHlvS1k1MHZXNmUtVkJZYWRRMmttcDBkSV9UalRTQlRxN0Jna24xRUd6RU85MXJpWlljTm5rNEFMUmpmWl9NRkpMcVpNN1Z0TkliVHlqcGF0Tk5jeDAybFlZWHc1dXhIaWlIam15YUJNTU5DOXFOTmFVVk1DVko1OUJqSkVuNlFPU256dGNialk3Vm5vMHdGY3kwTEdmTU1tQldYSmVaczc2T3Q5UUxVVW9YZjV6b1VVejZKblkzUTNqUDhWUg?oc=5",
+      "isNew": true
+    },
     {
       "id": "92052d807dc3",
       "title": "Johnson Lambert creates two new advisory practices after NAIC highlights AI issues",
@@ -39,7 +49,7 @@
       "summary": "",
       "source": "Captive International",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmZ4TlBmVzJLX1hTRnpTc2UzX1BYcnJkSVpjMWtFR0dwODRWSC1fQm5hcHE2djU3bTl5SEVxQndYdm1ORVhWUVg5dG95dUMwQklqak95YlJISFVOWEVGYmNUTjItYXlXTzVZc2VISlE2cVRnQ2pMQzAyeUhmZGJEcVdqYW53NHBDRmtpTzdleGptTU5aR0RObUFfdC0?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c3a57db4d693",
@@ -49,7 +59,7 @@
       "summary": "",
       "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3Vqdi0wRXZ0bGZiVnRCd3lubHFSV3FlTlh1RXZUbGV4S1BZYUdIT25nSWxkbld5V2ZKM0xlTllXZVFVdFdPc1VTemJDSWYtS2hhNlFubkNoUmp3bFI0ZlR1UnJfdWV0eXNfSnNuX1ludU51eElrS2RYbnptZW1oWlBNbnU0MGlxa0Y0OUY3T2hzSlIxT2dxbzhtcGNwSjhxV04tVm1JOFRrM1pS?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5bb758cf650",
@@ -59,7 +69,7 @@
       "summary": "",
       "source": "The Manila Times",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLXc0eTBGcnNlSE9xMUREMWVSc19Jbnozd0dZbWd5Vy1nQWRNNE9Nd19idWNhdVJDdWtsbWEyaUxNQ3htcU1haGQ5SEdCWHppeElHV0pySmtYZUYzRUJzS3kwRWNFSlZLemVYYnhoQVVYbUV5Umx1M1ZvWnV2NEdjLXNnVVZXYkRVbW5IRW02Z3FNTHlDbDZPUllVa29La2NxTUQ2NC05ZE4zY0FlM0g1OFRwQmFhSmZzMEloOFZTakQzdHFGSE45eWIxVEV3bTYzTEg5eksyM2U3ODNSZ21wa3JYYWN5TGxNVW4zVXZ2RWlWLUxvcjBfX9IB_gFBVV95cUxQREtzTTVjVHFfRVpXWXVxMlpBV005SWdiSGh2V2FuMWRxblNsVGE0Y3FkOXQ2cTE4ZzA0bXpyT1BDbEtwMnEwTHlRUmZtZnB2MzFrU3oxc01HYzdfTGxFaFFFUDV4WTFoZmFYTXRaT1M2V2FHenFTN2s5M21xWF9MTHgxMElPOWQxQ3A3cFRzWWJXYzhOdVFoa1ZRV0lISXd5RzZGQy02V0UwR3VvSVZieHhYTWZNbVJURmJqRGRKLWkySVVSYnNMeE1naVlZWXFkemdxb01feVhPR1JTSzlPeF9kN1I1NEF1ZVNfejU0eGQtQVlaUm0xbEF2OVJEZw?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "65239a31c45c",
@@ -240,16 +250,6 @@
       "source": "Mayer Brown",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeVR0TFhLaFMtajVtMlRvd282d2xyRkIyY1lBSTNlUjBvd2p1SHlTWWpid1ppSnA4dlpTbks5Ni1QdDBudE1qcExrdmYtY08tTTFDUWtUM0Q3UlV6NUpZTnIyLVVmaWZZdUUyZ2FXb1hnSU4xTGV2V3IzekhLZVY3VGNnWW1QSDVaaVNKWEVXTGs1aGUyYlp1ZHZGUnNfbV9YMEJjbDhaXzFMdTd5YVluVVZwUzY0RVdXWHVjTXJzRWgwR0VUVVNuSWJjMDdhdVA1Q3lYUDhab0pwNTlmSjNsbUhVXzhER0U?oc=5",
       "isNew": false
-    },
-    {
-      "id": "258fe81e6d09",
-      "title": "From Pilot to Practice: What the NAIC\u2019s AI Review Means for Insurers | Events | Insights",
-      "date": "2026-10-15",
-      "cat": "Governance",
-      "summary": "",
-      "source": "Faegre Drinker Biddle & Reath LLP",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHlSYWM1UGFla2d3MVlLU3UtM25aQUdWOEJzaDF6UUVQcG5ZdzhQMW55cVN1NlhQczNPbW9TZWtWY2pQZ3B6WHJ1YWtHdGhoTG9lNk5qVDRpUTdPd1RfVUdaM0hoZ3lHWTJNc1YzSXJWYmJHM0p4SFJiTTFnUmRQLUJBdnY2LTZpczlBcjlrNnZDbHFXQ3hSaTlpcjh4SW9Yb3ZUUWZTUkQydWhGaFJsZ1RaR0pOZEdnYkhGMnJRZXI?oc=5",
-      "isNew": false
     }
   ],
   "bma": [
@@ -271,7 +271,7 @@
       "summary": "",
       "source": "Legal 500",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmJoQWtSdHpJRF92dEVNR2NzVmdjeDV0UC1kY0lqOVhCR3lmZXBIMEF5WWNxd2lYZ1hEVi1nOWgxQ0NsS2F5UG5odzF0cTk4OVkzUC1JeGdEZU1nQzNFY0l2UVJheE9Ka3N5NEl2QVBDc2ZDblpHQldXbVR4TjJHM1RhVUtreUlZMlV4VjhSck1YdFBrOFZsekNXbGd6OVplSndXVWpnUFJEU0FrbVBuLVpMUXNVWXR0N3c?oc=5",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ffca0e1feb85",

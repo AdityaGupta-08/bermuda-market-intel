@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:25:22Z",
+  "updated": "2026-11-27T23:29:32Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -10,99 +10,99 @@
     },
     {
       "name": "Google News: Aspida",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Athene",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 8,
+      "error": null
     },
     {
       "name": "Google News: Catalina",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Fortitude Re",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 10,
+      "error": null
     },
     {
       "name": "Google News: Global Atlantic",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 11,
+      "error": null
     },
     {
       "name": "Google News: Kuvare",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Martello Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Monument Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Prismic Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: RGA",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 18,
+      "error": null
     },
     {
       "name": "Google News: Resolution Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Sagicor",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Google News: Somerset Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Google News: Talcott",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 6,
+      "error": null
     },
     {
       "name": "Google News: Venerable",
-      "ok": false,
-      "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "count": 4,
+      "error": null
     },
     {
       "name": "Google News: Wilton Re",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": null
     },
     {
       "name": "Reinsurance News",
@@ -114,11 +114,11 @@
   "items": [
     {
       "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yXy1Yd0VxYl81bGtMT0p2WXQ5QnVqQlRXSTk4UUROZlVMeXJMbnJ2VXI2dlZQREFtVDZEa25ETVBmMkxOUTdJTTAzR04tT0RY?oc=5",
-      "source": "Yahoo Finance UK",
+      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
+      "source": "Yahoo! Finance Canada",
       "feed": "Google News: RGA",
-      "date": "2026-11-26T13:48:48Z",
+      "date": "2026-11-27T04:37:26Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -213,7 +213,7 @@
       "title": "AM Best Affirms Global Atlantic Group Ratings",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkVDcW8yclNsMGVyQnRjZVBsQnhpckpVenc5bnFGNFhwcWU2OEZLWGxIU3JGd0MtcW1ubkQzWHZpNkNpZEdWYzdYX05ZRVl3QVFnc0xobnNCZWdIU2dhREVRUFZDdWRibDZJTkNsV1JnUVB5S2Zva1NZVGs3VmhVNmFIVGlrQ3VscjdpMjVzTQ?oc=5",
       "source": "Wisevoter",
-      "feed": "Google News: Global Atlantic",
+      "feed": "Google News: Fortitude Re",
       "date": "2026-11-20T23:51:40Z",
       "summary": "",
       "companies": [
@@ -389,18 +389,6 @@
       ]
     },
     {
-      "id": "132d37709b9d",
-      "title": "Venerable Names Miles Kaschalk and Charles Schwartz Co-Presidents",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUl9XemlwNTVwcGFjX21OUXFqejdyY3ZjT2hLMV8xLXlJUkNBN0h0cFhINnJyRlQ0VmxLdFBDcGZ4OW4xNFI4ZE53Yno5aW9oVlZULV8wbW5VU3BWa2ZQWHJMWG1IZ0tScjEtcE1YdWxoTDVBQ1VVMzBwRm5UVC14aDUzUVZFUWdwSzFieWwyU3A0T1U5VDZsdDE4ZXRIT2FCMzUwZ0o0NXJuQm9ZSkdnMTRzOTlhSjh3eWFibUxRTQ?oc=5",
-      "source": "Business Wire",
-      "feed": "Google News: Venerable",
-      "date": "2026-11-17T14:30:00Z",
-      "summary": "",
-      "companies": [
-        "Venerable"
-      ]
-    },
-    {
       "id": "04433ffeac5b",
       "title": "What Moved Reinsurance Group of America (NYSE:RGA) on the S&P MidCap 400: Shares Opened Flat Ahead of Tuesday's Ex-Dividend Date With No Company News",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObEY1cFgyOUlBZFNVOUVXXzBxcE5HclduSG5aTmRDNjhqb3FOa0ZHUFp4QjV5Q3FGcDZUcmRCekYzODZ5ZDV3T0ttUl94aEYwdWptU01rNEN0dVVKWkwtalhadE1KaDhrM0lHUnZuV0w5WG1IYlRQVHBNc1ZSdnBsYjZkTFo5ZHMteERldThMTDNGRkdHbUdZcVA4WEhNZTB3QV9OcWRITENvaDZocTIyZHpvOUg5UFlwQTJPMVp1dW9tM2NxUlpfWHZ5clZlb0dtckRZQnVXN2I3d1pONy1YTC1BeGRZZFNZLW5PVDkxTExDcHBsX0VrQm11aEpuWTFzQ0VMa3JiYlNsUQ?oc=5",
@@ -434,6 +422,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "132d37709b9d",
+      "title": "Venerable Names Miles Kaschalk and Charles Schwartz Co-Presidents",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUl9XemlwNTVwcGFjX21OUXFqejdyY3ZjT2hLMV8xLXlJUkNBN0h0cFhINnJyRlQ0VmxLdFBDcGZ4OW4xNFI4ZE53Yno5aW9oVlZULV8wbW5VU3BWa2ZQWHJMWG1IZ0tScjEtcE1YdWxoTDVBQ1VVMzBwRm5UVC14aDUzUVZFUWdwSzFieWwyU3A0T1U5VDZsdDE4ZXRIT2FCMzUwZ0o0NXJuQm9ZSkdnMTRzOTlhSjh3eWFibUxRTQ?oc=5",
+      "source": "Business Wire",
+      "feed": "Google News: Venerable",
+      "date": "2026-11-17T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "Venerable"
       ]
     },
     {
@@ -1946,30 +1946,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "07e895c423c3",
-      "title": "Wells Fargo Reaffirms Their Buy Rating on Reinsurance Group (RGA)",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW45TjZHa0pCY2l2TUJfZ1NGaTNKTlkwYmtYb0xkUXhpNkdscmNrUlFGMFFRR1lXMFcyaF9EOGwzWnhiMUVyLVVNVzhJZ2tEbm5za0RIWkdDaTBtRDg4WURMSV9Dem91REpaM1B1VFJCcERUUk9GdXJVOXp1MWdGOUdJVXg5YjJ1bmF2ZHlocDBqZENxdHJzczhEWHpjRlRCNEhra3FZdnB0a2NYTDNSZG96Njk3enBGM28tRmhwbkkzcjY2SldlSUVIWTFOcmlURVJtSHg2bkdpeTBHQVZfNmh0aw?oc=5",
-      "source": "The Globe and Mail",
-      "feed": "Google News: RGA",
-      "date": "2026-10-13T13:14:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "2ff05e0f646f",
-      "title": "What Athene\u2019s investments can tell asset managers about where insurance portfolios are heading",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmp4T04zcV9jenJ2VFZLbDkzODZnMHJjYkdWZ3lEcktiWHI0VTI0SUdfQlNyUDU4MnItR3JyN1ROeWtJZ2ZzNTk0Y1pkdWVpTVNJWjFQV2d5ckVnSm9PR3lMcF9ESHhhRnpsR3JqbTdxWVBCNm4zNFFOUFVieFJtYVdEMm1RUkNPdlI2bkRRZDQ3QzZRYmwyWUEyRF9OYWFhUE8tNGR3Sy1iVnExQkE?oc=5",
-      "source": "Pensions & Investments",
-      "feed": "Google News: Athene",
-      "date": "2026-10-13T13:00:00Z",
-      "summary": "",
-      "companies": [
-        "Athene"
       ]
     }
   ]

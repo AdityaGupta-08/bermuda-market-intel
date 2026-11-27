@@ -1,33 +1,17 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 31 items
-Generated Fri 27 Nov 2026, 08:25 AST
+Bermuda life & annuity watchlist — last 14 days — 29 items
+Generated Fri 27 Nov 2026, 19:29 AST
 
 ## Feed status
 
+- ✅ **Google News (16 of 16 companies)** — 58 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
-- ❌ **Google News: Aspida** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Athene** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Catalina** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Fortitude Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Global Atlantic** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Kuvare** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Martello Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Monument Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Prismic Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: RGA** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Resolution Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Sagicor** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Somerset Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Talcott** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Venerable** — failed: HTTPError: HTTP Error 503: Service Unavailable
-- ❌ **Google News: Wilton Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
 
 - **2026-11-13** — Stock Titan — [Athene and Apollo entities report shared power over 608,000 Calamos (CSQ) Series F preferred shares.](https://news.google.com/rss/articles/CBMiygFBVV95cUxPay1TbGthYW1HQVpLZGx2ZENEck5YeWJ3RTVkajk4MU4tanVmMDhuNFBmRFBEei1RSXU3ZFlqZTVkQlpxWGUwalNHV2pTLWlpcXZEeGFyVW1zSUhsb0RLbmtsYUlNZTlaNUVDbkRZdXJuQjJIWmxOYy1jUTMzQUNUOTZEQ2FBZ2F4aUF1U1o3VW5pUGtGSTZpVWdpZ1hkc0JHR0pYTHFHbnYyQzlRajktN0NiMlU3SjJVTjZkTTZtWUROYnU1TFVvSm13?oc=5)
-- **2026-11-13** — Yahoo! Finance Canada — [Athene Holding Ltd. (ATH-PA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FcDdZY3lURHgybjVRVEFPWHBsdVpRaHZsMU9lZDdOS2hibHFrY0VJQWNTTXdrdVJHUEtVaWRFam10eDkyem9UWGo5ZzhJMjN2NGhaUQ?oc=5)
 
 ## Global Atlantic
 
@@ -57,7 +41,7 @@ Generated Fri 27 Nov 2026, 08:25 AST
 
 ## RGA
 
-- **2026-11-26** — Yahoo Finance UK — [Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history](https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yXy1Yd0VxYl81bGtMT0p2WXQ5QnVqQlRXSTk4UUROZlVMeXJMbnJ2VXI2dlZQREFtVDZEa25ETVBmMkxOUTdJTTAzR04tT0RY?oc=5)
+- **2026-11-27** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-26** — Yahoo Finance — [Reinsurance Group of America, Incorporated (RGA) Hits Fresh High: Is There Still Room to Run?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlZpTU5MZFNDRmtrbFlzYW9ScEl1bi1zYWlkdzFXN3VoXzZpWnZtdlZ6RkZ4RTRfM1ROTmxIQjhCcGU0UHVHWDhGbWhUZ0FsT19pUmVSSF9uTHcyR2NOOFFzbVRiVl9COHNnMGI0dGVudWtjR1B5QXlxdElNeXNlT2xIei0wTzJiM2RMM21JSjBxd2RaV3AzVDFuV3ptM1ZVMC1HWlRIa3lkcFk?oc=5)
 - **2026-11-25** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2FaSkhlUGEya3JnRG1VSDN1UXBaUmhCX3BYYXBqa0IzalFsZVBYY3JsMXpfa3hmVVUxLXRoT0VFTUtPNk1hYWQ3ZnFsQVZ4bTQwRkVzYWFxa2F6ZWs5LUx1dTZQMlNRcy1CT3lqZWhuR3c1OTd3aGtUa20yU2xVMHRHZkp0VXA1NkZyemxTWQ?oc=5)
 - **2026-11-25** — Stocks Down Under — [Reinsurance Group of America Inc (NYSE:RGA) Share Price, Forecast & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNjlzd240dEZGUHYtZmRtNzc0TlNDb0lGeG0wdVVDcll2bEtfU25pckxVQUhSX1Z1eTBJZW1LV00zbUI1a1NUTkVJcHF2WXMtdkE?oc=5)
@@ -74,7 +58,6 @@ Generated Fri 27 Nov 2026, 08:25 AST
 
 - **2026-11-17** — TipRanks — [Sagicor Earnings Call Shows Growth Amid Market Volatility](https://news.google.com/rss/articles/CBMirgFBVV95cUxOczlZTm9YVVV2dlJ1VklPel9DOFNkQ2V0NF9wS3pOZFE2OGtkUlBCeTVJcEd3TkR0WVhRODJ3WWJzSVdHMWlCY29DM2d4TkhlaDhWMFJ5NUY3LTUwYnI4M3RiR2ptQml4MU9FX0lmYkd1dXF2RjhnUGRra25FSDlhSDh6cjRsS3p0U254c2k0VlpwRkxhbjBYRE1NcWY1d0JENkVCdTVkWGJIR3VCT1E?oc=5)
 - **2026-11-17** — Kalkine Media — [Is Sagicor Financial (TSX:SFC) Turning Stronger Operating Results Into Sustainable Performance?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2J3Nnp3VmdHbjFRN19NcmREYTl3YUwySUdmcTJXM0JhNjZUbjYtU3htZlBJR1FaRTV6bGFIZGZBSHdTMkJhTExUWE90U2ZqS3ZxazRwMnlMS3RGNVFJYnlDeHV5MjJkd1dyYUJKb3Bqa0RrYlIzZzU2X2FkY21JWDkxOXNiT0tDLXpISGNjU1FtSkVqVGgxQ2hrM0xDdVB4cFc3el85ZjlxeW5ZRFVIUXBuT2FCZVF3eEVrc1BENGxpd0FhUFpGRjBoVl9XOGczR1E?oc=5)
-- **2026-11-13** — Insurance Business — [Sagicor’s Q3 loss masks strong ivari capital position as rates squeeze earnings](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2pCQTlDYnQzXzh6UGpYMFd4QThJZDFaYXFrbHVMZWh1OE9fb2VIMjJ2SjFYaXp2YnZjQ3lDMzRhRkxJd09kMkhiMVU4eFV5bEp0cU1pOUZzRXQ4SS1BVHA1NUFwOXByZy1uRjNzc2JGR2xnMUt2UFNpa3RyRVpPd0YzT1JlM2Y0OGtaLUNjTWVRODFiR1Y0eWVFWEx0LUdabHdhNm1kbkhfMVdhWnluQTRGTUpmVjdON2ZVOHJERVpHWENDcWNCVzFRZ0JjQ25yTElLS1pPX1ppaFh1M0lrWnNCTjQ?oc=5)
 
 _No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Catalina_
 

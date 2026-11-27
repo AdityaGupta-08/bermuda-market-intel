@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:25:01Z",
+  "updated": "2026-11-27T23:29:30Z",
   "naic": [
     {
       "id": "b8bf7650f4a8",
@@ -42,16 +42,6 @@
       "isNew": true
     },
     {
-      "id": "679f2809bc89",
-      "title": "NAIC votes to accredit trio of State regulatory departments",
-      "date": "2026-11-19",
-      "cat": "Investment",
-      "summary": "",
-      "source": "Captive International",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmZ4TlBmVzJLX1hTRnpTc2UzX1BYcnJkSVpjMWtFR0dwODRWSC1fQm5hcHE2djU3bTl5SEVxQndYdm1ORVhWUVg5dG95dUMwQklqak95YlJISFVOWEVGYmNUTjItYXlXTzVZc2VISlE2cVRnQ2pMQzAyeUhmZGJEcVdqYW53NHBDRmtpTzdleGptTU5aR0RObUFfdC0?oc=5",
-      "isNew": false
-    },
-    {
       "id": "c3a57db4d693",
       "title": "NAIC adopts credit rating agency framework despite industry concerns",
       "date": "2026-11-19",
@@ -82,6 +72,16 @@
       "isNew": false
     },
     {
+      "id": "679f2809bc89",
+      "title": "NAIC votes to accredit trio of State regulatory departments",
+      "date": "2026-11-18",
+      "cat": "Investment",
+      "summary": "",
+      "source": "Captive International",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmZ4TlBmVzJLX1hTRnpTc2UzX1BYcnJkSVpjMWtFR0dwODRWSC1fQm5hcHE2djU3bTl5SEVxQndYdm1ORVhWUVg5dG95dUMwQklqak95YlJISFVOWEVGYmNUTjItYXlXTzVZc2VISlE2cVRnQ2pMQzAyeUhmZGJEcVdqYW53NHBDRmtpTzdleGptTU5aR0RObUFfdC0?oc=5",
+      "isNew": false
+    },
+    {
       "id": "00d19d8a3fb7",
       "title": "NAIC task force to address LTC riders",
       "date": "2026-11-18",
@@ -109,6 +109,16 @@
       "summary": "",
       "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVdTa0JBb3FWVDJmQzJ1Uk5PYU1LLXl0Z3gxd21icjVMcFZUbGp1X1gyWGJWSzJYY2oxbDdRTlItdmt2MGkzSHhwX0dQN2RvVEY1N0tBSTJ6TUt2ZWFzaFpnTFBVeXVYN0ZhWVZ4WnpkOGRjbEVIZkxkQVE4dmp1Q2l2MXJjM0lVUlBDbUtyZ2UwUlQ3Vm55Qi1ZeHhaTnpqWFhJaHVmN1NsQWc?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "d8e945fb58bf",
+      "title": "Pricing models to stay in AI review: NAIC rejects industry bid",
+      "date": "2026-11-17",
+      "cat": "Governance",
+      "summary": "",
+      "source": "Digital Insurance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHpOdlBRd1BIVVVzVXY5Ymk0cXM3SGJVSnlyaWs3bjk1R0MtcTRnQVdCdXFEcnFnc0RKQUotSWd3R044ZG1wSXk5dnVTN2xVYmVBcGZ5SEtKRVBjU0xraGI5YXBiTEp3aWhKeDBMRDFUaUNHa0RSTXpmbnQwRVBlSU5TenpoZXVrTzRBN2cyLWFIZXc?oc=5",
       "isNew": false
     },
     {
@@ -239,16 +249,6 @@
       "summary": "",
       "source": "Repairer Driven News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVkZzbXdpWGc4c3Q3cVZNcVA4ODN0cFBySDNZMWZxNFoyWXNaV2JZVHI5ZzBoNjdxM2hKZWd1b2gxTFVIcmhiTnRwT1NUV05CcWRWWTZVOElFUnl6X2QzUEM4WGEtbE9MNFUzdXVBTjE5eW50ekhpeUE2N3V0NTBVTEJiQ3ozU0tpUXJNYTBWTFRydWRWRmNfVHl0OWk2dUJEZUtlWFpoOC1Za2dpVkRORUVlMA?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "38b07bb11a93",
-      "title": "NAIC Credit Rating Provider (E) Working Group Moves Toward Adoption of Due Diligence Framework",
-      "date": "2026-10-15",
-      "cat": "Investment",
-      "summary": "",
-      "source": "Mayer Brown",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeVR0TFhLaFMtajVtMlRvd282d2xyRkIyY1lBSTNlUjBvd2p1SHlTWWpid1ppSnA4dlpTbks5Ni1QdDBudE1qcExrdmYtY08tTTFDUWtUM0Q3UlV6NUpZTnIyLVVmaWZZdUUyZ2FXb1hnSU4xTGV2V3IzekhLZVY3VGNnWW1QSDVaaVNKWEVXTGs1aGUyYlp1ZHZGUnNfbV9YMEJjbDhaXzFMdTd5YVluVVZwUzY0RVdXWHVjTXJzRWgwR0VUVVNuSWJjMDdhdVA1Q3lYUDhab0pwNTlmSjNsbUhVXzhER0U?oc=5",
       "isNew": false
     }
   ],
@@ -506,6 +506,16 @@
   ],
   "cayman": [
     {
+      "id": "b7672e9c4a37",
+      "title": "VASP Registration in the Cayman Islands: A Founder's Budget and Operations Plan",
+      "date": "2026-11-27",
+      "cat": "Licensing",
+      "summary": "",
+      "source": "Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU05bkVqUWo1QWlDaWZPcjROYnBuX25qdG81NmUyYXVHUF9JZzc0NER1NXdwcEJYRGRxZ041MFRpckFWc0w3TlRJWFpCdTFzaEVXWVlLc0RubEZaYmtyOTM0VFllRTdlOGhnbklVcGM5VmlvTmVhTnNMSDdjdjNwVFpRS1d4R1ZVdGh0RXpHWFUyX1FjT2cwMkdPaWJCaUZ4WmxvZA?oc=5",
+      "isNew": true
+    },
+    {
       "id": "84557da6e528",
       "title": "AML Inspection Cayman Islands: 2026 Readiness Guide",
       "date": "2026-11-25",
@@ -743,16 +753,6 @@
       "summary": "",
       "source": "Captive Insurance Times",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVzJhcm5kQkxmTHgxMXl3NTZXZnpDYmZFV2NUOTQzOHhsaUoxY1hrcU9nNGdiU0RPWVRBSXpjdTVEbmlKWmxBdGhnSU81Ymx1Rjl4TVoyZWo1dmdDbE1yUTQ1YzN6eVhpQkJmdm1hZEs2ZHlsSGZRemU1alNaNHJ5U01YLS1YS0prLV9Mc2hSaHptZFNwUFk3dGN5TEVKNk43RS0tRDhCLVNUeGZ4T19RNy1vYTlfWi1OMFZiOUpyczgtemhTT0lNb2NndnA1d1JRV3c2REtfbmlPUzRsV0JWZ2JaRlU4Zw?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "1a90ebcf228d",
-      "title": "CIMA revokes Progressive Grocers Insurance SPC licence",
-      "date": "2026-09-04",
-      "cat": "General",
-      "summary": "",
-      "source": "Captive International",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGJ0OXE0X2RZb0lpLVJQNlNnOTl1T1lBcXRCd05iYm81ZW9QTldUMUlzd2Nla2x1ZHpqdzU2dXlNdWNHd2tkR1I3S29jREdZaEd4TVR1RlV5WkVvUzFCSUFZeGVmVlhwQ0czX2ZzQ2dmTlN2eUl0cjlza1U1NDhxdS1HZVM3STN2bmk4TTlqMXVqMm9EUVE?oc=5",
       "isNew": false
     }
   ]

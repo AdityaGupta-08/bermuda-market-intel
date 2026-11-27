@@ -15,60 +15,60 @@
     "aaa": {
       "name": "AAA Corp",
       "spread": 49,
-      "prior": 48,
+      "prior": 49,
       "series_id": "",
-      "date": "2026-11-24",
+      "date": "2026-11-26",
       "source": "credit.json"
     },
     "aa": {
       "name": "AA Corp",
-      "spread": 71,
-      "prior": 70,
+      "spread": 72,
+      "prior": 72,
       "series_id": "",
-      "date": "2026-11-24",
+      "date": "2026-11-26",
       "source": "credit.json"
     },
     "a": {
       "name": "A Corp",
-      "spread": 81,
-      "prior": 80,
+      "spread": 82,
+      "prior": 82,
       "series_id": "",
-      "date": "2026-11-24",
+      "date": "2026-11-26",
       "source": "credit.json"
     },
     "bbb": {
       "name": "BBB Corp",
-      "spread": 122,
-      "prior": 120,
+      "spread": 124,
+      "prior": 124,
       "series_id": "",
-      "date": "2026-11-24",
+      "date": "2026-11-26",
       "source": "credit.json"
     },
     "bb": {
       "name": "BB Corp",
-      "spread": 225,
-      "prior": 219,
+      "spread": 228,
+      "prior": 228,
       "series_id": "",
-      "date": "2026-11-24",
+      "date": "2026-11-26",
       "source": "credit.json"
     },
     "b": {
       "name": "B Corp",
-      "spread": 405,
-      "prior": 393,
+      "spread": 413,
+      "prior": 413,
       "series_id": "",
-      "date": "2026-11-24",
+      "date": "2026-11-26",
       "source": "credit.json"
     },
     "ccc": {
       "name": "CCC Corp",
-      "spread": 1405,
-      "prior": 1387,
+      "spread": 1417,
+      "prior": 1417,
       "series_id": "",
-      "date": "2026-11-24",
+      "date": "2026-11-26",
       "source": "credit.json"
     }
   },
   "sector": {},
-  "_fetched": "2026-11-27T12:23:32.712135Z"
+  "_fetched": "2026-11-27T23:28:16.958437Z"
 }

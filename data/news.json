@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:25:01Z",
+  "updated": "2026-11-27T23:29:30Z",
   "topics": [
     "Insurance AM",
     "Private Credit",
@@ -7,6 +7,16 @@
     "Structured Credit"
   ],
   "items": [
+    {
+      "id": "6ea47116be29",
+      "title": "Cedar Trace receives Lloyd\u2019s permission for US$300m Syndicate 1503",
+      "source": "Captive Insurance Times",
+      "date": "2026-11-27T16:05:18Z",
+      "topic": "Insurance AM",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQjdOb2hXdC1ucXpCZ1pQZjZ1Z29SRzlsbE5sX3pvSTZTd1FaSjBtOEZ6NlRwYkFKQjhLamwzUXdlV3VlUW01NUFFcDA4X0tKZmlNN2plV2N3a29SZF80ZUQwUUJLY0QwNnVTVDJUc09MNnJrdm1PbUQ4SkpfaDFOYnBJVGV0b1lRSUNwcVlmN3FJUURwaEFjLTk0QkJHeXl6cC00eHU5TnRKQk9fWDhId2hfdG9rMUJBMXI4dDNmTS1YQk5ybkwzQk1kR2dGWlpjWWVwV0hReHNmaDlBRWcxYQ?oc=5",
+      "isNew": false
+    },
     {
       "id": "37a1660a0904",
       "title": "Private Credit Pulse \u2013 Q3 2026",
@@ -21,10 +31,10 @@
       "id": "08b0fbe1f64a",
       "title": "Hern\u00e1ndez de Cos Set to Succeed Lagarde: Where Next for ECB Interest Rates?",
       "source": "Morningstar",
-      "date": "2026-11-26T14:44:30Z",
+      "date": "2026-11-26T14:31:06Z",
       "topic": "Rates & Macro",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFNzckoxVG5FSkM2MDd1N1VFUktvRTdhd1k4R0l6UllTbWtJTTNKNS1tWXJwZkNVaW1qV3k3SjVxNHBpQlRPSmp4RW1Bd0xQS3pqSnlQNUNWejNnUnMxTjVDOXFKUkIySEdncHZmWGVOeTRVaFVQZUxuZHZxVWhjWVBGaUdtVDJVUW5wWnBVOTVadkdMbWlrS1l1Zy00NHVuUUdLamFzWURVUE9hUWlZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFRHem8yMEZ5N0lDVUlkaW5OeGZSbVlWUlRaM0J5WEFLY2F2RHNvRTRYYmZHUFlXaXRXd0dmWUdNclVNN0hqdEVlRS1YTE1HeEpWZTg2d0FyT1R4OE10cGFlaUxkV3pSbTI3b3VhR2pvYUxVc1lKcDhqSklVQ1hMWnZERU4yREJkOXJ0YmU5b3JxRUtNVjJmak1kUDlHZ3Q4T2tSdkdlTmJtRDBfOHRR?oc=5",
       "isNew": false
     },
     {
@@ -45,6 +55,16 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTURLc0UwZjNUdy05dVdJMVFLLUpDNUQwN19INXh3cVcwdW5fM2k3eDV2bnY4ZkZkMDVzSjN4N3Yzcm9CQ1MtT1hmaVJzMmY5VkpMUzgxQzVrQm1zZzU2OERSak1TeU84dDlTOVk0aEZSNXFGcUNzaFo2bVlXN2wwYjRScUxtVE9GeXFFRjBFdWdlZ2tjOEpnQ19UTmVJVnlBQ0ZVclBQdHhieTd0SDJlVEU3c0ZTaFZFazB6cVAtbWpqMmU2?oc=5",
+      "isNew": false
+    },
+    {
+      "id": "883b7bdb0c20",
+      "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
+      "source": "WSJ",
+      "date": "2026-11-25T21:02:00Z",
+      "topic": "Rates & Macro",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGhuNzRQQ2Z2ZWMwOFZPOTk4UXFxNWg4R09KdWVyVXItRnRQMnFJYkxvM3Flb1ktS2pJMFFqZXJodXM1ZXhpZ2hiOUoxTmRXMzZXVEtqZUF2emgyb0dfZm9xbVktNGJrSkZCTjdvZkVmQVItODZmZXdkX3lydHV2SUY4NzFWY3V6RnBlREg1RFhXa0hLaGt4MGRRbmhpQVpm?oc=5",
       "isNew": false
     },
     {
@@ -285,26 +305,6 @@
       "topic": "Rates & Macro",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFNLNFZjNmJ6Z3FTVm5kRmoyeUpWVms4bDZiazFfNl80T0YzWmdSV0Qza1FzRklSYmI3bzlkREdlTUdqWF9kT0tZOVFZYkRvLUN4ZW5EdzFsVjlFUlpxZnBEb3M3UW96aXNqbklZRFE3cVU1LTdJakFRQ2g2cVU1QTFEaENSNnMwb3BHcE9HUU5FMjBXRHQ1bWt0MjFBTkFuTW9ROGI3VQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "886b6f77acfb",
-      "title": "From Hawkish Risk to Risk-Off: The Bond Market's Next Big Test",
-      "source": "The Dark Side Of The Boom",
-      "date": "2026-11-22T15:16:09Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVThuUUUzUVhQUzZ6OGFISkNZcTM2dmZ3am5XVG5nRjdNemRfa00tUGRuYVVSd2xkVkxfUkNEMnlHQUNkdk1rQ3Zlal91VTZkeUJNVkIxSTRJbGlzeVI1QlczbFFmbVd1UDlsRTY5UkxPeVBOWnJvLUJKYkV2Mmg4QXk2QQ?oc=5",
-      "isNew": false
-    },
-    {
-      "id": "bb31fb2c2458",
-      "title": "Bienvenido a VanEck",
-      "source": "VanEck",
-      "date": "2026-11-21T15:53:08Z",
-      "topic": "Rates & Macro",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUpiNTVnOXNJbGJxZXNOVE82bW4wMzlNeE0tU2VGN2ZHZkFuYnRBcWFZWHhxcXh3Ty1yRWRzN1hpS20wZVRWa3hyWF9rSGhPUlBIdnN2M19nUW9FVTNjck1CZFFnblN3cU0zOFIyVHMxZlREOGgxcWNIbjgzY2FkeW5tZkxDVmN0THZEdWRWMnpvTVlENnBDWDN6S3d2LUxEdmtMTXZlckgwWjNhZGR5RTZycHVXWWhjUGJ1Q0hDUFZDM3RRdFpGNmV5Qnd4dlo2LWkxQ1JrNHExYmk4OUcxbg?oc=5",
       "isNew": false
     }
   ]

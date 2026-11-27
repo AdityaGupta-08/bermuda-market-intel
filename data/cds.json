@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
   "source": "FRED ICE BofA / TradingEconomics",
-  "status": "ok",
+  "status": "partial",
   "sovereign": {
     "us_5y": {
       "name": "US 5Y CDS",
       "spread": 25.0,
       "prior": null,
       "date": "2026-11-26",
-      "source": "TradingEconomics"
+      "source": "cache"
     }
   },
   "corporate": {
@@ -70,5 +70,5 @@
     }
   },
   "sector": {},
-  "_fetched": "2026-11-26T16:55:32.559677Z"
+  "_fetched": "2026-11-27T01:44:48.841929Z"
 }

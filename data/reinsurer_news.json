@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:56:46Z",
+  "updated": "2026-11-27T01:46:33Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 15,
+      "count": 14,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Google News: Sagicor",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
@@ -112,6 +112,18 @@
     }
   ],
   "items": [
+    {
+      "id": "9e0a35ca35eb",
+      "title": "Reinsurance Group of America, Incorporated (RGA) stock price, news, quote and history",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yXy1Yd0VxYl81bGtMT0p2WXQ5QnVqQlRXSTk4UUROZlVMeXJMbnJ2VXI2dlZQREFtVDZEa25ETVBmMkxOUTdJTTAzR04tT0RY?oc=5",
+      "source": "Yahoo Finance UK",
+      "feed": "Google News: RGA",
+      "date": "2026-11-26T13:48:48Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "9ed517a97d97",
       "title": "Reinsurance Group of America, Incorporated (RGA) Hits Fresh High: Is There Still Room to Run?",
@@ -149,6 +161,18 @@
       ]
     },
     {
+      "id": "32a14d4f2706",
+      "title": "Reinsurance Group of America Inc (NYSE:RGA) Share Price, Forecast & Analysis",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNjlzd240dEZGUHYtZmRtNzc0TlNDb0lGeG0wdVVDcll2bEtfU25pckxVQUhSX1Z1eTBJZW1LV00zbUI1a1NUTkVJcHF2WXMtdkE?oc=5",
+      "source": "Stocks Down Under",
+      "feed": "Google News: RGA",
+      "date": "2026-11-25T21:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
       "id": "cc8ba650400c",
       "title": "Reinsurance Group of America (NYSE:RGA) Hits New 52-Week High - Still a Buy?",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmJYWE9NaUZOVTh3b0FGVHdJU1dmNjh4Q2FpX1E2RXBPVXlXYTZyZjZ3MUgyeEZmTnFPSk95cUR4LVZEZFFhTVBjM1ZZcGR0a2tFNGRVcnJrM3REbG84MlNDOEt0Q0ctVl9IdHBQdHBNejZrWkNXTkFlNFdEbVdlSHNULWk2VmRhRFdoNC1QSGt5OHQ2SE9OM0kzVlBWX2dIY2JlYXdHUnBXRlpGaEdhNDRCT2VnT0Y5T1pFeWt2R2x4RllDTnA2aG5SOA?oc=5",
@@ -167,18 +191,6 @@
       "source": "MarketBeat",
       "feed": "Google News: RGA",
       "date": "2026-11-25T10:09:17Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "9e0a35ca35eb",
-      "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News: RGA",
-      "date": "2026-11-25T09:09:54Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -377,18 +389,6 @@
       ]
     },
     {
-      "id": "0d35077b67b8",
-      "title": "What Makes Reinsurance Group (RGA) a Strong Momentum Stock: Buy Now?",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEg5dldEV1BUQ1V0bDMyUG5XYmc2bHdxMFRlaDBOTXRVYllBVXI5OXVkeTNuQTgzY2ROS0xwRVA1U3dPSlQxWExLbEU1MC1reGdFQzIwOEhxUHdCdWw4Wk12RWJTNWhNS1FJemxYZjJMT2dmSTJfSk1Ed0t3eXZjeGFGN0plOTMtS1NF?oc=5",
-      "source": "Yahoo Finance Australia",
-      "feed": "Google News: RGA",
-      "date": "2026-11-17T16:00:03Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
       "id": "132d37709b9d",
       "title": "Venerable Names Miles Kaschalk and Charles Schwartz Co-Presidents",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUl9XemlwNTVwcGFjX21OUXFqejdyY3ZjT2hLMV8xLXlJUkNBN0h0cFhINnJyRlQ0VmxLdFBDcGZ4OW4xNFI4ZE53Yno5aW9oVlZULV8wbW5VU3BWa2ZQWHJMWG1IZ0tScjEtcE1YdWxoTDVBQ1VVMzBwRm5UVC14aDUzUVZFUWdwSzFieWwyU3A0T1U5VDZsdDE4ZXRIT2FCMzUwZ0o0NXJuQm9ZSkdnMTRzOTlhSjh3eWFibUxRTQ?oc=5",
@@ -419,6 +419,18 @@
       "source": "ChartMill",
       "feed": "Google News: RGA",
       "date": "2026-11-17T09:11:03Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "0d35077b67b8",
+      "title": "What Makes Reinsurance Group (RGA) a Strong Momentum Stock: Buy Now?",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXdYVTBmTHp6a2U0OTgyQzNqWHNWdlJNaHhvWkVlNWcyZ0t1a3VRai1fTEFtZkZVZ3BZMUhFeGR5c3VXV1JyQmlxUVVBUThjMGlSQThQTFZkUmFBTTFBZzdYaW9OS0I0LVpuTmN1ODctUXJ2TFJIbkNORjlTc29lb0hoTmFiLWFmakZwdW9JU2Q1ZHVDbGREbktHXzhlVXdX?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: RGA",
+      "date": "2026-11-17T08:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -557,18 +569,6 @@
       ]
     },
     {
-      "id": "3ad749eb8798",
-      "title": "What Sagicor Financial (SFC) Said on Its Q3 Earnings Call",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnhBcV9JYVBiX1UtRHZNdnRPY0d3X29MX0c5a1BDODZfd1pDc19nV1l2YnZJSV9JLXJlSlB5M21kSHNORVFrSXR5SmxOZ3RBYVlURXdUUW1hTkdMeXN1czlKVHM1QmU3dDdxOGY2c0luZmhGS1FBbWVjZlI5TVhfVmFLajRuckh5LUlYdGZiWG1PRkJYTTU1c2tR?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: Sagicor",
-      "date": "2026-11-13T20:14:34Z",
-      "summary": "",
-      "companies": [
-        "Sagicor"
-      ]
-    },
-    {
       "id": "c34c1e41bfc7",
       "title": "Reinsurance Group of America (RGA) EVP, Global Chief Risk Officer Jonathan Porter Sells 3,852 Shares",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0ZkMW1pdHNrOEc3clhtWndEZ3c5OEt5d0lNMi1jdDdDaVA5eFp4VmdMMmYxX1ZPb1A1U01HWk1UVFFMd1RIZUZCNVdBcUpmczlwZkJBQzRyYTctellIdVBYNWJaUkpVLVowMlZ5WlZvUmhIMEhuM1BwdlVBM3BUYktROHdkZmxkUUtWWElobWVjUDdjWGtZemM0MFdCYUlwSXNlczBKNjRpeDA1clhJR2UxVGtVRmgxYWFGSnd6c01odGE2OWRPcHVPbS1OdFA5?oc=5",
@@ -626,6 +626,18 @@
       "summary": "",
       "companies": [
         "RGA"
+      ]
+    },
+    {
+      "id": "3ad749eb8798",
+      "title": "What Sagicor Financial (SFC) Said on Its Q3 Earnings Call",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTN4a2ZHRHhEaVkzdHc3NDVlVklpeDYwSWl0VEUtckdkMmRjNUpENWJsYnBHTlBlcUUxX2tSbkduYUs4Z1QzNFFSTk0tdlVvbm5CcDZZVnhJWm01VTNjb1VIQzVYVUx2d3N5N2x4WHl6eHY4anYzeTd0WkFjS3hlTmlrc2xnN05fLXp6Z3pzM28yOWtDOS1Tdk5PTkhGalpMS2FCMl96d2J0eEdMemgxdHIzUzFaOXc?oc=5",
+      "source": "TradingView",
+      "feed": "Google News: Sagicor",
+      "date": "2026-11-13T08:00:00Z",
+      "summary": "",
+      "companies": [
+        "Sagicor"
       ]
     },
     {
@@ -1958,18 +1970,6 @@
       "summary": "",
       "companies": [
         "Athene"
-      ]
-    },
-    {
-      "id": "f7284a2ac9d6",
-      "title": "Talcott ratings affirmed as Fitch keeps outlook stable",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTRMT0dEUE1xY3dNYXRTS1NJUE9yZUFNdnVSTDZkSGE5VFQwUGJYRUFYMFNBLU9KLWRvcExIa3l2d2Z3WkNvd012STdLaXJHWWhxSjRRNEpvcFpxR3ZtWWR4eUw2U2dEYkM4aEdTdlM1Uk9KbzZVWmJVTzdsSE9MMERQOTZDdW1UZmVRdEpoRFNFOVZjRkUxQXhndw?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News: Talcott",
-      "date": "2026-10-12T20:18:39Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
       ]
     }
   ]

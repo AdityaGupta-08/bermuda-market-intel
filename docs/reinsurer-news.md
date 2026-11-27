@@ -1,12 +1,27 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 32 items
-Generated Thu 26 Nov 2026, 21:46 AST
+Bermuda life & annuity watchlist — last 14 days — 31 items
+Generated Fri 27 Nov 2026, 08:25 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 68 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
+- ❌ **Google News: Aspida** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Athene** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Catalina** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Fortitude Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Global Atlantic** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Kuvare** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Martello Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Monument Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Prismic Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: RGA** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Resolution Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Sagicor** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Somerset Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Talcott** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Venerable** — failed: HTTPError: HTTP Error 503: Service Unavailable
+- ❌ **Google News: Wilton Re** — failed: HTTPError: HTTP Error 503: Service Unavailable
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
 ## Athene
@@ -60,7 +75,6 @@ Generated Thu 26 Nov 2026, 21:46 AST
 - **2026-11-17** — TipRanks — [Sagicor Earnings Call Shows Growth Amid Market Volatility](https://news.google.com/rss/articles/CBMirgFBVV95cUxOczlZTm9YVVV2dlJ1VklPel9DOFNkQ2V0NF9wS3pOZFE2OGtkUlBCeTVJcEd3TkR0WVhRODJ3WWJzSVdHMWlCY29DM2d4TkhlaDhWMFJ5NUY3LTUwYnI4M3RiR2ptQml4MU9FX0lmYkd1dXF2RjhnUGRra25FSDlhSDh6cjRsS3p0U254c2k0VlpwRkxhbjBYRE1NcWY1d0JENkVCdTVkWGJIR3VCT1E?oc=5)
 - **2026-11-17** — Kalkine Media — [Is Sagicor Financial (TSX:SFC) Turning Stronger Operating Results Into Sustainable Performance?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2J3Nnp3VmdHbjFRN19NcmREYTl3YUwySUdmcTJXM0JhNjZUbjYtU3htZlBJR1FaRTV6bGFIZGZBSHdTMkJhTExUWE90U2ZqS3ZxazRwMnlMS3RGNVFJYnlDeHV5MjJkd1dyYUJKb3Bqa0RrYlIzZzU2X2FkY21JWDkxOXNiT0tDLXpISGNjU1FtSkVqVGgxQ2hrM0xDdVB4cFc3el85ZjlxeW5ZRFVIUXBuT2FCZVF3eEVrc1BENGxpd0FhUFpGRjBoVl9XOGczR1E?oc=5)
 - **2026-11-13** — Insurance Business — [Sagicor’s Q3 loss masks strong ivari capital position as rates squeeze earnings](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2pCQTlDYnQzXzh6UGpYMFd4QThJZDFaYXFrbHVMZWh1OE9fb2VIMjJ2SjFYaXp2YnZjQ3lDMzRhRkxJd09kMkhiMVU4eFV5bEp0cU1pOUZzRXQ4SS1BVHA1NUFwOXByZy1uRjNzc2JGR2xnMUt2UFNpa3RyRVpPd0YzT1JlM2Y0OGtaLUNjTWVRODFiR1Y0eWVFWEx0LUdabHdhNm1kbkhfMVdhWnluQTRGTUpmVjdON2ZVOHJERVpHWENDcWNCVzFRZ0JjQ25yTElLS1pPX1ppaFh1M0lrWnNCTjQ?oc=5)
-- **2026-11-13** — TradingView — [What Sagicor Financial (SFC) Said on Its Q3 Earnings Call](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTN4a2ZHRHhEaVkzdHc3NDVlVklpeDYwSWl0VEUtckdkMmRjNUpENWJsYnBHTlBlcUUxX2tSbkduYUs4Z1QzNFFSTk0tdlVvbm5CcDZZVnhJWm01VTNjb1VIQzVYVUx2d3N5N2x4WHl6eHY4anYzeTd0WkFjS3hlTmlrc2xnN05fLXp6Z3pzM28yOWtDOS1Tdk5PTkhGalpMS2FCMl96d2J0eEdMemgxdHIzUzFaOXc?oc=5)
 
 _No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Catalina_
 

@@ -1,11 +1,11 @@
 # Reinsurer News Monitor
 
 Bermuda life & annuity watchlist — last 14 days — 28 items
-Generated Sat 28 Nov 2026, 03:52 AST
+Generated Sat 28 Nov 2026, 13:34 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 56 items
+- ✅ **Google News (16 of 16 companies)** — 55 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
 
@@ -27,7 +27,7 @@ Generated Sat 28 Nov 2026, 03:52 AST
 
 ## Talcott
 
-- **2026-11-26** — EY — [Case study: Talcott retail annuity transformation](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVk2V3lqeFAzb0VGdjRMdENveExDZEhiaWNYNUx4S1FDUDhfZEFpNUFhOHpsRV83Y3pHNjJJYTNwczhwT2htOHloZ0dvTDB5eDBfM1hLZzRfNXVqSFlBTzExclhSTU5WTEgtTVdleVRXLUZ3WkJkQWg3dzdJVUd0bnQ1TXVhNXlmWU5PMm1CQVNtM2lTSUFqdHNqQ3U2elVEc3JGWVZLejdnX1dHWFE?oc=5)
+- **2026-11-28** — EY — [Case study: Talcott retail annuity transformation](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDhkZTRwOVE3NXNhd3YwYzJyN0hLalM5clF2bVpnbUdyeXFRWFQwMEplUTMtVWtPeE1ZTXJSYnJhNzBjRXhvSDAtYml2U09FOXhNTnJOMkVuRnBuNzYzM0lZMzlDLUdJX0hGU3BzLTlRaEplai1Ra1g0YjVrX0RCMHdEV1dNMXJ6cGNrTTNLOXh2Ql9zOWJsODh0WElTV0VRb0V0MlplSVBDNm84eFE?oc=5)
 
 ## Venerable
 
@@ -37,10 +37,11 @@ Generated Sat 28 Nov 2026, 03:52 AST
 
 ## RGA
 
+- **2026-11-28** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock: Toronto Dominion Bank Increases Position](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOek5oYXh0SnJYMmYyUzlfWkdqa1BaamduVHpSS1c0RWRyYVppZm0wWXBBaUFCdHNuR2t1VG9xNC1PX0k0QzJQMFF1LXNiaHlUUk93ZlJrb3kzMVhoeHJPc3RudVJJN3dwMnNCOFM2cUJJOTlwc1pqdVpaYzJUWTRnNUFEWkRndmp2YVJHYkdrSWRTdUMzaWU0ZUdtejh1RlhCNWdqR2NWRWFLVnloSVRac01zUkRzUlBObUtGY1VZdER3SmZqaGJabzVEVzZybjhVODl5aW8xOUJzUXVXZGVIeWJaUVdkWE13?oc=5)
+- **2026-11-27** — Stocks Down Under — [Reinsurance Group of America Inc (NYSE:RGA) Share Price, Forecast & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNjlzd240dEZGUHYtZmRtNzc0TlNDb0lGeG0wdVVDcll2bEtfU25pckxVQUhSX1Z1eTBJZW1LV00zbUI1a1NUTkVJcHF2WXMtdkE?oc=5)
 - **2026-11-27** — Yahoo! Finance Canada — [Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qamdrTE91Y3FMZFdXWkp6N2hGVlFXY08zdXdsUmlQM0tnMjg0V2o5UmRFTHVIdEdTbnlUSm9vem5BbHZ5MmE5LVpHZWJ3LXh5?oc=5)
 - **2026-11-26** — Yahoo Finance — [Reinsurance Group of America, Incorporated (RGA) Hits Fresh High: Is There Still Room to Run?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlZpTU5MZFNDRmtrbFlzYW9ScEl1bi1zYWlkdzFXN3VoXzZpWnZtdlZ6RkZ4RTRfM1ROTmxIQjhCcGU0UHVHWDhGbWhUZ0FsT19pUmVSSF9uTHcyR2NOOFFzbVRiVl9COHNnMGI0dGVudWtjR1B5QXlxdElNeXNlT2xIei0wTzJiM2RMM21JSjBxd2RaV3AzVDFuV3ptM1ZVMC1HWlRIa3lkcFk?oc=5)
 - **2026-11-25** — Yahoo Finance — [Reinsurance Group of America, I (RGA) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2FaSkhlUGEya3JnRG1VSDN1UXBaUmhCX3BYYXBqa0IzalFsZVBYY3JsMXpfa3hmVVUxLXRoT0VFTUtPNk1hYWQ3ZnFsQVZ4bTQwRkVzYWFxa2F6ZWs5LUx1dTZQMlNRcy1CT3lqZWhuR3c1OTd3aGtUa20yU2xVMHRHZkp0VXA1NkZyemxTWQ?oc=5)
-- **2026-11-25** — Stocks Down Under — [Reinsurance Group of America Inc (NYSE:RGA) Share Price, Forecast & Analysis](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNjlzd240dEZGUHYtZmRtNzc0TlNDb0lGeG0wdVVDcll2bEtfU25pckxVQUhSX1Z1eTBJZW1LV00zbUI1a1NUTkVJcHF2WXMtdkE?oc=5)
 - **2026-11-25** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Hits New 52-Week High - Still a Buy?](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmJYWE9NaUZOVTh3b0FGVHdJU1dmNjh4Q2FpX1E2RXBPVXlXYTZyZjZ3MUgyeEZmTnFPSk95cUR4LVZEZFFhTVBjM1ZZcGR0a2tFNGRVcnJrM3REbG84MlNDOEt0Q0ctVl9IdHBQdHBNejZrWkNXTkFlNFdEbVdlSHNULWk2VmRhRFdoNC1QSGt5OHQ2SE9OM0kzVlBWX2dIY2JlYXdHUnBXRlpGaEdhNDRCT2VnT0Y5T1pFeWt2R2x4RllDTnA2aG5SOA?oc=5)
 - **2026-11-25** — MarketBeat — [Reinsurance Group of America, Incorporated $RGA Stock: State Street Corp Decreases Position](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXZxaDhRV3QyalljMHJNdUxwNG5Danh5T29hNFdyZEtfSHdNY0xQSVNrMFlMeHBtN1Vqa3gxQkNJTU9xczVnd19EUktjUnZPVW5EQWRHU2tQLVA5MkVLU2NPTlpCZlI2a0M1RWU0b0wwUU9kcWJKNTdLcHhkX09yVTJwazYxX0xkTTZHeHdyT0RYMlU3eXFHZVJLbkpyTlRSLVo3RHJ0LUVOMjJVYWQ2RWd0M2IwWjBCd0lXRDM0SkRYajZqUG43a0tkS3FCalpGYU5wRVI4bllvUGc4TndPcTJycw?oc=5)
 - **2026-11-23** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Gets Price Target Increase from Morgan Stanley](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzdGSjdUUUlCVmg0ejFZamYwWlJsd29Cc0kzYUQtcmNFcE1PVTN6ZEhwVWIxX3g2azFzbUFpanNLU3NNOWozb2Q4R0xiT0p1RUpPQVZZd0lDdlZxS0luTTgzRTJkeWcyU2E5SEtlS0FZOS1KZGJWczRuOE5iZVRhYk5keVpDN1k4RlpnWWFqQkVxYVU4cTNNbFRSSFNGeDlHS2RYREx0RzZLU2Y2WGpkR1BfVmdFaXZMcFg5TGNsTDlkMkl4b2p0aHg5RmdaUklvMG1JYk0xTXdfOEV6ZmFkbmFjWHBmNDQ?oc=5)
@@ -48,7 +49,6 @@ Generated Sat 28 Nov 2026, 03:52 AST
 - **2026-11-19** — Quantisnow — [Reinsurance Group of America upgraded by UBS with a new price target](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDNsalc2SjNka2wzT1ZTeVdLM0NrQ25BbzJPSEV0VmRHSmNQYldGd3I5MFoxcm9RTDF1cFVaRHFSZHN5dDdhV2ZNMElDRXJBUWlZODlBakotYTVxb3k0UjlKd2NkZ0pSU05zMGVZRUZvMkVsWEV3eWFIa1J2UWdiYUwzQjllR2czSXFTTmcxMEp5eGtDcHBmQnhPOGstQVE?oc=5)
 - **2026-11-19** — MarketBeat — [Reinsurance Group of America (NYSE:RGA) Stock Rating Upgraded by UBS Group](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmFpY3ljLUZ4N3JLRVFmMTNBTWhmMmVlUm5qNC02bm9QRzNtR3F0Snd4eURuRDRPMVFRQ2NYODYtdkVUNU1zZGNxMWZDYXdIdDRPaS1iZG4tOXBiNVdna3I1eVgtYUNGNHNUR2xDc1NKaHlvNjJ6UEVrWXZ4YjdKc3pIWHRHVFhDOWhRb1prMU53YXJ1UHdzT0ZaU3Jjdk9kbWNoWFlKQkNBcXZMcHJkS25Fa0V1d0xSYTN2cno4MC1LbVZfSGx5azBNaHJiWXM?oc=5)
 - **2026-11-17** — kalkine.com — [What Moved Reinsurance Group of America (NYSE:RGA) on the S&P MidCap 400: Shares Opened Flat Ahead of Tuesday's Ex-Dividend Date With No Company News](https://news.google.com/rss/articles/CBMiigJBVV95cUxObEY1cFgyOUlBZFNVOUVXXzBxcE5HclduSG5aTmRDNjhqb3FOa0ZHUFp4QjV5Q3FGcDZUcmRCekYzODZ5ZDV3T0ttUl94aEYwdWptU01rNEN0dVVKWkwtalhadE1KaDhrM0lHUnZuV0w5WG1IYlRQVHBNc1ZSdnBsYjZkTFo5ZHMteERldThMTDNGRkdHbUdZcVA4WEhNZTB3QV9OcWRITENvaDZocTIyZHpvOUg5UFlwQTJPMVp1dW9tM2NxUlpfWHZ5clZlb0dtckRZQnVXN2I3d1pONy1YTC1BeGRZZFNZLW5PVDkxTExDcHBsX0VrQm11aEpuWTFzQ0VMa3JiYlNsUQ?oc=5)
-- **2026-11-17** — ChartMill — [Reinsurance Group of America (NYSE:RGA) Fits Minervini Trend Template With High-Growth Momentum](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDREX2Q0ZGw3OUMtdzN6QTFrR2M3UGZYRVhUQkVBVEg3d0l0Tkw0UWwtb2hGT3R0djJCYzNQeXFNR3BMZ1lKRmd3SmdvNUlSRDE3WUxvbGx5Y3dxT0ZvZzJtTlhmQTRrZ05IQWw3QmxKQnlieVRKZVg3OVNSOGNxQ25hWUZWMnpjQ3U3RGgzc252V1I1NFVxZEFPNnM4ckxsbGMwODdfQmJNbDg1MDFTdTB3dFNVT05jRDJUbmd5cnhYYzFWam45TVp1eGplZ3RFWkotZGtTOXRvcXc?oc=5)
 
 ## Sagicor
 

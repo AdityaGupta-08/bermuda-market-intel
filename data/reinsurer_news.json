@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T07:52:06Z",
+  "updated": "2026-11-28T17:34:28Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 19,
+      "count": 17,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Google News: Talcott",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -112,6 +112,42 @@
     }
   ],
   "items": [
+    {
+      "id": "ec15c9601c9b",
+      "title": "Case study: Talcott retail annuity transformation",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDhkZTRwOVE3NXNhd3YwYzJyN0hLalM5clF2bVpnbUdyeXFRWFQwMEplUTMtVWtPeE1ZTXJSYnJhNzBjRXhvSDAtYml2U09FOXhNTnJOMkVuRnBuNzYzM0lZMzlDLUdJX0hGU3BzLTlRaEplai1Ra1g0YjVrX0RCMHdEV1dNMXJ6cGNrTTNLOXh2Ql9zOWJsODh0WElTV0VRb0V0MlplSVBDNm84eFE?oc=5",
+      "source": "EY",
+      "feed": "Google News: Talcott",
+      "date": "2026-11-28T16:42:17Z",
+      "summary": "",
+      "companies": [
+        "Talcott"
+      ]
+    },
+    {
+      "id": "25f0068a8558",
+      "title": "Reinsurance Group of America, Incorporated $RGA Stock: Toronto Dominion Bank Increases Position",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOek5oYXh0SnJYMmYyUzlfWkdqa1BaamduVHpSS1c0RWRyYVppZm0wWXBBaUFCdHNuR2t1VG9xNC1PX0k0QzJQMFF1LXNiaHlUUk93ZlJrb3kzMVhoeHJPc3RudVJJN3dwMnNCOFM2cUJJOTlwc1pqdVpaYzJUWTRnNUFEWkRndmp2YVJHYkdrSWRTdUMzaWU0ZUdtejh1RlhCNWdqR2NWRWFLVnloSVRac01zUkRzUlBObUtGY1VZdER3SmZqaGJabzVEVzZybjhVODl5aW8xOUJzUXVXZGVIeWJaUVdkWE13?oc=5",
+      "source": "MarketBeat",
+      "feed": "Google News: RGA",
+      "date": "2026-11-28T11:57:34Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
+    {
+      "id": "32a14d4f2706",
+      "title": "Reinsurance Group of America Inc (NYSE:RGA) Share Price, Forecast & Analysis",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNjlzd240dEZGUHYtZmRtNzc0TlNDb0lGeG0wdVVDcll2bEtfU25pckxVQUhSX1Z1eTBJZW1LV00zbUI1a1NUTkVJcHF2WXMtdkE?oc=5",
+      "source": "Stocks Down Under",
+      "feed": "Google News: RGA",
+      "date": "2026-11-27T21:00:00Z",
+      "summary": "",
+      "companies": [
+        "RGA"
+      ]
+    },
     {
       "id": "9e0a35ca35eb",
       "title": "Reinsurance Group of America, Incorporated (RGA) Stock Price, News, Quote & History",
@@ -137,36 +173,12 @@
       ]
     },
     {
-      "id": "ec15c9601c9b",
-      "title": "Case study: Talcott retail annuity transformation",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVk2V3lqeFAzb0VGdjRMdENveExDZEhiaWNYNUx4S1FDUDhfZEFpNUFhOHpsRV83Y3pHNjJJYTNwczhwT2htOHloZ0dvTDB5eDBfM1hLZzRfNXVqSFlBTzExclhSTU5WTEgtTVdleVRXLUZ3WkJkQWg3dzdJVUd0bnQ1TXVhNXlmWU5PMm1CQVNtM2lTSUFqdHNqQ3U2elVEc3JGWVZLejdnX1dHWFE?oc=5",
-      "source": "EY",
-      "feed": "Google News: Talcott",
-      "date": "2026-11-26T07:52:53Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
-      ]
-    },
-    {
       "id": "1afa5ded1043",
       "title": "Reinsurance Group of America, I (RGA) Stock Forecasts",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2FaSkhlUGEya3JnRG1VSDN1UXBaUmhCX3BYYXBqa0IzalFsZVBYY3JsMXpfa3hmVVUxLXRoT0VFTUtPNk1hYWQ3ZnFsQVZ4bTQwRkVzYWFxa2F6ZWs5LUx1dTZQMlNRcy1CT3lqZWhuR3c1OTd3aGtUa20yU2xVMHRHZkp0VXA1NkZyemxTWQ?oc=5",
       "source": "Yahoo Finance",
       "feed": "Google News: RGA",
       "date": "2026-11-26T01:22:46Z",
-      "summary": "",
-      "companies": [
-        "RGA"
-      ]
-    },
-    {
-      "id": "32a14d4f2706",
-      "title": "Reinsurance Group of America Inc (NYSE:RGA) Share Price, Forecast & Analysis",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNjlzd240dEZGUHYtZmRtNzc0TlNDb0lGeG0wdVVDcll2bEtfU25pckxVQUhSX1Z1eTBJZW1LV00zbUI1a1NUTkVJcHF2WXMtdkE?oc=5",
-      "source": "Stocks Down Under",
-      "feed": "Google News: RGA",
-      "date": "2026-11-25T21:00:00Z",
       "summary": "",
       "companies": [
         "RGA"
@@ -1922,18 +1934,6 @@
       "summary": "",
       "companies": [
         "RGA"
-      ]
-    },
-    {
-      "id": "2f7280eca5f3",
-      "title": "Talcott seeks to renew bid for US life insurer Brighthouse",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlJPRkpTSEVrR0lHWEhRYWJGWDRFVXpBa1hQV29lOHAwd1YyQzAxQU5lLUpJSnZ3OE93VzE2Z2VDU3dadm9JX3NHeEpaNnBlMTNMVkdBcGI5dzdUbkVwb1NlS2FIQ0tUVEF4cnUxRHFaM3V1dzIxSG9IbXZONFR0bHg0TEZRTzM1Uy1wdGR3b2VmZUM0Z3VrNGNnR25qSkZnc3JkeFZFRVdQaHcwRUV6RUVWQS15U3ZpVS1rZ3hlNDFiTXFn?oc=5",
-      "source": "Royal Gazette | Bermuda",
-      "feed": "Google News: Talcott",
-      "date": "2026-10-14T11:00:00Z",
-      "summary": "",
-      "companies": [
-        "Talcott"
       ]
     }
   ]

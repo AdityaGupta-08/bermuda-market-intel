@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:29:32Z",
+  "updated": "2026-11-28T07:52:06Z",
   "lookback_days": 14,
   "feeds": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Google News: Athene",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Google News: Global Atlantic",
       "ok": true,
-      "count": 11,
+      "count": 7,
       "error": null
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Google News: RGA",
       "ok": true,
-      "count": 18,
+      "count": 19,
       "error": null
     },
     {
@@ -1934,18 +1934,6 @@
       "summary": "",
       "companies": [
         "Talcott"
-      ]
-    },
-    {
-      "id": "f1de125d0e6b",
-      "title": "Are Investors Undervaluing Reinsurance Group of America (RGA) Right Now?",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW82WWhlYTQwckpSOFFkajNpc0tFVDk1SzY1cDlNZFJMdm5Xc01FNFZrMDRQRm9wOFJJanExVWV4bUlEX3VTZzE0NmRPdlJqZDlWYU03OXpJdDNjMXhVdGoxc2trODJIOUdsQWVtOXRqbTZrVGtPdjFyZHFTMmtfYnFpZHQydVFjTGdlbDkteEh0S1RmSzIwc2ZhWHJ6M2FHbGtOenhSWS14bDNibXAtZXFRTQ?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News: RGA",
-      "date": "2026-10-14T07:00:00Z",
-      "summary": "",
-      "companies": [
-        "RGA"
       ]
     }
   ]

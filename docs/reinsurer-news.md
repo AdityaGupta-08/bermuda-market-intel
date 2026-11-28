@@ -1,17 +1,13 @@
 # Reinsurer News Monitor
 
-Bermuda life & annuity watchlist — last 14 days — 29 items
-Generated Fri 27 Nov 2026, 19:29 AST
+Bermuda life & annuity watchlist — last 14 days — 28 items
+Generated Sat 28 Nov 2026, 03:52 AST
 
 ## Feed status
 
-- ✅ **Google News (16 of 16 companies)** — 58 items
+- ✅ **Google News (16 of 16 companies)** — 56 items
 - ❌ **Artemis.bm** — failed: HTTPError: HTTP Error 403: Forbidden
 - ❌ **Reinsurance News** — failed: HTTPError: HTTP Error 403: Forbidden
-
-## Athene
-
-- **2026-11-13** — Stock Titan — [Athene and Apollo entities report shared power over 608,000 Calamos (CSQ) Series F preferred shares.](https://news.google.com/rss/articles/CBMiygFBVV95cUxPay1TbGthYW1HQVpLZGx2ZENEck5YeWJ3RTVkajk4MU4tanVmMDhuNFBmRFBEei1RSXU3ZFlqZTVkQlpxWGUwalNHV2pTLWlpcXZEeGFyVW1zSUhsb0RLbmtsYUlNZTlaNUVDbkRZdXJuQjJIWmxOYy1jUTMzQUNUOTZEQ2FBZ2F4aUF1U1o3VW5pUGtGSTZpVWdpZ1hkc0JHR0pYTHFHbnYyQzlRajktN0NiMlU3SjJVTjZkTTZtWUROYnU1TFVvSm13?oc=5)
 
 ## Global Atlantic
 
@@ -59,7 +55,7 @@ Generated Fri 27 Nov 2026, 19:29 AST
 - **2026-11-17** — TipRanks — [Sagicor Earnings Call Shows Growth Amid Market Volatility](https://news.google.com/rss/articles/CBMirgFBVV95cUxOczlZTm9YVVV2dlJ1VklPel9DOFNkQ2V0NF9wS3pOZFE2OGtkUlBCeTVJcEd3TkR0WVhRODJ3WWJzSVdHMWlCY29DM2d4TkhlaDhWMFJ5NUY3LTUwYnI4M3RiR2ptQml4MU9FX0lmYkd1dXF2RjhnUGRra25FSDlhSDh6cjRsS3p0U254c2k0VlpwRkxhbjBYRE1NcWY1d0JENkVCdTVkWGJIR3VCT1E?oc=5)
 - **2026-11-17** — Kalkine Media — [Is Sagicor Financial (TSX:SFC) Turning Stronger Operating Results Into Sustainable Performance?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2J3Nnp3VmdHbjFRN19NcmREYTl3YUwySUdmcTJXM0JhNjZUbjYtU3htZlBJR1FaRTV6bGFIZGZBSHdTMkJhTExUWE90U2ZqS3ZxazRwMnlMS3RGNVFJYnlDeHV5MjJkd1dyYUJKb3Bqa0RrYlIzZzU2X2FkY21JWDkxOXNiT0tDLXpISGNjU1FtSkVqVGgxQ2hrM0xDdVB4cFc3el85ZjlxeW5ZRFVIUXBuT2FCZVF3eEVrc1BENGxpd0FhUFpGRjBoVl9XOGczR1E?oc=5)
 
-_No news in the window: Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Catalina_
+_No news in the window: Athene, Wilton Re, Resolution Re, Monument Re, Somerset Re, Martello Re, Prismic Re, Aspida, Kuvare, Catalina_
 
 ---
 
